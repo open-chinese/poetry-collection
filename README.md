@@ -1,4 +1,4 @@
-# 中文诗歌总集
+# 中文《诗歌总集》
 
   互联网发达的时代，我们依然很难找到一个非常系统、完善、高质量的诗词数据集合。
   
@@ -17,7 +17,7 @@
 
 # 数据格式
 
-每一首诗词标准化为如下的json格式
+每一首诗词统一建模，标准化为如下的json格式，所有内容使用将简体中文
 ```json
 {
     "id": "全局唯一标识，title+author+content的hash id",
@@ -29,6 +29,7 @@
     "year": "创作年代 - optional",
     "volume": "收录诗集或者著作名称 - optional",
     "introduction": "作品说明 - optional",
+    "trandition": "繁体中文 - optional",
     "translation": "现在简体中文翻译 - optional",
     "metadata": {
         "ai_score": "AI视角的分数",
