@@ -24,19 +24,23 @@
     "title": "标题/词牌",
     "content": "内容",
     "author": "作者",
-    "form": "文学体裁，诗、词、曲",
+    "form": "文学体裁，诗、词、曲- optional",
     "dynasty": "创作朝代、时期 - optional",
     "year": "创作年代 - optional",
     "volume": "收录诗集或者著作名称 - optional",
     "introduction": "作品说明 - optional",
-    "trandition": "繁体中文 - optional",
+    "traditional": {
+        "title": "繁体标题- optional",
+        "author": "繁体作者- optional",
+        "content": "繁体内容- optional"
+    },
     "translation": "现在简体中文翻译 - optional",
     "metadata": {
-        "ai_score": "AI视角的分数",
-        "human_score": "人的视角分数",
-        "popularity": "流行度",
-        "words_count": "作品字数",
-        "sentence_count": "作品句子数",
+        "ai_score": "AI视角的分数- optional",
+        "human_score": "人的视角分数- optional",
+        "popularity": "流行度- optional",
+        "words_count": "作品字数- optional",
+        "sentence_count": "作品句子数- optional",
         "vector": "向量化"
     }
 }
