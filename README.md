@@ -4,8 +4,8 @@
   
   思考了很长时间，决定创建《诗歌总集》这个github repo。借助收集的数据，以及LLM（大语言模型）的能力从下面几个维度去不断完善这个项目。
   
-- [ ] 收录：收录所有中文诗词
-- [ ] 校正：内容来源于网络，矫正诗词内容*
+- [x] 收录：收录所有中文诗词
+- [x] 校正：内容来源于网络，矫正诗词内容*
 - [ ] 鉴赏：鉴赏、翻译、考究诗词的创作背景
 - [ ] 评分：从不同角度对诗词进行评分评级*
 
@@ -15,32 +15,47 @@
 *文学的好坏既是客观的也是主观的，量化的评分是困难的，但是为了让好的诗词在数十万首诗词中更容易地进入到大家的视线，数值化是一个最高效的方式之一
 
 
+# 已收录内容
+从最早的《诗经》到清朝的诗人作品，收录各个朝代的所有诗词曲赋以及部分散文
+- [x] 周：《诗经》、《论语》、《离骚》等
+- [x] 汉代：《古诗十九首》等
+- [x] 三国：《曹植诗集》等
+- [x] 两晋：《陶渊明集》等
+- [x] 唐代：《唐诗三百首》、《全唐诗》等
+- [x] 宋代：《宋词三百首》、宋诗、宋词
+- [x] 元代：元曲
+- [ ] 清代：纳兰性德诗集，曹雪芹《红楼梦》诗歌
+
+累计39万篇诗歌已经收录完毕
+
+
 # 数据格式
 
 每一首诗词统一建模，标准化为如下的json格式，所有内容使用将简体中文
 ```json
 {
-    "id": "全局唯一标识，title+author+content的hash id",
+    "uuid": "全局唯一标识，title+author+content的hash id",
     "title": "标题/词牌",
     "content": "内容",
     "author": "作者",
-    "form": "文学体裁，诗、词、曲- optional",
+    "form": "文学体裁，诗、词、曲、赋",
     "dynasty": "创作朝代、时期 - optional",
     "year": "创作年代 - optional",
-    "volume": "收录诗集或者著作名称 - optional",
     "introduction": "作品说明 - optional",
-    "traditional": {
-        "title": "繁体标题- optional",
-        "author": "繁体作者- optional",
-        "content": "繁体内容- optional"
-    },
     "translation": "现在简体中文翻译 - optional",
+    "notes": "注释",
+    "collection_info": {
+        "collection": "作品或作品集名称，如诗经",
+        "volume": "卷名，如第一卷、国风、上册、下册",
+        "section": "部分、，如周南",
+        "chapter": "章节名"
+    },
     "metadata": {
-        "ai_score": "AI视角的分数- optional",
-        "human_score": "人的视角分数- optional",
-        "popularity": "流行度- optional",
-        "words_count": "作品字数- optional",
-        "sentence_count": "作品句子数- optional",
+        "ai_score": "AI视角的分数",
+        "human_score": "人的视角分数",
+        "popularity": "流行度",
+        "words_count": "作品字数",
+        "sentence_count": "作品句子数",
         "vector": "向量化"
     }
 }
