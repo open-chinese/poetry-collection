@@ -1,0 +1,43 @@
+[
+    {
+        "title": "题菊花",
+        "author": "黄巢",
+        "content": "飒飒西风满院栽，蘂寒香冷蝶难来。\n他年我若为青帝，报与桃花一处开。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "不第后赋菊",
+        "author": "黄巢",
+        "content": "待到秋来九月八，我花开后百花杀。\n衝天香阵透长安，满城尽带黄金甲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "自题像",
+        "author": "黄巢",
+        "content": "记得当年草上飞，铁衣着尽着僧衣。\n天津桥上无人识，独倚栏干看落晖。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "题菊花",
+        "author": "黄巢",
+        "content": "飒飒西风满院栽，蕊寒香冷蝶难来。\n他年我若为青帝，报与桃花一处开。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百三十三"
+        }
+    },
+    {
+        "title": "不第后赋菊",
+        "author": "黄巢",
+        "content": "待到秋来九月八，我花开后百花杀。\n冲天香阵透长安，满城尽带黄金甲。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百三十三"
+        }
+    }
+]

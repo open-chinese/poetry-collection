@@ -1,0 +1,36 @@
+[
+    {
+        "title": "游栖霞寺",
+        "author": "张翚",
+        "content": "跻险入幽林，翠微含竹殿。\n泉声无休歇，山色时隐见。\n潮来杂风雨，梅落成霜霰。\n一从方外游，顿觉尘心变。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "绝句",
+        "author": "张翚",
+        "content": "茫茫烟上水，日暮阴云飞。\n孤坐正愁绪，湖南谁捣衣。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "游栖霞寺",
+        "author": "张翚",
+        "content": "跻险入幽林，翠微含竹殿。泉声无休歇，山色时隐见。\n潮来杂风雨，梅落成霜霰。一从方外游，顿觉尘心变。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百一十四"
+        }
+    },
+    {
+        "title": "绝句",
+        "author": "张翚",
+        "content": "茫茫烟水上，日暮阴云飞。孤坐正愁绪，湖南谁捣衣。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百一十四"
+        }
+    }
+]

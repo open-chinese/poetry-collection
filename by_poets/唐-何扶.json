@@ -1,0 +1,36 @@
+[
+    {
+        "title": "送阆州妓人归老",
+        "author": "何扶",
+        "content": "竹翠婵娟草径幽，佳人归老傍汀洲。\n玉蟾露冷梁尘暗，金凤花开云鬓秋。\n十亩稻香新绿野，一声歌断旧青楼。\n芭蕉半卷西池雨，日暮门前双白鸥。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "寄旧同年",
+        "author": "何扶",
+        "content": "金榜题名墨尚新，今年依旧去年春。\n花间每被红妆问，何事重来只一人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "送阆州妓人归老",
+        "author": "何扶",
+        "content": "竹翠婵娟草径幽，佳人归老傍汀洲。玉蟾露冷梁尘暗，\n芭蕉半卷西池雨，日暮门前双白鸥。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百一十六"
+        }
+    },
+    {
+        "title": "寄旧同年",
+        "author": "何扶",
+        "content": "金榜题名墨尚新，今年依旧去年春。\n花间每被红妆问，何事重来隻一人。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百一十六"
+        }
+    }
+]

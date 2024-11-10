@@ -1,0 +1,19 @@
+[
+    {
+        "title": "放猨",
+        "author": "曾麻几",
+        "content": "孤猨锁槛岁年深，放出城南百丈林。\n绿水任从联臂饮，青山不用断肠吟。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "放猿",
+        "author": "曾麻几",
+        "content": "孤猿锁槛岁年深，放出城南百丈林。\n绿水任从联臂饮，青山不用断肠吟。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十八"
+        }
+    }
+]

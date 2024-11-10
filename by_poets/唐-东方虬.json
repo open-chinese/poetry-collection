@@ -1,0 +1,88 @@
+[
+    {
+        "title": "相和歌辞 王昭君三首 一",
+        "author": "东方虬",
+        "content": "汉道初全盛，朝廷足武臣。\n何须薄命妾，辛苦事和亲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 王昭君三首 二",
+        "author": "东方虬",
+        "content": "揜涕辞丹凤，衔悲向白龙。\n单于浪惊喜，无復旧时容。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 王昭君三首 三",
+        "author": "东方虬",
+        "content": "胡地无花草，春来不似春。\n自然衣带缓，非是为腰身。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "昭君怨三首 一",
+        "author": "东方虬",
+        "content": "汉道方全盛，朝廷足武臣。\n何须薄命妾，辛苦事和亲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "昭君怨三首 二",
+        "author": "东方虬",
+        "content": "揜泪辞丹凤，衔悲向白龙。\n单于浪惊喜，无復旧时容。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "昭君怨三首 三",
+        "author": "东方虬",
+        "content": "胡地无花草，春来不似春。\n自然衣带缓，非是为腰身。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "春雪",
+        "author": "东方虬",
+        "content": "春雪满空来，触处似花开。\n不知园裏树，若箇是真梅。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "昭君怨（其三。斯五五五）",
+        "author": "东方虬",
+        "content": "万里胡风急，三秋[□]汉初。\n唯望南去雁，不肯为传书。\n（按这诗的其一、其二、其四三首已载《全唐诗》，故仅补「其三」一首。\n）。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞：王昭君三首",
+        "author": "东方虬",
+        "content": "汉道初全盛，朝廷足武臣。何须薄命妾，辛苦远和亲。\n掩涕辞丹凤，衔悲向白龙。单于浪惊喜，无復旧时容。\n胡地无花草，春来不似春。自然衣带缓，非是为腰身。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一十九"
+        }
+    },
+    {
+        "title": "昭君怨三首",
+        "author": "东方虬",
+        "content": "汉道方全盛，朝廷足武臣。何须薄命妾，辛苦事和亲。\n掩泪辞丹凤，衔悲向白龙。单于浪惊喜，无復旧时容。\n胡地无花草，春来不似春。自然衣带缓，非是为腰身。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百"
+        }
+    },
+    {
+        "title": "春雪",
+        "author": "东方虬",
+        "content": "春雪满空来，触处似花开。不知园裏树，若个是真梅。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百"
+        }
+    }
+]

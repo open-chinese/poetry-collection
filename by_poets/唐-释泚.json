@@ -1,0 +1,36 @@
+[
+    {
+        "title": "游元象泊",
+        "author": "释泚",
+        "content": "空水潮色净，澹然湖上心。\n舳舻轻且进，汀洲如可寻。\n秋风洄泝险，落日波涛深。\n寂寞武陵去，中流方至今。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "北原别业",
+        "author": "释泚",
+        "content": "野外车骑绝，古村桑柘阴。\n流莺出谷静，春草闭门深。\n学稼农为业，忘情道作心。\n因知上皇日，凿井在灵林。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "游元象泊",
+        "author": "释泚",
+        "content": "空水潮色净，澹然湖上心。舳舻轻且进，汀洲如可寻。\n秋风洄溯险，落日波涛深。寂寞武陵去，中流方至今。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百一十"
+        }
+    },
+    {
+        "title": "北原别业",
+        "author": "释泚",
+        "content": "野外车骑绝，古村桑柘阴。流莺出谷静，春草闭门深。\n学稼农为业，忘情道作心。因知上皇日，凿井在灵林。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百一十"
+        }
+    }
+]

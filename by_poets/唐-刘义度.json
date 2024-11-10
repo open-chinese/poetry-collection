@@ -1,0 +1,19 @@
+[
+    {
+        "title": "感怀诗",
+        "author": "刘义度",
+        "content": "昨日方髽髻，如今满颔髯。\n紫阁无心恋，青山有意潜。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "感怀诗",
+        "author": "刘义度",
+        "content": "昨日方髽髻，如今满颔髯。紫阁无心恋，青山有意潜。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十一"
+        }
+    }
+]

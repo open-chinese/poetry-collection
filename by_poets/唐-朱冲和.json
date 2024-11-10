@@ -1,0 +1,36 @@
+[
+    {
+        "title": "遗临平监吏",
+        "author": "朱冲和",
+        "content": "三千里外布干戈，果得鲸鲵入网罗。\n今日宝刀无杀气，只缘君处受恩多。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "嘲张祜",
+        "author": "朱冲和",
+        "content": "白在东都元已薨，兰台凤阁少人登。\n冬瓜堰下逢张祜，牛屎堆旁说我能。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "遗临平监吏",
+        "author": "朱冲和",
+        "content": "三千裏外布干戈，果得鲸鲵入网罗。\n今日宝刀无杀气，只缘君处受恩多。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百零五"
+        }
+    },
+    {
+        "title": "嘲张祜",
+        "author": "朱冲和",
+        "content": "白在东都元已薨，兰台凤阁少人登。\n冬瓜堰下逢张祜，牛屎堆边说我能。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百七十"
+        }
+    }
+]

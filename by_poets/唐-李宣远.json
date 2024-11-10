@@ -1,0 +1,36 @@
+[
+    {
+        "title": "幷州路",
+        "author": "李宣远",
+        "content": "秋日幷州路，黄榆落故关。\n孤城吹角罢，数骑射鵰还。\n帐幕遥临水，牛羊自下山。\n征人正垂泪，烽火起云间。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "近无西耗",
+        "author": "李宣远",
+        "content": "远戎兵压境，迁客泪横襟。\n烽堠惊秦塞，囚居困越吟。\n自怜牛马走，未识犬羊心。\n一月无消息，西看日又沈。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "并州路",
+        "author": "李宣远",
+        "content": "秋日并州路，黄榆落故关。孤城吹角罢，数骑射雕还。\n帐幕遥临水，牛羊自下山。征人正垂泪，烽火起云间。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百六十六"
+        }
+    },
+    {
+        "title": "近无西耗",
+        "author": "李宣远",
+        "content": "远戎兵压境，迁客泪横襟。烽堠惊秦塞，囚居困越吟。\n自怜牛马走，未识犬羊心。一月无消息，西看日又沉。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百六十六"
+        }
+    }
+]

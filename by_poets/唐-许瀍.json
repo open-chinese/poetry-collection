@@ -1,0 +1,19 @@
+[
+    {
+        "title": "纪梦",
+        "author": "许瀍",
+        "content": "晓入瑶台露气清，天风飞下步虚声。\n尘心未尽俗缘在，十里下山空月明。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "纪梦",
+        "author": "许瀍",
+        "content": "晚入瑶台露气清，天风飞下步虚声。\n尘心未尽俗缘在，十裏下山空月明。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百四十二"
+        }
+    }
+]

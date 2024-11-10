@@ -1,0 +1,53 @@
+[
+    {
+        "title": "杜甫同谷茅茨",
+        "author": "赵鸿",
+        "content": "工部栖迟后，邻家大半无。\n青羌迷道路，白社寄杯盂。\n大雅何人继，全生此地孤。\n孤云飞鸟什，空勒旧山隅。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "栗亭",
+        "author": "赵鸿",
+        "content": "杜甫栗亭诗，诗人多在口。\n悠悠二甲子，题纪今何有。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "泥功山",
+        "author": "赵鸿",
+        "content": "立石泥功状，天然诡怪形。\n未尝私祸福，终不费丹青。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "杜甫同谷茅茨",
+        "author": "赵鸿",
+        "content": "工部栖迟后，邻家大半无。青羌迷道路，白社寄杯盂。\n大雅何人继，全生此地孤。孤云飞鸟什，空勒旧山隅。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百零七"
+        }
+    },
+    {
+        "title": "栗亭",
+        "author": "赵鸿",
+        "content": "杜甫栗亭诗，诗人多在口。悠悠二甲子，题纪今何有。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百零七"
+        }
+    },
+    {
+        "title": "泥功山",
+        "author": "赵鸿",
+        "content": "立石泥功状，天然诡怪形。未尝私祸福，终不费丹青。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百零七"
+        }
+    }
+]

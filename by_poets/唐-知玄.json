@@ -1,0 +1,43 @@
+[
+    {
+        "title": "五岁咏花",
+        "author": "知玄",
+        "content": "花开满树红，花落万枝空。\n唯余一孕在，明日定随风。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "祝尧诗",
+        "author": "知玄",
+        "content": "生天本自生天业，未必求仙便得仙。\n鹤背倾危龙背滑，君王且住一千年。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "荅僧澈",
+        "author": "知玄",
+        "content": "观君法苑思冲虚，使我真乘刃有余。\n若使龙光时可待，应怜僧肇论成初。\n五车外典知谁敌，九趣多才恐不如。\n萧寺讲轩横淡荡，帝乡云树正扶疎。\n几生曾得阇瑜意，今日堪将贝叶书。\n一振微言冠千古，何人执卷问吾庐。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "五岁咏花",
+        "author": "知玄",
+        "content": "花开满树红，花落万枝空。唯余一孕在，明日定随风。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十三"
+        }
+    },
+    {
+        "title": "答僧澈",
+        "author": "知玄",
+        "content": "观君法苑思冲虚，使我真乘刃有余。若使龙光时可待，\n萧寺讲轩横淡荡，帝乡云树正扶疏。几生曾得阇瑜意，",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十三"
+        }
+    }
+]

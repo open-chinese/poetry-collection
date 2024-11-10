@@ -1,0 +1,36 @@
+[
+    {
+        "title": "谢人惠琴材",
+        "author": "谢邈",
+        "content": "风撼桐丝带月明，羽人乘醉截秋声。\n七弦妙制饶仙品，三尺良材称道情。\n池小未开春浪泛，岳低犹欠暮云生。\n何因乞与元中术，临化无妨膝上横。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "谢僧寄拄杖",
+        "author": "谢邈",
+        "content": "峭壁猨啼采处深，一枝奇异出孤岑。\n感师千里寄来意，发我片云归去心。\n窗外冷敲檐冻折，溪边闲点戏鱼沉。\n他年必藉相携力，蹇步犹能返故林。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "谢人惠琴材",
+        "author": "谢邈",
+        "content": "风撼桐丝带月明，羽人乘醉截秋声。七弦妙制饶仙品，\n何因乞与元中术，临化无妨膝上横。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十五"
+        }
+    },
+    {
+        "title": "谢僧寄拄杖",
+        "author": "谢邈",
+        "content": "峭壁猿啼采处深，一枝奇异出孤岑。感师千里寄来意，\n他年必藉相携力，蹇步犹能返故林。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十五"
+        }
+    }
+]

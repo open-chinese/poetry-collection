@@ -1,0 +1,43 @@
+[
+    {
+        "title": "江上雨",
+        "author": "戴司颜",
+        "content": "非不欲前去，此情非自由。\n星辰照何处，风雨送凉秋。\n寒锁空江梦，声随黄叶愁。\n萧萧犹未已，早晚去苹洲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "塞上",
+        "author": "戴司颜",
+        "content": "空蹟昼苍茫，沙腥古战场。\n逢春多霰雪，生计在牛羊。\n冷角吹乡泪，干榆落梦床。\n从来山水客，谁谓到渔阳。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "句",
+        "author": "戴司颜",
+        "content": "远来朝凤阙，归去恋元侯。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "江上雨",
+        "author": "戴司颜",
+        "content": "非不欲前去，此情非自由。星辰照何处，风雨送凉秋。\n寒锁空江梦，声随黄叶愁。萧萧犹未已，早晚去苹洲。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百九十"
+        }
+    },
+    {
+        "title": "塞上",
+        "author": "戴司颜",
+        "content": "空迹昼苍茫，沙腥古战场。逢春多霰雪，生计在牛羊。\n冷角吹乡泪，干榆落梦床。从来山水客，谁谓到渔阳。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百九十"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "title": "旧国里",
+        "author": "卿云",
+        "content": "旧居梨岭下，风景近炎方。\n地暖生春早，家贫觉岁长。\n石房云过湿，杉径雨余香。\n日夕竟无事，诗书聊自强。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "秋日江居闲咏",
+        "author": "卿云",
+        "content": "寄居江岛边，闲咏见秋残。\n草白牛羊瘦，风高猨鸟寒。\n检方医故疾，挑荠备中餐。\n时復停书卷，鉏莎种木兰。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "长安言怀寄沈彬侍郎",
+        "author": "卿云",
+        "content": "故园梨岭下，归路接天涯。\n生作长安草，胜为边地花。\n雁南飞不到，书北寄来赊。\n堪羡神仙客，青云早致家。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "送人游塞",
+        "author": "卿云",
+        "content": "去去玉关路，省君曾未行。\n塞深多伏寇，时静亦屯兵。\n雪每先秋降，花尝近夏生。\n闲陪射鵰将，应到受降城。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "旧国裏",
+        "author": "卿云",
+        "content": "旧居梨岭下，风景近炎方。地暖生春早，家贫觉岁长。\n石房云过湿，杉径雨余香。日夕竟无事，诗书聊自强。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    },
+    {
+        "title": "秋日江居闲咏",
+        "author": "卿云",
+        "content": "寄居江岛边，闲咏见秋残。草白牛羊瘦，风高猿鸟寒。\n检方医故疾，挑荠备中餐。时复停书卷，鉏莎种木兰。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    },
+    {
+        "title": "长安言怀寄沈彬侍郎",
+        "author": "卿云",
+        "content": "故园梨岭下，归路接天涯。生作长安草，胜为边地花。\n雁南飞不到，书北寄来赊。堪羡神仙客，青云早致家。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    },
+    {
+        "title": "送人游塞",
+        "author": "卿云",
+        "content": "去去玉关路，省君曾未行。塞深多伏寇，时静亦屯兵。\n雪每先秋降，花尝近夏生。闲陪射雕将，应到受降城。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    }
+]

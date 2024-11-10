@@ -1,0 +1,19 @@
+[
+    {
+        "title": "寄夫",
+        "author": "郭绍兰",
+        "content": "我壻去重湖，临窗泣血书。\n殷勤凭燕翼，寄与薄情夫。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "寄夫",
+        "author": "郭绍兰",
+        "content": "我婿去重湖，临窗泣血书。殷勤凭燕翼，寄与薄情夫。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百九十九"
+        }
+    }
+]

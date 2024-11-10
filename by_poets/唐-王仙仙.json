@@ -1,0 +1,36 @@
+[
+    {
+        "title": "荅孙玄照",
+        "author": "王仙仙",
+        "content": "鸳鸯相见不相随，笼裏笼前整羽衣。\n但得他时人放去，水中长作一双飞。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "孙玄照琴中歌赠王仙仙",
+        "author": "王仙仙",
+        "content": "相如曾作凤兮吟，昔被文君会此音。\n今日孤鸾还独语，痛哉仙子不弹琴。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "答孙玄照",
+        "author": "王仙仙",
+        "content": "鸳鸯相见不相随，笼裏笼前整羽衣。\n但得他时人放去，水中长作一双飞。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十三"
+        }
+    },
+    {
+        "title": "附：孙玄照琴中歌赠王仙仙",
+        "author": "王仙仙",
+        "content": "相如曾作凤兮吟，昔被文君会此音。\n今日孤鸾还独语，痛哉仙子不弹琴。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十三"
+        }
+    }
+]

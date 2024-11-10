@@ -1,0 +1,19 @@
+[
+    {
+        "title": "题端正树",
+        "author": "贞元文士",
+        "content": "昔日偏霑雨露荣，德皇西幸赐嘉名。\n马嵬此去无多地，合向杨妃冢上生。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "题端正树",
+        "author": "贞元文士",
+        "content": "昔日偏沾雨露荣，德皇西幸赐嘉名。\n马嵬此去无多地，合向杨妃冢上生。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百八十四"
+        }
+    }
+]

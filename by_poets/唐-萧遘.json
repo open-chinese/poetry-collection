@@ -1,0 +1,50 @@
+[
+    {
+        "title": "春诗",
+        "author": "萧遘",
+        "content": "南国韶光早，春风送腊来。\n水堤烟报柳，山寺雪惊梅。\n练色铺江晚，潮声逐渚迴。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "和王侍中谒张恶子庙",
+        "author": "萧遘",
+        "content": "青骨祀吴谁让德，紫华居越亦知名。\n未闻一劒传唐主，长拥千山护蜀城。\n斩马威棱应扫荡，截蛟锋刃俟昇平。\n酇侯为国亲箫鼓，堂上神筹更布兵。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "成都",
+        "author": "萧遘",
+        "content": "月晓已开花市合，江平偏见竹簰多。\n好教载取芳菲树，剩照岷天瑟瑟波。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "句",
+        "author": "萧遘",
+        "content": "吾家九叶相，尽继明时出。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "春诗",
+        "author": "萧遘",
+        "content": "南国韶光早，春风送腊来。水堤烟报柳，山寺雪惊梅。\n练色铺江晚，潮声逐渚回。青旗问沽酒，何处拨寒醅。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百"
+        }
+    },
+    {
+        "title": "和王侍中谒张恶子庙",
+        "author": "萧遘",
+        "content": "青骨祀吴谁让德，紫华居越亦知名。未闻一剑传唐主，\n酂侯为国亲箫鼓，堂上神筹更布兵。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百"
+        }
+    }
+]

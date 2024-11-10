@@ -1,0 +1,43 @@
+[
+    {
+        "title": "句",
+        "author": "詹雄",
+        "content": "尘飞遗恨尽，花落古宫平。\n红粉笙歌人代远，月明陵树水东流。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "咏蝉",
+        "author": "詹雄",
+        "content": "雨余翼敛槐烟薄，风急声翻柳巷深。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "咏柳",
+        "author": "詹雄",
+        "content": "自从彭泽先生后，翠叶芳条祇自春。\n（均见《吟窗杂录》卷二九《历代吟谱》）。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "句",
+        "author": "詹雄",
+        "content": "尘飞遗恨尽，花落古宫平。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百九十五"
+        }
+    },
+    {
+        "title": "句",
+        "author": "詹雄",
+        "content": "红粉笙歌人代远，月明陵树水东流。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百九十五"
+        }
+    }
+]

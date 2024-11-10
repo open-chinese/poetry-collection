@@ -1,0 +1,19 @@
+[
+    {
+        "title": "池上",
+        "author": "曹修古",
+        "content": "荷叶罩芙蓉，圆青映嫩红。\n佳人南陌上，翠盖立春风。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "池上",
+        "author": "曹修古",
+        "content": "荷叶罩芙蓉，圆青映嫩红。佳人南陌上，翠盖立春风。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十"
+        }
+    }
+]

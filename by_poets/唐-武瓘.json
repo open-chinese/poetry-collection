@@ -1,0 +1,53 @@
+[
+    {
+        "title": "九日卫使君筵上作",
+        "author": "武瓘",
+        "content": "佳晨登赏喜还乡，谢宇开筵晚兴长。\n满眼黄花初泛酒，隔烟红树欲迎霜。\n千家门户笙歌发，十里江山白鸟翔。\n共贺安人丰乐岁，幸陪珠履侍银章。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "劝酒",
+        "author": "武瓘",
+        "content": "劝君金屈巵，满酌不须辞。\n花发多风雨，人生足别离。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "感事",
+        "author": "武瓘",
+        "content": "花开蝶满枝，花谢蝶还稀。\n惟有旧巢燕，主人贫亦归。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "九日卫使君筵上作",
+        "author": "武瓘",
+        "content": "佳晨登赏喜还乡，谢宇开筵晚兴长。满眼黄花初泛酒，\n共贺安人丰乐岁，幸陪珠履侍银章。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百"
+        }
+    },
+    {
+        "title": "劝酒",
+        "author": "武瓘",
+        "content": "劝君金屈卮，满酌不须辞。花发多风雨，人生足别离。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百"
+        }
+    },
+    {
+        "title": "感事",
+        "author": "武瓘",
+        "content": "花开蝶满枝，花谢蝶还稀。惟有旧巢燕，主人贫亦归。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百"
+        }
+    }
+]

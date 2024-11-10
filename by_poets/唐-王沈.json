@@ -1,0 +1,36 @@
+[
+    {
+        "title": "相和歌辞 倢伃怨",
+        "author": "王沈",
+        "content": "长信梨花暗欲栖，应门上籥草萋萋。\n春风吹花乱扑户，班倢车声不至啼。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "婕妤怨",
+        "author": "王沈",
+        "content": "长信梨花暗欲栖，应门上钥草萋萋。\n春风吹花乱扑户，[班]绝车声不至啼。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞：婕妤怨",
+        "author": "王沈",
+        "content": "长信梨花暗欲栖，应门上钥草萋萋。\n春风吹花乱扑户，班倢车声不至啼。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十"
+        }
+    },
+    {
+        "title": "婕妤怨",
+        "author": "王沈",
+        "content": "长信梨花暗欲栖，应门上钥草萋萋。\n春风吹花乱扑户，班绝车声不至啼。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十三"
+        }
+    }
+]

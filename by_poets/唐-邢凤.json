@@ -1,0 +1,19 @@
+[
+    {
+        "title": "梦中美人歌",
+        "author": "邢凤",
+        "content": "长安少女踏春阳，何处春阳不断肠？舞袖弓弯浑忘却，罗衣空换九秋霜。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "梦中美人歌",
+        "author": "邢凤",
+        "content": "长安少女踏春阳，何处春阳不断肠。\n舞袖弓弯浑忘却，罗衣空换九秋霜。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十八"
+        }
+    }
+]

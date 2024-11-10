@@ -1,0 +1,36 @@
+[
+    {
+        "title": "相和歌辞 王昭君",
+        "author": "顾朝阳",
+        "content": "莫将铅粉匣，不用镜花光。\n一去边城路，何情更画妆。\n影销胡地月，衣尽汉宫香。\n妾死非关命，祗缘怨断肠。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "昭君怨",
+        "author": "顾朝阳",
+        "content": "莫将铅粉匣，不用镜花光。\n一去边城路，何情更画妆。\n影销胡地月，衣尽汉宫香。\n妾死非关命，都缘怨断肠。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞：王昭君",
+        "author": "顾朝阳",
+        "content": "莫将铅粉匣，不用镜花光。一去边城路，何情更画妆。\n影销胡地月，衣尽汉宫香。妾死非关命，只缘怨断肠。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一十九"
+        }
+    },
+    {
+        "title": "昭君怨",
+        "author": "顾朝阳",
+        "content": "莫将铅粉匣，不用镜花光。一去边城路，何情更画妆。\n影销胡地月，衣尽汉宫香。妾死非关命，都缘怨断肠。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百二十四"
+        }
+    }
+]

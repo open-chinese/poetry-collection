@@ -1,0 +1,91 @@
+[
+    {
+        "title": "逢老人",
+        "author": "隐峦",
+        "content": "路逢一老翁，两鬓白如雪。\n一里二里行，四回五回歇。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "牧童",
+        "author": "隐峦",
+        "content": "牧童见人俱不识，尽着芒鞋戴篛笠。\n朝阳未出众山晴，露滴蓑衣犹半湿。\n二月三月时，平原草初绿。\n三箇五箇骑羸牛，前村后村来放牧。\n笛声纔一举，众稚齐歌舞。\n看看白日向西斜，各自骑牛又归去。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "蜀中送人游庐山",
+        "author": "隐峦",
+        "content": "居游正值芳春月，蜀道千山皆秀发。\n溪边十里五里花，云外三峯两峰雪。\n君上匡山我旧居，松萝抛掷十年余。\n君行试到山前问，山鸟只今相忆无。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "琴",
+        "author": "隐峦",
+        "content": "七条丝上寄深意，涧水松风生十指。\n自乃知音犹尚稀，欲教更入何人耳。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "浮桥",
+        "author": "隐峦",
+        "content": "横压惊波防没溺，当初元剏是军机。\n行人到此全无滞，一片江云踏欲飞。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "句 一",
+        "author": "隐峦",
+        "content": "释闷还拈架上书。\n（《江湖小集》卷二二李龏《剪绡集》引）。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "句 二",
+        "author": "隐峦",
+        "content": "老人终岁闭门坐。\n（《梅花字字香后集》）。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "逢老人",
+        "author": "隐峦",
+        "content": "路逢一老翁，两鬓白如雪。一裏二裏行，四回五回歇。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    },
+    {
+        "title": "牧童",
+        "author": "隐峦",
+        "content": "牧童见人俱不识，尽着芒鞋戴箬笠。朝阳未出众山晴，\n三个五个骑羸牛，前村后村来放牧。笛声才一举，",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    },
+    {
+        "title": "蜀中送人游庐山",
+        "author": "隐峦",
+        "content": "居游正值芳春月，蜀道千山皆秀髮。溪边十裏五裏花，\n君行试到山前问，山鸟只今相忆无。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    },
+    {
+        "title": "浮桥",
+        "author": "隐峦",
+        "content": "横压惊波防没溺，当初元创是军机。\n行人到此全无滞，一片江云踏欲飞。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    }
+]

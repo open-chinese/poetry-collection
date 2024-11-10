@@ -1,0 +1,84 @@
+[
+    {
+        "title": "新乐府",
+        "author": "马逢",
+        "content": "温谷春生至，宸游近甸荣。\n云随天上转，风入御筵轻。\n翠盖浮佳气，朱楼依太清。\n朝臣冠劒退，宫女管弦迎。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "部落曲",
+        "author": "马逢",
+        "content": "蕃军傍塞游，代马喷风秋。\n老将垂金甲，阏支着锦裘。\n琱戈蒙豹尾，红斾插狼头。\n日暮天山下，鸣笳汉使愁。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "从军",
+        "author": "马逢",
+        "content": "汉马千蹄合一羣，单于鼓角隔山闻。\n沙塠风起红楼下，飞上胡天作阵云。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "宫词二首 一",
+        "author": "马逢",
+        "content": "金吾持戟护轩檐，天乐传教万姓瞻。\n楼上美人相倚看，红妆透出水晶帘。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "宫词二首 二",
+        "author": "马逢",
+        "content": "玉楼天半起笙歌，风送宫人笑语和。\n月影殿开闻晓漏，水晶帘捲近秋河。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "长句赠微之（题拟）",
+        "author": "马逢",
+        "content": "灵溪试为访金丹。\n（见《元氏长庆集》卷十六《天坛上境》题注引）。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "新乐府",
+        "author": "马逢",
+        "content": "温谷春生至，宸游近甸荣。云随天上转，风入御筵轻。\n翠盖浮佳气，朱楼依太清。朝臣冠剑退，宫女管弦迎。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十二"
+        }
+    },
+    {
+        "title": "部落曲",
+        "author": "马逢",
+        "content": "蕃军傍塞游，代马喷风秋。老将垂金甲，阏支着锦裘。\n雕戈蒙豹尾，红旆插狼头。日暮天山下，鸣笳汉使愁。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十二"
+        }
+    },
+    {
+        "title": "从军",
+        "author": "马逢",
+        "content": "汉马千蹄合一群，单于鼓角隔山闻。\n沙塠风起红楼下，飞上胡天作阵云。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十二"
+        }
+    },
+    {
+        "title": "宫词二首",
+        "author": "马逢",
+        "content": "金吾持戟护轩檐，天乐传教万姓瞻。\n楼上美人相倚看，红妆透出水晶帘。\n玉楼天半起笙歌，风送宫人笑语和。\n月影殿开闻晓漏，水晶帘卷近秋河。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十二"
+        }
+    }
+]

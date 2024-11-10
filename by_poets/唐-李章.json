@@ -1,0 +1,36 @@
+[
+    {
+        "title": "杂曲歌辞 春游吟",
+        "author": "李章",
+        "content": "初春遍芳甸，千里霭盈瞩。\n美人摘新英，步步玩春绿。\n所思杳何处，宛在吴江曲。\n可怜不得共芳菲，日暮归来泪满衣。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "春游吟",
+        "author": "李章",
+        "content": "初春徧芳甸，十里蔼盈瞩。\n美人摘新英，步步翫春绿。\n所思杳何处，宛在吴江曲。\n可怜不得共芳菲，日暮归来泪满衣。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "杂曲歌辞：春游吟",
+        "author": "李章",
+        "content": "初春遍芳甸，千里霭盈瞩。美人摘新英，步步玩春绿。\n所思杳何处，宛在吴江曲。可怜不得共芳菲，",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十六"
+        }
+    },
+    {
+        "title": "春游吟",
+        "author": "李章",
+        "content": "初春遍芳甸，十裏蔼盈瞩。美人摘新英，步步玩春绿。\n所思杳何处，宛在吴江曲。可怜不得共芳菲，",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十三"
+        }
+    }
+]

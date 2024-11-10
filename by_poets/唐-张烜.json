@@ -1,0 +1,36 @@
+[
+    {
+        "title": "相和歌辞 倢伃怨",
+        "author": "张烜",
+        "content": "贱妾裁纨扇，初摇明月姿。\n君王看舞席，坐起秋风时。\n玉树清御路，金陈翳垂丝。\n昭阳无分理，愁寂任前期。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "婕妤怨",
+        "author": "张烜",
+        "content": "贱妾裁纨扇，初摇明月姿。\n君王看舞席，坐起秋风时。\n玉树清御路，金陈翳垂丝。\n昭阳无分理，愁寂任前期。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞：婕妤怨",
+        "author": "张烜",
+        "content": "贱妾裁纨扇，初摇明月姿。君王看舞席，坐起秋风时。\n玉树清御路，金陈翳垂丝。昭阳无分理，愁寂任前期。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十"
+        }
+    },
+    {
+        "title": "婕妤怨",
+        "author": "张烜",
+        "content": "贱妾裁纨扇，初摇明月姿。君王看舞席，坐起秋风时。\n玉树清御路，金陈翳垂丝。昭阳无分理，愁寂任前期。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十九"
+        }
+    }
+]

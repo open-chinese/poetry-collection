@@ -1,0 +1,19 @@
+[
+    {
+        "title": "白云寺",
+        "author": "许宏",
+        "content": "踏破苔痕一径斑，白云飞处见青山。\n不知浮世尘中客，几箇能知物外闲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "白云寺",
+        "author": "许宏",
+        "content": "踏破苔痕一径斑，白云飞处见青山。\n不知浮世尘中客，几个能知物外闲。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百八十七"
+        }
+    }
+]

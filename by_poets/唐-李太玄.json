@@ -1,0 +1,26 @@
+[
+    {
+        "title": "摘紫芝",
+        "author": "李太玄",
+        "content": "偶游洞府到芝田，星月茫茫欲曙天。\n虽则似离尘世了，不知何处偶真仙。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "玉女舞霓裳",
+        "author": "李太玄",
+        "content": "舞势随风散復收，歌声似磬韵还幽。\n千迴赴节填词处，娇眼如波入鬓流。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "玉女舞霓裳",
+        "author": "李太玄",
+        "content": "舞势随风散复收，歌声似磬韵还幽。\n千回赴节填词处，娇眼如波入鬓流。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十二"
+        }
+    }
+]

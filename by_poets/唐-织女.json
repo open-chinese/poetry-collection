@@ -1,0 +1,50 @@
+[
+    {
+        "title": "赠郭翰二首 一",
+        "author": "织女",
+        "content": "河汉虽云阔，三秋尚有期。\n情人终已矣，良㑹更何时。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "赠郭翰二首 二",
+        "author": "织女",
+        "content": "朱阁临清溪，琼宫衔紫房。\n佳情期在此，只是断人肠。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "郭翰酬织女 一",
+        "author": "织女",
+        "content": "人世将天上，由来不可期。\n谁知一迴顾，更作两相思。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "郭翰酬织女 二",
+        "author": "织女",
+        "content": "赠枕犹香泽，啼衣尚泪痕。\n玉颜霄汉裏，空有往来魂。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "赠郭翰二首",
+        "author": "织女",
+        "content": "河汉虽云阔，三秋尚有期。情人终已矣，良会更何时。\n朱阁临清溪，琼宫衔紫房。佳情期在此，只是断人肠。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十三"
+        }
+    },
+    {
+        "title": "附：郭翰酬织女",
+        "author": "织女",
+        "content": "人世将天上，由来不可期。谁知一回顾，更作两相思。\n赠枕犹香泽，啼衣尚泪痕。玉颜霄汉裏，空有往来魂。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十三"
+        }
+    }
+]

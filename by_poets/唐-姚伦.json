@@ -1,0 +1,36 @@
+[
+    {
+        "title": "感秋",
+        "author": "姚伦",
+        "content": "试向疎林望，方知节候殊。\n乱声千叶下，寒影一巢孤。\n不蔽秋天雁，惊飞夜月乌。\n霜风与春日，几度遣荣枯。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "过章秀才洛阳客舍",
+        "author": "姚伦",
+        "content": "达人心自适，旅舍当闲居。\n不出来时径，重看读了书。\n晚山岚色近，斜日树阴疎。\n尽是忘言客，听君诵子虚。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "感秋",
+        "author": "姚伦",
+        "content": "试向疏林望，方知节候殊。乱声千叶下，寒影一巢孤。\n不蔽秋天雁，惊飞夜月乌。霜风与春日，几度遣荣枯。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十二"
+        }
+    },
+    {
+        "title": "过章秀才洛阳客舍",
+        "author": "姚伦",
+        "content": "达人心自适，旅舍当閒居。不出来时径，重看读了书。\n晚山岚色近，斜日树阴疏。尽是忘言客，听君诵子虚。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十二"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "title": "独游家园",
+        "author": "孟氏",
+        "content": "可惜春时节，依前独自游。\n无端两行泪，长只对花流。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "荅少年",
+        "author": "孟氏",
+        "content": "谁家少年儿，心中暗自欺。\n不道终不可，可即恐郎知。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "独游家园",
+        "author": "孟氏",
+        "content": "可惜春时节，依前独自游。无端两行泪，长只对花流。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百"
+        }
+    },
+    {
+        "title": "答少年",
+        "author": "孟氏",
+        "content": "谁家少年儿，心中暗自欺。不道终不可，可即恐郎知。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百"
+        }
+    },
+    {
+        "title": "维扬少年与孟氏赠答诗",
+        "author": "孟氏",
+        "content": "可惜春时节，依然独自游。无端两行泪，长只对花流。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十七"
+        }
+    },
+    {
+        "title": "维扬少年与孟氏赠答诗",
+        "author": "孟氏",
+        "content": "谁家少年儿，心中暗自欺。不道终不可，可即恐郎知。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十七"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "短歌二首 一",
+        "author": "徐谦",
+        "content": "穷通皆是运，荣辱岂关身。\n不愿门前客，看时逢故人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "短歌二首 二",
+        "author": "徐谦",
+        "content": "意气青云裏，爽朗烟霞外。\n不羡一囊钱，唯重心襟会。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "短歌二首",
+        "author": "徐谦",
+        "content": "穷通皆是运，荣辱岂关身。不愿门前客，看时逢故人。\n意气青云裏，爽朗烟霞外。不羡一囊钱，唯重心襟会。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十六"
+        }
+    }
+]

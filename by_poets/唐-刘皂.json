@@ -1,0 +1,67 @@
+[
+    {
+        "title": "边城柳",
+        "author": "刘皂",
+        "content": "一株新柳色，十里断孤城。\n为近东西路，长悬离别情。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "长门怨三首 一",
+        "author": "刘皂",
+        "content": "雨滴长门秋夜长，愁心和雨到昭阳。\n泪痕不学君恩断，拭却千行更万行。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "长门怨三首 二",
+        "author": "刘皂",
+        "content": "宫殿沈沈月欲分，昭阳更漏不堪闻。\n珊瑚枕上千行泪，不是思君是恨君。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "长门怨三首 三",
+        "author": "刘皂",
+        "content": "蝉鬓慵梳倚帐门，蛾眉不扫惯承恩。\n旁人未必知心事，一面残妆空泪痕。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "旅次朔方",
+        "author": "刘皂",
+        "content": "客舍幷州数十霜，归心日夜忆咸阳。\n无端又渡桑干水，却望幷州似故乡。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "边城柳",
+        "author": "刘皂",
+        "content": "一株新柳色，十裏断孤城。为近东西路，长悬离别情。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百七十二"
+        }
+    },
+    {
+        "title": "长门怨三首",
+        "author": "刘皂",
+        "content": "雨滴长门秋夜长，愁心和雨到昭阳。\n泪痕不学君恩断，拭却千行更万行。\n宫殿沉沉月欲分，昭阳更漏不堪闻。\n珊瑚枕上千行泪，不是思君是恨君。\n蝉鬓慵梳倚帐门，蛾眉不扫惯承恩。\n旁人未必知心事，一面残妆空泪痕。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百七十二"
+        }
+    },
+    {
+        "title": "旅次朔方",
+        "author": "刘皂",
+        "content": "客舍并州数十霜，归心日夜忆咸阳。\n无端又渡桑干水，却望并州似故乡。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百七十二"
+        }
+    }
+]

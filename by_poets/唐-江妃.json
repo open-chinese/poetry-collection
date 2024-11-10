@@ -1,0 +1,19 @@
+[
+    {
+        "title": "谢赐珍珠",
+        "author": "江妃",
+        "content": "桂叶双眉久不描，残妆和泪汚红绡。\n长门尽日无梳洗，何必珍珠慰寂寥。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "谢赐珍珠",
+        "author": "江妃",
+        "content": "桂叶双眉久不描，残妆和泪污红绡。\n长门尽日无梳洗，何必珍珠慰寂寥。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五"
+        }
+    }
+]

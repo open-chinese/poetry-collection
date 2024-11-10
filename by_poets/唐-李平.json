@@ -1,0 +1,29 @@
+[
+    {
+        "title": "句",
+        "author": "李平",
+        "content": "至人无梦梦不到，天道恶盈盈有余。\n龙髯已断嫔嫱老，豹尾不来岐路长。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "句",
+        "author": "李平",
+        "content": "至人无梦梦不到，天道恶盈盈有余。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百九十五"
+        }
+    },
+    {
+        "title": "句",
+        "author": "李平",
+        "content": "龙髯已断嫔嫱老，豹尾不来岐路长。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百九十五"
+        }
+    }
+]

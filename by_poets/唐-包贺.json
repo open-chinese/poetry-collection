@@ -1,0 +1,33 @@
+[
+    {
+        "title": "谐诗逸句 一",
+        "author": "包贺",
+        "content": "雾是山巾子，船为水靸鞋。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "谐诗逸句 二",
+        "author": "包贺",
+        "content": "棹摇船掠鬓，风动水槌胸。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "谐诗逸句 三",
+        "author": "包贺",
+        "content": "苦竹笋抽青橛子，石榴树挂小缾儿。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "谐诗逸句",
+        "author": "包贺",
+        "content": "雾是山巾子，船为水靸鞋。\n棹摇船掠鬓，风动水槌胸。\n苦竹笋抽青橛子，石榴树挂小瓶儿。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百七十一"
+        }
+    }
+]

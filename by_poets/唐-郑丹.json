@@ -1,0 +1,36 @@
+[
+    {
+        "title": "明皇帝挽歌",
+        "author": "郑丹",
+        "content": "律历千年会，车书万里同。\n固期常戴日，岂意厌观风。\n地惨新[疆]理，城摧旧战功。\n山河万古壮，今夕尽归空。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "肃宗挽歌",
+        "author": "郑丹",
+        "content": "国以重明受，天从谅闇移。\n诸侯方北面，白日忽西驰。\n龙影当泉落，鸿名向庙垂。\n永言青史上，还见戴无为。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "明皇帝挽歌",
+        "author": "郑丹",
+        "content": "律历千年会，车书万里同。固期常戴日，岂意厌观风。\n地惨新疆理，城摧旧战功。山河万古壮，今夕尽归空。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十二"
+        }
+    },
+    {
+        "title": "肃宗挽歌",
+        "author": "郑丹",
+        "content": "国以重明受，天从谅闇移。诸侯方北面，白日忽西驰。\n龙影当泉落，鸿名向庙垂。永言青史上，还见戴无为。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十二"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "title": "送人游邵州",
+        "author": "狄焕",
+        "content": "春江正渺渺，送别两依依。\n烟裏棹将远，渡头人未归。\n渔家侵迭浪，岛树挂残晖。\n况入湖湘路，那堪花乱飞。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "题柳",
+        "author": "狄焕",
+        "content": "天南与天北，此处影婆娑。\n翠色折不尽，离情生更多。\n雨余笼灞岸，烟暝夹隋河。\n自有佳名在，秦松继得么。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "咏南岳径松",
+        "author": "狄焕",
+        "content": "一阵雨声归岳峤，两条寒色下潇湘。\n客吟晚景停孤棹，僧踏清阴彻上方。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "句",
+        "author": "狄焕",
+        "content": "数点当秋霁，不知何处峰？更无声接续，空有影相随。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "送人游邵州",
+        "author": "狄焕",
+        "content": "春江正渺渺，送别两依依。烟裏棹将远，渡头人未归。\n渔家侵迭浪，岛树挂残晖。况入湖湘路，那堪花乱飞。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十八"
+        }
+    },
+    {
+        "title": "题柳",
+        "author": "狄焕",
+        "content": "天南与天北，此处影婆娑。翠色折不尽，离情生更多。\n雨余笼灞岸，烟暝夹隋河。自有佳名在，秦松继得么。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十八"
+        }
+    },
+    {
+        "title": "句",
+        "author": "狄焕",
+        "content": "数点当秋霁，不知何处峰。\n更无声接续，空有影相随。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十八"
+        }
+    }
+]

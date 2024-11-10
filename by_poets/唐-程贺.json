@@ -1,0 +1,19 @@
+[
+    {
+        "title": "君山",
+        "author": "程贺",
+        "content": "曾游方外见麻姑，说道君山此本无。\n云是昆崙山顶石，海风吹落洞庭湖。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "君山",
+        "author": "程贺",
+        "content": "曾游方外见麻姑，说道君山此本无。\n云是昆仑山顶石，海风吹落洞庭湖。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百六十七"
+        }
+    }
+]

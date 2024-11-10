@@ -1,0 +1,36 @@
+[
+    {
+        "title": "晦日宴高氏林亭",
+        "author": "高球",
+        "content": "温洛年光早，皇州景望华。\n连镳寻上路，乘兴入山家。\n轻苔网危石，春水架平沙。\n赏极林塘暮，处处起烟霞。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "三月三日宴王[明]府山亭",
+        "author": "高球",
+        "content": "洛城春禊，元巳芳年。\n季伦园裏，逸少亭前。\n曲中举白，谈际生玄。\n陆离轩盖，凄清管弦。\n萍疎波荡，柳弱风牵。\n未淹欢趣，林溪夕烟。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "晦日宴高氏林亭",
+        "author": "高球",
+        "content": "温洛年光早，皇州景望华。连镳寻上路，乘兴入山家。\n轻苔网危石，春水架平沙。赏极林塘暮，处处起烟霞。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七十二"
+        }
+    },
+    {
+        "title": "三月三日宴王明府山亭",
+        "author": "高球",
+        "content": "洛城春禊，元巳芳年。季伦园裏，逸少亭前。曲中举白，\n未淹欢趣，林溪夕烟。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七十二"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "将赴东都上李相国",
+        "author": "孙叔向",
+        "content": "四海兵初偃，平津阁正开。\n谁知大炉火，还有不然灰。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "题昭应温泉",
+        "author": "孙叔向",
+        "content": "一道温泉遶御楼，先皇曾向此中游。\n虽然水是无情物，也到宫前咽不流。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "送咸安公主",
+        "author": "孙叔向",
+        "content": "卤簿迟迟出国门，汉家公主嫁乌孙。\n玉颜便向穹庐去，卫霍空承明主恩。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "将赴东都上李相国",
+        "author": "孙叔向",
+        "content": "四海兵初偃，平津阁正开。谁知大炉火，还有不然灰。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百七十二"
+        }
+    },
+    {
+        "title": "题昭应温泉",
+        "author": "孙叔向",
+        "content": "一道温泉绕御楼，先皇曾向此中游。\n虽然水是无情物，也到宫前咽不流。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百七十二"
+        }
+    }
+]

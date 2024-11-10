@@ -1,0 +1,53 @@
+[
+    {
+        "title": "寒食",
+        "author": "李崇嗣",
+        "content": "普天皆灭焰，匝地尽藏烟。\n不知何处火？来就客心然。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "览镜",
+        "author": "李崇嗣",
+        "content": "岁去红颜尽，愁来白髮新。\n今朝开镜匣，疑是别逢人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "独愁",
+        "author": "李崇嗣",
+        "content": "闻道成都酒，无钱亦可求。\n不知将几斗，销得此来愁。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "寒食",
+        "author": "李崇嗣",
+        "content": "普天皆灭焰，匝地尽藏烟。不知何处火，来就客心然。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百"
+        }
+    },
+    {
+        "title": "览镜",
+        "author": "李崇嗣",
+        "content": "岁去红颜尽，愁来白髮新。今朝开镜匣，疑是别逢人。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百"
+        }
+    },
+    {
+        "title": "独愁",
+        "author": "李崇嗣",
+        "content": "闻道成都酒，无钱亦可求。不知将几斗，销得此来愁。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百"
+        }
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "title": "吴兴三绝",
+        "author": "张文规",
+        "content": "苹洲须觉池沼俗，苎布直胜罗纨轻。\n清风楼下草初出，明月峡中茶始生。\n吴兴三绝不可舍，劝子强为吴会行。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "湖州贡焙新茶",
+        "author": "张文规",
+        "content": "凤辇寻春半醉回，僊娥进水御帘开。\n牡丹花笑金钿动，传奏吴兴紫笋来。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "句",
+        "author": "张文规",
+        "content": "谁云隼旟吏，长对虎头岩。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "寄刘环中秀才",
+        "author": "张文规",
+        "content": "待醉乌程酒，思斟平望羹。\n烟云金斗暗，苔藓石尊平。\n（见宋程大昌《演繁露续集》卷四引《顾渚茶录》）。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "郡斋书情",
+        "author": "张文规",
+        "content": "食有吴兴鲊。\n（见《嘉泰吴兴志》卷十八）。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "吴兴三绝",
+        "author": "张文规",
+        "content": "苹洲须觉池沼俗，苎布直胜罗纨轻。清风楼下草初出，",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三百六十六"
+        }
+    },
+    {
+        "title": "湖州贡焙新茶",
+        "author": "张文规",
+        "content": "凤辇寻春半醉回，仙娥进水御帘开。\n牡丹花笑金钿动，传奏吴兴紫笋来。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三百六十六"
+        }
+    },
+    {
+        "title": "句",
+        "author": "张文规",
+        "content": "谁云隼旟吏，长对虎头岩。。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三百六十六"
+        }
+    }
+]

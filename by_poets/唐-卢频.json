@@ -1,0 +1,60 @@
+[
+    {
+        "title": "蛱蝶行",
+        "author": "卢频",
+        "content": "东园宫草绿，上下飞相逐。\n君恩不禁春，昨夜花中宿。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "东西行",
+        "author": "卢频",
+        "content": "种荷玉盆裏，不及沟中水。\n养雉黄金笼，见草心先喜。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "失题 一",
+        "author": "卢频",
+        "content": "春泪烂罗绮，泣声抽恨多。\n莫滴芙蓉池，愁伤连蔕荷。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "失题 二",
+        "author": "卢频",
+        "content": "一朵花叶飞，一枝花光彩。\n美人惜花心，但愿春长在。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "蛱蝶行",
+        "author": "卢频",
+        "content": "东园宫草绿，上下飞相逐。君恩不禁春，昨夜花中宿。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百一十九"
+        }
+    },
+    {
+        "title": "东西行",
+        "author": "卢频",
+        "content": "种荷玉盆裏，不及沟中水。养雉黄金笼，见草心先喜。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百一十九"
+        }
+    },
+    {
+        "title": "失题",
+        "author": "卢频",
+        "content": "春泪烂罗绮，泣声抽恨多。莫滴芙蓉池，愁伤连蒂荷。\n一朵花叶飞，一枝花光彩。美人惜花心，但愿春长在。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百一十九"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "title": "谢友人见访留诗",
+        "author": "怀楚",
+        "content": "轩车谁肯到，泉石自相亲。\n暮雨凋残寺，秋风怅望人。\n庭新一片叶，衣故十年尘。\n赖有瑶华赠，清吟愈病身。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "送新平故人",
+        "author": "怀楚",
+        "content": "常听仓庚思旧友，又因蝴蝶梦生涯。\n一千余里河连郭，三十六峰寒到家。\n阴岛直分东虢雁，晴楼高入上阳鸦。\n姜嫄庙北与君别，应笑薄寒悲落花。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "谢友人见访留诗",
+        "author": "怀楚",
+        "content": "轩车谁肯到，泉石自相亲。暮雨凋残寺，秋风怅望人。\n庭新一片叶，衣故十年尘。赖有瑶华赠，清吟愈病身。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十三"
+        }
+    },
+    {
+        "title": "送新平故人",
+        "author": "怀楚",
+        "content": "常听仓庚思旧友，又因蝴蝶梦生涯。一千余裏河连郭，\n姜嫄庙北与君别，应笑薄寒悲落花。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十三"
+        }
+    }
+]

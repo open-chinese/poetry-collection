@@ -1,0 +1,19 @@
+[
+    {
+        "title": "赠吴生",
+        "author": "陆禹臣",
+        "content": "露下瑶簪湿，云生石室寒。\n星坛鸾鹤舞，丹竈虎龙蟠。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "赠吴生",
+        "author": "陆禹臣",
+        "content": "露下瑶簪湿，云生石室寒。星坛鸾鹤舞，丹灶虎龙蟠。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十一"
+        }
+    }
+]

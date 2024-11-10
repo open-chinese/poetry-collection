@@ -1,0 +1,36 @@
+[
+    {
+        "title": "和题劒门",
+        "author": "韩昭",
+        "content": "闭关防老寇，孰敢振威棱。\n险固疑天设，山河自古凭。\n三川奚所赖，双劒最堪矜。\n鸟道微通处，烟霞锁百层。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "从幸秦川过白卫献诗",
+        "author": "韩昭",
+        "content": "吾王巡狩为安边，此去秦亭尚数千。\n夜照路岐山店火，晓通消息戍瓶烟。\n为云巫峡虽神女，跨凤秦楼是谪仙。\n八骏似龙人似虎，何愁飞过大漫天。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "和题剑门",
+        "author": "韩昭",
+        "content": "闭关防老寇，孰敢振威棱。险固疑天设，山河自古凭。\n三川奚所赖，双剑最堪矜。鸟道微通处，烟霞锁百层。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十"
+        }
+    },
+    {
+        "title": "从幸秦川过白卫献诗",
+        "author": "韩昭",
+        "content": "吾王巡狩为安边，此去秦亭尚数千。夜照路岐山店火，\n八骏似龙人似虎，何愁飞过大漫天。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十"
+        }
+    }
+]
