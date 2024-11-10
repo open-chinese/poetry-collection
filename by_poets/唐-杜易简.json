@@ -1,0 +1,43 @@
+[
+    {
+        "title": "湘川新曲二首 一",
+        "author": "杜易简",
+        "content": "昭潭深无底，橘洲浅而浮。\n本欲凌波去，翻为目成留。\n愿君稍弭檝，无令贱妾羞。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "湘川新曲二首 二",
+        "author": "杜易简",
+        "content": "二八相招携，采菱渡前溪。\n弱腕随桡起，纤腰向舸低。\n自解看花笑，憎闻染竹啼。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "嘲格辅元",
+        "author": "杜易简",
+        "content": "有耻宿龙门，精彩先瞰浑。\n眼瘦呈近店，睡响彻遥林。\n埒囊将旧识，制被异新婚。\n谁言骢马使，飜作蛰熊蹲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "湘川新曲二首",
+        "author": "杜易简",
+        "content": "昭潭深无底，橘洲浅而浮。本欲凌波去，翻为目成留。\n愿君稍弭楫，无令贱妾羞。\n二八相招携，采菱渡前溪。弱腕随桡起，纤腰向舸低。\n自解看花笑，憎闻染竹啼。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四十五"
+        }
+    },
+    {
+        "title": "嘲格辅元",
+        "author": "杜易简",
+        "content": "有耻宿龙门，精彩先瞰浑。眼瘦呈近店，睡响彻遥林。\n埒囊将旧识，制被异新婚。谁言骢马使，翻作蛰熊蹲。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十九"
+        }
+    }
+]

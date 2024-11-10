@@ -1,0 +1,53 @@
+[
+    {
+        "title": "寄兴国池鹤上刘相公",
+        "author": "张众甫",
+        "content": "驯狎经时久，䙰褷短翮存。\n不随淮海变，空媿稻粱恩。\n独立秋天静，单栖夕露繁。\n欲飞还敛翼，讵敢望乘轩。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "送李司直使吴",
+        "author": "张众甫",
+        "content": "使臣方拥传，王事远辞家。\n震泽逢残雨，新丰过落花。\n水萍千叶散，风柳万条斜。\n何处看离恨，春江无限沙。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "送李观之宣州谒袁中丞赋得三州渡",
+        "author": "张众甫",
+        "content": "古渡大江滨，西南距要津。\n自当舟檝路，应济往来人。\n翻浪惊飞鸟，回风起绿苹。\n君看波上客，岁晚独垂纶。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "寄兴国池鹤上刘相公",
+        "author": "张众甫",
+        "content": "驯狎经时久，褵褷短翮存。不随淮海变，空愧稻粱恩。\n独立秋天静，单栖夕露繁。欲飞还敛翼，讵敢望乘轩。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十五"
+        }
+    },
+    {
+        "title": "送李司直使吴",
+        "author": "张众甫",
+        "content": "使臣方拥传，王事远辞家。震泽逢残雨，新丰过落花。\n水萍千叶散，风柳万条斜。何处看离恨，春江无限沙。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十五"
+        }
+    },
+    {
+        "title": "送李观之宣州谒袁中丞赋得三州渡",
+        "author": "张众甫",
+        "content": "古渡大江滨，西南距要津。自当舟楫路，应济往来人。\n翻浪惊飞鸟，回风起绿苹。君看波上客，岁晚独垂纶。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十五"
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "title": "宿郑谏议山居",
+        "author": "昙域",
+        "content": "堂开星斗边，大谏采薇还。\n禽隐石中树，月生池上山。\n凉风吹咏思，幽语隔禅关。\n莫拟归城计，终妨此地闲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "怀齐己",
+        "author": "昙域",
+        "content": "鬓髯秋景两苍苍，静对茅斋一炷香。\n病后身心俱澹泊，老来朋友半凋伤。\n峨眉山色侵云直，巫峡滩声入夜长。\n犹喜深交有支遁，时时音信到松房。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "赠岛云禅师",
+        "author": "昙域",
+        "content": "远庵枯叶满，羣鹿亦相随。\n顶骨生新髮，庭松长旧枝。\n禅高太白月，行出祖师碑。\n乱后潜来此，南人总不知。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "宿郑谏议山居",
+        "author": "昙域",
+        "content": "堂开星斗边，大谏采薇还。禽隐石中树，月生池上山。\n凉风吹咏思，幽语隔禅关。莫拟归城计，终妨此地闲。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百四十九"
+        }
+    },
+    {
+        "title": "怀齐己",
+        "author": "昙域",
+        "content": "鬓髯秋景两苍苍，静对茅斋一炷香。病后身心俱澹泊，\n犹喜深交有支遁，时时音信到松房。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百四十九"
+        }
+    },
+    {
+        "title": "赠岛云禅师",
+        "author": "昙域",
+        "content": "远庵枯叶满，群鹿亦相随。顶骨生新发，庭松长旧枝。\n禅高太白月，行出祖师碑。乱后潜来此，南人总不知。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百四十九"
+        }
+    }
+]

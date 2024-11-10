@@ -1,0 +1,19 @@
+[
+    {
+        "title": "诗",
+        "author": "赵自然",
+        "content": "常欲栖山岛，闲眠玉洞寒。\n丹哥时引舞，来去跨云鸾。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "诗",
+        "author": "赵自然",
+        "content": "常欲栖山岛，闲眠玉洞寒。丹哥时引舞，来去跨云鸾。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十一"
+        }
+    }
+]

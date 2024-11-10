@@ -1,0 +1,36 @@
+[
+    {
+        "title": "荅小子弟诗",
+        "author": "杨莱儿",
+        "content": "黄口小儿口莫凭，逡巡看取第三名。\n孝廉持水添缾子，莫向街头乱椀鸣。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "和赵光远题壁",
+        "author": "杨莱儿",
+        "content": "长者车尘每到门，长卿非慕卓王孙。\n定知羽翼难随凤，却喜波涛未化鲲。\n娇别翠钿黏去袂，醉歌金雀碎残尊。\n多情多病年应促，早办名香为返魂。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "答小子弟诗",
+        "author": "杨莱儿",
+        "content": "黄口小儿口莫凭，逡巡看取第三名。\n孝廉持水添瓶子，莫向街头乱碗鸣。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百零二"
+        }
+    },
+    {
+        "title": "和赵光远题壁",
+        "author": "杨莱儿",
+        "content": "长者车尘每到门，长卿非慕卓王孙。定知羽翼难随凤，\n多情多病年应促，早办名香为返魂。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百零二"
+        }
+    }
+]

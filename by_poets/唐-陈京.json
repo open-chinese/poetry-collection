@@ -1,0 +1,36 @@
+[
+    {
+        "title": "郊庙歌辞 享文敬太子庙乐章 登歌",
+        "author": "陈京",
+        "content": "歌以德发，声以乐贵。\n乐善名存，追仙礼异。\n鸾旌拱修，凤鸣合吹。\n神听皇慈，仲月皆至。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "享文恭太子庙乐章",
+        "author": "陈京",
+        "content": "歌以德发，声以乐贵。\n乐善名存，追仙礼异。\n鸾旌拱修，凤鸣合次。\n神听皇慈，仲月皆至。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "郊庙歌辞：享文敬太子庙乐章：登歌",
+        "author": "陈京",
+        "content": "歌以德发，声以乐贵。乐善名存，追仙礼异。\n鸾旌拱修，凤鸣合吹。神听皇慈，仲月皆至。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一十五"
+        }
+    },
+    {
+        "title": "享文恭太子庙乐章",
+        "author": "陈京",
+        "content": "歌以德发，声以乐贵。乐善名存，追仙礼异。\n鸾旌拱修，凤鸣合次。神听皇慈，仲月皆至。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三百一十四"
+        }
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "title": "相和歌辞 怨诗",
+        "author": "张汯",
+        "content": "去年离别雁初归，今夜裁缝萤已飞。\n征客近来音信断，不知何处寄寒衣。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞：怨诗",
+        "author": "张汯",
+        "content": "去年离别雁初归，今夜裁缝萤已飞。\n征客去来音信断，不知何处寄寒衣。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "title": "题西施浣纱石",
+        "author": "胡幽贞",
+        "content": "一朝入紫宫，万古遗芳尘。\n至今溪边花，不敢娇青春。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "归四明",
+        "author": "胡幽贞",
+        "content": "海色连四明，仙舟去容易。\n天籍岂輙问，不是卑朝士。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "题西施浣纱石",
+        "author": "胡幽贞",
+        "content": "一朝入紫宫，万古遗芳尘。至今溪边花，不敢娇青春。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十八"
+        }
+    },
+    {
+        "title": "归四明",
+        "author": "胡幽贞",
+        "content": "海色连四明，仙舟去容易。天籍岂辄问，不是卑朝士。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百六十八"
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "title": "郊庙歌辞 享太庙乐章 惟新舞",
+        "author": "刘晏",
+        "content": "汉祚惟永，神功中兴。\n风驱氛祲，天覆黎蒸。\n三光再朗，庶绩其凝。\n重熙累洽，景命是膺。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "咏王大娘戴卒",
+        "author": "刘晏",
+        "content": "楼前百戏竞争新，唯有长竿妙入神。\n谁谓绮罗[翻]有力，犹自嫌轻更着人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "享太庙乐章",
+        "author": "刘晏",
+        "content": "汉祚惟永，神功中兴。\n夙驱氛祲，天覆黎蒸。\n三光再朗，庶绩其凝。\n重熙累叶，景命是膺。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "郊庙歌辞：享太庙乐章：惟新舞",
+        "author": "刘晏",
+        "content": "汉祚惟永，神功中兴。风驱氛祲，天覆黎蒸。\n三光再朗，庶绩其凝。重熙累洽，景命是膺。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一十三"
+        }
+    },
+    {
+        "title": "咏王大娘戴竿",
+        "author": "刘晏",
+        "content": "楼前百戏竞争新，唯有长竿妙入神。\n谁谓绮罗翻有力，犹自嫌轻更着人。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百二十"
+        }
+    },
+    {
+        "title": "享太庙乐章",
+        "author": "刘晏",
+        "content": "汉祚惟永，神功中兴。夙驱氛祲，天覆黎蒸。\n三光再朗，庶绩其凝。重熙累叶，景命是膺。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百二十"
+        }
+    }
+]

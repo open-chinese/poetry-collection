@@ -1,0 +1,36 @@
+[
+    {
+        "title": "荅韩翃",
+        "author": "柳氏",
+        "content": "杨柳枝，芳菲节，可恨年年赠离别。\n一叶随风忽报秋，纵使君来岂堪折。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "杨柳枝",
+        "author": "柳氏",
+        "content": "杨柳枝，芳菲节，可恨年年赠离别。\n一叶随风忽报秋，纵使君来岂堪折。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "答韩翃",
+        "author": "柳氏",
+        "content": "杨柳枝，芳菲节，可恨年年赠离别。一叶随风忽报秋，",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百"
+        }
+    },
+    {
+        "title": "杨柳枝",
+        "author": "柳氏",
+        "content": "杨柳枝，芳菲节，可恨年年赠离别。一叶随风忽报秋，",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百九十九"
+        }
+    }
+]

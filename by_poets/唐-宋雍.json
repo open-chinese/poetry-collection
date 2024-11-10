@@ -1,0 +1,26 @@
+[
+    {
+        "title": "春日",
+        "author": "宋雍",
+        "content": "轻花细叶满林端，昨夜春风晓色寒。\n黄鸟不堪愁裏听，绿杨宜向雨中看。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "失题",
+        "author": "宋雍",
+        "content": "斜雨飞丝织晚风，疎帘半捲野亭空。\n荷花开尽秋光晚，零落残红绿沼中。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "失题",
+        "author": "宋雍",
+        "content": "斜雨飞丝织晚风，疏帘半卷野亭空。\n荷花开尽秋光晚，零落残红绿沼中。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十一"
+        }
+    }
+]

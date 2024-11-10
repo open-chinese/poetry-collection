@@ -1,0 +1,19 @@
+[
+    {
+        "title": "吟",
+        "author": "衡州舟子",
+        "content": "野鹊滩西一棹孤，月光遥接洞庭湖。\n堪嗟迴雁峰前过，望断家山一字无。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "吟",
+        "author": "衡州舟子",
+        "content": "野鹊滩西一棹孤，月光遥接洞庭湖。\n堪嗟回雁峰前过，望断家山一字无。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百八十四"
+        }
+    }
+]

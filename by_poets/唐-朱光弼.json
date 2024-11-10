@@ -1,0 +1,53 @@
+[
+    {
+        "title": "相和歌辞 铜雀妓",
+        "author": "朱光弼",
+        "content": "魏王铜雀妓，日暮管弦清。\n一见西陵树，悲心舞不成。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "铜雀妓",
+        "author": "朱光弼",
+        "content": "魏王铜雀妓，日暮管弦清。\n一见西陵树，心悲舞不成。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "宫词",
+        "author": "朱光弼",
+        "content": "梦裏君王近，宫中河汉高。\n秋风能再热，团扇不辞劳。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞：铜雀妓",
+        "author": "朱光弼",
+        "content": "魏王铜雀妓，日暮管弦清。一见西陵树，悲心舞不成。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一十九"
+        }
+    },
+    {
+        "title": "铜雀妓",
+        "author": "朱光弼",
+        "content": "魏王铜雀妓，日暮管弦清。一见西陵树，心悲舞不成。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十八"
+        }
+    },
+    {
+        "title": "宫词",
+        "author": "朱光弼",
+        "content": "梦裏君王近，宫中河汉高。秋风能再热，团扇不辞劳。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十八"
+        }
+    }
+]

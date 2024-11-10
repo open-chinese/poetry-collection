@@ -1,0 +1,60 @@
+[
+    {
+        "title": "咏蛙",
+        "author": "杨收",
+        "content": "兔边分玉树，龙底耀铜仪。\n会当同鼓吹，不復问官私。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "笔",
+        "author": "杨收",
+        "content": "虽匪囊中物，何坚不可钻。\n一朝操政柄，定使冠三端。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "嘲吴人观者",
+        "author": "杨收",
+        "content": "尔幸无羸角，何用触吾藩。\n若是升堂者，还应自得门。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "入洞庭望岳阳",
+        "author": "杨收",
+        "content": "飞鸥撒浪三千里，暮草摇风一万畦。\n黛色浅深山远近，碧烟浓淡树高低。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "咏蛙",
+        "author": "杨收",
+        "content": "兔边分玉树，龙底耀铜仪。会当同鼓吹，不復问官私。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百一十七"
+        }
+    },
+    {
+        "title": "笔",
+        "author": "杨收",
+        "content": "虽匪囊中物，何坚不可钻。一朝操政柄，定使冠三端。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百一十七"
+        }
+    },
+    {
+        "title": "嘲吴人观者",
+        "author": "杨收",
+        "content": "尔幸无羸角，何用触吾藩。若是升堂者，还应自得门。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百一十七"
+        }
+    }
+]

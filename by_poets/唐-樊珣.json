@@ -1,0 +1,36 @@
+[
+    {
+        "title": "忆长安 十月",
+        "author": "樊珣",
+        "content": "忆长安，十月时，华清士马相驰。\n万国来朝汉阙，五陵共猎秦祠。\n昼夜歌钟不歇，山河四塞京师。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "状江南 仲夏",
+        "author": "樊珣",
+        "content": "江南仲夏天，时雨下如川。\n卢橘垂金弹，甘蕉吐白莲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "忆长安：十月",
+        "author": "樊珣",
+        "content": "忆长安，十月时，华清士马相驰。万国来朝汉阙，\n五陵共猎秦祠。昼夜歌钟不歇，山河四塞京师。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三百零七"
+        }
+    },
+    {
+        "title": "状江南：仲夏",
+        "author": "樊珣",
+        "content": "江南仲夏天，时雨下如川。卢橘垂金弹，甘蕉吐白莲。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三百零七"
+        }
+    }
+]

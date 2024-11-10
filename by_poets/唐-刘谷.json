@@ -1,0 +1,19 @@
+[
+    {
+        "title": "和三乡诗",
+        "author": "刘谷",
+        "content": "兰蕙芬香见玉姿，路傍花笑景迟迟。\n苎萝山下无穷意，併在三乡惜别时。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "和三乡诗",
+        "author": "刘谷",
+        "content": "兰蕙芬香见玉姿，路傍花笑景迟迟。\n苎萝山下无穷意，并在三乡惜别时。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百二十六"
+        }
+    }
+]

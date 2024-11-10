@@ -1,0 +1,43 @@
+[
+    {
+        "title": "负薪行",
+        "author": "许宣平",
+        "content": "负薪朝出卖，沽酒日西归。\n路人莫问归何处，穿入白云行翠微。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "庵壁题诗",
+        "author": "许宣平",
+        "content": "隐居三十载，石室南山巅。\n静夜翫明月，清朝饮碧泉。\n樵人歌壠上，谷鸟戏岩前。\n乐矣不知老，都忘甲子年。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "见李白诗又吟",
+        "author": "许宣平",
+        "content": "一池荷叶衣无尽，两亩黄精食有余。\n又被人来寻讨着，移庵不免更深居。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "负薪行",
+        "author": "许宣平",
+        "content": "负薪朝出卖，沽酒日西归。路人莫问归何处，",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十"
+        }
+    },
+    {
+        "title": "庵壁题诗",
+        "author": "许宣平",
+        "content": "隐居三十载，石室南山巅。静夜玩明月，清朝饮碧泉。\n樵人歌垄上，谷鸟戏岩前。乐矣不知老，都忘甲子年。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "title": "空灵岸",
+        "author": "张叔卿",
+        "content": "寒尽鸿先去，江迴客未归。\n早知名是幻，不敢绣为衣。\n雾积川原暗，山多郡县稀。\n今朝下湘岸，更逐鹧鸪飞。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "流桂州",
+        "author": "张叔卿",
+        "content": "莫问苍梧远，而今世路难。\n胡尘不到处，即是小长安。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "空灵岸",
+        "author": "张叔卿",
+        "content": "寒尽鸿先去，江回客未归。早知名是幻，不敢绣为衣。\n雾积川原暗，山多郡县稀。今朝下湘岸，更逐鹧鸪飞。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十二"
+        }
+    },
+    {
+        "title": "流桂州",
+        "author": "张叔卿",
+        "content": "莫问苍梧远，而今世路难。胡尘不到处，即是小长安。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百七十二"
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "title": "潘司马别业",
+        "author": "周瑀",
+        "content": "门对青山近，汀牵绿草长。\n寒深包晚橘，风紧落垂杨。\n湖畔闻渔唱，天边数鴈行。\n萧然有高士，清思满书堂。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "送潘三入京",
+        "author": "周瑀",
+        "content": "故人嗟此别，相送出烟垧。\n柳色分官路，荷香入水亭。\n离歌未尽曲，酌酒共忘形。\n把手河桥上，孤山日暮青。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "临川山行",
+        "author": "周瑀",
+        "content": "朝见青山雪，暮见青山云。\n云山无断绝，秋思日纷纷。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "潘司马别业",
+        "author": "周瑀",
+        "content": "门对青山近，汀牵绿草长。寒深包晚橘，风紧落垂杨。\n湖畔闻渔唱，天边数雁行。萧然有高士，清思满书堂。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百一十四"
+        }
+    },
+    {
+        "title": "送潘三入京",
+        "author": "周瑀",
+        "content": "故人嗟此别，相送出烟垧。柳色分官路，荷香入水亭。\n离歌未尽曲，酌酒共忘形。把手河桥上，孤山日暮青。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百一十四"
+        }
+    },
+    {
+        "title": "临川山行",
+        "author": "周瑀",
+        "content": "朝见青山雪，暮见青山云。云山无断绝，秋思日纷纷。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百一十四"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "title": "宁王山池",
+        "author": "范朝",
+        "content": "水势临阶转，峰形对路开。\n槎从天上得，石是海边来。\n瑞草分丛种，祥花间色栽。\n旧传词赋客，唯见有邹枚。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "题石瓮寺",
+        "author": "范朝",
+        "content": "胜境宜长望，迟春好散愁。\n关连四塞起，河带八川流。\n复磴承香阁，重岩映彩楼。\n为临温液近，偏美圣君游。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "宁王山池",
+        "author": "范朝",
+        "content": "水势临阶转，峰形对路开。槎从天上得，石是海边来。\n瑞草分丛种，祥花间色栽。旧传词赋客，唯见有邹枚。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百四十五"
+        }
+    },
+    {
+        "title": "题石瓮寺",
+        "author": "范朝",
+        "content": "胜境宜长望，迟春好散愁。关连四塞起，河带八川流。\n复磴承香阁，重岩映彩楼。为临温液近，偏美圣君游。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百四十五"
+        }
+    }
+]

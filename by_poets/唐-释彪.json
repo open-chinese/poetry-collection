@@ -1,0 +1,19 @@
+[
+    {
+        "title": "宝琴",
+        "author": "释彪",
+        "content": "吾有一宝琴，价重双南金。\n刻作龙凤象，弹为山水音。\n星从徽裏发，风来弦上吟。\n钟期不可遇，谁辨曲中心。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "宝琴",
+        "author": "释彪",
+        "content": "吾有一宝琴，价重双南金。刻作龙凤象，弹为山水音。\n星从徽裏发，风来弦上吟。钟期不可遇，谁辨曲中心。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百五十"
+        }
+    }
+]

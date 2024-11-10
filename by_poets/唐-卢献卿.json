@@ -1,0 +1,19 @@
+[
+    {
+        "title": "梦中诗",
+        "author": "卢献卿",
+        "content": "卜筑郊原古，青山无四邻。\n扶疎遶屋树，寂寞独归人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "梦中诗",
+        "author": "卢献卿",
+        "content": "卜筑郊原古，青山无四邻。扶疏绕屋树，寂寞独归人。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十八"
+        }
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "title": "仲月赏花",
+        "author": "韦同则",
+        "content": "梅花似雪柳含烟，南地风光腊月前。\n把酒且须拼却醉，风流何必待歌筵。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "仲月赏花",
+        "author": "韦同则",
+        "content": "梅花似雪柳含烟，南地风光腊月前。\n把酒且须拚却醉，风流何必待歌筵。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三百零九"
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "title": "相和歌辞 王昭君三首 一",
+        "author": "郭元振",
+        "content": "自嫁单于国，长衔汉掖悲。\n容颜日顦顇，有甚画图时。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 王昭君三首 二",
+        "author": "郭元振",
+        "content": "厌践冰霜域，嗟为边塞人。\n思从汉南猎，一见汉家尘。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 王昭君三首 三",
+        "author": "郭元振",
+        "content": "闻有南河信，传闻杀画师。\n始知君惠重，更遣画蛾眉。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 子夜四时歌六首 春歌二首 一",
+        "author": "郭元振",
+        "content": "青楼含日光，绿池起风色。\n赠子同心花，殷勤此何极。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 子夜四时歌六首 春歌二首 二",
+        "author": "郭元振",
+        "content": "陌头杨柳枝，已被春风吹。\n妾心正断绝，君怀那得知。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 子夜四时歌六首 秋歌二首 一",
+        "author": "郭元振",
+        "content": "邀欢空伫立，望美频迴顾。\n何时復采菱？江中密相遇。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 子夜四时歌六首 秋歌二首 二",
+        "author": "郭元振",
+        "content": "辟恶茱萸囊，延年菊花酒。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 子夜四时歌六首 冬歌二首 一",
+        "author": "郭元振",
+        "content": "北极严气升，南至温风谢。\n调丝竞短歌，拂枕怜长夜。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞 子夜四时歌六首 冬歌二首 二",
+        "author": "郭元振",
+        "content": "帷横双翡翠，被卷两鸳鸯。\n婉态不自得，宛转君王床。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "杂曲歌辞 春江曲",
+        "author": "郭元振",
+        "content": "江水春沈沈，上有双竹林。\n竹叶坏水色，郎亦坏人心。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞：王昭君三首",
+        "author": "郭元振",
+        "content": "自嫁单于国，长衔汉掖悲。容颜日憔悴，有甚画图时。\n厌践冰霜域，嗟为边塞人。思从汉南猎，一见汉家尘。\n闻有南河信，传闻杀画师。始知君惠重，更遣画蛾眉。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一十九"
+        }
+    },
+    {
+        "title": "相和歌辞：子夜四时歌六首：春歌二首",
+        "author": "郭元振",
+        "content": "青楼含日光，绿池起风色。赠子同心花，殷勤此何极。\n陌头杨柳枝，已被春风吹。妾心正断绝，君怀那得知。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十一"
+        }
+    },
+    {
+        "title": "相和歌辞：子夜四时歌六首：秋歌二首",
+        "author": "郭元振",
+        "content": "邀欢空伫立，望美频回顾。何时复采菱，江中密相遇。\n辟恶茱萸囊，延年菊花酒。与子结绸缪，丹心此何有。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十一"
+        }
+    },
+    {
+        "title": "相和歌辞：子夜四时歌六首：冬歌二首",
+        "author": "郭元振",
+        "content": "北极严气升，南至温风谢。调丝竞短歌，拂枕怜长夜。\n帷横双翡翠，被卷两鸳鸯。婉态不自得，宛转君王床。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十一"
+        }
+    },
+    {
+        "title": "杂曲歌辞：春江曲",
+        "author": "郭元振",
+        "content": "江水春沉沉，上有双竹林。竹叶坏水色，郎亦坏人心。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十六"
+        }
+    }
+]

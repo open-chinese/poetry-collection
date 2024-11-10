@@ -1,0 +1,19 @@
+[
+    {
+        "title": "戏赠",
+        "author": "赵虚舟",
+        "content": "砌下梧桐叶正齐，花繁雨后压枝低。\n报道不须鵶鸟乱，他家自有凤凰栖。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "戏赠",
+        "author": "赵虚舟",
+        "content": "砌下梧桐叶正齐，花繁雨后压枝低。\n报导不须鸦鸟乱，他家自有凤凰栖。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百零一"
+        }
+    }
+]

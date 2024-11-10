@@ -1,0 +1,36 @@
+[
+    {
+        "title": "龙潭",
+        "author": "应物",
+        "content": "石激悬流雪满湾，五龙潜处野云闲。\n暂收雷电九峰下，且饮溪潭一水间。\n浪引浮槎依北岸，波分晓日浸东山。\n回瞻四面如看画，须信游人不欲还。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "题化城寺",
+        "author": "应物",
+        "content": "平高选处创莲宫，一水萦流处处通。\n画阁昼开迟日畔，禅房夜掩碧云中。\n平川不见龙行雨，幽谷遥闻虎啸风。\n偶与游人论法要，真元浩浩理无穷。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "龙潭",
+        "author": "应物",
+        "content": "石激悬流雪满湾，五龙潜处野云闲。暂收雷电九峰下，\n回瞻四面如看画，须信游人不欲还。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十三"
+        }
+    },
+    {
+        "title": "题化城寺",
+        "author": "应物",
+        "content": "平高选处创莲宫，一水萦流处处通。画阁昼开迟日畔，\n偶与游人论法要，真元浩浩理无穷。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十三"
+        }
+    }
+]

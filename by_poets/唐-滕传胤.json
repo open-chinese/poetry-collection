@@ -1,0 +1,60 @@
+[
+    {
+        "title": "赠僧",
+        "author": "滕传胤",
+        "content": "卓立不求名出家，长怀片志在青霞。\n今日英雄气衝盖，谁能久坐宝莲花。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "赠人",
+        "author": "滕传胤",
+        "content": "平生才不足，立身信有余。\n自叹无大故，君子莫相疎。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "郑锋宅神诗 一",
+        "author": "滕传胤",
+        "content": "浦口潮来初淼漫，莲舟摇扬采花难。\n春心不惬空归去，会待潮回更折看。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "郑锋宅神诗 二",
+        "author": "滕传胤",
+        "content": "忽然湖上片云飞，不觉舟中雨湿衣。\n折得莲花浑忘却，空将荷叶盖头归。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "赠僧",
+        "author": "滕传胤",
+        "content": "卓立不求名出家，长怀片志在青霞。\n今日英雄气冲盖，谁能久坐宝莲花。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十四"
+        }
+    },
+    {
+        "title": "赠人",
+        "author": "滕传胤",
+        "content": "平生才不足，立身信有余。自叹无大故，君子莫相疏。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十四"
+        }
+    },
+    {
+        "title": "郑锋宅神诗",
+        "author": "滕传胤",
+        "content": "浦口潮来初淼漫，莲舟摇扬采花难。\n春心不惬空归去，会待潮回更折看。\n忽然湖上片云飞，不觉舟中雨湿衣。\n折得莲花浑忘却，空将荷叶盖头归。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十四"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "title": "武陵春色",
+        "author": "张白",
+        "content": "武陵春色好，十二酒家楼。\n大醉方回首，逢人不举头。\n是非都不采，名利混然休。\n戴箇星冠子，浮沈逐世流。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "赠酒店崔氏",
+        "author": "张白",
+        "content": "武陵城裏崔家酒，地上应无天上有。\n南游道士饮一斗，卧向白云深洞口。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "哭陆先生",
+        "author": "张白",
+        "content": "六亲恸哭还復苏，我笑先生泪箇无。\n脱履定归天上去，空坟留入武陵图。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "武陵春色",
+        "author": "张白",
+        "content": "武陵春色好，十二酒家楼。大醉方回首，逢人不举头。\n是非都不采，名利混然休。戴个星冠子，浮沈逐世流。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十一"
+        }
+    },
+    {
+        "title": "哭陆先生",
+        "author": "张白",
+        "content": "六亲恸哭还復苏，我笑先生泪个无。\n脱履定归天上去，空坟留入武陵图。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十一"
+        }
+    }
+]

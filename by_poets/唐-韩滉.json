@@ -1,0 +1,43 @@
+[
+    {
+        "title": "晦日呈诸判官",
+        "author": "韩滉",
+        "content": "晦日新晴春色娇，万家攀折渡长桥。\n年年老向江城寺，不觉春风换柳条。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "听乐怅然自述",
+        "author": "韩滉",
+        "content": "万事伤心对管弦，一身含泪向春烟。\n黄金用尽敎歌舞，留与他人乐少年。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "判僧云晏五人聚赌喧诤语",
+        "author": "韩滉",
+        "content": "正法何曾执贝，空门不积余财。\n白日既能赌博，通宵必醉尊罍。\n强说天堂难到，又言地狱长开。\n并付江神收管，波中便是泉台。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "听乐怅然自述",
+        "author": "韩滉",
+        "content": "万事伤心对管弦，一身含泪向春烟。\n黄金用尽教歌舞，留与他人乐少年。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百六十二"
+        }
+    },
+    {
+        "title": "判僧云晏五人聚赌喧诤语",
+        "author": "韩滉",
+        "content": "正法何曾执贝，空门不积余财。白日既能赌博，\n并付江神收管，波中便是泉台。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百七十三"
+        }
+    }
+]

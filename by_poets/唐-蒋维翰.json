@@ -1,0 +1,57 @@
+[
+    {
+        "title": "古歌二首 一",
+        "author": "蒋维翰",
+        "content": "美人怨何深，含情倚金阁。\n不嚬復不语，红泪双双落。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "古歌二首 二",
+        "author": "蒋维翰",
+        "content": "美人闭红烛，独作裁新锦。\n频放剪刀声，夜寒知未寝。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "春夜裁缝",
+        "author": "蒋维翰",
+        "content": "珠箔因风起，飞蛾入最能。\n不教人夜作，方便杀明灯。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "春女怨",
+        "author": "蒋维翰",
+        "content": "白玉堂前一树梅，今朝忽见数花开。\n儿家门户寻常闭，春色因何入得来。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "怨歌",
+        "author": "蒋维翰",
+        "content": "百尺珠楼临狭斜，新妆能唱美人车。\n皆言贱妾红颜好，要自狂夫不忆家。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "古歌二首",
+        "author": "蒋维翰",
+        "content": "美人怨何深，含情倚金阁。不嚬复不语，红泪双双落。\n美人闭红烛，独坐裁新锦。频放剪刀声，夜寒知未寝。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百四十五"
+        }
+    },
+    {
+        "title": "春夜裁缝",
+        "author": "蒋维翰",
+        "content": "珠箔因风起，飞蛾入最能。不教人夜作，方便杀明灯。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百四十五"
+        }
+    }
+]

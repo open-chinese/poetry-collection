@@ -1,0 +1,19 @@
+[
+    {
+        "title": "即事",
+        "author": "杨鸾",
+        "content": "白日苍蝇满飰盘，夜间蚊子又成团。\n每到更深人静后，定来头上齩杨鸾。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "即事",
+        "author": "杨鸾",
+        "content": "白日苍蝇满饭盘，夜间蚊子又成团。\n每到更深人静后，定来头上咬杨鸾。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百七十一"
+        }
+    }
+]

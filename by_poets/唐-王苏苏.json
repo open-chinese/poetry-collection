@@ -1,0 +1,19 @@
+[
+    {
+        "title": "和李标",
+        "author": "王苏苏",
+        "content": "怪得犬惊鸡乱飞，羸童瘦马老麻衣。\n阿谁乱引闲人到，留住青蚨热赶归。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "和李标",
+        "author": "王苏苏",
+        "content": "怪得犬惊鸡乱飞，羸童瘦马老麻衣。\n阿谁乱引閒人到，留住青蚨热赶归。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百零二"
+        }
+    }
+]

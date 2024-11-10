@@ -1,0 +1,50 @@
+[
+    {
+        "title": "操莲曲",
+        "author": "何希尧",
+        "content": "锦莲浮处水粼粼，风外香生袜底尘。\n荷叶荷裙相映色，闻歌不见采莲人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "一枝花",
+        "author": "何希尧",
+        "content": "几树晴葩映水开，乱红狼籍点苍苔。\n东风留得残枝在，为惜余芳独看来。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "柳枝词",
+        "author": "何希尧",
+        "content": "大堤杨柳雨沈沈，万缕千条惹恨深。\n飞絮满天人去远，东风无力繫春心。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "海棠",
+        "author": "何希尧",
+        "content": "着雨胭脂点点消，半开时节最妖娆。\n谁家更有黄金屋，深锁东风贮阿娇。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "一枝花",
+        "author": "何希尧",
+        "content": "几树晴葩映水开，乱红狼藉点苍苔。\n东风留得残枝在，为惜余芳独看来。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百零五"
+        }
+    },
+    {
+        "title": "柳枝词",
+        "author": "何希尧",
+        "content": "大堤杨柳雨沉沉，万缕千条惹恨深。\n飞絮满天人去远，东风无力系春心。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百零五"
+        }
+    }
+]

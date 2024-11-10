@@ -1,0 +1,36 @@
+[
+    {
+        "title": "望夫石",
+        "author": "严郾",
+        "content": "何代提戈去不还，独留形影白云间。\n肌肤销尽雪霜色，罗绮点成苔藓斑。\n江燕不能传远信，野花空解妬愁颜。\n近来岂少征人妇，笑采蘼芜上北山。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "赋百舌鸟",
+        "author": "严郾",
+        "content": "此禽轻巧少同伦，我听长疑舌满身。\n星未没河先报晓，柳犹黏雪便迎春。\n频嫌海燕巢难定，却讶林莺语不真。\n莫倚春风便多事，玉楼还有晏眠人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "望夫石",
+        "author": "严郾",
+        "content": "何代提戈去不还，独留形影白云间。肌肤销尽雪霜色，\n近来岂少征人妇，笑采蘼芜上北山。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百二十七"
+        }
+    },
+    {
+        "title": "赋百舌鸟",
+        "author": "严郾",
+        "content": "此禽轻巧少同伦，我听长疑舌满身。星未没河先报晓，\n莫倚春风便多事，玉楼还有晏眠人。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百二十七"
+        }
+    }
+]

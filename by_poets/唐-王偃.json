@@ -1,0 +1,50 @@
+[
+    {
+        "title": "相和歌辞 明妃曲",
+        "author": "王偃",
+        "content": "北望单于日半斜，明君马上泣胡沙。\n一双泪滴黄河水，应得东流入汉家。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "杂曲歌辞 夜夜曲",
+        "author": "王偃",
+        "content": "北斗星移银汉低，班姬愁思凤城西。\n青槐陌上人行绝，明月楼前乌夜啼。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "夜夜曲",
+        "author": "王偃",
+        "content": "北斗星移银汉低，班姬愁思凤城西。\n青槐陌上行人绝，明月楼前乌夜啼。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "明君词",
+        "author": "王偃",
+        "content": "北望单于日半斜，明君马上泣胡沙。\n一双泪滴黄河水，应得东流入汉家。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "相和歌辞：明妃曲",
+        "author": "王偃",
+        "content": "北望单于日半斜，明君马上泣胡沙。\n一双泪滴黄河水，应得东流入汉家。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一十九"
+        }
+    },
+    {
+        "title": "杂曲歌辞：夜夜曲",
+        "author": "王偃",
+        "content": "北斗星移银汉低，班姬愁思凤城西。\n青槐陌上人行绝，明月楼前乌夜啼。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十六"
+        }
+    }
+]

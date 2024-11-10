@@ -1,0 +1,36 @@
+[
+    {
+        "title": "杂曲歌辞 独不见",
+        "author": "王训",
+        "content": "日晚宜春暮，风輭上林朝。\n对酒近初节，开楼荡夜娇。\n石桥通小涧，竹路上青霄。\n持底谁见许，长愁成细腰。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "独不见",
+        "author": "王训",
+        "content": "日晚宜春暮，风软上林朝。\n对酒近初节，开楼荡夜谣。\n石桥通小涧，竹路上青霄。\n持底谁见许，长愁成细腰。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "杂曲歌辞：独不见",
+        "author": "王训",
+        "content": "日晚宜春暮，风软上林朝。对酒近初节，开楼荡夜娇。\n石桥通小涧，竹路上青霄。持底谁见许，长愁成细腰。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十六"
+        }
+    },
+    {
+        "title": "独不见",
+        "author": "王训",
+        "content": "日晚宜春暮，风软上林朝。对酒近初节，开楼荡夜谣。\n石桥通小涧，竹路上青霄。持底谁见许，长愁成细腰。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百七十四"
+        }
+    }
+]

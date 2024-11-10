@@ -1,0 +1,19 @@
+[
+    {
+        "title": "白云溪",
+        "author": "吴巩",
+        "content": "山径入修篁，深林蔽日光。\n夏云生嶂远，瀑水引溪长。\n秀迹逢皆胜，清芬坐转凉。\n回看玉樽夕，归路赏前忘。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "白云溪",
+        "author": "吴巩",
+        "content": "山径入修篁，深林蔽日光。夏云生嶂远，瀑水引溪长。\n秀迹逢皆胜，清芬坐转凉。回看玉樽夕，归路赏前忘。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百二十四"
+        }
+    }
+]

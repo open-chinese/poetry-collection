@@ -1,0 +1,53 @@
+[
+    {
+        "title": "月生",
+        "author": "刘猛",
+        "content": "月生十五前，日望光彩圆。\n月满十五后，日畏光彩瘦。\n不见夜花色，一尊成暗酒。\n匣中苔背铜，光短不照空。\n不惜补明月，惭无此良工。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "苦雨",
+        "author": "刘猛",
+        "content": "自念数年间，两手中藏钩。\n于心且无恨，他日为我羞。\n古老传童歌，连淫亦兵象。\n夜梦戈甲鸣，苦不愿年长。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "晓",
+        "author": "刘猛",
+        "content": "朝梳一把白，夜泪千滴雨。\n可耻垂拱时，老作在家女。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "月生",
+        "author": "刘猛",
+        "content": "月生十五前，日望光彩圆。月满十五后，日畏光彩瘦。\n不见夜花色，一尊成暗酒。匣中苔背铜，光短不照空。\n不惜补明月，惭无此良工。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百六十三"
+        }
+    },
+    {
+        "title": "苦雨",
+        "author": "刘猛",
+        "content": "自念数年间，两手中藏钩。于心且无恨，他日为我羞。\n古老传童歌，连淫亦兵象。夜梦戈甲鸣，苦不愿年长。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百六十三"
+        }
+    },
+    {
+        "title": "晓",
+        "author": "刘猛",
+        "content": "朝梳一把白，夜泪千滴雨。可耻垂拱时，老作在家女。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百六十三"
+        }
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "title": "歌",
+        "author": "吴彩鸾",
+        "content": "若能相伴陟仙坛，应得文箫驾綵鸾。\n自有绣襦幷甲帐，瑶台不怕雪霜寒。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "歌",
+        "author": "吴彩鸾",
+        "content": "若能相伴陟仙坛，应得文箫驾彩鸾。\n自有绣襦并甲帐，瑶台不怕雪霜寒。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十三"
+        }
+    }
+]

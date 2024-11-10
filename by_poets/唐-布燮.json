@@ -1,0 +1,36 @@
+[
+    {
+        "title": "听妓洞云歌",
+        "author": "布燮",
+        "content": "嵇叔夜，鼓琴饮酒无闲暇。\n若使当时闻此歌，抛掷广陵都不藉。\n刘伯伦，虚生浪死过青春。\n一饮一硕犹自醉，无人为尔卜深尘。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "思乡作",
+        "author": "布燮",
+        "content": "泸北行人绝，云南信未还。\n庭前花不埽，门外柳谁攀。\n坐久销银烛，愁多减玉颜。\n悬心秋夜月，万里照关山。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "听妓洞云歌",
+        "author": "布燮",
+        "content": "嵇叔夜，鼓琴饮酒无閒暇。若使当时闻此歌，\n一饮一硕犹自醉，无人为尔卜深尘。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百三十二"
+        }
+    },
+    {
+        "title": "思乡作",
+        "author": "布燮",
+        "content": "泸北行人绝，云南信未还。庭前花不扫，门外柳谁攀。\n坐久销银烛，愁多减玉颜。悬心秋夜月，万里照关山。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百三十二"
+        }
+    }
+]

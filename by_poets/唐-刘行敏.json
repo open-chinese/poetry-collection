@@ -1,0 +1,53 @@
+[
+    {
+        "title": "嘲崔生",
+        "author": "刘行敏",
+        "content": "崔生犯夜行，武候正严更。\n幞头拳下落，高髻掌中擎。\n杖迹胸前出，绳文腕后生。\n愁人不惜夜，随意晓参横。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "又嘲杨文瓘",
+        "author": "刘行敏",
+        "content": "武陵敬爱客，终宴不知疲。\n遣共浑王饮，错宴延陀儿。\n始被鸿胪识，终蒙御史知。\n精神既如此，长叹復何为。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "嘲李叔慎贺兰僧伽杜善贤",
+        "author": "刘行敏",
+        "content": "叔慎骑乌马，僧伽把漆弓。\n唤取长安令，共猎北山熊。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "嘲崔生",
+        "author": "刘行敏",
+        "content": "崔生犯夜行，武候正严更。幞头拳下落，高髻掌中擎。\n杖迹胸前出，绳文腕后生。愁人不惜夜，随意晓参横。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十九"
+        }
+    },
+    {
+        "title": "又嘲杨文瓘",
+        "author": "刘行敏",
+        "content": "武陵敬爱客，终宴不知疲。遣共浑王饮，错宴延陀儿。\n始被鸿胪识，终蒙御史知。精神既如此，长叹复何为。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十九"
+        }
+    },
+    {
+        "title": "嘲李叔慎、贺兰僧伽、杜善贤",
+        "author": "刘行敏",
+        "content": "叔慎骑乌马，僧伽把漆弓。唤取长安令，共猎北山熊。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十九"
+        }
+    }
+]

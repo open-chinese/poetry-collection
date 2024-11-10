@@ -1,0 +1,19 @@
+[
+    {
+        "title": "荅日休皮字诗",
+        "author": "归氏子",
+        "content": "八片尖裁浪作毬，火中燖了水中揉。\n一包闲气如长在，惹踢招拳卒未休。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "答日休皮字诗",
+        "author": "归氏子",
+        "content": "八片尖裁浪作球，火中燖了水中揉。\n一包閒气如长在，惹踢招拳卒未休。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百七十一"
+        }
+    }
+]

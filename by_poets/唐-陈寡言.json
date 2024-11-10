@@ -1,0 +1,43 @@
+[
+    {
+        "title": "山居 一",
+        "author": "陈寡言",
+        "content": "照水冰如鑑，扫雪玉为尘。\n何须问今古，便是上皇人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "山居 二",
+        "author": "陈寡言",
+        "content": "醉卧茅堂不闭关，觉来开眼见青山。\n松花落处宿猨在，麋鹿羣羣林际还。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "临化示弟子",
+        "author": "陈寡言",
+        "content": "我本无形暂有形，偶来人世逐营营。\n轮迴债负今还毕，搔首翛然归上清。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "山居",
+        "author": "陈寡言",
+        "content": "照水冰如鉴，扫雪玉为尘。何须问今古，便是上皇人。\n醉卧茅堂不闭关，觉来开眼见青山。\n松花落处宿猿在，麋鹿群群林际还。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百五十二"
+        }
+    },
+    {
+        "title": "临化示弟子",
+        "author": "陈寡言",
+        "content": "我本无形暂有形，偶来人世逐营营。\n轮回债负今还毕，搔首翛然归上清。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百五十二"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "title": "哭李远",
+        "author": "卢尚书",
+        "content": "昨日舟还浙水湄，今朝丹旐欲何为。\n纔收北浦一竿钓，未了西斋半局棊。\n洛下已传平子赋，临川争写谢公诗。\n不堪旧里经行处，风木萧萧邻笛悲。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "题安国观",
+        "author": "卢尚书",
+        "content": "夕照纱窗起暗尘，青松遶殿不知春。\n君看白首诵经者，半是宫中歌舞人。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "哭李远",
+        "author": "卢尚书",
+        "content": "昨日舟还浙水湄，今朝丹旐欲何为。才收北浦一竿钓，\n不堪旧裏经行处，风木萧萧邻笛悲。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百八十三"
+        }
+    },
+    {
+        "title": "题安国观",
+        "author": "卢尚书",
+        "content": "夕照纱窗起暗尘，青松绕殿不知春。\n君看白首诵经者，半是宫中歌舞人。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七百八十三"
+        }
+    }
+]

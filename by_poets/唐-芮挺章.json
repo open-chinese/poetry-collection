@@ -1,0 +1,36 @@
+[
+    {
+        "title": "江南弄",
+        "author": "芮挺章",
+        "content": "春江可怜事，最在美人家。\n鹦鹉能言鸟，芙蓉巧笑花。\n地衔金作埒，水抱玉为沙。\n薄晚青丝骑，长鞭赴狭斜。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "少年行",
+        "author": "芮挺章",
+        "content": "任气称张放，衔恩在少年。\n玉阶朝就日，金屋夜升天。\n轩骑青云际，笙歌绿水边。\n建章明月好，留醉伴风烟。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "江南弄",
+        "author": "芮挺章",
+        "content": "春江可怜事，最在美人家。鹦鹉能言鸟，芙蓉巧笑花。\n地衔金作埒，水抱玉为沙。薄晚青丝骑，长鞭赴狭斜。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百零三"
+        }
+    },
+    {
+        "title": "少年行",
+        "author": "芮挺章",
+        "content": "任气称张放，衔恩在少年。玉阶朝就日，金屋夜升天。\n轩骑青云际，笙歌绿水边。建章明月好，留醉伴风烟。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百零三"
+        }
+    }
+]

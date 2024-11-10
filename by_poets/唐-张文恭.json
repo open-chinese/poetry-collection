@@ -1,0 +1,36 @@
+[
+    {
+        "title": "七夕",
+        "author": "张文恭",
+        "content": "凤律惊秋气，龙梭静夜机。\n星桥百枝动，云路七香飞。\n映月迴雕扇，凌霞曳绮衣。\n含情向华幄，流态入重闱。\n欢余夕漏尽，怨结晓骖归。\n谁念分河汉，还忆两心违。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "佳人照镜",
+        "author": "张文恭",
+        "content": "倦采蘼芜叶，贪怜照胆明。\n两边俱拭泪，一处有啼声。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "七夕",
+        "author": "张文恭",
+        "content": "凤律惊秋气，龙梭静夜机。星桥百枝动，云路七香飞。\n映月回雕扇，凌霞曳绮衣。含情向华幄，流态入重闱。\n欢余夕漏尽，怨结晓骖归。谁念分河汉，还忆两心违。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三十九"
+        }
+    },
+    {
+        "title": "佳人照镜",
+        "author": "张文恭",
+        "content": "倦采蘼芜叶，贪怜照胆明。两边俱拭泪，一处有啼声。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三十九"
+        }
+    }
+]

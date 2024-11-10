@@ -1,0 +1,43 @@
+[
+    {
+        "title": "鹭鸶",
+        "author": "无则",
+        "content": "白苹红蓼碧江涯，日暖双双立睡时。\n愿揭金笼放归去，却随沙鹤鬬轻丝。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "百舌鸟二首 一",
+        "author": "无则",
+        "content": "千愁万恨过花时，似向春风怨别离。\n若使众禽俱解语，一生怀抱有谁知。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "百舌鸟二首 二",
+        "author": "无则",
+        "content": "长截隣鸡叫五更，数般名字百般声。\n饶伊摇舌先知晓，也待青天明即鸣。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "鹭鸶",
+        "author": "无则",
+        "content": "白苹红蓼碧江涯，日暖双双立睡时。\n愿揭金笼放归去，却随沙鹤斗轻丝。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    },
+    {
+        "title": "百舌鸟二首",
+        "author": "无则",
+        "content": "千愁万恨过花时，似向春风怨别离。\n若使众禽俱解语，一生怀抱有谁知。\n长截邻鸡叫五更，数般名字百般声。\n饶伊摇舌先知晓，也待青天明即鸣。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百二十五"
+        }
+    }
+]

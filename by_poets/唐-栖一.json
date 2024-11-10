@@ -1,0 +1,36 @@
+[
+    {
+        "title": "垓下怀古",
+        "author": "栖一",
+        "content": "缅想咸阳事可嗟，楚歌哀怨思无涯。\n八千子弟归何处，万里鸿沟属汉家。\n弓指阵前争日月，血流垓下定龙蛇。\n拔山力尽乌江水，今古悠悠空浪花。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "武昌怀古",
+        "author": "栖一",
+        "content": "战国城池尽悄然，昔人遗迹遍山川。\n笙歌罢吹几多日，台榭荒凉七百年。\n蝉响夕阳风满树，雁横秋岛雨漫天。\n堪嗟世事如流水，空见芦花一钓船。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "垓下怀古",
+        "author": "栖一",
+        "content": "缅想咸阳事可嗟，楚歌哀怨思无涯。八千子弟归何处，\n拔山力尽乌江水，今古悠悠空浪花。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百四十九"
+        }
+    },
+    {
+        "title": "武昌怀古",
+        "author": "栖一",
+        "content": "战国城池尽悄然，昔人遗迹遍山川。笙歌罢吹几多日，\n堪嗟世事如流水，空见芦花一钓船。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百四十九"
+        }
+    }
+]

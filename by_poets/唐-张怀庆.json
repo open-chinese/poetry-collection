@@ -1,0 +1,19 @@
+[
+    {
+        "title": "窃李义府诗",
+        "author": "张怀庆",
+        "content": "生情镂月为歌扇，出性裁云作舞衣。\n照镜自怜迴雪影，来时好取洛川归。",
+        "dynasty": "唐",
+        "collection_info": null
+    },
+    {
+        "title": "窃李义府诗",
+        "author": "张怀庆",
+        "content": "生情镂月为歌扇，出性裁云作舞衣。\n照镜自怜回雪影，来时好取洛川归。",
+        "dynasty": "唐",
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百六十九"
+        }
+    }
+]
