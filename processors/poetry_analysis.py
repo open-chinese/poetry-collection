@@ -52,7 +52,7 @@ def plot_pie_chart(data, title):
     # plt.show()
 
 
-def plot_horizontal_bar_chart(data, title, x_label, y_label):
+def plot_horizontal_bar_chart(data, title, x_label, y_label, file_name):
     categories = list(data.keys())
     counts = list(data.values())
 
@@ -68,7 +68,7 @@ def plot_horizontal_bar_chart(data, title, x_label, y_label):
     plt.yticks(fontsize=font_size)
     plt.tight_layout()
 
-    plt.savefig('../images/poets_works_count_all.png', format='png')
+    plt.savefig(file_name, format='png')
     # plt.show()
 
 
@@ -102,7 +102,11 @@ def analysis_top_poets_by_poems_count(poems):
         poems_by_poets_top100[k] = v
 
     poems_by_poets_top100 = DictUtil.sort_dict_by_value(poems_by_poets_top100, reverse=False)
-    plot_horizontal_bar_chart(poems_by_poets_top100, title='诗人作品数量', x_label='诗词数量', y_label='诗人')
+    plot_horizontal_bar_chart(poems_by_poets_top100,
+                              title='诗人作品数量',
+                              x_label='诗词数量',
+                              y_label='诗人',
+                              file_name='../images/poets_works_count_all.png')
 
 
 def analysis_poems_by_dynasty(poems):
@@ -120,7 +124,35 @@ def analysis_poems_by_dynasty(poems):
     plot_pie_chart(poems_by_dynasty, title='按朝代诗词数量')
 
 
+def analysis_poems_tang_dynasty(poems):
+    poems_by_poets = {}
+    for poem in poems:
+        d = poem.get('dynasty', '朝代未知')
+        poet = poem.get('author')
+        if d != '唐':
+            continue
+        if poet not in poems_by_poets:
+            poems_by_poets[poet] = 1
+        else:
+            poems_by_poets[poet] += 1
+
+    poems_by_poets_count = {k: v for k, v in poems_by_poets.items()}
+    poems_by_poets_count = DictUtil.sort_dict_by_value(poems_by_poets_count, reverse=True)
+    poems_by_poets_top100 = {}
+    for k, v in list(poems_by_poets_count.items())[:100]:
+        print(k, v)
+        poems_by_poets_top100[k] = v
+
+    poems_by_poets_top100 = DictUtil.sort_dict_by_value(poems_by_poets_top100, reverse=False)
+    plot_horizontal_bar_chart(poems_by_poets_top100,
+                              title='诗人作品数量',
+                              x_label='诗词数量',
+                              y_label='诗人',
+                              file_name='../images/poets_works_count_tang.png')
+
+
 if __name__ == '__main__':
     poems = load_all_poets()
-    analysis_top_poets_by_poems_count(poems)
-    analysis_poems_by_dynasty(poems)
+    #analysis_top_poets_by_poems_count(poems)
+    #analysis_poems_by_dynasty(poems)
+    analysis_poems_tang_dynasty(poems)
