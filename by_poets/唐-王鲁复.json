@@ -1,17 +1,6 @@
 [
     {
-        "uuid": "ce088f2229368e235a28ac111c96fe27",
-        "title": "诣李侍郎",
-        "author": "王鲁复",
-        "content": "文字元无底，功夫转到难。\n苦心三百首，暂请侍郎看。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷四百七十"
-        }
-    },
-    {
-        "uuid": "a3e0c7ed3f90ae564f87dec2ffb2f45f",
+        "uuid": "5c7c77a92f8f95d7bcdac5e516427ed6",
         "title": "吊灵均",
         "author": "王鲁复",
         "content": "万古汨罗深，骚人道不沉。\n明明唐日月，应见楚臣心。",
@@ -22,21 +11,10 @@
         }
     },
     {
-        "uuid": "66b14df188b2a157fcc46be254f0efe2",
+        "uuid": "5e788872284d1905e1d42c319febe490",
         "title": "吊韩侍郎",
         "author": "王鲁复",
         "content": "星落少微宫，高人入古风。\n几年才子泪，并写五言中。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷四百七十"
-        }
-    },
-    {
-        "uuid": "8becb09eceaea64257ff6d43dd7f4592",
-        "title": "故白岩禅师院",
-        "author": "王鲁复",
-        "content": "能师还世名还在，空闭禅堂满院苔。\n花树不随人寂寞，数枝犹自出墙来。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

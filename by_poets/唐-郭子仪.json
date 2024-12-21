@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "4d9aa5275620b2906e3ccc3e58475ab1",
+        "uuid": "e26b2e108d7679a0bf64430c7646364c",
         "title": "郊庙歌辞 享太庙乐章 广运舞",
         "author": "郭子仪",
         "content": "于赫皇祖，昭明有融。\n惟文之德，惟武之功。\n河海静谧，车书混同。\n虔恭孝飨，穆穆玄风。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d4e9a9d23c7170a616ef434066f3fc22",
+        "uuid": "13baea356e06622b32c80bddb6509bb9",
         "title": "郊庙歌辞 享太庙乐章 保大舞",
         "author": "郭子仪",
         "content": "于穆文考，圣神昭章。\n肃勺羣慝，含光远方。\n万物茂遂，九夷宾王。\n愔愔云韶，德音不忘。",
@@ -16,15 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "82cb772d498e68a0bc9832770301461d",
-        "title": "享太庙乐章 广运舞",
-        "author": "郭子仪",
-        "content": "于赫皇祖，昭明有融。\n惟文之德，惟武之功。\n河海静谧，车书混同。\n虔恭孝飨，穆穆玄风。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "7ef5b3a03103f1745002848efdf06538",
+        "uuid": "03ef0c4d7f994c0adf12506ebb0551e8",
         "title": "享太庙乐章 保大舞",
         "author": "郭子仪",
         "content": "于穆文考，圣神昭彰。\n箫勺羣慝，含光远方。\n万物茂遂，九夷宾王。\n愔愔云韶，德音不忘。",
@@ -32,18 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0851e07bbb64eb28e75109b732f27057",
-        "title": "郊庙歌辞：享太庙乐章：广运舞",
-        "author": "郭子仪",
-        "content": "于赫皇祖，昭明有融。\n惟文之德，惟武之功。\n河海静谧，车书混同。\n虔恭孝飨，穆穆玄风。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十三"
-        }
-    },
-    {
-        "uuid": "dd222eb80bb30603fce8794ae412bdb9",
+        "uuid": "fb110873e19c1bc53e5bfba1f0185f7f",
         "title": "郊庙歌辞：享太庙乐章：保大舞",
         "author": "郭子仪",
         "content": "于穆文考，圣神昭章。\n肃勺群慝，含光远方。\n万物茂遂，九夷宾王。\n愔愔云韶，德音不忘。",
@@ -54,18 +35,7 @@
         }
     },
     {
-        "uuid": "478fdaf59e02b058a7a04e0fb20bd333",
-        "title": "享太庙乐章：广运舞",
-        "author": "郭子仪",
-        "content": "于赫皇祖，昭明有融。\n惟文之德，惟武之功。\n河海静谧，车书混同。\n虔恭孝飨，穆穆玄风。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百零九"
-        }
-    },
-    {
-        "uuid": "89997162344e8d372d72e80115447e4e",
+        "uuid": "8b920410341ee6849a8c322d5898b2e5",
         "title": "享太庙乐章：保大舞",
         "author": "郭子仪",
         "content": "于穆文考，圣神昭彰。\n箫勺群慝，含光远方。\n万物茂遂，九夷宾王。\n愔愔云韶，德音不忘。",

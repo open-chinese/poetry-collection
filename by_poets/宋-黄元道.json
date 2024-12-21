@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "56196e8fe9876c83e6f524edc6769028",
+        "uuid": "f651c4c48159750ee413fa94507fbb5a",
         "title": "赠邓珪",
         "author": "黄元道",
         "content": "柳绿桃红春昼永，家童唤起睡中忙。\n偶然日下音书至，回首江城又夕阳。",
@@ -8,18 +8,10 @@
         "collection_info": null
     },
     {
-        "uuid": "afaaa430375b542a015a1c0f471318ac",
+        "uuid": "2ca8d28f2b8a36461dde874b8c08c6c1",
         "title": "句  其一",
         "author": "黄元道",
         "content": "巽岭直下梅家店，福禄难过丑年春。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "c0e5f26ef69785faffd3935a29c9810c",
-        "title": "句  其二",
-        "author": "黄元道",
-        "content": "",
         "dynasty": "宋",
         "collection_info": null
     }

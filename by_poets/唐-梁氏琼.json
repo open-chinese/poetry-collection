@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "e9cabf94bba9d71256150ecb58c922d7",
+        "uuid": "fd9075e9a2993dcb0a6bc39b34d35cb6",
         "title": "相和歌辞 铜雀台",
         "author": "梁氏琼",
         "content": "歌扇向陵开，齐行奠玉杯。\n舞时飞燕列，梦裏片云来。\n月色空余恨，松声暮更哀。\n谁怜未死妾，掩袂下铜台。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0a8c9ee59596378f08c0ae69aa5e0253",
+        "uuid": "2e70b16e263a6f891729b5d5a35ab432",
         "title": "琴曲歌辞 昭君怨",
         "author": "梁氏琼",
         "content": "自古无和亲，贻灾到妾身。\n胡风嘶去马，汉月弔行轮。\n衣薄狼山雪，妆成虏塞春。\n回看父母国，生死毕胡尘。",
@@ -16,18 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "35ca3cd0cd3c499470db7f3be2ab2a51",
-        "title": "相和歌辞：铜雀台",
-        "author": "梁氏琼",
-        "content": "歌扇向陵开，齐行奠玉杯。\n舞时飞燕列，梦裏片云来。\n月色空余恨，松声暮更哀。\n谁怜未死妾，掩袂下铜台。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十九"
-        }
-    },
-    {
-        "uuid": "422beb62aa4ec8d03defc885343a832c",
+        "uuid": "fe2f14282bee96686a07a42c1a36564b",
         "title": "琴曲歌辞：昭君怨",
         "author": "梁氏琼",
         "content": "自古无和亲，贻灾到妾身。\n胡风嘶去马，汉月吊行轮。\n衣薄狼山雪，妆成虏塞春。\n回看父母国，生死毕胡尘。",

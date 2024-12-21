@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "f5874cb4cf41a7538d2cb06dc414769f",
+        "uuid": "238e469690611a1dff11947118ad20af",
         "title": "思归寄东林澈上人",
         "author": "韦丹",
         "content": "王事纷纷无暇日，浮生冉冉只如云。\n已为平子归休计，五老岩前必共闻。",
@@ -8,33 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "7cf29243a2b35e708baec73045d60b4f",
+        "uuid": "fade398ee1b29c78cbe50b365ec5d90d",
         "title": "荅澈公",
         "author": "韦丹",
         "content": "空山泉落松窗静，闲地草生春日迟。\n白髮渐多身未退，依依常在永禅师。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "37e11afbe2c9886204a74978f0172706",
-        "title": "思归，寄东林澈上人",
-        "author": "韦丹",
-        "content": "王事纷纷无暇日，浮生冉冉只如云。\n已为平子归休计，五老岩前必共闻。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百五十八"
-        }
-    },
-    {
-        "uuid": "17d11df6bcff307a93a81a874c43acac",
-        "title": "答澈公",
-        "author": "韦丹",
-        "content": "空山泉落松窗静，闲地草生春日迟。\n白髮渐多身未退，依依常在永禅师。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百五十八"
-        }
     }
 ]

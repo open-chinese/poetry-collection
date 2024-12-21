@@ -1,17 +1,6 @@
 [
     {
-        "uuid": "777cad8d9d2402da57d37d9c62f393ea",
-        "title": "题严君观",
-        "author": "王岩",
-        "content": "寒云古木罩星台，凡骨仙踪信可哀。\n二十年前曾此到，一千年内未归来。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百三十一"
-        }
-    },
-    {
-        "uuid": "dfab8032f3301d2231fb7a0c66d02e7a",
+        "uuid": "cf77c8bb96f9c239c183a418b8741e5d",
         "title": "山中有所思",
         "author": "王岩",
         "content": "零零夜雨渍愁根，触物伤离好断魂。\n莫怪杜鹃飞去尽，紫微花裏有啼猿。",
@@ -22,18 +11,7 @@
         }
     },
     {
-        "uuid": "f37acc519907eda2fca6a414a02a8c3d",
-        "title": "燕",
-        "author": "王岩",
-        "content": "一巢功绩破春光，絮落花残两翅狂。\n月树风枝不栖去，强来言语泥雕梁。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百三十一"
-        }
-    },
-    {
-        "uuid": "fb8fa1257f0cffd2fcd33a524df8011c",
+        "uuid": "add0a0afc19a97a617b068e212048769",
         "title": "贫女",
         "author": "王岩",
         "content": "难把菱花照素颜，试临春水插花看。\n木兰船上游春子，笑把荆钗下远滩。",
@@ -44,18 +22,7 @@
         }
     },
     {
-        "uuid": "956acae1263b72627affd0d34abeb9cc",
-        "title": "杪春寄友人",
-        "author": "王岩",
-        "content": "何处相逢万事忙，卓家楼上百淘香。\n明朝渐近山僧寺，更为残花醉一场。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百三十一"
-        }
-    },
-    {
-        "uuid": "5ea43975dad928b3c77d492db9d5a504",
+        "uuid": "d57ca6fb7789d8c999ea5546b4267f56",
         "title": "回旧山",
         "author": "王岩",
         "content": "庾家楼上谢家池，处处风烟少旧知。\n明日落花谁共醉，野溪猿鸟恨归迟。",

@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "f9d2700a554c213cd3ee02f007a05d56",
+        "uuid": "1f763d76cae2da6948858b2dfafec20d",
         "title": "建州节帅更代筵上献诗",
         "author": "王感化",
         "content": "旌旗赴天台，溪山晓色开。\n万家悲更喜，迎佛送如来。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2c1913b8348bbb4491295d7caef5f57e",
+        "uuid": "838a4ab43e7efd6af7a57cfcad3b9dde",
         "title": "奉元宗命咏苑中白野鹊",
         "author": "王感化",
         "content": "碧岩深洞恣游遨，天与芦花作羽毛。\n要识此来栖宿处，上林琼树一枝高。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c8a57106eaf65c64c2df6bcf04ef81cd",
+        "uuid": "42b59810cb045c7de26d3d27fd9c3276",
         "title": "句",
         "author": "王感化",
         "content": "草中误认将军虎，山上曾为道士羊。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "62765792b203359ae61837a25528806f",
+        "uuid": "5cd6efcc9c942e16b6c9bdcdfb325939",
         "title": "咏马（题拟）",
         "author": "王感化",
         "content": "宝马雕鞍贡紫庭，渥洼神骏旧传名，四蹄蹀躞天阶下，乍对龙颜不敢行。\n（见《永乐大典》卷六八五一引《建安志》。\n据《古籍整理出版情况简报》一五六期刊张忱石先生《〈永乐大典〉续印本印象记》转引。\n）。",
@@ -32,18 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "7144e554bf3126225b3577c7795f2b3d",
-        "title": "建州节帅更代，筵上献诗",
-        "author": "王感化",
-        "content": "旌旗赴天台，溪山晓色开。\n万家悲更喜，迎佛送如来。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百五十七"
-        }
-    },
-    {
-        "uuid": "6b8382afc26ea9acef90db1e9c6bbd68",
+        "uuid": "ab46b75ab618585b54a3746d035ce5ab",
         "title": "句",
         "author": "王感化",
         "content": "草中误认将军虎，山上曾为道士羊。\n（《题怪石》八句，",

@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "12b94c8dc7b13c15dbce8c1bb493e9a6",
+        "uuid": "37a3facdb627bb148fe2132daa7ec64c",
         "title": "相和歌辞 采莲曲",
         "author": "贺知章",
         "content": "稽山罢雾郁嵯峨，镜水无风也自波。\n莫言春度芳菲尽，别有中流采芰荷。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8cf4d27b2dd56a3886b1874f6903621f",
+        "uuid": "211031e20ccc177323d8014b437d638a",
         "title": "荅朝士",
         "author": "贺知章",
         "content": "钑镂银盘盛蛤蜊，镜湖莼菜乱如丝。\n乡曲近来佳此味，遮渠不道是吴儿。",
@@ -16,15 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "ab6430cdfc37daa84b1da93baa2cfcbe",
-        "title": "唐禅社首乐章 顺和",
-        "author": "贺知章",
-        "content": "至哉含柔德，万物资以生。\n常顺称厚载，流谦通变盈。\n圣心事能察，增广陈厥诚。\n黄祇僾如在，泰折俟咸亨。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "a9122e3e2f1f797e894ad5164ab85238",
+        "uuid": "9a8cc1ccc44f47288c12d32edd4774db",
         "title": "太和",
         "author": "贺知章",
         "content": "肃我成命，于昭黄只。\n裘冕而祀，陟降在斯。\n五音克备，八变聿施。\n缉熙肆靖，厥心匪离。",
@@ -32,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "68096da02fd9e0c1e9be49a498ffb669",
+        "uuid": "915daa85c28e71bc59f972e15459bcdf",
         "title": "太和 肃和",
         "author": "贺知章",
         "content": "黄祇是祗，我其夙夜。\n夤畏诚絜，匪遑宁舍。\n礼以琮玉，荐厥茅藉。\n念兹降康，胡宁克暇。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "ed72b34dfc7875ce86636ce4a2b0bb67",
+        "uuid": "f0a2ec2901328c8ed25dbd5b831f53d9",
         "title": "太和 雍和",
         "author": "贺知章",
         "content": "夙夜宥密，不敢宁宴。\n五齐既陈，八音在县。\n粢盛以絜，房俎斯荐。\n惟德惟馨，尚兹克徧。",
@@ -48,23 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "9f3674d9a3da42ad77eb96a1a3dec482",
-        "title": "太和 寿和",
-        "author": "贺知章",
-        "content": "惟以明发，有怀载殷。\n乐盈而反，礼顺其禋。\n立清以献，荐欲是亲。\n于穆不已，裒对斯臻。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "b07964957d3775179d69f37e21cfd0d7",
-        "title": "太和 福和",
-        "author": "贺知章",
-        "content": "穆穆天子，告成岱宗。\n大裘如濡，执珽有颙。\n乐以平志，礼以和容。\n上帝临我，云胡肃邕。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "e92d01225197dbcaef6e4a61e9d189d8",
+        "uuid": "f3956f6da0e390d87903bff0695eb2c9",
         "title": "太和 太和",
         "author": "贺知章",
         "content": "昭昭有唐，天俾万国。\n列祖应命，四宗顺则。\n申锡无疆，宗我同德。\n曾孙继绪，享神配极。",
@@ -72,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c7b8bdb38da6bd9043e3cfbdc1fb1581",
+        "uuid": "d76cf021e41481f7cd8ce73f701dc1df",
         "title": "太和 晚发",
         "author": "贺知章",
         "content": "江皋闻曙钟，轻栧理还舼。\n海潮夜约约，川露晨溶溶。\n始见沙上鸟，犹埋云外峰。\n故乡杳无际，明发怀朋从。",
@@ -80,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "9ce48930caa3c258b0c33f55698c0e95",
+        "uuid": "d08a0558e8495c04df1acf5f268e3661",
         "title": "奉和御制春台望",
         "author": "贺知章",
         "content": "青阳布王道，玄览陶真性。\n欣若天下春，高逾域中圣。\n神皋类观赏，帝里如悬镜。\n缭绕八川浮，岧峣双阙映。\n晓色徧昭阳，晴云卷建章。\n华滋的皪丹青树，颢气氤氲金玉堂。\n尚有灵蛇下鄜畤，还征瑞宝入陈仓。\n自昔秦奢汉穷武，后庭万余宫百数。\n旗回五丈殿千门，连绵南隥出西垣。\n广画螓蛾夸窈窕，罗生玳瑁象昆崙。\n乃睠天晴兴隐恤，古来土木良非一。\n荆临章观赵丛台，何如尧阶将禹室。\n层栏䆗窱下龙舆，清管逶迤半绮疏。\n一听南风引鸾舞，长谣北极仰鹑居。",
@@ -88,7 +64,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8e5bb84056b886435ac0d0a6630dc072",
+        "uuid": "2b94b6bc613ed9f36384c9a777dda4fa",
         "title": "望人家桃李花",
         "author": "贺知章",
         "content": "山源夜雨度仙家，朝发东园桃李花。\n桃花红兮李花白，照灼城隅復南陌。\n南陌青楼十二重，春风桃李为谁容。\n弃置千金轻不顾，踟蹰五马谢相逢。\n徒言南国容华晚，遂叹西家飘落远。\n的皪长奉明光殿，氛氲半入披香苑。\n苑中珍木元自奇，黄金作叶白银枝。\n千年万岁不凋落，还将桃李更相宜。\n桃李从来露井傍，成蹊结影矜艳阳。\n莫道春花不可树，会持仙实荐君王。",
@@ -96,7 +72,7 @@
         "collection_info": null
     },
     {
-        "uuid": "e8aeecdf30a0363d3269bd2adafebe41",
+        "uuid": "0d0eed189beba9bb1a5dff0aefd61c3e",
         "title": "送人之军",
         "author": "贺知章",
         "content": "常经绝脉塞，復见断肠流。\n送子成今别，令人起昔愁。\n陇云晴半雨，边草夏先秋。\n万里长城寄，无贻汉国忧。",
@@ -104,7 +80,7 @@
         "collection_info": null
     },
     {
-        "uuid": "20eb4a2cc274490763ed4ee8e9bc32d4",
+        "uuid": "3c33d56c85ee0f293a0d2ead3e768706",
         "title": "奉和圣制送张说上集贤学士赐宴赋得谟字",
         "author": "贺知章",
         "content": "西学垂玄览，东堂发圣谟。\n天光烛武殿，时宰集鸿都。\n枯朽霑皇泽，翾飞舞帝梧。\n迹同游汗漫，荣是出泥涂。\n三叹承汤鼎，千欢接舜壶。\n微躯不可荅，空欲咏依蒲。",
@@ -112,7 +88,7 @@
         "collection_info": null
     },
     {
-        "uuid": "eb3a6e5939b2dd4ca4ac3b1640eb3d6e",
+        "uuid": "7a0815f0ab1ac99dc5df2a73dba5490d",
         "title": "奉和圣制送张说巡边",
         "author": "贺知章",
         "content": "荒憬尽怀忠，梯航已自通。\n九攻虽不战，五月尚持戎。\n遣戍征周牒，恢边重汉功。\n选车命元宰，授律取文雄。\n胄出天弧上，谋成帝幄中。\n诏旗分夏物，专土锡唐弓。\n帐宿伊川右，钲传晋苑东。\n饔人藉蕡实，乐正理丝桐。\n岐陌涵余雨，离川照晚虹。\n恭闻咏方叔，千载舞皇风。",
@@ -120,7 +96,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c345cdea05f8628bde9f1e6705530073",
+        "uuid": "193d4d053d8b6f0a0050d07646c8a5f4",
         "title": "题袁氏别业",
         "author": "贺知章",
         "content": "主人不相识，偶坐为林泉。\n莫谩愁沽酒，囊中自有钱。",
@@ -128,7 +104,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5bd28dc601897f514e9124c135acd85b",
+        "uuid": "9deae545b46a9b8a50b52c16d2603810",
         "title": "咏柳",
         "author": "贺知章",
         "content": "碧玉妆成一树高，万条垂下绿丝縧。\n不知细叶谁裁出，二月春风似剪刀。",
@@ -136,15 +112,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b079751783509e28ec272d5d84c094e8",
-        "title": "采莲曲",
-        "author": "贺知章",
-        "content": "稽山罢雾郁嵯峨，镜水无风也自波。\n莫言春度芳菲尽，别有中流采芰荷。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "509322b61677653b00d0acc8fd999f4d",
+        "uuid": "6934c777564c4dc8ddead518fa33eec4",
         "title": "回乡偶书二首 一",
         "author": "贺知章",
         "content": "少小离家老大回，乡音难改鬓毛衰。\n儿童相见不相识，笑问客从何处来。",
@@ -152,7 +120,7 @@
         "collection_info": null
     },
     {
-        "uuid": "467d0924606e624fb2901e7b9251da17",
+        "uuid": "4745ed8f6e6a1e870b8808ccbfabd7ff",
         "title": "回乡偶书二首 二",
         "author": "贺知章",
         "content": "离别家乡岁月多，近来人事半销磨。\n唯有门前镜湖水，春风不改旧时波。",
@@ -160,7 +128,7 @@
         "collection_info": null
     },
     {
-        "uuid": "762210c37f42a5c82644b12b30feb663",
+        "uuid": "e563e7190ba5a4c17034cbf70513c8b8",
         "title": "答朝士",
         "author": "贺知章",
         "content": "钑镂银盘盛蛤蜊，镜湖莼菜乱如丝。\n乡曲近来隹此味，遮渠不道是吴儿。",
@@ -168,7 +136,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8b8141a4f1580d90eea092aac10a49f4",
+        "uuid": "09ed24d04830c5abc3c22f5d42986444",
         "title": "句",
         "author": "贺知章",
         "content": "落花真好些，一醉一回颠。",
@@ -176,7 +144,7 @@
         "collection_info": null
     },
     {
-        "uuid": "1bd85ef751e6379016dc0a81c9b9197e",
+        "uuid": "2043d4bd7273f8398e7731b235fb4feb",
         "title": "董孝子黯復雠",
         "author": "贺知章",
         "content": "十年心事苦，惟为復恩仇。\n两意既已尽，碧山吾白头。\n（见鄞县张寿镛刻《四明丛书》第一集中《贺秘监集》。\n）。",
@@ -184,7 +152,7 @@
         "collection_info": null
     },
     {
-        "uuid": "55fa2f914cd111a592336cf7d3fab876",
+        "uuid": "0b6bcf41a25817f61571eabd8734eff8",
         "title": "春兴",
         "author": "贺知章",
         "content": "泉喷（疑）横琴膝，花黏漉酒巾。\n杯中不觉老，林下更逢春。\n（日本藏唐抄本《新撰类林抄》卷四，转引自日本京都大学《中国文学报》一九五九年第十一期刊小川环树《〈新撰类林抄〉校读记》）。",
@@ -192,7 +160,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8d7cd2d658a3592c0e7e825f3997bf8a",
+        "uuid": "860f8978daf2c80fdc868dcb16714f07",
         "title": "放达诗",
         "author": "贺知章",
         "content": "落花真好些，一醉一回颠。\n（《诗式》卷一）（按：《全唐诗》卷一一二录句，缺题，今补录之。\n）。",
@@ -200,29 +168,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0592ca52d3022a307ad9d9179a9b2e0c",
-        "title": "相和歌辞：采莲曲",
-        "author": "贺知章",
-        "content": "稽山罢雾郁嵯峨，镜水无风也自波。\n莫言春度芳菲尽，别有中流采芰荷。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十一"
-        }
-    },
-    {
-        "uuid": "4fc495aceab6e0598891bdabd86cadc6",
-        "title": "唐禅社首乐章：顺和",
-        "author": "贺知章",
-        "content": "至哉含柔德，万物资以生。\n常顺称厚载，流谦通变盈。\n圣心事能察，增广陈厥诚。\n黄祇僾如在，泰折俟咸亨。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百一十二"
-        }
-    },
-    {
-        "uuid": "364f30f198910fe7328fcaabbca95f02",
+        "uuid": "c8161a4a9cfc927a9502a4e88c98f8ff",
         "title": "唐禅社首乐章：太和",
         "author": "贺知章",
         "content": "肃我成命，于昭黄祇。\n裘冕而祀，陟降在斯。\n五音克备，八变聿施。\n缉熙肆靖，厥心匪离。",
@@ -233,18 +179,7 @@
         }
     },
     {
-        "uuid": "1d38c9d80783994059feec328f8da547",
-        "title": "唐禅社首乐章：肃和",
-        "author": "贺知章",
-        "content": "黄祇是祗，我其夙夜。\n夤畏诚絜，匪遑宁舍。\n礼以琮玉，荐厥茅藉。\n念兹降康，胡宁克暇。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百一十二"
-        }
-    },
-    {
-        "uuid": "c111ac8d414a709ab0e8c6295c29490d",
+        "uuid": "00e01d3d3bf57896cc1511fbd88404ec",
         "title": "唐禅社首乐章：雍和",
         "author": "贺知章",
         "content": "夙夜宥密，不敢宁宴。\n五齐既陈，八音在县。\n粢盛以絜，房俎斯荐。\n惟德惟馨，尚兹克遍。",
@@ -255,40 +190,7 @@
         }
     },
     {
-        "uuid": "22cb7626f8985342ba8e7a6456b02ec2",
-        "title": "唐禅社首乐章：寿和",
-        "author": "贺知章",
-        "content": "惟以明发，有怀载殷。\n乐盈而反，礼顺其禋。\n立清以献，荐欲是亲。\n于穆不已，裒对斯臻。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百一十二"
-        }
-    },
-    {
-        "uuid": "865108766094b126fc83b002cc94b0a5",
-        "title": "唐禅社首乐章：福和",
-        "author": "贺知章",
-        "content": "穆穆天子，告成岱宗。\n大裘如濡，执珽有颙。\n乐以平志，礼以和容。\n上帝临我，云胡肃邕。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百一十二"
-        }
-    },
-    {
-        "uuid": "de23f53249f7c8e97f718aac5b24944f",
-        "title": "唐禅社首乐章：太和",
-        "author": "贺知章",
-        "content": "昭昭有唐，天俾万国。\n列祖应命，四宗顺则。\n申锡无疆，宗我同德。\n曾孙继绪，享神配极。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百一十二"
-        }
-    },
-    {
-        "uuid": "da279f31f542d9d88dbf4a187eaa52d3",
+        "uuid": "01b1a3b17dd2ee0e3cf8bd6564e42a77",
         "title": "晓发",
         "author": "贺知章",
         "content": "江皋闻曙钟，轻枻理还舼。\n海潮夜约约，川露晨溶溶。\n始见沙上鸟，犹埋云外峰。\n故乡杳无际，明发怀朋从。",
@@ -299,7 +201,7 @@
         }
     },
     {
-        "uuid": "c05314140f65e726b86507f5acf951bd",
+        "uuid": "d5c97668ca83245fc4f798d801b4ae8f",
         "title": "奉和御制春台望",
         "author": "贺知章",
         "content": "青阳布王道，玄览陶真性。\n欣若天下春，高逾域中圣。\n神皋类观赏，帝裏如悬镜。\n缭绕八川浮，岧峣双阙映。\n晓色遍昭阳，晴云卷建章。\n华滋的皪丹青树，自昔秦奢汉穷武，后庭万余宫百数。\n旗回五丈殿千门，乃眷天晴兴隐恤，古来土木良非一。\n荆临章观赵丛台。\n何如尧阶将禹室。\n层栏窈窕下龙舆，清管逶迤半绮疏。\n一听南风引鸾舞，长谣北极仰鹑居。",
@@ -310,7 +212,7 @@
         }
     },
     {
-        "uuid": "73df7d828121f62afc1f19d164dae947",
+        "uuid": "171f8e5bf14dff1c71eabfc0b642f626",
         "title": "望人家桃李花",
         "author": "贺知章",
         "content": "山源夜雨度仙家，朝发东园桃李花。\n桃花红兮李花白，弃置千金轻不顾，踟蹰五马谢相逢。\n徒言南国容华晚，苑中珍木元自奇，黄金作叶白银枝。\n千年万岁不凋落，莫道春花不可树，会持仙实荐君王。",
@@ -321,7 +223,7 @@
         }
     },
     {
-        "uuid": "1d7e1d75418b07900c9c0bf4a8a83afe",
+        "uuid": "81de447f4a554b6999daa4a0ec3be25c",
         "title": "送人之军",
         "author": "贺知章",
         "content": "常经绝脉塞，复见断肠流。\n送子成今别，令人起昔愁。\n陇云晴半雨，边草夏先秋。\n万里长城寄，无贻汉国忧。",
@@ -332,7 +234,7 @@
         }
     },
     {
-        "uuid": "fd1b2ecb4100b4cd416cca706b4e2dcb",
+        "uuid": "1f1e1678a4537f53aba6b089aef7c203",
         "title": "奉和圣制送张说上集贤学士赐宴赋得谟字",
         "author": "贺知章",
         "content": "西学垂玄览，东堂发圣谟。\n天光烛武殿，时宰集鸿都。\n枯朽沾皇泽，翾飞舞帝梧。\n迹同游汗漫，荣是出泥涂。\n三叹承汤鼎，千欢接舜壶。\n微躯不可答，空欲咏依蒲。",
@@ -343,7 +245,7 @@
         }
     },
     {
-        "uuid": "b49280cfc9ee9d0c2268364e042db4a1",
+        "uuid": "c1bf3f1e4eb598333f170a7cc3deb2cb",
         "title": "咏柳",
         "author": "贺知章",
         "content": "碧玉妆成一树高，万条垂下绿丝绦。\n不知细叶谁裁出，二月春风似剪刀。",
@@ -354,7 +256,7 @@
         }
     },
     {
-        "uuid": "195dbc892bd08cb07db479c309218916",
+        "uuid": "bfdbd1a529b0eaf05483814427afb816",
         "title": "回乡偶书二首",
         "author": "贺知章",
         "content": "少小离乡老大回，乡音难改鬓毛衰。\n儿童相见不相识，笑问客从何处来。\n离别家乡岁月多，近来人事半销磨。\n唯有门前镜湖水，春风不改旧时波。",
@@ -365,7 +267,7 @@
         }
     },
     {
-        "uuid": "dd6fd4eecc801940c15a558f78c59291",
+        "uuid": "b866007c30474aa97a4093db343c765c",
         "title": "答朝士",
         "author": "贺知章",
         "content": "fk镂银盘盛蛤蜊，镜湖莼菜乱如丝。\n乡曲近来佳此味，遮渠不道是吴儿。",

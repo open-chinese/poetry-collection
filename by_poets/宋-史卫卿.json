@@ -1,14 +1,6 @@
 [
     {
-        "uuid": "a40376b0178bd35b6f46667051484cf5",
-        "title": "秋步述所见",
-        "author": "史卫卿",
-        "content": "趁晴收断薪，破晓循幽浦。\n山寒树欲风，云重天将雨。\n兔奔初种畦，鸡拾穫残亩。\n叶深樵无踪，水落鱼可数。\n幽草不须生，千林秋已素。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "c3e2e5300f7812b465d30c196404ad34",
+        "uuid": "9eaf840556c6385e406125de3b13339f",
         "title": "捧檄家山",
         "author": "史卫卿",
         "content": "閒居愧未能，淮幕冷于冰。\n家檄官无俸，山吟客有僧。\n池荒眠鹭石，树折饮猿藤。\n寥落谁相问，孤明雨夜灯。",
@@ -16,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "1edfd921a2d0c84f23a26848e550a3d2",
+        "uuid": "05a7c4845e55c6db11aaa60c1002f187",
         "title": "春晴",
         "author": "史卫卿",
         "content": "平明晴可爱，眼界一湖春。\n不见水中鹭，惟多堤上人。\n梅花已白尽，柳色正青新。\n日暮无歌舞，清幽属野身。",
@@ -24,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "87a0ce4f3aa3099b2b0b28eadceb8cbb",
+        "uuid": "863cb3b6b7091facfc7db5a34e216acc",
         "title": "听演师琴",
         "author": "史卫卿",
         "content": "禅悟却参琴，山高水復深。\n七絃手共语，万籁耳无音。\n激烈鬼神泪，发挥天地心。\n秋风时一曲，怀古更伤今。",
@@ -32,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "98c267d22790690ae7cb236afeb38dbd",
+        "uuid": "a63d57985b4dc076636da763b22c4bab",
         "title": "渔父",
         "author": "史卫卿",
         "content": "白头长是醉，湖海不知年。\n活业惟耕纲，全家只住船。\n荷花同鹭宿，杨柳得鱼穿。\n一笛吹明月，朱门谩管絃。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f6afbe8153f84bb4416f4c789abba3ee",
+        "uuid": "531ce2dfaf01d75335311557ecdc80e2",
         "title": "书里中所见",
         "author": "史卫卿",
         "content": "阑干十二缬帘遮，兽栋鳞鳞鼎贵家。\n莫道楼台无地起，满城秋色半槐花。",
@@ -48,23 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "ebdb0b1f21ac6f35db8af574a0b331f7",
-        "title": "所见",
-        "author": "史卫卿",
-        "content": "齐眉沉醉绮罗丛，心事谁知付去鸿。\n不惜千金留粉黛，更无一语怨东风。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "d0a7061dfe2ac72cefb20a640f22c566",
-        "title": "有所见",
-        "author": "史卫卿",
-        "content": "不着画罗金缕衣，寻常打扮最相宜。\n春风燕子楼前过，飘落梨花雪一枝。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "d863c87603bbc073c4ab02fd24abd185",
+        "uuid": "f09d153c76b09a59ec76ac66ee431d81",
         "title": "冷泉观放水",
         "author": "史卫卿",
         "content": "溪流平地响晴雷，石上生风捲雪来。\n醉拍阑干衣袖湿，十分身在白云堆。",
@@ -72,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "002a2687086f5d494609aa1b16c85770",
+        "uuid": "7bbfcc0a6f23700e5d0b728d26ab0b8f",
         "title": "西湖山居灯夕",
         "author": "史卫卿",
         "content": "繁华隔湖水，全似远宸京。\n灯火少年梦，山林此夜情。\n鹤闲梅下立，人静月中行。\n长愿岁时好，吟身见太平。",
@@ -80,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d3adc8cc977d7d27f8643cff909d4f62",
+        "uuid": "e1f24c1db81873941cbcb00b308f245c",
         "title": "依韵奉和司徒侍中龙兴灯夕",
         "author": "史卫卿",
         "content": "宝炬燃红映百坊，佛灯相照有余光。\n樽前尽被公孙礼，席上惟无处士狂。\n午夜笙歌欢是伯，几家帘幕醉成乡。\n都人犹怕春宵短，共乐何妨舞袖长。",

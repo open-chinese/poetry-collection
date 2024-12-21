@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "c90b59851ad9f1795fd20e914233edd8",
+        "uuid": "3e82a12165e35e6f50c8cee2794cc335",
         "title": "郊庙歌辞 享太庙乐章 象德舞",
         "author": "段文昌",
         "content": "肃肃清庙，登显至德。\n泽周八荒，兵定四极。\n生物咸遂，羣盗灭息。\n明圣钦承，子孙千亿。",
@@ -8,15 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "156c92c0a7ce8c0089b684e1e735055c",
-        "title": "享太庙乐章",
-        "author": "段文昌",
-        "content": "肃肃清庙，登显至德。\n泽周八荒，兵定四极。\n生物咸遂，羣盗灭息。\n明圣钦承，子孙千亿。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "614dd18328b6e58f537868d579a1a244",
+        "uuid": "c49ec4a7f5c47a81dcd935d69c8ece92",
         "title": "题武担寺西台",
         "author": "段文昌",
         "content": "秋天如镜空，楼阁尽玲珑。\n水暗余霞外，山明落照中。\n鸟行看渐远，松韵听难穷。\n今日登临意，多欢语笑同。",
@@ -24,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "fcc6e268a6db9890a74e2399539050a9",
+        "uuid": "d350c02eefede9a7906a5a78dae810a2",
         "title": "晚夏登张仪楼呈院中诸公",
         "author": "段文昌",
         "content": "重楼窗户开，四望敛烟埃。\n远岫林端出，清波城下迴。\n乍疑蝉韵促，稍觉雪风来。\n併起乡关思，销忧在酒杯。",
@@ -32,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "bc34cf193cf2f097ad2315f8cf453da7",
+        "uuid": "8fe19ec33ddc959458ddf9992a6e92dd",
         "title": "还别业寻龙华山寺广宣上人",
         "author": "段文昌",
         "content": "十里惟闻松桂风，江山忽转见龙宫。\n正与休师方话旧，风烟几度入楼中。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "fbc6874555938877e8f31ac1bddd0118",
+        "uuid": "54822e9fb2d653b561867e0f878af2c4",
         "title": "郊庙歌辞：享太庙乐章：象德舞",
         "author": "段文昌",
         "content": "肃肃清庙，登显至德。\n泽周八荒，兵定四极。\n生物咸遂，群盗灭息。\n明圣钦承，子孙千亿。",
@@ -51,18 +43,7 @@
         }
     },
     {
-        "uuid": "c604dea7ebef4690a0ded2f84d07b382",
-        "title": "享太庙乐章",
-        "author": "段文昌",
-        "content": "肃肃清庙，登显至德。\n泽周八荒，兵定四极。\n生物咸遂，群盗灭息。\n明圣钦承，子孙千亿。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百三十一"
-        }
-    },
-    {
-        "uuid": "3c26444b3f132b4b62ac3ca3a5824d34",
+        "uuid": "1e0d01157476338e2e4ba324914d2fad",
         "title": "晚夏登张仪楼呈院中诸公",
         "author": "段文昌",
         "content": "重楼窗户开，四望敛烟埃。\n远岫林端出，清波城下回。\n乍疑蝉韵促，稍觉雪风来。\n并起乡关思，销忧在酒杯。",
@@ -73,7 +54,7 @@
         }
     },
     {
-        "uuid": "3b4aaf98723960efef335361624569b8",
+        "uuid": "ab9f59d86458c2a478c04ba780d85f50",
         "title": "还别业寻龙华山寺广宣上人",
         "author": "段文昌",
         "content": "十裏惟闻松桂风，江山忽转见龙宫。\n正与休师方话旧，风烟几度入楼中。",

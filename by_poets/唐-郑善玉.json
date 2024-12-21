@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "ba249d390cd4ed631fcd4e91ff4f9457",
+        "uuid": "3234666031b0c3d2169f758843ade3fd",
         "title": "郊庙歌辞 仪坤庙乐章 雍和",
         "author": "郑善玉",
         "content": "酌郁既灌，芗萧方爇。\n笾豆静器，簠簋芬飶。\n鱼腊荐美，牲牷表洁。\n是戢是将，载迎载列。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5a890de9541c5b26a2e15334e231511d",
+        "uuid": "5c8935eee4959d41cf4b04a4d69bc9fc",
         "title": "仪坤庙乐章",
         "author": "郑善玉",
         "content": "酌郁既灌，取萧方爇。\n笾豆静器，簠簋芬飶。\n鱼腊荐美，牲牷表絜。\n是戢是将，载迎载列。",
@@ -16,18 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "e9487fdba2f1f83346d8b7d842511956",
-        "title": "郊庙歌辞：仪坤庙乐章：雍和",
-        "author": "郑善玉",
-        "content": "酌郁既灌，芗萧方爇。\n笾豆静器，簠簋芬飶。\n鱼腊荐美，牲牷表洁。\n是戢是将，载迎载列。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十四"
-        }
-    },
-    {
-        "uuid": "d8601adca1a83d777576d31ec4381086",
+        "uuid": "032eaeb224080f85791a4d3c88e6af41",
         "title": "仪坤庙乐章",
         "author": "郑善玉",
         "content": "酌郁既灌，取萧方爇，笾豆静器，簠簋芬飶。\n鱼腊荐美，牲牷表絜。\n是戢是将，载迎载列。",

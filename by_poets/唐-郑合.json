@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "9bf69ef1f9c6fa6112a2bc412f6dc94c",
+        "uuid": "3396b1bd0e39f26fc7c81429c2dce6c2",
         "title": "及第后宿平康里诗",
         "author": "郑合",
         "content": "春来无处不闲行，楚润相看别有情。\n好是五更残酒醒，时时闻唤状头声。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "330c03683f668a3950a9c0681d4d9473",
-        "title": "及第后宿平康裏诗",
-        "author": "郑合",
-        "content": "春来无处不闲行，楚润相看别有情。\n好是五更残酒醒，时时闻唤状头声。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六百六十七"
-        }
     }
 ]

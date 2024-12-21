@@ -1,17 +1,6 @@
 [
     {
-        "uuid": "d191a2808808a569dd72f589afffacb4",
-        "title": "登游齐山",
-        "author": "许坚1",
-        "content": "星使南驰入楚重，此山偏得驻行踪。\n落花满地月华冷，寂寞旧山三四峰。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百五十七"
-        }
-    },
-    {
-        "uuid": "6ebb5ded1cbe54d48c3f3d16ed29cfe2",
+        "uuid": "9d0cd3d58a7a7c49be931e8ad683de76",
         "title": "游溧阳下山寺",
         "author": "许坚1",
         "content": "地枕吴溪与越峰，前朝恩锡灵泉额。\n竹林晴见雁塔高，客有经年说别林，落日啼猿情脉脉。",
@@ -22,7 +11,7 @@
         }
     },
     {
-        "uuid": "5e72cbeaaf0fe7fef57ac2c2afd19853",
+        "uuid": "4c7537eb7e6dcf9e74e2437742a05658",
         "title": "题幽栖观",
         "author": "许坚1",
         "content": "仙翁上升去，丹井寄晴壑。\n山色接天台，湖光照寥廓。\n玉洞绝无人，老桧犹栖鹤。\n我欲掣青蛇，他时冲碧落。",
@@ -33,18 +22,7 @@
         }
     },
     {
-        "uuid": "ec0e0b1a9b93b5ca1d932d9ca301f340",
-        "title": "上舍人徐铉",
-        "author": "许坚1",
-        "content": "几宵烟月锁楼台，欲寄侯门荐下才。\n满面尘埃人不识，谩随流水出山来。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百五十七"
-        }
-    },
-    {
-        "uuid": "c511f8751f6343f51806fc1410990488",
+        "uuid": "2d6c11616e7d1d9bbecdaac1bb8b23d6",
         "title": "题茅山观",
         "author": "许坚1",
         "content": "常恨清风千载郁，洞天令得恣游遨。\n松楸古色玉坛静，分明有个长生路，休向红尘叹二毛。",

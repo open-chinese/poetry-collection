@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "8e1f9d75ba97535822356b621b7e1d96",
+        "uuid": "550a39acff9ad6ad8acfdb855aa458f4",
         "title": "郊庙歌辞 享文敬太子庙乐章 送神",
         "author": "张荐",
         "content": "三献具举，九旗将旋。\n追劳表德，罢享宾天。\n风引仙管，堂虚画筵。\n芳馨常在，瞻望悠然。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b8b859056e9b355f59caad32ee2b490e",
+        "uuid": "bf59d1cb94aea56a43c8b6da6b5fd80b",
         "title": "奉酬礼部阁老转韵离合见赠",
         "author": "张荐",
         "content": "移居既同里，多幸陪君子。\n弘雅重当朝，弓旌早见招。\n植根琼林圃，直夜金闺步。\n劝深子玉铭，力竞相如赋。\n间阔向春闱，日復想光仪。\n格言信难继，木石强为词。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d72f4034263020153a52474ad4188f70",
+        "uuid": "37e0557e591b897805c755f027c7ee78",
         "title": "和潘孟阳春日雪迴文绝句",
         "author": "张荐",
         "content": "迟迟日气暖，漫漫雪天春。\n知君欲醉饮，思见此交亲。",
@@ -24,29 +24,10 @@
         "collection_info": null
     },
     {
-        "uuid": "df309a8af7e51364dde6c7b259c567b7",
-        "title": "享文恭太子庙乐章",
-        "author": "张荐",
-        "content": "三献具举，九旗将旋。\n追劳表德，罢享宾天。\n风引仙管，堂虚画筵。\n芳馨常在，瞻望悠然。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "cf17c1602fc90511d06368ee9082da21",
+        "uuid": "d56cec1c1e6ba066c6dbdb31ecbcedf1",
         "title": "奉酬礼部阁老转韵离合见赠",
         "author": "张荐",
         "content": "移居既同裏，多幸陪君子。\n弘雅重当朝，弓旌早见招。\n植根琼林圃，直夜金闺步。\n劝深子玉铭，力竞相如赋。\n间阔向春闱，日复想光仪。\n格言信难继，木石强为词。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百三十"
-        }
-    },
-    {
-        "uuid": "6bb32324e6b6460e2d26d80a7ab7bf1c",
-        "title": "和潘孟阳春日雪回文绝句",
-        "author": "张荐",
-        "content": "迟迟日气暖，漫漫雪天春。\n知君欲醉饮，思见此交亲。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

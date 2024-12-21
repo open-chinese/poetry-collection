@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "bfeccfce69b6138b122d8f1ebe8b94a7",
+        "uuid": "bc7fe845d00c609a49f474e083c8b4e2",
         "title": "题洛苑梧叶上",
         "author": "天宝宫人",
         "content": "旧宠悲秋扇，新恩寄早春。\n聊题一片叶，将寄接流人。",
@@ -8,22 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "95f260823b8b788bbbf46312d3472619",
+        "uuid": "880abcea189dafdd828c0f7cbf39af3a",
         "title": "又题洛苑梧叶上",
         "author": "天宝宫人",
         "content": "一叶题诗出禁城，谁人酬和独含情。\n自嗟不及波中叶，荡漾乘春取次行。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "49287bc404b3e14913380dbd7994c1ec",
-        "title": "又题",
-        "author": "天宝宫人",
-        "content": "一叶题诗出禁城，谁人酬和独含情。\n自嗟不及波中叶，荡漾乘春取次行。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百九十七"
-        }
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "6c6d76940f154427eb85624a6da4a078",
+        "uuid": "e56c803e2d34bcfd06a22b78530e135d",
         "title": "偈九首  其一",
         "author": "释惟清",
         "content": "浮云散尽狂波止，天上玉蟾水底圆。\n皎洁迥然通湛寂，此时消息若为传。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "98f51dddded83cf168495fc95a6d830e",
+        "uuid": "35bdb267b60b0fa3aa426b9894f7a9f4",
         "title": "偈九首  其二",
         "author": "释惟清",
         "content": "时时是好时，日日是好日。\n乌兔体全身，灵机何处觅。\n今朝看见昨朝人，依旧眼睛光似漆。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2162d1c527d2cef25e8bd7da7429b5ba",
+        "uuid": "8364bee76a67ae54205fdd9031af4a24",
         "title": "偈九首  其三",
         "author": "释惟清",
         "content": "古佛不到处，诸人共用。\n诸人不到处，古佛同参。\n同参共用如何显，种田博饭机非浅。\n因思昔日老师言，三界本无何用免。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "711b48403f12aea049492bd95298cf65",
+        "uuid": "b3a184b5be8d8218bcb5981708dc9f2b",
         "title": "偈九首  其四",
         "author": "释惟清",
         "content": "江月照，松风吹，永夜清宵更是谁。\n雾露云霞遮不得，箇中犹道不如归。\n復何归，荷叶团团团似镜，菱角尖尖尖似锥。",
@@ -32,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c355da9f1af7fa8d9cb9bd1d59dfbf1d",
+        "uuid": "2106a695709cc26021d379bdf23788c6",
         "title": "偈九首  其五",
         "author": "释惟清",
         "content": "天机藏不得，花笑鸟啼时。\n不待重拈出，当人合自知。",
@@ -40,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "613dd985545d8bf19a6fe4f0884fac16",
+        "uuid": "03d4265e3b8d9adb8acb12b124c1005b",
         "title": "偈九首  其六",
         "author": "释惟清",
         "content": "山是山，水是水。\n僧是僧，俗是俗。\n更将何物演真乘，六六元来三十六。",
@@ -48,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c28523f3f15cfa1c51731ce0462acf86",
+        "uuid": "1d5d87e24061df353c738f2ba0ea8256",
         "title": "偈九首  其七",
         "author": "释惟清",
         "content": "一是一，二是二。\n头上是天，脚下是地。\n饥即餐兮困即睡，人人皆受如来记。",
@@ -56,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "9af53da43b796a3bd93eef920e3f857a",
+        "uuid": "dc2ce8bd1d78f21919feeb5fa9282f6f",
         "title": "偈九首  其八",
         "author": "释惟清",
         "content": "三世诸佛，不知有恩无重报。\n狸奴白牯，却知有功不浪施。\n明大用，晓全机。\n绝踪迹，不思议。\n归去好，无人知。\n衝开碧落松千尺，截断红尘水一溪。",
@@ -64,7 +64,7 @@
         "collection_info": null
     },
     {
-        "uuid": "ad3ca55a8716a7c410e07c410579e3cb",
+        "uuid": "3cef8b304644d0b9b6cda1e1fd711e7f",
         "title": "偈九首  其九",
         "author": "释惟清",
         "content": "衲僧照彻千差眼，缁素浅深毫髮分。\n分处莫非全正令，法王那得独称尊。",
@@ -72,26 +72,10 @@
         "collection_info": null
     },
     {
-        "uuid": "871b49cf3f6416fa466c7dbf7a49603c",
+        "uuid": "a99eb574eab708413a9d7903bf7e7f4c",
         "title": "辞无尽居士",
         "author": "释惟清",
         "content": "无地无锥彻骨贫，利生深愧乏余珍。\n廛中大施门难启，乞与青山养病身。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "988353d058b8ea72363b1e9cc0691465",
-        "title": "偈二首  其一",
-        "author": "释惟清",
-        "content": "东坡笑说吃龙肉，舌底那知已嚥津。\n能省嚥津真有味，会言龙肉不为珍。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "80f65f627c54c3641dcdc1a62cded26f",
-        "title": "偈二首  其二",
-        "author": "释惟清",
-        "content": "何知龙肉即猪肉，细语粗言尽入神。\n惜彼当年老居士，大机曾未脱根尘。",
         "dynasty": "宋",
         "collection_info": null
     }

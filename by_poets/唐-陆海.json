@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "548404ce55c371cf8ca5a6b751d79025",
+        "uuid": "ad90f07fb39f1bfc704a89bfafb3108c",
         "title": "题奉国寺",
         "author": "陆海",
         "content": "新秋夜何爽，露下风转凄。\n一盘竹林外，千灯花塔西。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "32c1995bab1b17b51beaa6159f60a21d",
+        "uuid": "ce3837210989aa407e7cab7ac8c2dba4",
         "title": "题龙门寺",
         "author": "陆海",
         "content": "窗灯林霭裏，闻磬水声中。\n更与龙华会，炉烟满夕风。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "cd621477e5f60f8279b6c623d8792679",
+        "uuid": "927c142f36e10b21ebfd1301ea836376",
         "title": "句",
         "author": "陆海",
         "content": "忽然一曲称君心，破却中人百家产。\n城外平人驱欲尽，帐中犹打衮花毬。",
@@ -24,21 +24,10 @@
         "collection_info": null
     },
     {
-        "uuid": "d64f11354bf52178a102cc5771625aa4",
+        "uuid": "a1ad2dfa5af0f76a3504dac3965faa81",
         "title": "题奉国寺",
         "author": "陆海",
         "content": "新秋夜何爽，露下风转凄。\n一磬竹林外，千灯花塔西。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百二十四"
-        }
-    },
-    {
-        "uuid": "a975ba2395000ec5d39b7a8304167a65",
-        "title": "句",
-        "author": "陆海",
-        "content": "忽然一曲称君心，破却中人百家产。\n城外平人驱欲尽，帐中犹打衮花球。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

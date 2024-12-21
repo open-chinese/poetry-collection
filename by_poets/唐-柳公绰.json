@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "f0285a25ca42691d3ec46ebc88994db2",
+        "uuid": "f42c7f8e4b9327848b9120ce5f826fa3",
         "title": "和武相公锦楼翫月得浓字",
         "author": "柳公绰",
         "content": "此夜年年月，偏宜此地逢。\n近看江水浅，遥辨雪山重。\n万井金花肃，千林玉露浓。\n不唯楼上思，飞盖亦陪从。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5eb168f09b7af5a2a3976aeb320a76cb",
+        "uuid": "63105d71857e1210d57c1f1dfb0122b7",
         "title": "题梓州牛头寺",
         "author": "柳公绰",
         "content": "一出西城第二桥，两边山木晚萧萧。\n井花净洗行人耳，留听溪声入夜潮。",
@@ -16,22 +16,11 @@
         "collection_info": null
     },
     {
-        "uuid": "94603248f46b4603099352b7938c3d8a",
+        "uuid": "c9cc29d36470494ae45562bce04d48b9",
         "title": "赠毛仙翁",
         "author": "柳公绰",
         "content": "桃源千里远，花洞四时春。\n中有含真客，长为不死人。\n松高枝叶茂，鹤老羽毛新。\n莫遣同篱槿，朝荣暮化尘。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "6f63060f9e81534446884e3166d428d6",
-        "title": "和武相锦楼玩月得浓字",
-        "author": "柳公绰",
-        "content": "此夜年年月，偏宜此地逢。\n近看江水浅，遥辨雪山重。\n万井金花肃，千林玉露浓。\n不唯楼上思，飞盖亦陪从。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百一十八"
-        }
     }
 ]

@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "830daae95368529ae3fd56fbf99df7e7",
+        "uuid": "8a21d972f6facb1a19fe7a0778c752c4",
         "title": "戏荅成汭",
         "author": "徐彦若",
         "content": "南海黄茅瘴，不死成和尚。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "0317a2b98cf977706f3838c08f209610",
-        "title": "戏答成汭",
-        "author": "徐彦若",
-        "content": "南海黄茅瘴，不死成和尚。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百七十"
-        }
     }
 ]

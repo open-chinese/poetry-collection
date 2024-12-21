@@ -1,14 +1,6 @@
 [
     {
-        "uuid": "3741bd2920b375e001ad8c5c5ae607cb",
-        "title": "丈亭馆",
-        "author": "释义铦",
-        "content": "青山历历映江流，半是明州半越州。\n亭下寒潮亭上客，不知来往几时休。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "6f7b3cec9642c0a5713ad9ed1c37a9ca",
+        "uuid": "d92508396e33cdd5be566ee17ef0a4c7",
         "title": "句  其一",
         "author": "释义铦",
         "content": "采石浪寒青冢暗。",
@@ -16,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "6f3b636f8e098a359321486b7654cfa8",
+        "uuid": "9c0b82f52bf2a4f2c71a2d8d9f1dea8d",
         "title": "句  其二",
         "author": "释义铦",
         "content": "无热天中第一仙。",
@@ -24,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "fab7f7afa6948e4598674f6d4d1e4a30",
+        "uuid": "2b6ec0b69e036bdf655efb290f0a5efa",
         "title": "句  其三",
         "author": "释义铦",
         "content": "风标高古汉唐无。",
@@ -32,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "99039aa0adcba3f89c683ffa0e0bc480",
+        "uuid": "151912ec2e89d12c4362e028f1da6fe1",
         "title": "句  其四",
         "author": "释义铦",
         "content": "冰霜过了翩然去。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "6b715757197aad25f78574894e866092",
+        "uuid": "5e064ce0cb0278035ed6906785c9304a",
         "title": "句  其五",
         "author": "释义铦",
         "content": "平生一点调元意。",

@@ -1,32 +1,10 @@
 [
     {
-        "uuid": "9650aefd124982dfa740bdb99abd0cd1",
+        "uuid": "f2976741076a226b9a3679b2a95bc643",
         "title": "感怀诗",
         "author": "龙女",
         "content": "海门连洞庭，每去三千里。\n十载一归来，辛苦潇湘水。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "29c82f243093185a03aab7fc673fa1b3",
-        "title": "与何光远赠答诗",
-        "author": "龙女",
-        "content": "坐久风吹绿绮寒，九天月照水精盘。\n不思却返沈潜去，为惜春光一夜欢。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十四"
-        }
-    },
-    {
-        "uuid": "db41b7fab00ca657f9c1ba1b13d34d88",
-        "title": "与何光远赠答诗",
-        "author": "龙女",
-        "content": "负妾当时寤寐求，从兹粉面阻绸缪。\n宫空月苦瑶云断，寂寞巴江水自流。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十四"
-        }
     }
 ]

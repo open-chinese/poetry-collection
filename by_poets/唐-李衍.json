@@ -1,17 +1,6 @@
 [
     {
-        "uuid": "69db122e40bb037faafa2e8c37aa6397",
-        "title": "幸秦川上梓潼山",
-        "author": "李衍",
-        "content": "乔岩簇冷烟，幽径上寒天。\n下瞰峨眉岭，上窥华岳巅。\n驱驰非取乐，按幸为忧边。\n此去如登陟，歌楼路几千。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八"
-        }
-    },
-    {
-        "uuid": "e4444c53a56c769b3333c3e24056b612",
+        "uuid": "a3bf2a2cf0f7c7db2aa2ab87cd09c50a",
         "title": "题剑门",
         "author": "李衍",
         "content": "缓辔逾双剑，行行蹑石棱。\n作千寻壁垒，为万祀依凭。\n道德虽无取，江山粗可矜。\n回看城阙路，云迭树层层。",
@@ -22,43 +11,10 @@
         }
     },
     {
-        "uuid": "aaa1d50badaa5c4c337949fe226d9e7b",
+        "uuid": "5ae533ba2ca3df54beadc9f7663cda98",
         "title": "过白卫岭和韩昭",
         "author": "李衍",
         "content": "先朝神武力开边，画断封疆四五千。\n前望陇山屯剑戟，想到隗宫寻胜处，正应莺语暮春天。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八"
-        }
-    },
-    {
-        "uuid": "4bec9140e15b48f9b8346b80abdc6606",
-        "title": "宫词",
-        "author": "李衍",
-        "content": "辉辉赫赫浮玉云，宣华池上月华新。\n月华如水浸宫殿，有酒不醉真痴人。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八"
-        }
-    },
-    {
-        "uuid": "7f0f9c61fc7fabf78d5f5c0ffbed016e",
-        "title": "醉妆词",
-        "author": "李衍",
-        "content": "者边走，那边走，只是寻花柳。\n那边走，者边走，莫厌金杯酒。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八"
-        }
-    },
-    {
-        "uuid": "0ca6f5a0ddb593be6dfa5e4bb91c7c28",
-        "title": "句",
-        "author": "李衍",
-        "content": "不缘朝阙去，好此结茅庐。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

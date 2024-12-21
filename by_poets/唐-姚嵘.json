@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "b17373b02ec31efb2c8a46c2a247c751",
+        "uuid": "fbdf73e320dc47c313a6aa347fca138e",
         "title": "题大梁临汴驿",
         "author": "姚嵘",
         "content": "近日侯门不重才，莫将文艺拟为媒。\n相逢若要如胶漆，不是红妆即拨灰。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "b8e7cd78993b377c4a74467425969ca7",
-        "title": "题大樑临汴驿",
-        "author": "姚嵘",
-        "content": "近日侯门不重才，莫将文艺拟为媒。\n相逢若要如胶漆，不是红妆即拨灰。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百七十"
-        }
     }
 ]

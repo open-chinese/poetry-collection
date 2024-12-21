@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "91f6789b2411ada49924e1f3bf66dab7",
+        "uuid": "7af586201fe114f196b65e06ebdd77d7",
         "title": "句 一",
         "author": "李昪",
         "content": "蛟髩凤钗慵不整。\n（胡伟《宫词》）。",
@@ -8,22 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "71f502d48816ec2d3538b1b3f07ba6c4",
+        "uuid": "2db749a6e5067468b6027b74d219ac4c",
         "title": "句 二",
         "author": "李昪",
         "content": "朱扉尽日镇长扃。\n（同前。\n）。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "661fa2e5e759dbb788e1bad6beeeb9de",
-        "title": "咏灯",
-        "author": "李昪",
-        "content": "一点分明值万金，开时惟怕冷风侵。\n主人若也勤挑拨，敢向尊前不尽心。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八"
-        }
     }
 ]

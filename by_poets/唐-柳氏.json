@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "2b8a53276ca34c555337b0829b012ca9",
+        "uuid": "1d5f3c4fb3b59e90f5b4232fce6ae727",
         "title": "荅韩翃",
         "author": "柳氏",
         "content": "杨柳枝，芳菲节，可恨年年赠离别。\n一叶随风忽报秋，纵使君来岂堪折。",
@@ -8,15 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b7574a8c7a0dfbde3daef1a0de46a222",
-        "title": "杨柳枝",
-        "author": "柳氏",
-        "content": "杨柳枝，芳菲节，可恨年年赠离别。\n一叶随风忽报秋，纵使君来岂堪折。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "268b8dc01442c04f02e1b2f736068747",
+        "uuid": "4631fb9640a92e25691cf8b2482e1762",
         "title": "答韩翃",
         "author": "柳氏",
         "content": "杨柳枝，芳菲节，可恨年年赠离别。\n一叶随风忽报秋，",
@@ -24,17 +16,6 @@
         "collection_info": {
             "collection": "御定全唐诗",
             "volume": "卷八百"
-        }
-    },
-    {
-        "uuid": "f37a7ac61d44d5ddfe8b5a20ca9eb509",
-        "title": "杨柳枝",
-        "author": "柳氏",
-        "content": "杨柳枝，芳菲节，可恨年年赠离别。\n一叶随风忽报秋，",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百九十九"
         }
     }
 ]

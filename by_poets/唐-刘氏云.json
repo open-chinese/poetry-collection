@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "17de9d8de8a65a09d2abd8ced26909ed",
+        "uuid": "2bb4fea38b5328343a581a3b2941ba20",
         "title": "鼓吹曲辞 有所思",
         "author": "刘氏云",
         "content": "朝亦有所思，暮亦有所思。\n登楼望君处，蔼蔼浮云飞。\n浮云遮却阳关道，向晚谁知妾怀抱。\n玉井苍苔春院深，桐花落地无人扫。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "45fc703f3d178e7dc69a991c95995d54",
+        "uuid": "26213a2d375ccc5412fb218ab8a31ef5",
         "title": "相和歌辞 倢伃怨",
         "author": "刘氏云",
         "content": "君恩不可见，妾岂如秋扇。\n秋扇尚有时，妾身永微贱。\n莫言朝花不復落，娇容几夺昭阳殿。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a1bd1bee34a7b8087e8c9d7b098fe9db",
+        "uuid": "8eda2acd0b98b2b7b51905df18c2aa37",
         "title": "乐府杂曲：鼓吹曲辞：有所思",
         "author": "刘氏云",
         "content": "朝亦有所思，暮亦有所思。\n登楼望君处，蔼蔼浮云飞。\n浮云遮却阳关道，向晚谁知妾怀抱。\n玉井苍苔春院深，",
@@ -24,17 +24,6 @@
         "collection_info": {
             "collection": "御定全唐诗",
             "volume": "卷一十七"
-        }
-    },
-    {
-        "uuid": "e1fd360c8fcc723f2a1726f6778bec17",
-        "title": "相和歌辞：婕妤怨",
-        "author": "刘氏云",
-        "content": "君恩不可见，妾岂如秋扇。\n秋扇尚有时，妾身永微贱。\n莫言朝花不復落，娇容几夺昭阳殿。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十"
         }
     }
 ]

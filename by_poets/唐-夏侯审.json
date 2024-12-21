@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "bf82654bfd2ca36735a1098c345fa23d",
+        "uuid": "888c52c5ff303b41dae20083456e349a",
         "title": "咏被中绣鞵",
         "author": "夏侯审",
         "content": "云裏蟾钩落凤窝，玉郎沈醉也摩挲。\n陈王当日风流减，只向波间见袜罗。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "2c354641f523d955a759f6307fe97135",
-        "title": "咏被中绣鞋",
-        "author": "夏侯审",
-        "content": "云裏蟾钩落凤窝，玉郎沈醉也摩挲。\n陈王当日风流减，只向波间见袜罗。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百九十五"
-        }
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "b3746f1c04cbb24fe0edce6fda838d16",
+        "uuid": "fbeb514eb8507f22a01674fa0bd83f14",
         "title": "秋日游合江戏题之亭上",
         "author": "郭思",
         "content": "秋风锦水乐无涯，独上亭轩四望嘉。\n橘子满林金作块，芦梢拂岸雪飞花。\n酒旗高挂芙蓉港，渔棹斜趋菡萏家。\n描入画图收取去，故人相对饮流霞。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "53555edb7ce0849e46ed32b02ec0e9e3",
+        "uuid": "21a411bc1a55c0783ee3ceed957e0d6d",
         "title": "剑门",
         "author": "郭思",
         "content": "斵石为梁铁作枢，武侯于此济师徒。\n鞭山怒气金鰲伏，架壑宏模玉蝀摅。",
@@ -16,18 +16,10 @@
         "collection_info": null
     },
     {
-        "uuid": "069cd326f320cabc3c80b2900a2c2767",
+        "uuid": "b4702e0d8031665550920aa2cea4318f",
         "title": "句  其一",
         "author": "郭思",
         "content": "猿戏山花暖，人行塞柳青。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "9621cc7da58d7312633c878bc4d7dcdb",
-        "title": "句  其二",
-        "author": "郭思",
-        "content": "落星一石几千年，门外何人扣汉川。",
         "dynasty": "宋",
         "collection_info": null
     }

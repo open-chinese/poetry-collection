@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "5903c038694a6ea5c8de1c4ae2f9ae3c",
+        "uuid": "2497e27a6d018794599c166ba35b97e0",
         "title": "鼓吹曲辞 巫山高",
         "author": "张循之",
         "content": "巫山高不极，沓沓状奇新。\n暗谷疑风雨，幽岩若鬼神。\n月明三峡曙，潮满二江春。\n为问阳台夕，应知入梦人。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0aaf179f26d73c77919a45ba1fd5ac6f",
+        "uuid": "d862271a7e15a29b76e07850075e0bd9",
         "title": "巫山高",
         "author": "张循之",
         "content": "巫山高不极，合沓状奇新。\n暗谷疑风雨，阴崖若鬼神。\n月明三峡晓，潮满九江春。\n为问阳台客，应知入梦人。",
@@ -16,15 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "afb687003637b7fc4e87aacf20a6eab2",
-        "title": "送泉州李使君之任",
-        "author": "张循之",
-        "content": "傍海皆荒服，分符重汉臣。\n云山百越路，市井十洲人。\n执玉来朝远，还珠入贡频。\n连年不见雪，到处即行春。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "e13143ae4ebe3ea9c25268fd172e0e17",
+        "uuid": "4db86d37a014abb894119e7955ccba1a",
         "title": "长门怨",
         "author": "张循之",
         "content": "长门落景尽，洞房秋月明。\n玉阶草露积，金屋网尘生。\n妾妬今应改，君恩惜未平。\n寄语临邛客，何时作赋成。",
@@ -32,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a0c288df11ff0e6a2697853e4f37454a",
+        "uuid": "00bb21e931993c6d69a80d363b4bddb6",
         "title": "巫山",
         "author": "张循之",
         "content": "流景一何速，年华不可追。\n解佩安所赠，怨咽空自悲。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "768303d987aed84e2717e3f47f72d408",
+        "uuid": "8fc123a01d8f7e13500c70e870fd0543",
         "title": "送王汶宰江阴",
         "author": "张循之",
         "content": "郡北乘流去，花间竟日行。\n海鱼朝满市，江鸟夜喧城。\n让酒非关病，援琴不在声。\n应缘五斗米，数日滞渊明。",
@@ -48,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "dfe11e9d16760c84e61eeaed4e2a42bb",
+        "uuid": "a7c97d7c63062ecbe34fcda49681e355",
         "title": "婺州留别邓使君",
         "author": "张循之",
         "content": "西掖驰名久，东阳出守时。\n江山婺女分，风月隐侯诗。\n别恨双溪急，留欢五马迟。\n迴舟暎沙屿，未远剩相思。",
@@ -56,18 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "75639940416881eba0c0ed2653f9ac53",
-        "title": "乐府杂曲：鼓吹曲辞：巫山高",
-        "author": "张循之",
-        "content": "巫山高不极，沓沓状奇新。\n暗谷疑风雨，幽岩若鬼神。\n月明三峡曙，潮满二江春。\n为问阳台夕，应知入梦人。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十七"
-        }
-    },
-    {
-        "uuid": "fac47d030cf96bd3ddf949705f5354d2",
+        "uuid": "5812a40b7f7dba096260b16e28feae2e",
         "title": "长门怨",
         "author": "张循之",
         "content": "长门落景尽，洞房秋月明。\n玉阶草露积，金屋网尘生。\n妾妒今应改，君恩惜未平。\n寄语临邛客，何时作赋成。",
@@ -78,7 +59,7 @@
         }
     },
     {
-        "uuid": "065130cc7709d2a9198fd2b9d2967336",
+        "uuid": "f0c04af2b1080c5e75b9e65f8896fc6b",
         "title": "婺州留别邓使君",
         "author": "张循之",
         "content": "西掖驰名久，东阳出守时。\n江山婺女分，风月隐侯诗。\n别恨双溪急，留欢五马迟。\n回舟映沙屿，未远剩相思。",

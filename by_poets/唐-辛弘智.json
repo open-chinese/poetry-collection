@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "50d0da7945ef751604f25e913c714cad",
+        "uuid": "df91a3d2e3d9a86f7cf0114ed03e4391",
         "title": "杂曲歌辞 自君之出矣",
         "author": "辛弘智",
         "content": "自君之出矣，梁尘静不飞。\n思君如满月，夜夜减容晖。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0836aad8763622a02a7217468d93d9e5",
+        "uuid": "aeb122cf114b8d1e4e7bb8680381315c",
         "title": "赋诗",
         "author": "辛弘智",
         "content": "君为河边草，逢春心剩生。\n妾如台上镜，得照始分明。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "db44faa8a19c51e2a6ff5f450ea5d7cf",
+        "uuid": "8994589e9a835fabf804484b841ab305",
         "title": "自君之出矣",
         "author": "辛弘智",
         "content": "自君之出矣，梁尘静不飞。\n思君如满月，夜夜减容辉。",
@@ -24,33 +24,11 @@
         "collection_info": null
     },
     {
-        "uuid": "e3157944d0db7bc2ebd18381386b711c",
+        "uuid": "4e02b1edb37139c9387a3ca5088cd8b7",
         "title": "又自君之出矣",
         "author": "辛弘智",
         "content": "自君之出矣，宝镜为谁明。\n思君如陇水，常闻呜咽声。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "f8f694f984a9fd91cc69e37f56d98918",
-        "title": "杂曲歌辞：自君之出矣",
-        "author": "辛弘智",
-        "content": "自君之出矣，梁尘静不飞。\n思君如满月，夜夜减容晖。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十五"
-        }
-    },
-    {
-        "uuid": "1f35785dae8a82f25f9ca576317cdc94",
-        "title": "自君之出矣",
-        "author": "辛弘智",
-        "content": "自君之出矣，宝镜为谁明。\n思君如陇水，常闻呜咽声。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十三"
-        }
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "2871152fcd153a73be6d28cdf627da17",
+        "uuid": "8aa6a7b2d1819479ca182814ceaa09ea",
         "title": "旅中荅喻军事问客情",
         "author": "善生",
         "content": "一自游他国，相逢少故人。\n纵然为客乐，争似在家贫。\n畜恨霜侵鬓，搜诗病入神。\n若非怜片善，谁肯问风尘。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "cc8cd95ef658177b3f0c1b2538b8e965",
+        "uuid": "5ddb0ac31f8b0b0091c0d8c8944d23ff",
         "title": "赠卢逸人",
         "author": "善生",
         "content": "高眠岩野间，至艺敌应难。\n诗苦无多首，药灵惟一丸。\n引泉鱼落釜，攀果露沾冠。\n已得嵇康趣，逢迎事每阑。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "624e378d05381adf218aefbe534ca07f",
+        "uuid": "eefb5f8526cd266b612d7cb720ac689d",
         "title": "送玉禅师",
         "author": "善生",
         "content": "飘然无定迹，迥与律乘违。\n入郭随缘住，思山破夏归。\n盂擎数家饭，衲乞几人衣。\n洞了曹溪旨，宁输俗者机。",
@@ -24,22 +24,11 @@
         "collection_info": null
     },
     {
-        "uuid": "d13a3e9d6d34602268ff530601d613a1",
+        "uuid": "98a10ac8d49dc76686af0dafe8e27148",
         "title": "送智光之南值雨",
         "author": "善生",
         "content": "结束衣囊了，炎州定去游。\n草堂方惜别，山雨为相留。\n又得一宵话，免生千里愁。\n莫辞重卜日，后会必经秋。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "bb7ee262dc427b261ada8698b6d4d8a4",
-        "title": "旅中答喻军事问客情",
-        "author": "善生",
-        "content": "一自游他国，相逢少故人。\n纵然为客乐，争似在家贫。\n畜恨霜侵鬓，搜诗病入神。\n若非怜片善，谁肯问风尘。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百二十三"
-        }
     }
 ]

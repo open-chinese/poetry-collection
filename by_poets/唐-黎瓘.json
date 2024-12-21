@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "7246617ae8ec046d7889463ed1eedd8a",
+        "uuid": "f68b893e36cef98c6da3c1a7f770bd4c",
         "title": "赠漳州崔使君乡饮飜韵诗",
         "author": "黎瓘",
         "content": "惯向溪边折柳杨，因循行客到州漳。\n无端触忤王衙押，不得今朝看饮乡。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "208664751249ba1add5c2cfa73e46d18",
-        "title": "赠漳州崔使君乡饮翻韵诗",
-        "author": "黎瓘",
-        "content": "惯向溪边折柳杨，因循行客到州漳。\n无端触忤王衙押，不得今朝看饮乡。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百七十"
-        }
     }
 ]

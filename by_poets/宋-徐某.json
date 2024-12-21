@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "0024176a249a25162bbed06863b9a676",
+        "uuid": "c676ffdf8c8b8d27372544e7356430d7",
         "title": "句  其一",
         "author": "徐某",
         "content": "仙台之阳石坛东，下有亭亭太古松。",
@@ -8,18 +8,10 @@
         "collection_info": null
     },
     {
-        "uuid": "0840d06fd6b7cb02e12a532399289c40",
+        "uuid": "5871d74289ce93b74eb25cdda4678911",
         "title": "句  其二",
         "author": "徐某",
         "content": "至诚感格合天意，露零青松真上瑞。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "c92f5d65ed0096f0aae664affb204f95",
-        "title": "示女",
-        "author": "徐某",
-        "content": "深宫富贵事风流，莫忘生身老骨头。\n因与太师欢笑处，为吾方便觅彭州。",
         "dynasty": "宋",
         "collection_info": null
     }

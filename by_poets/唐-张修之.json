@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "6313742107714bf285c929057728cc37",
+        "uuid": "f9ebbd0bb272ddd2edcff3e9f4d83021",
         "title": "相和歌辞 长门怨",
         "author": "张修之",
         "content": "长门落景尽，洞房秋月明。\n玉阶草路积，金屋网尘生。\n妾妬今应改，君恩昔未平。",
@@ -8,22 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "a99875b89d04719da8b174e6227da904",
+        "uuid": "420ea0b6c2e37046eab8974e4ae27cbb",
         "title": "长门怨",
         "author": "张修之",
         "content": "长门落景尽，洞房秋月明。\n玉阶草露积，金屋网尘生。\n妾妒今应改，君恩昔未平。\n寄语临邛客，何时作赋成。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "357a46a971bfc11f3a245340ae3cba4e",
-        "title": "相和歌辞：长门怨",
-        "author": "张修之",
-        "content": "长门落景尽，洞房秋月明。\n玉阶草露积，金屋网尘生。\n妾妒今应改，君恩昔未平。\n寄语临邛客，何时作赋成。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十"
-        }
     }
 ]

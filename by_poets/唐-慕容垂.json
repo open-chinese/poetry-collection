@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "43f9774e8f3c90a1c6e27302f61e93f5",
+        "uuid": "999927898f6a9b01daac100bdb8813ef",
         "title": "冢上荅太宗",
         "author": "慕容垂",
         "content": "我昔胜君昔，君今胜我今。\n荣华各异代，何用苦追寻。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "95d7ecb7e39c970b363025db1498bc85",
-        "title": "冢上答太宗",
-        "author": "慕容垂",
-        "content": "我昔胜君昔，君今胜我今。\n荣华各异代，何用苦追寻。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十五"
-        }
     }
 ]
