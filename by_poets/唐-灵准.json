@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "a3140b01a265570d1b4e49174b9e509a",
+        "uuid": "34558b1880440dd796861eb92df7f8a4",
         "title": "逸句",
         "author": "灵准",
         "content": "晴看汉水广，秋觉岘山高。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "b0debd8e7c11df4e95abec84a332646d",
-        "title": "句",
-        "author": "灵准",
-        "content": "晴看汉水广，秋觉岘山高。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百五十一"
-        }
     }
 ]

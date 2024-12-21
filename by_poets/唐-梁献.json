@@ -1,29 +1,10 @@
 [
     {
-        "uuid": "a1f3f5d9644d6ad39d08ddfb16bad931",
+        "uuid": "9928accc248a7ed7405715f33ac231c5",
         "title": "相和歌辞 王昭君",
         "author": "梁献",
         "content": "图画失天真，容华坐误人。\n君恩不可再，妾命在和亲。\n泪点关山月，衣销边塞尘。\n一闻阳鸟至，思绝汉宫春。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "e32b5569026ecf9eb45c2c62f2dfcdf6",
-        "title": "王昭君",
-        "author": "梁献",
-        "content": "图画失天真，容华坐误人。\n君恩不可再，妾命在和亲。\n泪点关山月，衣销边塞尘。\n一闻阳鸟至，思绝汉宫春。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "fad46eb49e19416edc1704096c5917a6",
-        "title": "相和歌辞：王昭君",
-        "author": "梁献",
-        "content": "图画失天真，容华坐误人。\n君恩不可再，妾命在和亲。\n泪点关山月，衣销边塞尘。\n一闻阳鸟至，思绝汉宫春。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十九"
-        }
     }
 ]

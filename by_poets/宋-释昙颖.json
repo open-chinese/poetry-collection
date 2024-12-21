@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "f4d6abf77cef7f3a18e2fd7d637a8dd8",
+        "uuid": "c0b5caec6c5ae15a4c33ed4128546508",
         "title": "小溪",
         "author": "释昙颖",
         "content": "小溪庄上掩柴扉，鸡犬无声月色微。\n一隻小舟临断岸，趁潮来此趁潮归。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "aa831599fafa7d4d57e588fbf959426d",
+        "uuid": "6c127eb4cfb7241aeb80ea250a5f6c9e",
         "title": "偈",
         "author": "释昙颖",
         "content": "秤锤井底忽然浮，老鼠多年变作牛。\n慧空见了拍手笑，三脚猢狲差异猴。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a86505bf2f7f1113c877115b23a97b5c",
+        "uuid": "426066449f162a5910e06a36d9dc7df6",
         "title": "游上雪窦",
         "author": "释昙颖",
         "content": "下雪窦游上雪窦，过云峰后望云峰。\n如趋仙府经三岛，似入天门彻九重。\n无日不飞丹洞鹤，有时忽起隐潭龙。\n只应奉诏西归去，此境何由得再逢。",
@@ -24,15 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b0ac917ab0f6c6efc5bccb35eba2c52e",
-        "title": "四明十题 雪窦山",
-        "author": "释昙颖",
-        "content": "重云不藏春，深窦常有雪。\n晓月号松猿，晴壁挂海霓。\n终恍无心人，区区佩环玦。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "ce3159c725eda83aebc62fdbe7ed5fff",
+        "uuid": "3aa2628a7ec763aa14192231aed6710d",
         "title": "四明十题 龙隐潭",
         "author": "释昙颖",
         "content": "老龙恋潭窟，不雨亦不云。\n吐涎出溪滑，吹腥隔林闻。\n疾雷驱未去，鱼鰲竞纷纷。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "7cd7b8b2ce79da73805c93e7a0279d22",
+        "uuid": "e0f8b3db47689aaa819615f550d69de6",
         "title": "四明十题 含珠林",
         "author": "释昙颖",
         "content": "山为骊龙盘，谷作骊龙顋。\n珠树存其间，谁采明月来。\n何须循海隅，笑蚌未成胎。",
@@ -48,15 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "eab6c0784072a00c080fba43e35969b6",
-        "title": "四明十题 偃盖亭",
-        "author": "释昙颖",
-        "content": "既将茅覆檐，復有松为盖。\n五里入山时，憩此得寒籁。\n曾无康乐游，但见云衲会。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "cbd8a06a9acfa006ad0b6efffebe4741",
+        "uuid": "735b722d9b0e66d9b5d0a9dc5fb9ecc2",
         "title": "四明十题 云外庵",
         "author": "释昙颖",
         "content": "山僧好寂静，入云恨不深。\n峰间一雨昏，林表孤灯沈。\n往来有猿狖，呼啸自成音。",
@@ -64,15 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c7dcd189c1306fc0fa20349c8930bc14",
-        "title": "四明十题 石笋峰",
-        "author": "释昙颖",
-        "content": "巨石如龙孙，耸耸烟雾裏。\n明明落溪口，纳纳喧滩齿。\n何当助斋盂，菌蕃徒为美。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "6cf39c2780e21ea278cda728435014d3",
+        "uuid": "b5902d25dbe566e11f0aa29fe92232c6",
         "title": "四明十题 宴坐岩",
         "author": "释昙颖",
         "content": "心危身亦危，衽席尚颠坠。\n如何岩石上，来坐自安意。\n能喻死生间，无论寤与寐。",
@@ -80,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "86c30792197a415290bbc7a7d2304e67",
+        "uuid": "2177fc9e4f865311dc2a9ce3d004d884",
         "title": "四明十题 三层瀑",
         "author": "释昙颖",
         "content": "山头出飞瀑，落落鸣寒玉。\n再落至山腰，三落至山足。\n欲引煮春山，僧房架刳竹。",
@@ -88,7 +64,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2b02484b945e143bd76db5362c361ee4",
+        "uuid": "75f68761f823ffb4def02cdea50b8a1c",
         "title": "四明十题 丹山洞",
         "author": "释昙颖",
         "content": "山无凤皇飞，洞有仙人迹。\n蝙蝠大如鸦，莓苔偏上屐。\n自惭无道骨，安问缘云客。",
@@ -96,7 +72,7 @@
         "collection_info": null
     },
     {
-        "uuid": "e4c49f6148b47717cda4a6fb2685e7ce",
+        "uuid": "b9a2ea1db713d96d9512f61ae5e0e38b",
         "title": "四明十题 师子岩",
         "author": "释昙颖",
         "content": "岩形若狻猊，不能千里走。\n岂无鸟兽羣，与假风雷吼。\n寄谢栖息人，想像真妄有。",
@@ -104,7 +80,7 @@
         "collection_info": null
     },
     {
-        "uuid": "64d93ee1726ab9b8fe545fe5ab8b3565",
+        "uuid": "a940e76fdc7caa7039d70a3a1d41b8ef",
         "title": "句  其一",
         "author": "释昙颖",
         "content": "三世诸佛是奴婢，一大藏教是涕唾。",
@@ -112,7 +88,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a9ae7975e1d0ca5a51455244f65ee36d",
+        "uuid": "749b6341840d5ad3b816d9346e6c0c34",
         "title": "句  其二",
         "author": "释昙颖",
         "content": "从归青嶂裏，不出白云来。",
@@ -120,7 +96,7 @@
         "collection_info": null
     },
     {
-        "uuid": "75b1833337363f0d1530721edd4e2da2",
+        "uuid": "2a191de41fba25e835e60217b4290f6d",
         "title": "句  其三",
         "author": "释昙颖",
         "content": "自从游紫陌，谁肯隐青山。",
@@ -128,7 +104,7 @@
         "collection_info": null
     },
     {
-        "uuid": "fef06e255eb58902a746aabc4bc9e7d2",
+        "uuid": "69dc1259d882aa962724464434529b92",
         "title": "句  其四",
         "author": "释昙颖",
         "content": "家裏已无回日信，路边空有望乡牌。",
@@ -136,7 +112,7 @@
         "collection_info": null
     },
     {
-        "uuid": "e640ba3c2ac18aa3b928bf774c38620b",
+        "uuid": "c3d0913f3f56f75d5076820684984ab5",
         "title": "句  其五",
         "author": "释昙颖",
         "content": "沧海尽教枯到底，青山直得碾为尘。",
@@ -144,7 +120,7 @@
         "collection_info": null
     },
     {
-        "uuid": "478e4c7f690442f6dc405f0eed2570d5",
+        "uuid": "3630b3a9e98fb3306ef20218636b4693",
         "title": "句  其六",
         "author": "释昙颖",
         "content": "天地尚空秦日月，山河不见汉君臣。",
@@ -152,7 +128,7 @@
         "collection_info": null
     },
     {
-        "uuid": "cf8241b84e37f2280148d356a09e2e03",
+        "uuid": "f8d6130a6df57badf5ae18c98bed5a1b",
         "title": "句  其七",
         "author": "释昙颖",
         "content": "莺啭千林花满地，客游三月草侵天。",
@@ -160,7 +136,7 @@
         "collection_info": null
     },
     {
-        "uuid": "64cfb5668320063d90c21ab3d544d6c2",
+        "uuid": "921e6f4f2fa3bfc890602e38be931e2f",
         "title": "句  其八",
         "author": "释昙颖",
         "content": "深水取鱼长信命，不曾将酒祭江神。",

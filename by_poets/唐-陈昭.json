@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "cc4ab969395f2b38056354aeef576cd8",
+        "uuid": "329274cdc46ad7be772e72d4267136a4",
         "title": "相和歌辞 昭君词",
         "author": "陈昭",
         "content": "跨鞍今永诀，垂泪别亲宾。\n汉地行将远，胡关逐望新。\n交河拥塞路，陇首暗沙尘。\n唯有孤明月，犹能远送人。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "59d74c87c687f6faa9b75015414ea3c6",
-        "title": "相和歌辞：昭君词",
-        "author": "陈昭",
-        "content": "跨鞍今永诀，垂泪别亲宾。\n汉地行将远，胡关逐望新。\n交河拥塞路，陇首暗沙尘。\n唯有孤明月，犹能远送人。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十九"
-        }
     }
 ]

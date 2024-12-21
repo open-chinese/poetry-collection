@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "eee654b402cc878ffb14fdec9eb6adf2",
+        "uuid": "a87bc00b47427c76605f31f9589a40ea",
         "title": "采菊",
         "author": "李建业",
         "content": "簇簇竟相鲜，一枝开几番。\n味甘资曲{艹/糪}，香好胜兰荪。\n古道风摇远，荒篱露压繁。\n盈筐时采得，服饵近知门。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "871cef6bcd5ad4918d70180c913ed150",
-        "title": "采菊",
-        "author": "李建业",
-        "content": "簇簇竟相鲜，一枝开几番。\n味甘资麹糵，香好胜兰荪。\n古道风摇远，荒篱露压繁。\n盈筐时采得，服饵近知门。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十"
-        }
     }
 ]

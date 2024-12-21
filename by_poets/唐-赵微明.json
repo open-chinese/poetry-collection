@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "d0732015450a6ec4ca903f444fb0eae0",
+        "uuid": "f2500873273bec12024e90b5f104adec",
         "title": "相和歌辞 輓歌",
         "author": "赵微明",
         "content": "寒日蒿上明，凄凄郭东路。\n素车谁家子，丹旐引将去。\n原下荆棘丛，丛边有新墓。\n人间痛伤别，此是长别处。\n旷野何萧条，青松白杨树。",
@@ -8,33 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "afedc9d4be7f1f25d814b2af47eba936",
+        "uuid": "82fcfb915a7eb109dd067ddeee2cb695",
         "title": "杂曲歌辞 古离别",
         "author": "赵微明",
         "content": "违别未几日，一日如三秋。\n犹疑望可见，日日上高楼。\n惟见分手处，白苹满芳洲。\n寸心宁死别，不忍生离愁。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "2108fff7a6b25c474e92bb8603467d8c",
-        "title": "相和歌辞：挽歌",
-        "author": "赵微明",
-        "content": "寒日蒿上明，凄凄郭东路。\n素车谁家子，丹旐引将去。\n原下荆棘丛，丛边有新墓。\n人间痛伤别，此是长别处。\n旷野何萧条，青松白杨树。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十九"
-        }
-    },
-    {
-        "uuid": "31a86a4260ae2c278b84997c135486c8",
-        "title": "杂曲歌辞：古离别",
-        "author": "赵微明",
-        "content": "违别未几日，一日如三秋。\n犹疑望可见，日日上高楼。\n惟见分手处，白苹满芳洲。\n寸心宁死别，不忍生离愁。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十六"
-        }
     }
 ]

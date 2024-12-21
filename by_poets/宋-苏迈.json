@@ -1,14 +1,6 @@
 [
     {
-        "uuid": "5b85a5de6ffffe9044d8a1f005ac2af2",
-        "title": "夜坐联句",
-        "author": "苏迈",
-        "content": "清风来无边，明月翳復吐。\n松声满虚空，竹影侵半户。\n暗枝有惊鹊，坏壁鸣饥鼠。\n露叶耿高梧，风萤落空庑。\n微凉感团扇，古意歌白纻。\n乐哉今夕游，获此陪杖屦。\n传家诗律细，已自过宗武。\n短诗膝上成，聊以感怀祖。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "c695c61b40266d13ca16a72d27b968c6",
+        "uuid": "546bc0e2707171bbed4b6deae3c61c45",
         "title": "句  其一",
         "author": "苏迈",
         "content": "熟颗无风时自落，半腮迎日斗鲜红。",
@@ -16,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "bca9b9d36a0b4a6a33d7536cdc84edf5",
+        "uuid": "d81bbfdc0f2cd24f2f7e7657977ade9b",
         "title": "句  其二",
         "author": "苏迈",
         "content": "叶随流水归何处，牛带寒鸦过晚村。",

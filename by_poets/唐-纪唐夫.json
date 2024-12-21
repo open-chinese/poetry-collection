@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "5914749e4554bfa481e6eb18184450df",
+        "uuid": "7b6f3f6593b7d3ffc30e54e74aac0bce",
         "title": "送友人归宜春",
         "author": "纪唐夫",
         "content": "落花兼柳絮，无处不纷纷。\n远道空归去，流莺独自闻。\n墅桥喧碓水，山郭入楼云。\n故里南陔曲，秋期欲送君。",
@@ -8,15 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "874ae163235e02a3abbeb2a41b8f88f3",
-        "title": "骢马曲",
-        "author": "纪唐夫",
-        "content": "连钱出塞蹋沙蓬，岂比当时御史骢。\n逐北自谙深碛路，连嘶谁念静边功。\n登山每与青云合，弄影应知碧草同。\n今日虏平将换妾，不如罗袖舞春风。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "c18c2f979327d179f055bde5619f3ea9",
+        "uuid": "8a6c8df8edf4d29f41b699b1071d87d9",
         "title": "送温庭筠尉方城",
         "author": "纪唐夫",
         "content": "何事明时泣玉频，长安不见杏园春。\n凤皇诏下虽霑命，鹦鹉才高却累身。\n且尽绿醽销积恨，莫辞黄绶拂行尘。\n方城若比长沙路，犹隔千山与万津。",
@@ -24,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "770062d6d612b414e8c474d0a672d979",
+        "uuid": "cf947481ed95cf361a405d3f85d770a7",
         "title": "横吹曲辞：骢马曲",
         "author": "纪唐夫",
         "content": "连钱出塞蹋沙蓬，岂比当时御史骢。\n逐北自谙深碛路，今日虏平将换妾，不如罗袖舞春风。",
@@ -35,18 +27,7 @@
         }
     },
     {
-        "uuid": "02b17ace05e34c94a7d33ee7fc03dbca",
-        "title": "骢马曲",
-        "author": "纪唐夫",
-        "content": "连钱出塞蹋沙蓬，岂比当时御史骢。\n逐北自谙深碛路，今日虏平将换妾，不如罗袖舞春风。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百四十二"
-        }
-    },
-    {
-        "uuid": "fec091afa8c01a01d65ca6ae66270b7c",
+        "uuid": "98313ae7d1928b539a0b0854daac009e",
         "title": "送温庭筠尉方城",
         "author": "纪唐夫",
         "content": "何事明时泣玉频，长安不见杏园春。\n凤凰诏下虽沾命，方城若比长沙路，犹隔千山与万津。",

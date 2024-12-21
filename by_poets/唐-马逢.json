@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "adf6c0e670fab0fda566bc20fdbce129",
+        "uuid": "04bfe236e57f340a1e23acdfb6d8275e",
         "title": "新乐府",
         "author": "马逢",
         "content": "温谷春生至，宸游近甸荣。\n云随天上转，风入御筵轻。\n翠盖浮佳气，朱楼依太清。\n朝臣冠劒退，宫女管弦迎。",
@@ -8,15 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5bdcaaf1513cebf5bc492353b5631cc1",
-        "title": "部落曲",
-        "author": "马逢",
-        "content": "蕃军傍塞游，代马喷风秋。\n老将垂金甲，阏支着锦裘。\n琱戈蒙豹尾，红斾插狼头。\n日暮天山下，鸣笳汉使愁。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "69cd56476e267100c0d0d183c686bb0c",
+        "uuid": "9ff86bc01dd187f139855d9da20fde59",
         "title": "从军",
         "author": "马逢",
         "content": "汉马千蹄合一羣，单于鼓角隔山闻。\n沙塠风起红楼下，飞上胡天作阵云。",
@@ -24,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "fa5a02e919a730d4f877102ea10ad3c3",
+        "uuid": "01a8941d84ce86cac787225ffb974f76",
         "title": "宫词二首 一",
         "author": "马逢",
         "content": "金吾持戟护轩檐，天乐传教万姓瞻。\n楼上美人相倚看，红妆透出水晶帘。",
@@ -32,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5475e95e3437e30635a091ce09d2efb0",
+        "uuid": "a02b0092b640548cfa1bdc3cce1a0f69",
         "title": "宫词二首 二",
         "author": "马逢",
         "content": "玉楼天半起笙歌，风送宫人笑语和。\n月影殿开闻晓漏，水晶帘捲近秋河。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "251bd9eeb93a3ef9c3164d3f39469d40",
+        "uuid": "de4db80a763bcbe6d3375ac911da5e20",
         "title": "长句赠微之（题拟）",
         "author": "马逢",
         "content": "灵溪试为访金丹。\n（见《元氏长庆集》卷十六《天坛上境》题注引）。",
@@ -48,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "df549f1831521458f6e3f9eee3477bb1",
+        "uuid": "fef4edfb4dfc27ff58ab25093ed7bc0f",
         "title": "新乐府",
         "author": "马逢",
         "content": "温谷春生至，宸游近甸荣。\n云随天上转，风入御筵轻。\n翠盖浮佳气，朱楼依太清。\n朝臣冠剑退，宫女管弦迎。",
@@ -59,18 +51,7 @@
         }
     },
     {
-        "uuid": "c2b5f55562664b31bd7c9c7420a25bc1",
-        "title": "部落曲",
-        "author": "马逢",
-        "content": "蕃军傍塞游，代马喷风秋。\n老将垂金甲，阏支着锦裘。\n雕戈蒙豹尾，红旆插狼头。\n日暮天山下，鸣笳汉使愁。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十二"
-        }
-    },
-    {
-        "uuid": "f13cf05f3403d310c06caa84408a6b9d",
+        "uuid": "50dacdbc8b2036e5212b86fa6115adb8",
         "title": "从军",
         "author": "马逢",
         "content": "汉马千蹄合一群，单于鼓角隔山闻。\n沙塠风起红楼下，飞上胡天作阵云。",
@@ -81,7 +62,7 @@
         }
     },
     {
-        "uuid": "c9c48550c18493b0ef94302117ccf884",
+        "uuid": "2811ba0f304f6bcee1472210c3b79c94",
         "title": "宫词二首",
         "author": "马逢",
         "content": "金吾持戟护轩檐，天乐传教万姓瞻。\n楼上美人相倚看，红妆透出水晶帘。\n玉楼天半起笙歌，风送宫人笑语和。\n月影殿开闻晓漏，水晶帘卷近秋河。",

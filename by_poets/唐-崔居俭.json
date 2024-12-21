@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "588a81599e734e71ded7510c51bb618c",
+        "uuid": "70e5cb1bf00b61fd9abb87c7995d6556",
         "title": "后唐宗庙乐舞辞",
         "author": "崔居俭",
         "content": "艰难王业，返正皇唐。\n先天在造，却日重光。\n汉绍世祖，夏资少康。\n功成德茂，率祀无疆。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "854f6455ac465470ecd747dab08fb9ee",
-        "title": "后唐宗庙乐舞辞",
-        "author": "崔居俭",
-        "content": "艰难王业，返正皇唐。\n先天再造，却日重光。\n汉绍世祖，夏资少康。\n功成德茂，率祀无疆。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百三十七"
-        }
     }
 ]

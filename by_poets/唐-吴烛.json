@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "96d264bf289a78b5a72e15193674d904",
+        "uuid": "d78eba39428b880803880147c7837ce9",
         "title": "相和歌辞 铜雀妓",
         "author": "吴烛",
         "content": "秋色西陵满绿芜，繁弦急管彊欢娱。\n长舒罗袖不成舞，却向风前承泪珠。",
@@ -8,22 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "b5300d8252eae4e9080cd75181f5a340",
+        "uuid": "c5c6984a903b678631201014de3adf0c",
         "title": "铜雀妓",
         "author": "吴烛",
         "content": "秋色西陵满绿芜，繁弦急管强欢娱。\n长舒罗袖不成舞，却向风前承泪珠。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "bbdc41ece5d4288e13759837d85ef4bf",
-        "title": "相和歌辞：铜雀妓",
-        "author": "吴烛",
-        "content": "秋色西陵满绿芜，繁弦急管强欢娱。\n长舒罗袖不成舞，却向风前承泪珠。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十九"
-        }
     }
 ]

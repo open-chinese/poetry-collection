@@ -1,14 +1,6 @@
 [
     {
-        "uuid": "65b937f7abbdafea0082d166bb9cc96f",
-        "title": "游安乐山",
-        "author": "鲁某",
-        "content": "苔径傍岩斜，林间是道家。\n夜潭鱼戏月，春地鹿眠花。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "b7c985ef9c5932a55374edbb0f03e4a5",
+        "uuid": "9d9f55a08a3c43c2853edbd5023f5b1d",
         "title": "百丈甘",
         "author": "鲁某",
         "content": "碧玉纤纤百丈高，仙家曾用醖香醪。\n至今绿叶挼成酒，不使刘伶更藉糟。",
@@ -16,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "17cb3fa2bbf895a3866f4ceb82f51aa8",
+        "uuid": "2148e2bd2201a74ac3f416e8ba283a84",
         "title": "句  其一",
         "author": "鲁某",
         "content": "锦步斜开四十里。",
@@ -24,15 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5f32fc6a07fd6c647a7b8dcb347ddc46",
-        "title": "句  其二",
-        "author": "鲁某",
-        "content": "万仞青崖碧玉寒，岩萝相引彻仙坛。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "95d2a12602a4a45ff2f55c3c7f436b0c",
+        "uuid": "e20ef1199a347ba71f6a3ad109585ffb",
         "title": "句  其三",
         "author": "鲁某",
         "content": "一条仙帔织青霓，松雪岩前伴鹤栖。",

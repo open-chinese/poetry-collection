@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "be0cf2fbe5a5f4f1d1c39b91ed9a5504",
+        "uuid": "ece1201ab07fc5d2a1b4bf3b9a6265d5",
         "title": "郊庙歌辞 祭汾阴乐章 肃和",
         "author": "崔玄童",
         "content": "聿修严配，展事禋宗。\n祥符宝鼎，礼备黄琮。\n[祝]词以信，明德惟聪。\n介兹景福，永永无穷。",
@@ -8,22 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "63b466dbe20d50b9e5e1e39d3414d1c9",
+        "uuid": "27d95c320d06c41696aa16e9f2a46499",
         "title": "祭汾阴乐章",
         "author": "崔玄童",
         "content": "聿修严配，展事禋宗。\n祥符宝鼎，礼备黄琮。\n祝词以信，明德惟聪。\n介兹景福，永永无穷。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "1aea368b41cabe18776db1ea8ec1e437",
-        "title": "郊庙歌辞：祭汾阴乐章：肃和",
-        "author": "崔玄童",
-        "content": "聿修严配，展事禋宗。\n祥符宝鼎，礼备黄琮。\n祝词以信，明德惟聪。\n介兹景福，永永无穷。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十二"
-        }
     }
 ]

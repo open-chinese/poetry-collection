@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "7314c025f47bbdaafce22f37090ae8f3",
+        "uuid": "513c2257b044dad6b588815803c2c351",
         "title": "忆长安 九月",
         "author": "范灯",
         "content": "忆长安，九月时，登高望见昆池。\n上苑初开露菊，芳林正献霜梨。\n更想千门万户，[月]明砧杵参差。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8df14fb5e665efb8e1bf2a6afbc9de67",
+        "uuid": "d83cd20edb9fac713a141ebb4c948105",
         "title": "状江南 季夏",
         "author": "范灯",
         "content": "江南季夏天，身热汗如泉。\n蚊蚋成雷泽，袈裟作水田。",
@@ -16,21 +16,10 @@
         "collection_info": null
     },
     {
-        "uuid": "37d8f23d304fc425b8750ec3b36ec129",
+        "uuid": "62f735d3a907c3ae8100b8b601dd7e6f",
         "title": "忆长安：九月",
         "author": "范灯",
         "content": "忆长安，九月时，登高望见昆池。\n上苑初开露菊，芳林正献霜梨。\n更想千门万户，月明砧杵参差。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百零七"
-        }
-    },
-    {
-        "uuid": "32b4e9217f7d3528e526c928518931f9",
-        "title": "状江南：季夏",
-        "author": "范灯",
-        "content": "江南季夏天，身热汗如泉。\n蚊蚋成雷泽，袈裟作水田。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

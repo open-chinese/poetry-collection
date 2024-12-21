@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "fdc3c82e92aec093882467b87e4abf94",
+        "uuid": "cbb16086d8cf8f101485cc037e05e3c6",
         "title": "奉和圣制夏日游石淙山",
         "author": "于季子",
         "content": "九旗云布临嵩室，万骑星陈集颍川。\n瑞液含滋登禹膳，飞流荐响入虞弦。\n山扉野径朝花积，帐殿帷宫夏叶连。\n微臣献寿迎千寿，愿奉尧年倚万年。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2820a31f5c6148a96911725338718782",
+        "uuid": "2e3054e9daeb4bb10e3d711d512ce132",
         "title": "咏云",
         "author": "于季子",
         "content": "瑞云千里映，祥辉四望新。\n随风乱鸟翅，泛水结鱼鳞。\n布叶疑临夏，开花讵待春。\n愿得承嘉景，无令掩桂轮。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0a5ffb7e991f0e97d6556fd736c9d644",
+        "uuid": "6398d75b38cfd0d8ba615fea18809f0f",
         "title": "咏萤",
         "author": "于季子",
         "content": "卉草诚幽贱，枯朽绝因依。\n忽逢借羽翼，不觉生光辉。\n直念恩华重，长嗟报効微。\n方思助日月，为许愿曾飞。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b2cd3761058e7d168054623f70fc7f12",
+        "uuid": "16dca5268c7482635b07284bd9fb8268",
         "title": "早春洛阳荅杜审言",
         "author": "于季子",
         "content": "梓泽年光往復来，杜霸游人去不迴。\n若非载笔登麟阁，定是吹箫伴凤台。\n路傍桃李花犹嫩，波上芙蕖叶未开。\n分明寄语长安道，莫教留滞洛阳才。",
@@ -32,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5cfbe1a9d946ebc8f960770ffcc77bda",
+        "uuid": "f7429fe20b1b9072e504775b7c1e3d31",
         "title": "咏项羽",
         "author": "于季子",
         "content": "北伐虽全赵，东归不王秦。\n空歌拔山力，羞作渡江人。",
@@ -40,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "85246fbd1766c6f3178b8cfd6f4d7902",
+        "uuid": "91d5081bf53e5569a34c66feb092c3c3",
         "title": "咏汉高祖",
         "author": "于季子",
         "content": "百战方夷项，三章且代秦。\n功归萧相国，气尽戚夫人。",
@@ -48,15 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "afc23837698024e0504048ee47167d22",
-        "title": "南行别弟",
-        "author": "于季子",
-        "content": "万里人南去，三春雁北飞。\n不知何岁月？得与尔同归。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "592630dd433aad84cc65b26f7a0f125e",
+        "uuid": "249f5b03a14156dd42c369ffec7e6853",
         "title": "奉和圣制夏日游石淙山",
         "author": "于季子",
         "content": "九旗云布临嵩室，万骑星陈集颍川。\n瑞液含滋登禹膳，微臣献寿迎千寿，愿奉尧年倚万年。",
@@ -67,7 +59,7 @@
         }
     },
     {
-        "uuid": "74bc07b24a6db6ae64c1376c352423ed",
+        "uuid": "a3d2957aee299b170dbdb2ed99818f9f",
         "title": "咏萤",
         "author": "于季子",
         "content": "卉草诚幽贱，枯朽绝因依。\n忽逢借羽翼，不觉生光辉。\n直念恩华重，长嗟报效微。\n方思助日月，为许愿曾飞。",
@@ -78,21 +70,10 @@
         }
     },
     {
-        "uuid": "f361eecb2741a62539d245928f926003",
+        "uuid": "587faf4c64f5eab0ad304dacd57a978e",
         "title": "早春洛阳答杜审言",
         "author": "于季子",
         "content": "梓泽年光往復来，杜霸游人去不回。\n若非载笔登麟阁，分明寄语长安道，莫教留滞洛阳才。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八十"
-        }
-    },
-    {
-        "uuid": "828b028385c289960681530e7bd6e9d6",
-        "title": "《南行别弟",
-        "author": "于季子",
-        "content": "万里人南去，三春雁北飞。\n不知何岁月，得与尔同归。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

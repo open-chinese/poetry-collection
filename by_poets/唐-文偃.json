@@ -1,14 +1,6 @@
 [
     {
-        "uuid": "93c77f8a37c1f261c62a0346a13bbd91",
-        "title": "",
-        "author": "文偃",
-        "content": "。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "da38faea9b5c99ace49a473ec58a8383",
+        "uuid": "895bdc1f2916539773bbf038aa5c1a9f",
         "title": "十二时偈 一",
         "author": "文偃",
         "content": "半夜子，命似悬丝犹未许。\n因缘契会剎那间，了了分明一无气。",
@@ -16,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "76cf93ef232afd0bd6eb55934084c09a",
+        "uuid": "8714affc98ec2b48e0aadd0bcdc2bc1d",
         "title": "十二时偈 二",
         "author": "文偃",
         "content": "鷄鸣丑，一岁孙儿大哮吼。\n实相圆明不思议，三世法身藏北斗。",
@@ -24,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "78ce17fff0d9a10b448f428f54e5aad3",
+        "uuid": "7ab9832cc3d64abf12a113205caa7168",
         "title": "十二时偈 三",
         "author": "文偃",
         "content": "平旦寅，三昧圆光证法身。\n大千世界掌中收，色透髑髅谁得亲。",
@@ -32,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "06fa3505ac7138ce28a94a1ae8af1fc9",
+        "uuid": "6f8c6cf2659f80b7163ba86c66e70c71",
         "title": "十二时偈 四",
         "author": "文偃",
         "content": "日出卯，嘿说心传道实教。\n心心相印息无心，玄妙之中无拙巧。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "3326735e7369fe21655556c4186b43d0",
+        "uuid": "281975f5c217eb732430f6c8d36becc0",
         "title": "十二时偈 五",
         "author": "文偃",
         "content": "食时辰，恒沙世界眼中人。\n万法皆从一法生，一法灵光谁是隣。",
@@ -48,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8413ac93f5ad4de14904a36a615e4194",
+        "uuid": "03cdbc1d1f7631dd93459bf4156c13f6",
         "title": "十二时偈 六",
         "author": "文偃",
         "content": "禺中巳，分明历历不相似。\n灵源独曜少人逢，达者方知无所虑。",
@@ -56,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "7c74a4508bc50a9da0caf41c995318f0",
+        "uuid": "76811eddda4b7f8f62467f7fd3b6fcb8",
         "title": "十二时偈 七",
         "author": "文偃",
         "content": "日中午，一部笙歌谁解儛。\n逍遥顿入达无生，昼夜法螺击法皷。",
@@ -64,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "e1e63d442d5b11aefdd0d24e45afac35",
+        "uuid": "988130247b3d2d9da828ed42175a0d73",
         "title": "十二时偈 八",
         "author": "文偃",
         "content": "日昳未，灌顶醍醐㝡上味。\n一切诸佛及菩提，唯佛知之贵中贵。",
@@ -72,7 +64,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f5c2c454a3bcf11a43cbeecfcf4b065d",
+        "uuid": "e28a889ab256ae1558f894fdefef1b26",
         "title": "十二时偈 九",
         "author": "文偃",
         "content": "晡时申，三坛等施{牙丿=丶}为宾。\n无漏果圆一念修，六度同归净土因。",
@@ -80,7 +72,7 @@
         "collection_info": null
     },
     {
-        "uuid": "dd95d05f5423fc60b3a93835d6fd2a56",
+        "uuid": "7158b87b2398d5325408ef7cb2e69ed7",
         "title": "十二时偈 十",
         "author": "文偃",
         "content": "日入酉，玄人莫向途中走。\n黄叶浮沤赚杀人，命尽慞惶是了手。",
@@ -88,7 +80,7 @@
         "collection_info": null
     },
     {
-        "uuid": "3586ea2569c7f3e77e445616b84d8c68",
+        "uuid": "42eb72e47b353d42f4c6e132db456a21",
         "title": "十二时偈 十一",
         "author": "文偃",
         "content": "黄昏戌，把火寻牛是底物。\n素体相呈却道非，奴郎不弁谁受屈。",
@@ -96,7 +88,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a02bf9eb849f8645e1720155fc5c172d",
+        "uuid": "3f744f6533628b00e9c9d37eb81eaf43",
         "title": "十二时偈 十二",
         "author": "文偃",
         "content": "人定亥，莫把三乘相疋配。\n要知此意现真宗，密密心心超三昧。",
@@ -104,7 +96,7 @@
         "collection_info": null
     },
     {
-        "uuid": "3774fa05f2999f48d0f8ce7ada60f2d3",
+        "uuid": "8f9173d2cda6a48a154ea7f4ac90f46f",
         "title": "宗脉颂",
         "author": "文偃",
         "content": "如来一大事，出现于世间。\n五千方便教，流传几百年。\n四十九年说，未曾忤出言。\n如来灭度后，付嘱迦叶边。\n西天二十八，祖佛印相传。\n达摩观东土，五叶气相连。\n九年来面壁，唯有吃茶言。\n二祖为上首，达摩回西天。\n六祖曹溪住，衣钵后不传。\n派分三五六，各各达真源。\n七八心忙乱，空花坠目前。\n苦哉●眼士，认得止啼钱。\n外道多毁谤，弟子得生天。\n昔在灵山上，今日获安然。\n六门俱休歇，无心处处闲。\n如有玄中客，但除入我山。\n一味醍醐药，万病悉皆安。\n因缘契会者，无心便安禅。\n（以上十三首均见《祖堂集》卷十一）。",
@@ -112,7 +104,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a489b49384ea5c20697ad1e2daed79db",
+        "uuid": "3b48f7e2e96859dca30e6e1ac2975236",
         "title": "十二时歌",
         "author": "文偃",
         "content": "夜半子，愚夫说相似。\n鷄鸣丑，痴人捧龟首。\n平旦寅，晓何人。\n日出卯，韩情枯骨咬。\n食时辰，历历明机是悟（《古尊宿语当》卷十五引作「悮」）真。\n禺中巳，去来南北子。\n日南午，认向途中苦。\n日昳未，夏逢说寒气。\n晡时申，张三李四会言真。\n日入酉，恒机何得守。\n黄昏戌，看见时光谁受屈。\n人定亥，直（一作「真」）得分明沉苦海。\n（见《大正新修大藏经》第四十七册宋僧守坚集《云门匡真禅师广录》卷上。\n此条承王小盾同志告知。\n）。",
@@ -120,7 +112,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b11b5902d557635991daddd0444c23df",
+        "uuid": "e3a823cdb4191adaec2ac90b26de925b",
         "title": "偈颂 一",
         "author": "文偃",
         "content": "云门耸剔（《天圣广灯录》卷二十作「踢」、《五灯会元》卷十五作「峻」）白云低，水急游鱼不敢栖。\n入户已知来见解，何劳更（《天圣广灯录》、《五灯会元》作「再」）举轹中泥。",
@@ -128,7 +120,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b6baa288f9a05eb8f595da59f7020fe0",
+        "uuid": "578b0a72eb888397baefaa380340330d",
         "title": "偈颂 二",
         "author": "文偃",
         "content": "药病相治学路医，扶篱摸壁小儿戏。\n幽谷不语谁人测，管解师承孰不知。",
@@ -136,7 +128,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f401b503619bfa78509f4c4c3a6996b1",
+        "uuid": "88da5c3f59ca0d1b893f89d090f3d32c",
         "title": "偈颂 三",
         "author": "文偃",
         "content": "康氏圆形滞不明，魔深虚丧击寒冰。\n凤羽展时超碧汉，晋锋八博拟何凭。",
@@ -144,7 +136,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a87f0e7c48970b8dd7e06d5d281c178c",
+        "uuid": "d627272b7bb1358299a273aaa28e5c3a",
         "title": "偈颂 四",
         "author": "文偃",
         "content": "是机是对对机迷，闢机（一作「尘」）尘远远机（《僧宝传》卷二作「尘」）栖。\n夕日日中谁有挂，因底底事隔情（《僧宝传》作「尘」）迷。\n。",
@@ -152,7 +144,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2ddd489a8cc5863a3dfc6e437dfaf9fd",
+        "uuid": "3db9fafa3faae0c803ee3a218a4c93a2",
         "title": "偈颂 五",
         "author": "文偃",
         "content": "太阳溢目极玄微，谁人说道我渠非。\n句中有路人皆响，觌面难遭第一机。",
@@ -160,7 +152,7 @@
         "collection_info": null
     },
     {
-        "uuid": "946c3fdfe1d448ac65b1b83d072a2a5c",
+        "uuid": "cd8ce593afec79f89cc0f56f00a29b65",
         "title": "偈颂 六",
         "author": "文偃",
         "content": "丱岁依山人事稀，松下相逢话道奇。\n锋前一句超调御，拟问如何历劫违。",
@@ -168,7 +160,7 @@
         "collection_info": null
     },
     {
-        "uuid": "bdab46cc98a80127ed3ce92a8fbeba03",
+        "uuid": "cdea21a38333483b42ba0bc6decc0b2d",
         "title": "偈颂 七",
         "author": "文偃",
         "content": "翫古松高云不齐，鸿鸧鹤抱几年栖。\n剖㲉同时殊有异，羽张腾汉碧霄低。",
@@ -176,7 +168,7 @@
         "collection_info": null
     },
     {
-        "uuid": "1527230cbe05e1a6be548c1af57b52ea",
+        "uuid": "a8f98cfe851e2d8a78cbd576ee3c0d69",
         "title": "偈颂 八",
         "author": "文偃",
         "content": "万像森罗极细微，素话当人却道非。\n相逢相见呵呵笑，顾伫停机復是谁。",
@@ -184,7 +176,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8e9764e43f4c7b3cc96dea1adf0cdacc",
+        "uuid": "ea3142ac3cf7156266363ed58e87a10c",
         "title": "偈颂 九",
         "author": "文偃",
         "content": "话尽途中事，言多何省机。\n贵人言是妙，上士见知亏。",
@@ -192,7 +184,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f6756ef0f176750dfee5b476b50666de",
+        "uuid": "0d2e4503ed62ca8f1643b45a8a721bac",
         "title": "偈颂 十",
         "author": "文偃",
         "content": "大道何曾讨，无端入荒草。\n卷来復卷去，不觉虚生老。",
@@ -200,7 +192,7 @@
         "collection_info": null
     },
     {
-        "uuid": "af1b0bc5bd4bab0dc0d7d4e6a4d428c1",
+        "uuid": "d2d4223f5b06511ee52e3badfdcf68e3",
         "title": "偈颂 十一",
         "author": "文偃",
         "content": "丧时光，藤林荒。\n图（《僧宝传》作「徒」）人意，滞肌尩。",
@@ -208,7 +200,7 @@
         "collection_info": null
     },
     {
-        "uuid": "ab3f527faa8a9de8486f85a994717b15",
+        "uuid": "75eb2cc380c0dc0fa36350a4eea1bad7",
         "title": "偈颂 十二",
         "author": "文偃",
         "content": "举不顾，即差互。\n拟思量，何劫悟。",
@@ -216,7 +208,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c51a65c36b1c70e046d7a4f90d4bf15c",
+        "uuid": "5e27c13e6f07ecbb92f1cfa7903cee17",
         "title": "偈颂 十三",
         "author": "文偃",
         "content": "咄咄咄，力韦（《僧宝传》作「目」）希。\n禅子讶，中眉垂。\n（并同前）。",
@@ -224,7 +216,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d4ebf8fcbf29b122daa03f42c5c1542e",
+        "uuid": "0a0319ee4f051ba35291748440740617",
         "title": "偈颂 十四",
         "author": "文偃",
         "content": "不露锋（《五灯会元》卷十五作「风」）骨句，未语先分付。\n进步口喃喃，知君大罔措。\n（见同前书卷下）。",
@@ -232,7 +224,7 @@
         "collection_info": null
     },
     {
-        "uuid": "1578ddc4c644f7171866ed032cdeda06",
+        "uuid": "cffbc7c385d4b6c904fa8f5262bad618",
         "title": "偈颂 十五",
         "author": "文偃",
         "content": "云门顾鉴笑嘻嘻，拟议遭渠顾鑑咦。\n任是张良多智巧，到头于是也难施。\n（《禅林僧宝传》卷二）。",
@@ -240,7 +232,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5789c0ed2ae4df8ebfca988919167a0b",
+        "uuid": "096c398822cc8ac823d70c99f81013d9",
         "title": "北邙行",
         "author": "文偃",
         "content": "前山后山高峨峨，丧车辚辚日日过。\n哀歌幽怨满岩谷，闻者潜悲《薤露歌》。\n哀歌一声千载别，孝子顺孙徒泣血。\n世间何物得坚牢，大海须弥竟磨灭。\n人生还如露易晞，从来有会终别离。\n苦海哀伤不暂辍，况復百年惊梦驰。\n去人悠悠不復至，今人不会古人意。\n栽松起石驻墓门，欲为死者长年计。\n魂魄悠扬形化土，五趣茫茫井轮度。\n今人还葬古人坟，今坟古坟无定主。\n洛阳城裏千万人，终为北邙山下尘。\n沉迷不计归时路，为君孤坐长悲辛。\n昔日送人哭长道，今为孤坟卧芳草。\n妖狐穿穴藏子孙，耕夫拨骨寻珠宝。\n老木萧萧生野风，东西坏冢连晴空。\n寒食已过谁享祀，冢畔余花寂寞红。\n日月相催若流矢，贫富归愚尽如此。\n安得同游常乐乡，纵经劫火无生死。\n（见明焦竑《焦氏类林》卷八）。",

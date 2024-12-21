@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "8154795aee1895cf177067e0e9abbdbf",
+        "uuid": "a799c18969804ea9ab65507a8849b722",
         "title": "锦城春望",
         "author": "卓英英",
         "content": "和风装点锦城春，细雨如丝压玉尘。\n漫把诗情访奇景，艳花浓酒属闲人。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "e50c1fe601c5e3ca739d723b88982563",
+        "uuid": "01bead8743232d2e40e85cc90792ff71",
         "title": "理笙",
         "author": "卓英英",
         "content": "频倚银屏理凤笙，调中幽意起春情。\n因思往事成惆怅，不得缑山和一声。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a7b59915b043e6142408cae78d1ca229",
+        "uuid": "8c96feee2ef7b2d931573fa7269b63c5",
         "title": "游福感寺荅少年",
         "author": "卓英英",
         "content": "牡丹未及开时节，况是秋风莫近前。\n留待来年二三月，一枝和露压神仙。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "35cdd0c1124520ae10dda0dbfea7fa59",
+        "uuid": "04ccfe14c016d1d07f50eec7fe38b02a",
         "title": "荅玄士",
         "author": "卓英英",
         "content": "数载幽栏种牡丹，裹香包艳待神仙。\n神仙既有丹青术，携取何妨入洞天。",
@@ -32,32 +32,10 @@
         "collection_info": null
     },
     {
-        "uuid": "8c5c9b80990d64641e8c64496a4a9d52",
+        "uuid": "0234404469c7881feeeb8aae310ff005",
         "title": "锦城春望",
         "author": "卓英英",
         "content": "和风装点锦城春，细雨如丝压玉尘。\n漫把诗情访奇景，艳花浓酒属閒人。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十三"
-        }
-    },
-    {
-        "uuid": "b04486cd24186cd741a63f80c84666b3",
-        "title": "游福感寺答少年",
-        "author": "卓英英",
-        "content": "牡丹未及开时节，况是秋风莫近前。\n留待来年二三月，一枝和露压神仙。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十三"
-        }
-    },
-    {
-        "uuid": "c6a1bb9f40a9f08ca92ed65e9044f3d1",
-        "title": "答玄士",
-        "author": "卓英英",
-        "content": "数载幽栏种牡丹，裹香包艳待神仙。\n神仙既有丹青术，携取何妨入洞天。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

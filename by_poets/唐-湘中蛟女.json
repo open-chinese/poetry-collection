@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "60ec6c88404e098d118aeb559f637f48",
+        "uuid": "d43247886dcba47ac2d4196d7977005e",
         "title": "荅郑生歌",
         "author": "湘中蛟女",
         "content": "泝青山兮江之隅，拖湘波兮褭绿裾。\n荷拳拳兮情未舒，匪同归兮将焉如。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "106c66dece59e3b657e51aee8d0fd256",
+        "uuid": "b1f9cdbcfe1b51a7fccecb17f5f1c904",
         "title": "风光词",
         "author": "湘中蛟女",
         "content": "隆佳秀兮昭盛时，播熏绿兮淑华归。\n故里荑与处萼兮，潜重房以饰姿。\n见雅态之韶华兮，蒙长霭以为帏。\n醉融光兮渺渺瀰瀰，迷千里兮涵烟眉，晨陶陶兮暮熙熙。\n舞袅娜之秾条兮，娉盈盈以披迟。\n酡游颜兮倡蔓卉縠，流倩电兮石髮髓施。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8acf274340058fdadf833d012c7368a5",
+        "uuid": "0011f1d78b1be2ce1aaca5348a46321c",
         "title": "郑生诗",
         "author": "湘中蛟女",
         "content": "情无垠兮水汤汤，怀佳期兮属三湘。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b644c7d30e9aa1bac31f9d1136e2af31",
+        "uuid": "1dd61017ead7654f811cbafa3b451b9a",
         "title": "答郑生歌",
         "author": "湘中蛟女",
         "content": "溯青山兮江之隅，拖湘波兮褭绿裾。\n荷拳拳兮情未舒，匪同归兮将焉如。",
@@ -35,21 +35,10 @@
         }
     },
     {
-        "uuid": "6296eff1b0a99cb557060f078273d416",
+        "uuid": "f0398b93d2059f0d70cead3315827b5b",
         "title": "风光词",
         "author": "湘中蛟女",
         "content": "隆佳秀兮昭盛时，播熏绿兮淑华归。\n故里荑与处萼兮，醉融光兮渺渺弥弥，迷千里兮涵烟眉。\n晨陶陶兮暮熙熙，",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十四"
-        }
-    },
-    {
-        "uuid": "1f34430914c0bab8da45d87f8646f42d",
-        "title": "附：郑生诗",
-        "author": "湘中蛟女",
-        "content": "情无垠兮水汤汤，怀佳期兮属三湘。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

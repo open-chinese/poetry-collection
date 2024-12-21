@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "f483948044c6012df2f83f15c65cfa9b",
+        "uuid": "40e484e64bc745129f4b6e2bb2bbd213",
         "title": "题春梦秋归故里",
         "author": "吉师老",
         "content": "故国归路赊，春晚在天涯。\n明月夜来梦，碧山秋到家。\n开窗闻落叶，远墅见晴鸦。\n惊起晓庭际，莺啼桃杏花。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "6b5da1e34557968e336767a2c6aa097a",
+        "uuid": "2c759e2c53038a3aa8b1fe36b9b76396",
         "title": "看蜀女转昭君变",
         "author": "吉师老",
         "content": "妖姬未着石榴裠，自道家连锦水濆。\n檀口解知千载事，清词堪叹九秋文。\n翠眉颦处楚边月，画卷开时塞外云。\n说尽绮罗当日恨，昭君传意向文君。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "71b50a45483b2da17edda09d876edc06",
+        "uuid": "b12f8e9982fbeebff032fc5317f3e0e3",
         "title": "放猨",
         "author": "吉师老",
         "content": "放尔千山万水身，野泉晴树好为邻。\n啼时莫近潇湘岸，明月孤舟有旅人。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "636e294e0d385a0a45cfe6ba4bb673ac",
+        "uuid": "c261607101654d1fd9e8bb2c7d33ac28",
         "title": "鸳鸯",
         "author": "吉师老",
         "content": "江岛蒙蒙烟霭微，绿芜深处刷毛衣。\n渡头惊起一双去，飞上文君旧锦机。",
@@ -32,21 +32,10 @@
         "collection_info": null
     },
     {
-        "uuid": "c2d0ed89cbb2e3658ca080cfb91d1845",
+        "uuid": "d0aa0afd6b12c0db19c829af9f3d538b",
         "title": "看蜀女转昭君变",
         "author": "吉师老",
         "content": "妖姬未着石榴裙，自道家连锦水濆。\n檀口解知千载事，说尽绮罗当日恨，昭君传意向文君。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十四"
-        }
-    },
-    {
-        "uuid": "0489cc7738c600cce90a0946a7107f66",
-        "title": "放猿",
-        "author": "吉师老",
-        "content": "放尔千山万水身，野泉晴树好为邻。\n啼时莫近潇湘岸，明月孤舟有旅人。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "d082ca62152b7bdc2fd2b0e6da8198e6",
+        "uuid": "81f614951a45e863947a870a3b66c0df",
         "title": "郊庙歌辞 享太庙乐章 宣宗室舞",
         "author": "夏侯孜",
         "content": "于铄令主，圣祚重昌。\n兴起教义，申明典章。\n俗尚素朴，人皆乐康。\n积德可报，流庆无疆。",
@@ -8,33 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "3e0ffd76b3c5c6a082d9d41c5186733e",
+        "uuid": "efa24108c1db75de96b48b37a60b35e9",
         "title": "享太庙乐章",
         "author": "夏侯孜",
         "content": "于铄令主，圣祚重昌。\n兴起敎义，申明典章。\n俗尚素朴，人皆乐康。\n积德可报，流庆无疆。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "a5b6c2b2efcf50fd4d0550e7034024f4",
-        "title": "郊庙歌辞：享太庙乐章：宣宗室舞",
-        "author": "夏侯孜",
-        "content": "于铄令主，圣祚重昌。\n兴起教义，申明典章。\n俗尚素朴，人皆乐康。\n积德可报，流庆无疆。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十三"
-        }
-    },
-    {
-        "uuid": "e00a79cf685a1ec5ef99036714b9fd18",
-        "title": "享太庙乐章",
-        "author": "夏侯孜",
-        "content": "于铄令主，圣祚重昌。\n兴起教义，申明典章。\n俗尚素朴，人皆乐康。\n积德可报，流庆无疆。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百六十三"
-        }
     }
 ]

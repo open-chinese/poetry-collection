@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "30f2db9813e9a0c0bda9a426299fcecf",
+        "uuid": "39111e8799603f200cadb5cb2d8c82bf",
         "title": "九日卫使君筵上作",
         "author": "武瓘",
         "content": "佳晨登赏喜还乡，谢宇开筵晚兴长。\n满眼黄花初泛酒，隔烟红树欲迎霜。\n千家门户笙歌发，十里江山白鸟翔。\n共贺安人丰乐岁，幸陪珠履侍银章。",
@@ -8,15 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c8521d9dd1a23b0443fd4a123ee77146",
-        "title": "劝酒",
-        "author": "武瓘",
-        "content": "劝君金屈巵，满酌不须辞。\n花发多风雨，人生足别离。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "c2c6b3e2970927e21f7c8f11f68d61b9",
+        "uuid": "285df844496d66d25fae8ea8806c00de",
         "title": "感事",
         "author": "武瓘",
         "content": "花开蝶满枝，花谢蝶还稀。\n惟有旧巢燕，主人贫亦归。",
@@ -24,21 +16,10 @@
         "collection_info": null
     },
     {
-        "uuid": "90c0f8e46a9aac71133b6318f4e79d5a",
+        "uuid": "4f2fe4a2a5cc798b3d8ea5861aceded2",
         "title": "九日卫使君筵上作",
         "author": "武瓘",
         "content": "佳晨登赏喜还乡，谢宇开筵晚兴长。\n满眼黄花初泛酒，共贺安人丰乐岁，幸陪珠履侍银章。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六百"
-        }
-    },
-    {
-        "uuid": "0295acefd5d52d6c2e1e73752cf70242",
-        "title": "劝酒",
-        "author": "武瓘",
-        "content": "劝君金屈卮，满酌不须辞。\n花发多风雨，人生足别离。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

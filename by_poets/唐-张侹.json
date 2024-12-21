@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "f581a6b71eb4c67120c2a5c80911540d",
+        "uuid": "cf620b2260cc4387b5a5726b245c8397",
         "title": "寄人",
         "author": "张侹",
         "content": "酷怜风月为多情，还到春时别恨生。\n倚柱寻思倍惆怅，一塲春梦不分明。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "f78af4cd4eb0fbccf3fd9f0cda68297f",
-        "title": "寄人",
-        "author": "张侹",
-        "content": "酷怜风月为多情，还到春时别恨生。\n倚柱寻思倍惆怅，一场春梦不分明。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十四"
-        }
     }
 ]

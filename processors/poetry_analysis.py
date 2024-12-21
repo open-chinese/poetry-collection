@@ -27,14 +27,14 @@ def plot_pie_chart(data, title):
 
     # wedges, texts, autotexts = plt.pie(
     #     counts,
-    #     labels=categories,
+    #     labels=by_forms,
     #     autopct='%1.1f%%',
     #     textprops={'fontsize': font_size},
     #     startangle=90,
     #     colors=colors,
     #     wedgeprops={'edgecolor': 'white'}
     # )
-    # plt.legend(wedges, categories, title=title, loc="center left", bbox_to_anchor=(1, 0, 0.5, 1), fontsize=font_size)
+    # plt.legend(wedges, by_forms, title=title, loc="center left", bbox_to_anchor=(1, 0, 0.5, 1), fontsize=font_size)
     # plt.title(title, fontsize=font_size)
     # plt.tight_layout()
     # plt.savefig('../images/poets_count_by_dynasty.png', format='png')
@@ -59,7 +59,7 @@ def plot_horizontal_bar_chart(data, title, x_label, y_label, file_name):
     font_size = 16
     plt.figure(figsize=(20, 30))
     colors = plt.cm.tab10.colors[:len(categories)]
-    # colors = plt.cm.Paired(range(len(categories)))
+    # colors = plt.cm.Paired(range(len(by_forms)))
 
     plt.barh(categories, counts, color=colors)
     plt.xlabel(x_label, fontsize=font_size)

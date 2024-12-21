@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "f425025c724170db51ab9091cb123240",
+        "uuid": "9782dc923ddff639ee8441d77391c88b",
         "title": "相和歌辞 怨诗",
         "author": "刘元济",
         "content": "玉关芳信断，兰闺锦字新。\n愁来好自抑，念切已含嚬。\n虚牖风惊梦，空床月厌人。\n归期傥可促，勿度柳园春。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "ce53b8ac08e655df86fd139f7b82bb88",
-        "title": "相和歌辞：怨诗",
-        "author": "刘元济",
-        "content": "玉关芳信断，兰闺锦字新。\n愁来好自抑，念切已含嚬。\n虚牖风惊梦，空床月厌人。\n归期傥可促，勿度柳园春。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十"
-        }
     }
 ]

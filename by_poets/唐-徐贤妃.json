@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "ca93604e12100ac55ff169072be4d9e6",
+        "uuid": "db2295328ccdb391fdc99b86728a3b85",
         "title": "拟小山篇",
         "author": "徐贤妃",
         "content": "仰幽岩而流盼，抚桂枝以凝想。\n将千龄兮此遇，荃何为兮独往。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d7d29a38757de1c124ad03b29e6bf73d",
+        "uuid": "1dd971206c342e3f77193f954a445ce5",
         "title": "长门怨",
         "author": "徐贤妃",
         "content": "旧爱柏梁台，新宠昭阳殿。\n守分辞芳辇，含情泣团扇。\n一朝歌舞荣，夙昔诗书贱。\n颓恩诚已矣，覆水难重荐。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8f07e2504513adade7985fee7fcbca68",
+        "uuid": "9de618b6fd751141acdc754ea4ee358e",
         "title": "秋风函谷应诏",
         "author": "徐贤妃",
         "content": "秋风起函谷，劲气动河山。\n偃松千岭上，杂雨二陵间。\n低云愁广隰，落日惨重关。\n此时飘紫气，应验真人还。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "895e95402b558f5459362d206e8709f8",
+        "uuid": "d7ac08a14a7469930bb49a46114a60c2",
         "title": "赋得北方有佳人",
         "author": "徐贤妃",
         "content": "由来称独立，本自号倾城。\n柳叶眉间发，桃花脸上生。\n腕摇金钏响，步转玉环鸣。\n纤腰宜宝袜，红衫艳织成。\n悬知一顾重，别觉舞腰轻。",
@@ -32,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5891b360cf529507e319360b37b4c7d6",
+        "uuid": "81df10b510f363568f0dd636e7f121b1",
         "title": "进太宗",
         "author": "徐贤妃",
         "content": "朝来临镜台，粧罢暂裴回。\n千金始一笑，一召讵能来。",
@@ -40,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "ff342609db21706460483fcb6d15084e",
+        "uuid": "edcebe8f354888ea0eb276347e1ab3a0",
         "title": "相和歌辞 长门怨",
         "author": "徐贤妃",
         "content": "旧爱柏梁台，新宠昭阳殿。\n守分辞方辇，含情泣团扇。\n一朝歌舞荣，夙昔诗书贱。\n颓恩诚已矣，覆水难重荐。",
@@ -48,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8ad8fe259c223b4162909d876d0a0b9b",
+        "uuid": "b94fb83d82be59fb2b1de7e51ddd8a23",
         "title": "进太宗",
         "author": "徐贤妃",
         "content": "朝来临镜台，妆罢暂裴回。\n千金始一笑，一召讵能来。",
@@ -56,17 +56,6 @@
         "collection_info": {
             "collection": "御定全唐诗",
             "volume": "卷五"
-        }
-    },
-    {
-        "uuid": "b9ee4f72a57d4c8756a491812da03e64",
-        "title": "相和歌辞：长门怨",
-        "author": "徐贤妃",
-        "content": "旧爱柏梁台，新宠昭阳殿。\n守分辞方辇，含情泣团扇。\n一朝歌舞荣，夙昔诗书贱。\n颓恩诚已矣，覆水难重荐。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十"
         }
     }
 ]

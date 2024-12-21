@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "7d69446170013db21262c44f3386bb34",
+        "uuid": "3dffa184f9d80d67a4271b72da1234e7",
         "title": "忆长安 十月",
         "author": "樊珣",
         "content": "忆长安，十月时，华清士马相驰。\n万国来朝汉阙，五陵共猎秦祠。\n昼夜歌钟不歇，山河四塞京师。",
@@ -8,33 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "9d03034d2d073d2354948c8e47bd3d77",
+        "uuid": "5ea7a3bc567f8096a4acb4ab0034254f",
         "title": "状江南 仲夏",
         "author": "樊珣",
         "content": "江南仲夏天，时雨下如川。\n卢橘垂金弹，甘蕉吐白莲。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "71f1b8c3437ff7e039ab2bbca127e911",
-        "title": "忆长安：十月",
-        "author": "樊珣",
-        "content": "忆长安，十月时，华清士马相驰。\n万国来朝汉阙，五陵共猎秦祠。\n昼夜歌钟不歇，山河四塞京师。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百零七"
-        }
-    },
-    {
-        "uuid": "32059f1996c12d6c14fa0f284b381550",
-        "title": "状江南：仲夏",
-        "author": "樊珣",
-        "content": "江南仲夏天，时雨下如川。\n卢橘垂金弹，甘蕉吐白莲。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百零七"
-        }
     }
 ]

@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "d4146c579317f1cfb5d2b6db4a0fbecd",
+        "uuid": "41dbfa363ec4d830e6cb61aca7eac16d",
         "title": "都中闲居",
         "author": "王羡门",
         "content": "君王巡海内，北阙下明台。\n云物天中少，烟花岁后来。\n河从御苑出，山向国门开。\n寂寞东京裏，空留贾谊才。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "87e260bb2d1298bcc72642ff6d38e1d3",
-        "title": "都中閒居",
-        "author": "王羡门",
-        "content": "君王巡海内，北阙下明台。\n云物天中少，烟花岁后来。\n河从御苑出，山向国门开。\n寂寞东京裏，空留贾谊才。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百零三"
-        }
     }
 ]

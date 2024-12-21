@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "0c63c3f4ed571afbe202de4168e652c0",
+        "uuid": "4270502185b36f0ddc0555795db556ce",
         "title": "赠妓僊哥",
         "author": "郑仁表",
         "content": "严吹如何下太清，玉肌无疹六铢轻。\n自知不是流霞酌，愿听云和瑟一声。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "6725167479823b8c5bf19405ac364d2e",
+        "uuid": "8bd3b31e6073dffd019b710c0cb61829",
         "title": "赠妓命洛真",
         "author": "郑仁表",
         "content": "巧制新章拍拍新，金罍巡举助精神。\n时时欲得横波眄，又怕回筹错指人。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c0d94807461f447e4cdd3b7e62d60ea6",
+        "uuid": "b522e177424f63bef1e136a635263041",
         "title": "句",
         "author": "郑仁表",
         "content": "文章世上争开路，阀阅山东拄破天。",
@@ -24,33 +24,11 @@
         "collection_info": null
     },
     {
-        "uuid": "0bfd38d9645d2679df7bdf0c798cc789",
+        "uuid": "da090d09d673d839af4eb32d9d85dde7",
         "title": "题沧浪峡牓",
         "author": "郑仁表",
         "content": "分峡东西路正长，行人名利火然汤。\n路傍着板沧浪峡，真是将闲搅撩忙。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "227e3d419e65d87b17d60f7e5051ea44",
-        "title": "赠妓仙哥",
-        "author": "郑仁表",
-        "content": "严吹如何下太清，玉肌无疹六铢轻。\n自知不是流霞酌，愿听云和瑟一声。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六百零七"
-        }
-    },
-    {
-        "uuid": "eb7f482f9a5b60805c0bd1b147a8747b",
-        "title": "题沧浪峡榜",
-        "author": "郑仁表",
-        "content": "分峡东西路正长，行人名利火然汤。\n路傍着板沧浪峡，真是将闲搅撩忙。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百七十"
-        }
     }
 ]

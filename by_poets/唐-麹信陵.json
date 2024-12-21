@@ -1,28 +1,6 @@
 [
     {
-        "uuid": "e9afd67748e34d62982d32873093b099",
-        "title": "移居洞庭",
-        "author": "麹信陵",
-        "content": "重林将迭嶂，此处可逃秦。\n水隔人间世，花开洞裏春。\n荷锄分地利，纵酒乐天真。\n万事更何有，吾今已外身。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百一十九"
-        }
-    },
-    {
-        "uuid": "f05c93142abd8c24a3c9027253e8c8ce",
-        "title": "吴门送客",
-        "author": "麹信陵",
-        "content": "乱山吴苑外，临水让王祠。\n素是伤情处，春非送客时。\n不须愁落日，且愿驻青丝。\n千里会应到，一尊谁共持。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百一十九"
-        }
-    },
-    {
-        "uuid": "bf105c0dcc14a425416b1a45b318088a",
+        "uuid": "ff29405ad657c18c438bbf179f2059fe",
         "title": "长安道",
         "author": "麹信陵",
         "content": "朱门映绿杨，双阙抵通庄。\n玉佩声逾远，红尘犹自香。",
@@ -33,7 +11,7 @@
         }
     },
     {
-        "uuid": "90940bb28d8217a28d59a879e41a1c66",
+        "uuid": "76e84df739d928f28bd986251e85c88f",
         "title": "出自贼中谒恒上人",
         "author": "麹信陵",
         "content": "再拜吾师喜复悲，誓心从此永归依。\n浮生怳忽若真梦，何事于中有是非。",
@@ -44,29 +22,7 @@
         }
     },
     {
-        "uuid": "a549f2dabc65062ab751a36a25054d6e",
-        "title": "过真律师旧院",
-        "author": "麹信陵",
-        "content": "寂然秋院闭秋光，过客闲来礼影堂。\n坚冰销尽还成水，本自无形何足伤。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百一十九"
-        }
-    },
-    {
-        "uuid": "33a080304ca267f51f5333f01dd35474",
-        "title": "酬谈上人咏海石榴",
-        "author": "麹信陵",
-        "content": "真僧相劝外浮华，万法无常可叹嗟。\n但试寻思阶下树，何人种此我看花。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百一十九"
-        }
-    },
-    {
-        "uuid": "98b791f7aeacd8c70347af6224651463",
+        "uuid": "f711ae030360f9fe8040e1f33027afdb",
         "title": "句",
         "author": "麹信陵",
         "content": "台笠冒山雨，渚田耕荇花。\n。",

@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "ce2dd54b943fb70989b30e68c0209462",
+        "uuid": "804346efb637d0269d86ead1845cb294",
         "title": "题廊壁",
         "author": "本寂",
         "content": "肃肃秋风送暮钟，江门束鹿傍苍松。\n野人不与朝家事，早晚焚香拜九重。\n（《莆风清籁集》卷四八）。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "05105f9594ffbd10b516d1866e481f90",
+        "uuid": "cbb97ccb1f5dfe790d73881bb4e0ba79",
         "title": "示纸衣道者颂",
         "author": "本寂",
         "content": "觉性圆明无相身，莫将知见妄疎亲。\n念异便于玄体昧，心差不与道为（《正法眼藏》卷二作「相」）邻。\n情分万法沈前境，识鉴多端丧本真。\n如是（《僧宝传》卷一作「若向」）句中全晓会，了然无事昔时人。",
@@ -16,15 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2be66338869e101ef490beba03136c9b",
-        "title": "五相偈",
-        "author": "本寂",
-        "content": "。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "27fe26e1b42e2a9942d4344ceebce0e0",
+        "uuid": "8866ffdcc4dcc73dbcca24a281e95676",
         "title": "五相偈 一",
         "author": "本寂",
         "content": "白衣须拜相，此事不为奇。\n积代簪缨者，休言落魄时。",
@@ -32,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "32cb6ca1aa6c9888d61a008f2b818641",
+        "uuid": "9d5d092f6c16d2e6e5999d0b57dc763b",
         "title": "五相偈 二",
         "author": "本寂",
         "content": "子时当正位，明正在君臣。\n未离兜率界，乌鸡雪上行。",
@@ -40,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "335cb369abe0072b43c6819dababf523",
+        "uuid": "a0daf832a88e272b608f60e2d23390be",
         "title": "五相偈 三",
         "author": "本寂",
         "content": "焰裏寒冰结，杨华九月飞。\n泥牛吼水面，木马逐风嘶。",
@@ -48,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5a7859ccc90b909daa5fee787b4b6732",
+        "uuid": "37797bdf34d10e0064697f38fdeca8f8",
         "title": "五相偈 四",
         "author": "本寂",
         "content": "王宫初降日，玉兔不能离。\n未得无功旨，人天何太迟。",
@@ -56,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "4a0c3123d7d61dafc232e90a19fc8fe0",
+        "uuid": "c2695dc25a3d01765aab8fbfa3d77030",
         "title": "五相偈 五",
         "author": "本寂",
         "content": "混（《五灯会元》作「浑」）然藏理事，眹兆卒难明。\n威音王未晓，弥勒岂惺惺。",
@@ -64,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "eb6295b92df7289aa84e1dde27f9bc85",
+        "uuid": "366ed32d010311b8c43ae061d28732cd",
         "title": "四禁偈",
         "author": "本寂",
         "content": "莫行心处路，不挂本来衣。\n何须正恁么，切忌来生时。",
@@ -72,7 +64,7 @@
         "collection_info": null
     },
     {
-        "uuid": "150361660bfa922b709769d3fa557164",
+        "uuid": "b8b5a5529a916eeef81c47fbe88d568e",
         "title": "示学人偈",
         "author": "本寂",
         "content": "从缘荐得相应疾，就体消停得力迟（《宗镜录》卷四一作「就体消机道却迟」）。\n瞥起本来无处所，吾师暂说不思议。",
@@ -80,7 +72,7 @@
         "collection_info": null
     },
     {
-        "uuid": "406e548d8691131f1b4b0763c96c8e17",
+        "uuid": "652cc6b3ff3ceb10e1b365bde9d3ac16",
         "title": "僧举香岩语示颂",
         "author": "本寂",
         "content": "枯木龙吟真（《林间录》卷下作「方」）见道，髑髅无识（《祖庭事苑》卷二作「识尽」）眼初（《林间录》作「方」）明。\n喜识尽时消息（《景德传灯录》卷十七作「不」）尽，当（《僧宝传》卷一作「常」）人那辨浊中清。",
@@ -88,7 +80,7 @@
         "collection_info": null
     },
     {
-        "uuid": "be445a403360e873a1f1f4e9fbcd84c2",
+        "uuid": "e068b637e83d489c44027bf4fadb3497",
         "title": "读傅大士法身偈后作偈",
         "author": "本寂",
         "content": "渠本不是我，（非我）我本不是渠。\n（非渠）渠无我即死，（仰汝取活）我无渠即余。\n（不别有）渠如我即佛，（要且不是佛）我如渠即驴。\n（二俱不立）不食空王俸，（若遇御饭直须吐却）何假鴈传书。\n（不通信）我说横声唱，（为信唱）君看背上毛。\n（不与尔相似）乍如谣《白雪》，（将谓是《白雪》）犹恐是巴歌。\n（传此句无注）（以上十首均见《大正新修大藏经》第四七册《抚州曹山元证禅师语录》）。",
@@ -96,7 +88,7 @@
         "collection_info": null
     },
     {
-        "uuid": "7bdb576353641330af30e35bc56bf3db",
+        "uuid": "5ffe1a011ad1159eb08fdcbbbcfaf9ff",
         "title": "颂",
         "author": "本寂",
         "content": "今年田不熟，来年种有期。\n爱他年少父，须得白头儿。\n（见《祖堂集》卷二十）。",
@@ -104,7 +96,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0dd691cc63a80501868b78afcadf936c",
+        "uuid": "c009a731b79165a681afaa50c9da68a7",
         "title": "偈",
         "author": "本寂",
         "content": "学者先须识自宗，莫将真际杂顽空。\n妙明体尽知伤触，力在逢缘不借中。\n出语直教烧不着。\n潜行须与古人同。\n无身有事超歧路，无事无身落始终。\n（《五灯会元》卷十三）。",

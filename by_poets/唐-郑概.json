@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "19d9a7a8b4b7b68bd698c45a10fc3373",
+        "uuid": "ebad2fd9d0c3b3e6034312c1e4dad1b0",
         "title": "忆长安 六月",
         "author": "郑概",
         "content": "忆长安，六月时，风台水榭逶迤。\n朱果雕笼香透，分明紫禁寒随。\n尘惊九衢客散，赭珂滴沥青骊。",
@@ -8,33 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "9cf0735c21ddee9cb35c1d84609f0b24",
+        "uuid": "ea429b346ce5fea924a2239bbb324b61",
         "title": "状江南 孟秋",
         "author": "郑概",
         "content": "江南孟秋天，稻花白如毡。\n素腕惭新藕，残妆妒晚莲。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "1ae9f718a51e381eea79382f75d3f8f0",
-        "title": "忆长安：六月",
-        "author": "郑概",
-        "content": "忆长安，六月时，风台水榭逶迤。\n朱果雕笼香透，分明紫禁寒随。\n尘惊九衢客散，赭珂滴沥青骊。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百零七"
-        }
-    },
-    {
-        "uuid": "28c9a43718dd0e895c64f2eb9839911f",
-        "title": "状江南：孟秋",
-        "author": "郑概",
-        "content": "江南孟秋天，稻花白如毡。\n素腕惭新藕，残妆妒晚莲。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百零七"
-        }
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "c55a04b6b4944db217e8825a910cf4d0",
+        "uuid": "9a4d6dc914b968a9e8f3f6bf792ad806",
         "title": "寄题明月禅院二首  其一",
         "author": "释赞宁",
         "content": "参差峰岫昼云昏，入望交萝浊浪奔。\n震泽涌山来北岸，华阳连洞到东门。\n日生树挂红霞脚，风起波摇白石根。\n闻有上方僧住处，橘花林下采兰荪。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5559b1bdaf613c8c671a474b9f84f62e",
+        "uuid": "8afcf9bb56234a357b37665cbce7c228",
         "title": "寄题明月禅院二首  其二",
         "author": "释赞宁",
         "content": "积翠湖心迤逦长，洞台萧寺两交光。\n鸟行黑点波涛白，枫叶红连橘柚黄。\n人我绝时隈树石，是非来处接帆樯。\n如何遂得追游性，摆却营营不急忙。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a3390bb0cbdc312099ee8ba19fd3b196",
+        "uuid": "f59758419168d6c2555e3db5ec05506d",
         "title": "夜吟",
         "author": "释赞宁",
         "content": "独坐閒吟野思清，秋庭萧索暮烟轻。\n孤灯欲灺月未上，万籁寂然蛩一声。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "fe3d3d9586277c1ffdd9724c6818b6c3",
+        "uuid": "a6c94341d8915febefa68220b3280daf",
         "title": "居天柱山",
         "author": "释赞宁",
         "content": "四野豁家庭，柴门夜不扃。\n水边成半偈，月下了残经。\n虽逐诸尘转，终归一念醒。\n未知斯旨者，万役尽劳形。",
@@ -32,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "68ec6bd7fdc132e234573a4d5e8b1bf6",
+        "uuid": "ee338b713b629f5e031474abeb28a2eb",
         "title": "秋日寄人",
         "author": "释赞宁",
         "content": "白鸟行从山嘴没，青鸥羣向水湄分。\n松斋独坐谁为侣，数片斜飞槛外云。",
@@ -40,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5361d67be40c4daf3f096c700b9d6100",
+        "uuid": "7239b6319a0a078bf8fb6e767d89f652",
         "title": "括浙江潮候",
         "author": "释赞宁",
         "content": "午未未未申，申卯卯辰辰。\n巳巳巳午午，朔望一般轮。",
@@ -48,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "1004aa09e018a18b45432950c43c1339",
+        "uuid": "8941cb39b96c2678ad4a468a0f6bedb9",
         "title": "落花",
         "author": "释赞宁",
         "content": "蝶醉蜂狂香正浓，晚来阶下坠衰红。\n开时费尽阳和力，落处难禁一阵风。",
@@ -56,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "7b9e5ad3c7e7d2ffbc8296deb8af603c",
+        "uuid": "188348cca3411441ffe3945e091c9592",
         "title": "悟空塔",
         "author": "释赞宁",
         "content": "浮图萧瑟入虚空，一聚全身罔像中。\n传马祖心开佛印，识龙潜主示神通。\n毫光委坠江楼月，道气馨香海岸风。\n此地化缘才始尽，更于何处动魔宫。",
@@ -64,23 +64,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0d5d112d8b7c55ec2c9dfb8159ca9a97",
-        "title": "句  其一",
-        "author": "释赞宁",
-        "content": "山黛浅深春气力，浪花开合水工夫。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "ee3237bc1ba51a0b8d8556d7628c14d8",
-        "title": "句  其二",
-        "author": "释赞宁",
-        "content": "草浓春径狭，树密晚窗阴。",
-        "dynasty": "宋",
-        "collection_info": null
-    },
-    {
-        "uuid": "166d693bb4f4a39c696df78700751a6c",
+        "uuid": "97bdb0a85bd06975f2a5959d3e7e7546",
         "title": "句  其三",
         "author": "释赞宁",
         "content": "登楼千里月，欹枕一声蝉。",
@@ -88,7 +72,7 @@
         "collection_info": null
     },
     {
-        "uuid": "fa4676455cacce8fefbb793f0047db5b",
+        "uuid": "90553cf77f5d1041986db4d0829679a3",
         "title": "句  其四",
         "author": "释赞宁",
         "content": "要路花争发，閒门草易荒。",
@@ -96,7 +80,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2f542cd0469753d1e6a4ffa1c04c8ac5",
+        "uuid": "6e89c3e753af34909c8f15fd10fd9e85",
         "title": "句  其五",
         "author": "释赞宁",
         "content": "与闲为活计。",
@@ -104,7 +88,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2309ef874e3a6b5e28038e3dd125c168",
+        "uuid": "a0b01b411c1432f401bcfc2179088f86",
         "title": "句  其六",
         "author": "释赞宁",
         "content": "何用密防姦。",

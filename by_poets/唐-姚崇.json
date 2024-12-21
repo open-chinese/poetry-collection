@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "a3c16c7a6e3bd7e7828cf1cf17cd3bc9",
+        "uuid": "3dc11e552311050da1d3e59360f9b93d",
         "title": "郊庙歌辞 享龙池乐章 第一章",
         "author": "姚崇",
         "content": "恭闻帝里生灵沼，应报明君鼎业新。\n既协翠泉光宝命，还符白水出真人。\n此时舜海潜龙跃，此地尧河带马巡。\n独有前池一小雁，叨承旧惠入天津。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a73784b421e1556362a06dd1f6b14adb",
+        "uuid": "2a343e69fbd9833f5914fe9077c2767e",
         "title": "奉和圣制夏日游石淙山",
         "author": "姚崇",
         "content": "二室三涂光地险，均霜揆日处天中。\n石泉石镜恆留月，山鸟山花竞逐风。\n周王久谢瑶池赏，汉主悬惭玉树宫。\n别有祥烟伴佳气，能随轻辇共葱葱。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f610c613a32e4bcf1a1774f748621f82",
+        "uuid": "7676dd2632a6b15ec3863f2f78c7e2f3",
         "title": "故洛阳城侍宴应制",
         "author": "姚崇",
         "content": "游豫停仙跸，登临对晚晴。\n川凫连倒影，岩鸟应虚声。\n野奏风成曲，山居云作缨。\n今朝丘壑上，高兴小蓬瀛。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "55e7b05dbdeefb93bbd43d9a4a00fdec",
+        "uuid": "a3e3d2504ec7228acb5498060d8ca4e9",
         "title": "春日洛阳城侍宴",
         "author": "姚崇",
         "content": "南山开宝历，北渚对芳蹊。\n的历风梅度，参差露草低。\n尧樽临上席，舜乐下前溪。\n任重由来醉，乘酣志转迷。",
@@ -32,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "17b5484d6b3045c8c780d0af0622c6ff",
+        "uuid": "54dbd61088a7802400d880b08b99327f",
         "title": "秋夜望月",
         "author": "姚崇",
         "content": "明月有余鉴，羁人殊未安。\n桂含秋树晚，波入夜池寒。\n灼灼云枝净，光光草露团。\n所思迷所在，长望独长叹。",
@@ -40,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b630008a5ba5765cba0cf4982eed76b8",
+        "uuid": "9c4c67bcbb1b3818d3a620ae463d31ce",
         "title": "夜渡江",
         "author": "姚崇",
         "content": "夜渚带浮烟，苍茫晦远天。\n舟轻不觉动，缆急始知牵。\n听草遥寻岸，闻香暗识莲。\n唯看孤帆影，常似客心悬。",
@@ -48,15 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "bc62e10911cb7ce15d5db4160345bd79",
-        "title": "奉和圣制龙池篇",
-        "author": "姚崇",
-        "content": "恭闻帝里生灵沼，应报明君鼎业新。\n既协翠泉光宝命，还符白水出真人。\n此时舜海潜龙跃，此地尧河带马巡。\n独有前池一小雁，叨承旧惠入天津。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "86ba224ea243083fde15712c0d77fd28",
+        "uuid": "71feb0effee6375398a4495b857a20f7",
         "title": "句",
         "author": "姚崇",
         "content": "扇掩将雏曲，钗承堕马鬟。",
@@ -64,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "1074b0adcd39e9a192d4fea45af7613d",
+        "uuid": "ca747698044d121a3ec0d35f53f07ea3",
         "title": "五言过栖岩寺",
         "author": "姚崇",
         "content": "鹫岭高不极，延睇俯何宫？城郭千年在，烟云万里通。\n坐忘荣与利，行悟□将□（当为「空」字）。\n愿假慈悲力，微资燮理功。\n（见清胡聘之《山右石刻丛编》卷五）（按：此诗原刻高宗诗后。\n题下署：「凤阁侍郎同凤阁鸾台平章事姚元崇。\n」）。",
@@ -72,7 +64,7 @@
         "collection_info": null
     },
     {
-        "uuid": "350e6d68c7acc426c6c32e1dce392251",
+        "uuid": "8f2b68e844430f50b2abe6fd54e3811a",
         "title": "奉使蒲州返辔奉答圣制（题拟）",
         "author": "姚崇",
         "content": "归来朝帝□，忽□（疑为「逢」字）钧天响。\n悬知浐水游，绝胜汾川赏。\n（见前书同卷高宗《过栖岩寺》附刻韦元晨《六绝纪文》引）（按：此诗为「大周长安二年」作，诗题据韦文拟。\n）。",
@@ -80,7 +72,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f731ff411245afca91acfa082c6d88e4",
+        "uuid": "f0b5bb43eaa48f0e9459d60143d9b046",
         "title": "郊庙歌辞：享龙池乐章：第一章",
         "author": "姚崇",
         "content": "恭闻帝裏生灵沼，应报明君鼎业新。\n既协翠泉光宝命，独有前池一小雁，叨承旧惠入天津。",
@@ -91,7 +83,7 @@
         }
     },
     {
-        "uuid": "53385c3678d34d60edaacd5af5bb5322",
+        "uuid": "7bc31be10f01d9e86de33e7fa0d969c2",
         "title": "奉和圣制夏日游石淙山",
         "author": "姚崇",
         "content": "二室三涂光地险，均霜揆日处天中。\n石泉石镜恒留月，别有祥烟伴佳气，能随轻辇共葱葱。",
@@ -102,18 +94,7 @@
         }
     },
     {
-        "uuid": "1a7298ef330c614b9a105eeaf4f92f33",
-        "title": "奉和圣制龙池篇",
-        "author": "姚崇",
-        "content": "恭闻帝裏生灵沼，应报明君鼎业新。\n既协翠泉光宝命，独有前池一小雁，叨承旧惠入天津。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六十四"
-        }
-    },
-    {
-        "uuid": "5f80ec572aad1f68110e41d5db30ba99",
+        "uuid": "430f3e06332fbd29912e0c8e392b5651",
         "title": "句",
         "author": "姚崇",
         "content": "扇掩将雏曲，钗承堕马鬟。\n（见《海录碎事》，",

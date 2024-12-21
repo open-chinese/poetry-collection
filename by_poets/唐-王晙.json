@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "2d7909df67dff184c6f5edf6e9b909e4",
+        "uuid": "43df533031cbc3d6199fbbb51324d235",
         "title": "郊庙歌辞 祭汾阴乐章 太和",
         "author": "王晙",
         "content": "于穆圣皇，六叶重光。\n太原刻颂，后土疎场。\n宝鼎呈符，歊云孕祥。\n礼乐备矣，降福穰穰。",
@@ -8,33 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "1952f20f47ed4c72db0c09228ad5d7b8",
+        "uuid": "d77857fbb4c2b8b0fadd1df4a230128b",
         "title": "祭汾阴乐章 太和",
         "author": "王晙",
         "content": "于穆圣皇，六叶重光。\n太原刻颂，后土疏场。\n宝鼎呈符，歊云孕祥。\n礼乐备矣，降福穰穰。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "891e92353072e86d61348da3024fe633",
-        "title": "郊庙歌辞：祭汾阴乐章：太和",
-        "author": "王晙",
-        "content": "于穆圣皇，六叶重光。\n太原刻颂，后土疏场。\n宝鼎呈符，歊云孕祥。\n礼乐备矣，降福穰穰。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十二"
-        }
-    },
-    {
-        "uuid": "ee75584d8f6212e9f29f5f98b5b34d33",
-        "title": "祭汾阴乐章：太和",
-        "author": "王晙",
-        "content": "于穆圣皇，六叶重光。\n太原刻颂，后土疏场。\n宝鼎呈符，歊云孕祥。\n礼乐备矣，降福穰穰。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷九十九"
-        }
     }
 ]

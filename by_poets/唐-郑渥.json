@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "dd54e64cede4c53499159123ba298674",
+        "uuid": "5aced15b6898966e412226161dafe614",
         "title": "横吹曲辞 洛阳道",
         "author": "郑渥",
         "content": "客亭门外路东西，多少喧腾事不齐。\n杨柳惹鞭公子醉，纻麻掩泪鲁人迷。\n通宵尘土飞山月，是处经营夹御堤。\n顷刻知音几存殁，半回依约认轮蹄。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2f165387d25af4aefa92473f8191e989",
+        "uuid": "182cf924a3ef90f711b481b4ee2df748",
         "title": "塞上",
         "author": "郑渥",
         "content": "出门何处问西东，指画翻为语论同。\n到此客头潜觉白，未秋山叶已飘红。\n帐前影落传书鴈，日下声交失马翁。\n早晚回鞭復南去，大衣高盖汉乡风。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f927ebe131cedf99bbe3d5f8fc83794e",
+        "uuid": "5579601aef8f0ca718730acd5246cbe0",
         "title": "洛阳道",
         "author": "郑渥",
         "content": "客亭门外路东西，多少喧腾事不齐。\n杨柳惹鞭公子醉，苎麻掩泪鲁人迷。\n通宵尘土飞山月，是处经营夹御堤。\n顷刻知音几存殁，半回依约认轮蹄。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "947d0d70342f5105df65354dd71457d4",
+        "uuid": "1cc432a09cc314ee6a320bf566ca8616",
         "title": "横吹曲辞：洛阳道",
         "author": "郑渥",
         "content": "客亭门外路东西，多少喧腾事不齐。\n杨柳惹鞭公子醉，顷刻知音几存殁，半回依约认轮蹄。",
@@ -35,21 +35,10 @@
         }
     },
     {
-        "uuid": "bb71c6b73fdb73bf033ff601f5946ed5",
+        "uuid": "47a7b258cb94053df79f9381f56562a9",
         "title": "塞上",
         "author": "郑渥",
         "content": "出门何处问西东，指画翻为语论同。\n到此客头潜觉白，早晚回鞭复南去，大衣高盖汉乡风。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十四"
-        }
-    },
-    {
-        "uuid": "558be10a99c3a6f7583e9debda9f3785",
-        "title": "洛阳道",
-        "author": "郑渥",
-        "content": "客亭门外路东西，多少喧腾事不齐。\n杨柳惹鞭公子醉，顷刻知音几存殁，半回依约认轮蹄。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

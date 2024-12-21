@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "3668e80e69a3808118cfc8c2af54afeb",
+        "uuid": "eee84e74f9d1b6391a5cb5a70726a46a",
         "title": "郊庙歌辞 享文敬太子庙乐章 请神",
         "author": "许孟容",
         "content": "觞牢具品，管磬有节。\n祝道夤恭，神仪昭晰。\n桐圭早贵，象辂追设。\n声达乐成，降歆丰洁。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "c7a89bb833bed7707e7a948e7c16a9d9",
+        "uuid": "e8ca00a2c3518d5f5557b152d3f6af24",
         "title": "荅权载之离合诗",
         "author": "许孟容",
         "content": "史才司秘府，文哲今超古。\n亦有擅风骚，六联文墨曹。\n圣贤三代意，工艺千金字。\n化识从臣谣，人推仙阁吏。\n如登昆阆时，口诵灵真词。\n孙简下威凤，系霜琼玉枝。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b70431752a6844e1a5b7e23545a6a4f3",
+        "uuid": "9bc0447d7b16b2bd6b8fdfda70ad2d8e",
         "title": "奉和武相公春晓闻莺",
         "author": "许孟容",
         "content": "碧树当窗啼晓莺，间关入梦听难成。\n千回万啭尽愁思，疑是血魂哀困声。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5fb5cfa4876b6b7c9708cfc2622545e0",
+        "uuid": "8c47c44db4d1aa4201daeaf9efc1e557",
         "title": "享文恭太子庙乐章",
         "author": "许孟容",
         "content": "觞牢具品，管弦有节。\n祝道寅恭，神仪昭晰。\n桐珪早贵，象辂追设。\n罄达乐成，降歆丰洁。",
@@ -32,29 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "6c44735fef42777ff8ae9cfaf0bf0fc4",
-        "title": "郊庙歌辞：享文敬太子庙乐章：请神",
-        "author": "许孟容",
-        "content": "觞牢具品，管磬有节。\n祝道夤恭，神仪昭晰。\n桐圭早贵，象辂追设。\n声达乐成，降歆丰洁。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十五"
-        }
-    },
-    {
-        "uuid": "b541a86cde195236d5142befb742870d",
-        "title": "答权载之离合诗",
-        "author": "许孟容",
-        "content": "史才司秘府，文哲今超古。\n亦有擅风骚，六联文墨曹。\n圣贤三代意，工艺千金字。\n化识从臣谣，人推仙阁吏。\n如登昆阆时，口诵灵真词。\n孙简下威凤，系霜琼玉枝。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百三十"
-        }
-    },
-    {
-        "uuid": "27665a96c88bc9dca4ff221a518dee76",
+        "uuid": "bd29c0bdf76243f6a952ba6935b7f291",
         "title": "享文恭太子庙乐章",
         "author": "许孟容",
         "content": "觞牢具品，管弦有节。\n祝道寅恭，神仪昭晰。\n桐珪早贵，象辂追设。\n磬达乐成，降歆丰洁。",

@@ -1,29 +1,10 @@
 [
     {
-        "uuid": "372466bbad8d53752820062b7b699be4",
+        "uuid": "9709f0329c41189582d27630c58015d1",
         "title": "相和歌辞 长门怨",
         "author": "裴交泰",
         "content": "自闭长门经几秋，罗衣湿尽泪还流。\n一种蛾眉明月夜，南宫歌管北宫愁。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "6385ac786ab0c5d6530c9f11043a2ed6",
-        "title": "长门怨",
-        "author": "裴交泰",
-        "content": "自闭长门经几秋，罗衣湿尽泪还流。\n一种蛾眉明月夜，南宫歌管北宫愁。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "18da60d018f53ae96afee93a864d538b",
-        "title": "相和歌辞：长门怨",
-        "author": "裴交泰",
-        "content": "自闭长门经几秋，罗衣湿尽泪还流。\n一种蛾眉明月夜，南宫歌管北宫愁。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十"
-        }
     }
 ]

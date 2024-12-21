@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "2a9ecd01364e46a81fa0d101f06fbda6",
+        "uuid": "1321a0598101e35c50925d5b37d36964",
         "title": "相和歌辞 王昭君三首 一",
         "author": "东方虬",
         "content": "汉道初全盛，朝廷足武臣。\n何须薄命妾，辛苦事和亲。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "382c34e9046be12f44e2403d23cb670c",
+        "uuid": "da4068cb776c437b5341045e86cb8317",
         "title": "相和歌辞 王昭君三首 二",
         "author": "东方虬",
         "content": "揜涕辞丹凤，衔悲向白龙。\n单于浪惊喜，无復旧时容。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2bb795708d0596a50ab5ec30dbc1eb64",
+        "uuid": "c599449bd1f14e6ca87937565a76917c",
         "title": "相和歌辞 王昭君三首 三",
         "author": "东方虬",
         "content": "胡地无花草，春来不似春。\n自然衣带缓，非是为腰身。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8b11735cb276c630f9b340ec20745e5e",
+        "uuid": "531921b7c72d47a12c432be4552bf6a4",
         "title": "昭君怨三首 一",
         "author": "东方虬",
         "content": "汉道方全盛，朝廷足武臣。\n何须薄命妾，辛苦事和亲。",
@@ -32,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "340765815b49154c3254fa16844eaceb",
+        "uuid": "77a1646dbecd11cdfa8a0c9e8b249392",
         "title": "昭君怨三首 二",
         "author": "东方虬",
         "content": "揜泪辞丹凤，衔悲向白龙。\n单于浪惊喜，无復旧时容。",
@@ -40,15 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "00923e92792d5badc11c4d63b8e1b2f6",
-        "title": "昭君怨三首 三",
-        "author": "东方虬",
-        "content": "胡地无花草，春来不似春。\n自然衣带缓，非是为腰身。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "9c6ca3cd6e38b2690eed96746aa2fa27",
+        "uuid": "bbf0f6954158e15022ab15e0e5a7531f",
         "title": "春雪",
         "author": "东方虬",
         "content": "春雪满空来，触处似花开。\n不知园裏树，若箇是真梅。",
@@ -56,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a33b960261e7ee04aca22b4510c4b9e0",
+        "uuid": "24840f7ad1d887f11387c99c72c20842",
         "title": "昭君怨（其三。斯五五五）",
         "author": "东方虬",
         "content": "万里胡风急，三秋[□]汉初。\n唯望南去雁，不肯为传书。\n（按这诗的其一、其二、其四三首已载《全唐诗》，故仅补「其三」一首。\n）。",
@@ -64,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "71d58e3f42bf2da1d9286f81ff1bf72b",
+        "uuid": "c890b12260e2c5a2f0c2504ecccb8efa",
         "title": "相和歌辞：王昭君三首",
         "author": "东方虬",
         "content": "汉道初全盛，朝廷足武臣。\n何须薄命妾，辛苦远和亲。\n掩涕辞丹凤，衔悲向白龙。\n单于浪惊喜，无復旧时容。\n胡地无花草，春来不似春。\n自然衣带缓，非是为腰身。",
@@ -75,7 +67,7 @@
         }
     },
     {
-        "uuid": "c71cd58df04427f97219a0d9ab1082ed",
+        "uuid": "c9830f1deeaef3789b5d947b37f3101b",
         "title": "昭君怨三首",
         "author": "东方虬",
         "content": "汉道方全盛，朝廷足武臣。\n何须薄命妾，辛苦事和亲。\n掩泪辞丹凤，衔悲向白龙。\n单于浪惊喜，无復旧时容。\n胡地无花草，春来不似春。\n自然衣带缓，非是为腰身。",
@@ -86,7 +78,7 @@
         }
     },
     {
-        "uuid": "495adb5e21c87bc58eb4053da5d82e20",
+        "uuid": "e24aac3f610d9b275c751fdf49977766",
         "title": "春雪",
         "author": "东方虬",
         "content": "春雪满空来，触处似花开。\n不知园裏树，若个是真梅。",

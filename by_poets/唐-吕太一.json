@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "4a146358203f6af8f3c57ae027aa219a",
+        "uuid": "f799a80dd3d1223dc834c42a83eb690c",
         "title": "咏院中藂竹",
         "author": "吕太一",
         "content": "擢擢当轩竹，青青重岁寒。\n心贞徒见赏，箨小未成竿。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "353821c270cf5d29603e06e16e51d087",
-        "title": "咏院中丛竹",
-        "author": "吕太一",
-        "content": "擢擢当轩竹，青青重岁寒。\n心贞徒见赏，箨小未成竿。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百"
-        }
     }
 ]

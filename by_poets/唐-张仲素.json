@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "d39107eb1deff94b3ed8c58589017132",
+        "uuid": "702e25ea27a0358becafa431bbbfa54e",
         "title": "相和歌辞 王昭君",
         "author": "张仲素",
         "content": "仙娥今下嫁，骄子自同和。\n劒戟归田尽，牛羊绕塞多。",
@@ -8,7 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "3bcbed9eb821cbeb432990b7b32e0334",
+        "uuid": "997674594648de7789915ebcd88fb370",
         "title": "杂曲歌辞 秋夜曲",
         "author": "张仲素",
         "content": "丁丁漏水夜何长，漫漫轻云露月光。\n秋壁闇虫通夕响，寒衣未寄莫飞霜。",
@@ -16,7 +16,7 @@
         "collection_info": null
     },
     {
-        "uuid": "880fbfefebca1e72bce1513f1fe8661c",
+        "uuid": "6806bd2ddaac3a8dee33ce96d86b11d9",
         "title": "杂曲歌辞 春江曲二首 一",
         "author": "张仲素",
         "content": "家寄征江岸，征人几岁游。\n不知潮水信，每日到沙头。",
@@ -24,7 +24,7 @@
         "collection_info": null
     },
     {
-        "uuid": "24834fe2aa8cf488f7afee47391fa4ff",
+        "uuid": "3b6fb848ab931bf99e6ed97bf39e9add",
         "title": "杂曲歌辞 春江曲二首 二",
         "author": "张仲素",
         "content": "乘晓南湖去，参差迭浪横。\n前洲在何处？雾裏鴈嘤嘤。",
@@ -32,7 +32,7 @@
         "collection_info": null
     },
     {
-        "uuid": "eb8195ea485c5a471e1b4523e273c3a5",
+        "uuid": "3cded2523559add16d9df83941e52b6f",
         "title": "杂曲歌辞 春游曲三首 一",
         "author": "张仲素",
         "content": "烟柳飞轻絮，风榆落小钱。\n蒙蒙百花裏，罗绮竞秋韆。",
@@ -40,7 +40,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0ef37778278a93c2530a052ceb8c2bc0",
+        "uuid": "168c6c134abb12f9cc3554265b82fa24",
         "title": "杂曲歌辞 春游曲三首 二",
         "author": "张仲素",
         "content": "骋望登香阁，争高下砌台。\n林间踏青去，席上意钱来。",
@@ -48,7 +48,7 @@
         "collection_info": null
     },
     {
-        "uuid": "28d3644a3293374acfc512555890336a",
+        "uuid": "75eeaafd3614a731e7bbc24172df4d4b",
         "title": "杂曲歌辞 春游曲三首 三",
         "author": "张仲素",
         "content": "行乐三春节，林花百和香。\n当年重意气，先占鬬鸡场。",
@@ -56,7 +56,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a053a793f5451657499582e809ad82eb",
+        "uuid": "e3a51580099d83133c3f57db14520f37",
         "title": "缑山鹤",
         "author": "张仲素",
         "content": "羽客骖仙鹤，将飞驻碧山。\n映松残雪在，度岭片云还。\n清唳因风远，高姿对水闲。\n笙歌忆天上，城郭叹人间。\n几变霜毛洁，方殊藻质斑。\n迢迢烟路逸，奋翮讵能攀。",
@@ -64,7 +64,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d8a2fdb856fbdd6dacf7a1082b8f87b3",
+        "uuid": "1aa77f00920d37f5eefeec0e2969b0e1",
         "title": "夜闻洛滨吹笙",
         "author": "张仲素",
         "content": "王子千年后，笙音五夜闻。\n逶迤绕清洛，断续下仙云。\n泄泄飘难定，啾啾曲未分。\n松风助幽律，波月动轻文。\n凤管听何远，鸾声若在羣。\n暗空思羽盖，余气自氛氲。",
@@ -72,7 +72,7 @@
         "collection_info": null
     },
     {
-        "uuid": "fce1f4577cee4a816bff61442931eb1f",
+        "uuid": "3db48c24afc15ad57ddf70e1a0ca60c9",
         "title": "上元日听太清宫步虚",
         "author": "张仲素",
         "content": "仙客开金箓，元辰会玉京。\n灵歌宾紫府，雅韵出层城。\n磬杂音徐彻，风飘响更清。\n纡余空外尽，断续听中生。\n舞鹤纷将集，流云住未行。\n谁知九陌上，尘俗仰遗声。",
@@ -80,7 +80,7 @@
         "collection_info": null
     },
     {
-        "uuid": "cf7e31f2e859c371fcfaa8f0284c5309",
+        "uuid": "6ebd120c755d94cfe348736bfc1ec357",
         "title": "玉绳低建章",
         "author": "张仲素",
         "content": "迢迢玉绳下，芒彩正阑干。\n稍復临鳷鹊，方疑近露寒。\n微明连粉堞，的皪映仙盘。\n横接河流照，低将夜色残。\n天榆随影没，宫树与光攒。\n遐想西垣客，长吟欲罢难。",
@@ -88,7 +88,7 @@
         "collection_info": null
     },
     {
-        "uuid": "75b2b38ca901b27eed8d69a711511d0d",
+        "uuid": "dc513f55f7671299a65d179c4f328e5e",
         "title": "寒云轻重色",
         "author": "张仲素",
         "content": "佳期当可许，託思望云端。\n鳞影朝犹落，繁阴暮自寒。\n因风方袅袅，间石已漫漫。\n隐映看鸿度，霏微觉树攒。\n凝空多似黛，引素乍如纨。\n每向愁中览，含毫欲状难。",
@@ -96,7 +96,7 @@
         "collection_info": null
     },
     {
-        "uuid": "60a11ce2c18c771af41192e4e752c1e2",
+        "uuid": "8384285ce7ad4cd9036f87f2cde05e5f",
         "title": "圣明乐",
         "author": "张仲素",
         "content": "九陌祥烟合，千春瑞月明。\n宫花将苑柳，先发凤皇城。",
@@ -104,7 +104,7 @@
         "collection_info": null
     },
     {
-        "uuid": "6ae58eee619e0109d07b30e99a1ebf87",
+        "uuid": "d7d91665b268daa8b1973f85b020d44c",
         "title": "献寿词",
         "author": "张仲素",
         "content": "玉帛殊方至，歌钟比屋闻。\n华夷今一贯，同贺圣朝君。",
@@ -112,7 +112,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d435bc40d0305c492e1a30d10c791f74",
+        "uuid": "b0fa348db02c03bd89fc7f7fbacdcf2b",
         "title": "宫中乐五首 一",
         "author": "张仲素",
         "content": "网户交如绮，纱窗薄似烟。\n乐吹天上曲，人是月中仙。",
@@ -120,7 +120,7 @@
         "collection_info": null
     },
     {
-        "uuid": "81e88e1db22bb10c19f4546ca6b81626",
+        "uuid": "ac3f6e4dd331dc24737e48aa1d7be2d6",
         "title": "宫中乐五首 二",
         "author": "张仲素",
         "content": "翠匣开寒镜，珠钗挂步摇。\n妆成祗畏晓，更漏促春宵。",
@@ -128,7 +128,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d7c3f86b2d5ff1defa3b6a5c135ae6a2",
+        "uuid": "ab37b2e0e494bf3f99637e3ec4194c27",
         "title": "宫中乐五首 三",
         "author": "张仲素",
         "content": "红果瑶池实，金盘露井冰。\n甘泉将避暑，台殿晓光凝。",
@@ -136,7 +136,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f7df02d02b409940d60fcd8747611915",
+        "uuid": "4212ce75f1a6fc8de67c302808e73d32",
         "title": "宫中乐五首 四",
         "author": "张仲素",
         "content": "月采浮鸾殿，砧声隔凤楼。\n笙歌临水槛，红烛乍迎秋。",
@@ -144,7 +144,7 @@
         "collection_info": null
     },
     {
-        "uuid": "be410249c52574846cc5e6f45ee9c7d3",
+        "uuid": "08ff03efb7d5f17934cdee72f63aa1c2",
         "title": "宫中乐五首 五",
         "author": "张仲素",
         "content": "奇树留寒翠，神池结夕波。\n黄山一夜雪，渭水泻声多。",
@@ -152,15 +152,7 @@
         "collection_info": null
     },
     {
-        "uuid": "ecb8aa714b554f81943cdc09672d52c6",
-        "title": "春游曲三首 一",
-        "author": "张仲素",
-        "content": "烟柳飞轻絮，风榆落小钱。\n蒙蒙百花裏，罗绮竞秋韆。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "b90d7a6eaf5d2a6bcfc58516c2c63dcd",
+        "uuid": "c7d6c316530d252663166fab5b38ebfa",
         "title": "春游曲三首 二",
         "author": "张仲素",
         "content": "骋望登香阁，争高下砌台。\n林间踏青去，席上寄笺来。",
@@ -168,15 +160,7 @@
         "collection_info": null
     },
     {
-        "uuid": "ea62a9a4247ecbaa4720d53972e4870d",
-        "title": "春游曲三首 三",
-        "author": "张仲素",
-        "content": "行乐三春节，林花百和香。\n当年重意气，先占鬬鸡场。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "b14ec06036dd75ea570649bb55308810",
+        "uuid": "04ba4cd380f28bde9aaaee7e0f54c12e",
         "title": "春闺思",
         "author": "张仲素",
         "content": "袅袅城边柳，青青陌上桑。\n提笼忘采叶，昨夜梦渔阳。",
@@ -184,7 +168,7 @@
         "collection_info": null
     },
     {
-        "uuid": "0239b9a0a109d315f9660ce460165d07",
+        "uuid": "64d0806064eb90633d379a7928ffc684",
         "title": "春江曲二首 一",
         "author": "张仲素",
         "content": "家寄征河岸，征人几岁游。\n不如潮水信，每日到沙头。",
@@ -192,7 +176,7 @@
         "collection_info": null
     },
     {
-        "uuid": "45d1eb058eb22d0d1a865b8cefd288fb",
+        "uuid": "38d185bf96508f14850edf09f542e6d3",
         "title": "春江曲二首 二",
         "author": "张仲素",
         "content": "乘晓南湖去，参差迭浪横。\n前洲在何处，霜裏鴈嘤嘤。",
@@ -200,7 +184,7 @@
         "collection_info": null
     },
     {
-        "uuid": "10fef8c144bdc3473d1b1b35f80b22ee",
+        "uuid": "eb9524dd5e494ffb1c10de37665ffd70",
         "title": "太平词",
         "author": "张仲素",
         "content": "圣德超千古，皇威静四方。\n苍生今息战，无事觉时良。",
@@ -208,7 +192,7 @@
         "collection_info": null
     },
     {
-        "uuid": "902acca17656a1ce73cf4e282fdb5d1d",
+        "uuid": "7f51c53902c545b2369e3d5ff01b62cf",
         "title": "陇上行",
         "author": "张仲素",
         "content": "行到黄云陇，唯闻羌戍鼙。\n不如山下水，犹得任东西。",
@@ -216,7 +200,7 @@
         "collection_info": null
     },
     {
-        "uuid": "62ead98f5cc5281216e8d6627b443b21",
+        "uuid": "2de1b195d5e3b097a10abfedbd0b0aa3",
         "title": "思君恩",
         "author": "张仲素",
         "content": "紫禁香如雾，青天月似霜。\n云韶何处奏，祗是在朝阳。",
@@ -224,15 +208,7 @@
         "collection_info": null
     },
     {
-        "uuid": "bcf5389b0993cf323d6ee85ad2903c61",
-        "title": "王昭君",
-        "author": "张仲素",
-        "content": "仙娥今下嫁，骄子自同和。\n劒戟归田尽，牛羊绕塞多。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "99878ffd4fa8da92955e2aee3aedc70c",
+        "uuid": "1c40a9551adf145a9738899c398f186e",
         "title": "秋夜曲",
         "author": "张仲素",
         "content": "丁丁漏水夜何长，漫漫轻云露月光。\n秋逼暗虫通夕响，征衣未寄莫飞霜。",
@@ -240,7 +216,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f09c5800f47c789de688424ffeb15df6",
+        "uuid": "318151b616656d209f597d6add78e924",
         "title": "秋思赠远",
         "author": "张仲素",
         "content": "博山沉燎绝余香，兰烬金檠怨夜长。\n为问青青河畔草，几回经雨復经霜。",
@@ -248,7 +224,7 @@
         "collection_info": null
     },
     {
-        "uuid": "e204e4563af8849366a3278838e11120",
+        "uuid": "e669c4d44e8089eac677fb507d7d96b7",
         "title": "塞上曲",
         "author": "张仲素",
         "content": "卷斾生风喜气新，早持龙节静边尘。\n汉家天子图麟阁，身是当今第一人。",
@@ -256,7 +232,7 @@
         "collection_info": null
     },
     {
-        "uuid": "5c11836b1ca4c5b1f5b39b2f5176ca07",
+        "uuid": "120449341322839337722dd5eec0c2e5",
         "title": "塞下曲五首 一",
         "author": "张仲素",
         "content": "三戍渔阳再渡辽，骍弓在臂劒横腰。\n匈奴似若知名姓，休傍阴山更射雕。",
@@ -264,7 +240,7 @@
         "collection_info": null
     },
     {
-        "uuid": "163564fd0ae63283f03226bd39ad538d",
+        "uuid": "af85b76edf9f3182eb9b348598a87844",
         "title": "塞下曲五首 二",
         "author": "张仲素",
         "content": "猎马千行鴈几双，燕然山下碧油幢。\n传声漠北单于破，火照旌旗夜受降。",
@@ -272,7 +248,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d15fcc114885c60c5d9dc8d9fe2d346d",
+        "uuid": "4d6007730d77c40d5c79498d74728028",
         "title": "塞下曲五首 三",
         "author": "张仲素",
         "content": "朔雪飘飘开鴈门，平沙历乱卷蓬根。\n功名耻计擒生数，直斩楼兰报国恩。",
@@ -280,7 +256,7 @@
         "collection_info": null
     },
     {
-        "uuid": "69f3e057fe513b19e0dbe3da3a434a5e",
+        "uuid": "efc11eb2a24b061303cd841289c9b8c0",
         "title": "塞下曲五首 四",
         "author": "张仲素",
         "content": "陇水潺湲陇树秋，征人到此泪双流。\n乡关万里无因见，西戍河源早晚休。",
@@ -288,7 +264,7 @@
         "collection_info": null
     },
     {
-        "uuid": "b3a4c29c0f78bb8da12e30d4ba14a113",
+        "uuid": "da99a9a9b7f8452e7b797f180e876fdb",
         "title": "塞下曲五首 五",
         "author": "张仲素",
         "content": "阴碛茫茫塞草肥，桔槔烽上暮云飞。\n交河北望天连海，苏武曾将汉节归。",
@@ -296,7 +272,7 @@
         "collection_info": null
     },
     {
-        "uuid": "7ac5a27a103434acf46a53c71fa47a1c",
+        "uuid": "1bc0b52c117935109b7287163f93a3f3",
         "title": "秋思二首 一",
         "author": "张仲素",
         "content": "碧窗斜日蔼深晖，愁听寒螀泪湿衣。\n梦裏分明见关塞，不知何路向金微。",
@@ -304,7 +280,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2bed66e2a2252746e0f8bcabf1ddd6c4",
+        "uuid": "e22b0a131549a286ad2a01abd6914add",
         "title": "秋思二首 二",
         "author": "张仲素",
         "content": "秋天一夜静无云，断续鸿声到晓闻。\n欲寄征衣问消息，居延城外又移军。",
@@ -312,7 +288,7 @@
         "collection_info": null
     },
     {
-        "uuid": "05b69c20cd961d49c27e702aa91747af",
+        "uuid": "fb0b7cd0f0cdf95226287300c458896c",
         "title": "汉苑行二首",
         "author": "张仲素",
         "content": "回鴈高飞太液池，新花低发上林枝。\n年光到处皆堪赏，春色人间总不知。",
@@ -320,7 +296,7 @@
         "collection_info": null
     },
     {
-        "uuid": "34ac88af875c0567cc5308734c89d1a7",
+        "uuid": "241b70939ede2bef49824a9bbf19ff92",
         "title": "汉苑行二首 二",
         "author": "张仲素",
         "content": "春风淡荡景悠悠，莺啭高枝燕入楼。\n千步回廊闻凤吹，珠帘处处上银钩。",
@@ -328,7 +304,7 @@
         "collection_info": null
     },
     {
-        "uuid": "322bbb7b4ef6acba163f9291b18469c8",
+        "uuid": "96471a5cd7919c1d699aa4120952c833",
         "title": "天马辞二首 一",
         "author": "张仲素",
         "content": "天马初从渥水来，郊歌曾唱得龙媒。\n不知玉塞沙中路，苜蓿残花几处开。",
@@ -336,7 +312,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d0255912e3052e8eba156b76cdad1afd",
+        "uuid": "4df2145111b410175fefba37aaf4e4d2",
         "title": "天马辞二首 二",
         "author": "张仲素",
         "content": "躞蹀宛驹齿未齐，摐金喷玉向风嘶。\n来时欲尽金河道，猎猎轻风在碧蹄。",
@@ -344,7 +320,7 @@
         "collection_info": null
     },
     {
-        "uuid": "a6a7004cb96b0c57ae13ecbeea595319",
+        "uuid": "a365ed5b33fb37373176771dd392b19f",
         "title": "燕子楼诗三首 一",
         "author": "张仲素",
         "content": "楼上残灯伴晓霜，独眠人起合欢床。\n相思一夜情多少，地角天涯不是长。",
@@ -352,7 +328,7 @@
         "collection_info": null
     },
     {
-        "uuid": "3d036bfcf07110ed6be94467837e1f62",
+        "uuid": "70d6ea065c791d6f5beac2618f237b54",
         "title": "燕子楼诗三首 二",
         "author": "张仲素",
         "content": "北邙松栢锁愁烟，燕子楼人思悄然。\n自埋劒履歌尘散，红袖香消已十年。",
@@ -360,7 +336,7 @@
         "collection_info": null
     },
     {
-        "uuid": "f60c4e4f07471c49bd344889a5abdef8",
+        "uuid": "28327ff64e830d98eaf148118e2b8887",
         "title": "燕子楼诗三首 三",
         "author": "张仲素",
         "content": "适看鸿鴈岳阳回，又覩玄禽逼社来。\n瑶瑟玉箫无意绪，任从蛛网任从灰。",
@@ -368,7 +344,7 @@
         "collection_info": null
     },
     {
-        "uuid": "af3d729715fe7f39fdaea9f6aca9d966",
+        "uuid": "82c121010b25a9e71e4aef4a267c8f84",
         "title": "杂曲歌辞 圣明乐 一",
         "author": "张仲素",
         "content": "玉帛殊方至，歌钟比屋闻。\n华夷今一贯，同贺圣明君。",
@@ -376,15 +352,7 @@
         "collection_info": null
     },
     {
-        "uuid": "48a20051cade0abcc95e2763f3a2d1f1",
-        "title": "杂曲歌辞 圣明乐 二",
-        "author": "张仲素",
-        "content": "九陌祥烟合，千春瑞月明。\n宫花将苑柳，先发凤皇城。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "fe92c7cc9f8b6c017c4d4377836d9a70",
+        "uuid": "3ee4b72ace8a3baa2b38c7f632aa57fd",
         "title": "杂曲歌辞 太平乐",
         "author": "张仲素",
         "content": "圣德超千古，皇威静四方。\n苍生今息战，无事觉时长。",
@@ -392,15 +360,7 @@
         "collection_info": null
     },
     {
-        "uuid": "8835ed08b7f1ba344fe8a813e29ac3ac",
-        "title": "杂曲歌辞 宫中乐 一",
-        "author": "张仲素",
-        "content": "网户交如绮，纱窗薄似烟。\n乐吹天上曲，人是月中仙。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "c731b42a9b1077d4b18bffbd5f1d2a65",
+        "uuid": "56a85516ba190bb38322c3f6f35dea10",
         "title": "杂曲歌辞 宫中乐 二",
         "author": "张仲素",
         "content": "翠匣开寒镜，珠钗挂步摇。\n妆成秖畏晓，更漏促春宵。",
@@ -408,7 +368,7 @@
         "collection_info": null
     },
     {
-        "uuid": "44e5bf59d3442f21595aaf737c034910",
+        "uuid": "e55dac0f5148957d4c3b0a06c58596ce",
         "title": "杂曲歌辞 宫中乐 三",
         "author": "张仲素",
         "content": "江果瑶池实，金盘露井冰。\n甘泉将避暑，台殿晓光凝。",
@@ -416,7 +376,7 @@
         "collection_info": null
     },
     {
-        "uuid": "720fe78a9b9345bab144b11e7f7beb20",
+        "uuid": "64a10e5d462f5b9ebb01c614e79eb8b0",
         "title": "杂曲歌辞 宫中乐 四",
         "author": "张仲素",
         "content": "月彩浮鸾殿，砧声隔凤楼。\n笙歌临水槛，红烛乍迎秋。",
@@ -424,7 +384,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d1a80eae8b1ff3272acd717f401fb99e",
+        "uuid": "e3c13aa4ceaea4022deb354597e4e965",
         "title": "杂曲歌辞 宫中乐 五",
         "author": "张仲素",
         "content": "奇树留寒翠，神池结夕波。\n黄山一夜雪，渭水雁声多。",
@@ -432,7 +392,7 @@
         "collection_info": null
     },
     {
-        "uuid": "33c6077015e7cfcb02c1ec86a6bf5aab",
+        "uuid": "25114837bc5873c5d4c3fb81299a16ed",
         "title": "催妆诗",
         "author": "张仲素",
         "content": "舜耕余草木，禹凿旧山川。\n（见《说郛》卷三二高怿《羣居解颐》、卷六五宋无和子《善谑集》、《古今说海》本陆游《避暑漫抄》引《解颐》）。",
@@ -440,7 +400,7 @@
         "collection_info": null
     },
     {
-        "uuid": "d0ea2c76350e2a2e66df4d92660d7dec",
+        "uuid": "c3dd11b55d556cdab7cf2351ef45f073",
         "title": "相和歌辞：王昭君",
         "author": "张仲素",
         "content": "仙娥今下嫁，骄子自同和。\n剑戟归田尽，牛羊绕塞多。",
@@ -451,7 +411,7 @@
         }
     },
     {
-        "uuid": "ad3be24037b7b8bb01b0e399006032ef",
+        "uuid": "e2f5c675e95372ec649ef3c9b194901f",
         "title": "杂曲歌辞：秋夜曲",
         "author": "张仲素",
         "content": "丁丁漏水夜何长，漫漫轻云露月光。\n秋壁暗虫通夕响，寒衣未寄莫飞霜。",
@@ -462,7 +422,7 @@
         }
     },
     {
-        "uuid": "3f5d10ee65df002fb9c5e18666eee1f6",
+        "uuid": "6e5d5c0341123a2f42591e4bbf949dd1",
         "title": "杂曲歌辞：春江曲二首",
         "author": "张仲素",
         "content": "家寄征江岸，征人几岁游。\n不知潮水信，每日到沙头。\n乘晓南湖去，参差迭浪横。\n前洲在何处，雾裏雁嘤嘤。",
@@ -473,7 +433,7 @@
         }
     },
     {
-        "uuid": "c820fe37dd22d7ae65645f3e4aed04d7",
+        "uuid": "e35dd5d88c919be506c3afb794f0aa42",
         "title": "杂曲歌辞：春游曲三首",
         "author": "张仲素",
         "content": "烟柳飞轻絮，风榆落小钱。\n蒙蒙百花裏，罗绮竞秋千。\n骋望登香阁，争高下砌台。\n林间踏青去，席上意钱来。\n行乐三春节，林花百和香。\n当年重意气，先占斗鸡场。",
@@ -484,7 +444,7 @@
         }
     },
     {
-        "uuid": "ce1aecbf69d9dcc52d840840799847e4",
+        "uuid": "4d55e68cc1fc219cd811f3c080ec0194",
         "title": "杂曲歌辞：圣明乐",
         "author": "张仲素",
         "content": "玉帛殊方至，歌钟比屋闻。\n华夷今一贯，同贺圣明君。\n九陌祥烟合，千春瑞月明。\n宫花将苑柳，先发凤凰城。",
@@ -495,18 +455,7 @@
         }
     },
     {
-        "uuid": "ca38e20bbed1379414e601f3433355b3",
-        "title": "杂曲歌辞：太平乐",
-        "author": "张仲素",
-        "content": "圣德超千古，皇威静四方。\n苍生今息战，无事觉时长。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二十八"
-        }
-    },
-    {
-        "uuid": "1eb960011078ebfae55e0c48a1054fa6",
+        "uuid": "6b74186e74969521b5afc69214038397",
         "title": "杂曲歌辞：宫中乐",
         "author": "张仲素",
         "content": "网户交如绮，纱窗薄似烟。\n乐吹天上曲，人是月中仙。\n翠匣开寒镜，珠钗挂步摇。\n妆成隻畏晓，更漏促春宵。\n江果瑶池实，金盘露井冰。\n甘泉将避暑，台殿晓光凝。\n月彩浮鸾殿，砧声隔凤楼。\n笙歌临水槛，红烛乍迎秋。\n奇树留寒翠，神池结夕波。\n黄山一夜雪，渭水雁声多。",
@@ -517,7 +466,7 @@
         }
     },
     {
-        "uuid": "f1766f591c8810276c60c29f1203a58d",
+        "uuid": "a4a8e3a7594a6d8de8cd62d67b50a691",
         "title": "夜闻洛滨吹笙",
         "author": "张仲素",
         "content": "王子千年后，笙音五夜闻。\n逶迤绕清洛，断续下仙云。\n泄泄飘难定，啾啾曲未分。\n松风助幽律，波月动轻文。\n凤管听何远，鸾声若在群。\n暗空思羽盖，余气自氛氲。",
@@ -528,7 +477,7 @@
         }
     },
     {
-        "uuid": "4b51fc50904203a35ad1b6afca570e60",
+        "uuid": "96622d1d576826a70d5a34da3cf04a6c",
         "title": "玉绳低建章",
         "author": "张仲素",
         "content": "迢迢玉绳下，芒彩正阑干。\n稍复临鳷鹊，方疑近露寒。\n微明连粉堞，的皪映仙盘。\n横接河流照，低将夜色残。\n天榆随影没，宫树与光攒。\n遐想西垣客，长吟欲罢难。",
@@ -539,7 +488,7 @@
         }
     },
     {
-        "uuid": "400f51106a9d6e260d27d0a948fac164",
+        "uuid": "9e7800f8877271a570573226b3fa682a",
         "title": "寒云轻重色",
         "author": "张仲素",
         "content": "佳期当可许，托思望云端。\n鳞影朝犹落，繁阴暮自寒。\n因风方袅袅，间石已漫漫。\n隐映看鸿度，霏微觉树攒。\n凝空多似黛，引素乍如纨。\n每向愁中览，含毫欲状难。",
@@ -550,7 +499,7 @@
         }
     },
     {
-        "uuid": "e8731929cadf863b8dfa6d7e7b6bc03a",
+        "uuid": "a2553d16a81348b03d1515e8f69612cb",
         "title": "圣明乐",
         "author": "张仲素",
         "content": "九陌祥烟合，千春瑞月明。\n宫花将苑柳，先发凤凰城。",
@@ -561,7 +510,7 @@
         }
     },
     {
-        "uuid": "87b65812ce35f35ce34d41711544598e",
+        "uuid": "9996783b5261942781c6498c3081ec3b",
         "title": "宫中乐五首",
         "author": "张仲素",
         "content": "网户交如绮，纱窗薄似烟。\n乐吹天上曲，人是月中仙。\n翠匣开寒镜，珠钗挂步摇。\n妆成隻畏晓，更漏促春宵。\n红果瑶池实，金盘露井冰。\n甘泉将避暑，台殿晓光凝。\n月采浮鸾殿，砧声隔凤楼。\n笙歌临水槛，红烛乍迎秋。\n奇树留寒翠，神池结夕波。\n黄山一夜雪，渭水泻声多。",
@@ -572,7 +521,7 @@
         }
     },
     {
-        "uuid": "a0a28663dc28c9d722a5adbc401e55f7",
+        "uuid": "27709f58f73c5231a686f4ffd4d8c74d",
         "title": "春游曲三首",
         "author": "张仲素",
         "content": "烟柳飞轻絮，风榆落小钱。\n蒙蒙百花裏，罗绮竞秋千。\n骋望登香阁，争高下砌台。\n林间踏青去，席上寄笺来。\n行乐三春节，林花百和香。\n当年重意气，先占斗鸡场。",
@@ -583,7 +532,7 @@
         }
     },
     {
-        "uuid": "662212c16a8ae6fc80e16fd244460404",
+        "uuid": "e7a3e8dff44e0ccae2ec2ac51c0e2b13",
         "title": "春江曲二首",
         "author": "张仲素",
         "content": "家寄征河岸，征人几岁游。\n不如潮水信，每日到沙头。\n乘晓南湖去，参差迭浪横。\n前洲在何处，霜裏雁嘤嘤。",
@@ -594,7 +543,7 @@
         }
     },
     {
-        "uuid": "0eababfe213adf7584065920918b8d9f",
+        "uuid": "d675e3fc4558ad79ac520b5700b40a01",
         "title": "思君恩",
         "author": "张仲素",
         "content": "紫禁香如雾，青天月似霜。\n云韶何处奏，只是在朝阳。",
@@ -605,18 +554,7 @@
         }
     },
     {
-        "uuid": "a613e19704eee0cb70684940e897330d",
-        "title": "王昭君",
-        "author": "张仲素",
-        "content": "仙娥今下嫁，骄子自同和。\n剑戟归田尽，牛羊绕塞多。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百六十七"
-        }
-    },
-    {
-        "uuid": "e585261e7f1e3c767e4e2180df81ca0a",
+        "uuid": "d608c8d68d568b7710750d68f9d6bebc",
         "title": "秋思赠远",
         "author": "张仲素",
         "content": "博山沉燎绝余香，兰烬金檠怨夜长。\n为问青青河畔草，几回经雨复经霜。",
@@ -627,7 +565,7 @@
         }
     },
     {
-        "uuid": "8f029d0a118f01254c59971727077e85",
+        "uuid": "a0d584a6384de6171b0debe68ea84829",
         "title": "塞上曲",
         "author": "张仲素",
         "content": "卷旆生风喜气新，早持龙节静边尘。\n汉家天子图麟阁，身是当今第一人。",
@@ -638,7 +576,7 @@
         }
     },
     {
-        "uuid": "78dcef11c840068ccf8654b9bffdf0cc",
+        "uuid": "3db8c8e5db563aa156edf9021c8a945f",
         "title": "塞下曲五首",
         "author": "张仲素",
         "content": "三戍渔阳再渡辽，骍弓在臂剑横腰。\n匈奴似若知名姓，休傍阴山更射雕。\n猎马千行雁几双，燕然山下碧油幢。\n传声漠北单于破，火照旌旗夜受降。\n朔雪飘飘开雁门，平沙历乱卷蓬根。\n功名耻计擒生数，直斩楼兰报国恩。\n陇水潺湲陇树秋，征人到此泪双流。\n乡关万里无因见，西戍河源早晚休。\n阴碛茫茫塞草肥，桔槔烽上暮云飞。\n交河北望天连海，苏武曾将汉节归。",
@@ -649,7 +587,7 @@
         }
     },
     {
-        "uuid": "b74ae8aabb1a3b46916e0626bbeed439",
+        "uuid": "3d982285f12e713ec6ab8c5e0ce576c0",
         "title": "秋思二首",
         "author": "张仲素",
         "content": "碧窗斜日蔼深晖，愁听寒螀泪湿衣。\n梦裏分明见关塞，不知何路向金微。\n秋天一夜静无云，断续鸿声到晓闻。\n欲寄征衣问消息，居延城外又移军。",
@@ -660,7 +598,7 @@
         }
     },
     {
-        "uuid": "3bf7a44fbaac8d8c388292c60c815634",
+        "uuid": "007a6b321598caab7da615b30ca17846",
         "title": "汉苑行二首",
         "author": "张仲素",
         "content": "回雁高飞太液池，新花低发上林枝。\n年光到处皆堪赏，春色人间总不知。\n春风淡荡景悠悠，莺啭高枝燕入楼。\n千步回廊闻凤吹，珠帘处处上银钩。",
@@ -671,7 +609,7 @@
         }
     },
     {
-        "uuid": "6706d64cde9b6f94db41d19111f8736f",
+        "uuid": "552642217b7d23ad2829dfd82c1c6469",
         "title": "天马辞二首",
         "author": "张仲素",
         "content": "天马初从渥水来，郊歌曾唱得龙媒。\n不知玉塞沙中路，苜蓿残花几处开。\n躞蹀宛驹齿未齐，摐金喷玉向风嘶。\n来时欲尽金河道，猎猎轻风在碧蹄。",
@@ -682,7 +620,7 @@
         }
     },
     {
-        "uuid": "f762c670bd543ddaa962311491f33283",
+        "uuid": "f77b29eddeeb157c0c5f0072ac708a9e",
         "title": "燕子楼诗三首",
         "author": "张仲素",
         "content": "楼上残灯伴晓霜，独眠人起合欢床。\n相思一夜情多少，地角天涯不是长。\n北邙松柏锁愁烟，燕子楼人思悄然。\n自埋剑履歌尘散，红袖香消已十年。\n适看鸿雁岳阳回，又睹玄禽逼社来。\n瑶瑟玉箫无意绪，任从蛛网任从灰。",

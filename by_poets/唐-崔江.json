@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "06fd3352fdce70d33e9256a54e16ad50",
+        "uuid": "56191e8d8e50f6a3cd275b6481adedda",
         "title": "宜春郡城闻猨",
         "author": "崔江",
         "content": "怨抱霜枝向月啼，数声清绕郡城低。\n那堪日夜有云雨，便似巫山与建溪。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "32266ead24bd897668509ee4ea6dc276",
-        "title": "宜春郡城闻猿",
-        "author": "崔江",
-        "content": "怨抱霜枝向月啼，数声清绕郡城低。\n那堪日夜有云雨，便似巫山与建溪。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十五"
-        }
     }
 ]

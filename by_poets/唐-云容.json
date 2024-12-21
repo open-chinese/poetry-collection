@@ -1,21 +1,10 @@
 [
     {
-        "uuid": "7b2e0c5cbb1248a420b161463cfefc8c",
+        "uuid": "acd5c2ed891f988bbf490be1b8943c9a",
         "title": "逸句",
         "author": "云容",
         "content": "木末上明星。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "001b7595bdba313be049f28df3c24b73",
-        "title": "句",
-        "author": "云容",
-        "content": "木末上明星。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百五十一"
-        }
     }
 ]

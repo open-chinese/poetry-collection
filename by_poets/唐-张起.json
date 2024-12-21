@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "5b69392b6754c6a668a2bdfe2d0684d1",
+        "uuid": "8dc09f26a22d48fd4a4d06c7d4d3c6ab",
         "title": "早过棃岭喜雪书情呈崔判官",
         "author": "张起",
         "content": "度岭逢朝雪，行看马迹深。\n轻标南国瑞，寒慰北人心。\n皎洁停丹嶂，飘飖映绿林。\n共君歌乐土，无作白头吟。",
@@ -8,22 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "f1718d9da8b9987e0e6196674aa4bf3c",
+        "uuid": "b3ae2ba3cf4fe20fadcdbc83bf473fe5",
         "title": "春情",
         "author": "张起",
         "content": "画阁余寒在，新年旧燕归。\n梅花犹带雪，未得试春衣。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "9c6b6f3e3740194e9d2bdc77cf9c5cfd",
-        "title": "早过梨岭，喜雪书情呈崔判官",
-        "author": "张起",
-        "content": "度岭逢朝雪，行看马迹深。\n轻标南国瑞，寒慰北人心。\n皎洁停丹嶂，飘飖映绿林。\n共君歌乐土，无作白头吟。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十"
-        }
     }
 ]

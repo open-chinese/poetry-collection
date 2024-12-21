@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "847171e1880bb5777c13116adf22733a",
+        "uuid": "8ed68c7245b063323efb05f8e47c0abb",
         "title": "隔壁闻奏伎",
         "author": "裴延",
         "content": "徒闻管弦切，不见舞腰回。\n赖有歌梁合，尘飞一半来。",
@@ -8,22 +8,11 @@
         "collection_info": null
     },
     {
-        "uuid": "8a804f64860c02536702e258719982bf",
+        "uuid": "4b8a96d43fac6c7cfc0a4cdcf59c6464",
         "title": "咏翦花",
         "author": "裴延",
         "content": "花寒未聚蝶，色艳已惊人。\n悬知陌上柳，应妒手中春。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "6cd68a0add79c7d694d12db91f48ab25",
-        "title": "咏剪花",
-        "author": "裴延",
-        "content": "花寒未聚蝶，色艳已惊人。\n悬知陌上柳，应妒手中春。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百六十九"
-        }
     }
 ]

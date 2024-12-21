@@ -1,6 +1,6 @@
 [
     {
-        "uuid": "a446b4ec4dfd2a01c55bccd5712781f6",
+        "uuid": "ca7a8c6b712e5ca640cc763144988396",
         "title": "郊庙歌辞 享太庙乐章 大定舞",
         "author": "李回",
         "content": "受天明命，敷佑下土。\n化时以俭，卫文以武。\n氛消夷夏，俗臻往古。\n亿万斯年，形于律吕。",
@@ -8,15 +8,7 @@
         "collection_info": null
     },
     {
-        "uuid": "2e90317cdb8cfa032e4c4e7a86e0032e",
-        "title": "享太庙乐章",
-        "author": "李回",
-        "content": "受天明命，敷佑下土。\n化时以俭，卫文以武。\n氛消夷夏，俗臻往古。\n亿万斯年，形于律吕。",
-        "dynasty": "唐",
-        "collection_info": null
-    },
-    {
-        "uuid": "cbbdb77067c1808413635834b66d88ae",
+        "uuid": "49511336ce29c4f1537f0460903b32fa",
         "title": "天长路别朱大山路却寄",
         "author": "李回",
         "content": "驿骑难随伴，寻山半忆君。\n苍崖残月路，犹数过溪云。",
@@ -24,22 +16,11 @@
         "collection_info": null
     },
     {
-        "uuid": "d101489a41bcd665b4256219e6e28adc",
+        "uuid": "ab250197e64390c290a6b125ea52204c",
         "title": "寄酬朱大后亭夜坐留别",
         "author": "李回",
         "content": "十夜郡城宿，苦吟身未闲。\n那堪西郭别，雪路问青山。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "uuid": "f03e6026c58025b35b2c6079518ed5b5",
-        "title": "郊庙歌辞：享太庙乐章：大定舞",
-        "author": "李回",
-        "content": "受天明命，敷佑下土。\n化时以俭，卫文以武。\n氛消夷夏，俗臻往古。\n亿万斯年，形于律吕。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一十三"
-        }
     }
 ]
