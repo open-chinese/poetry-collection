@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6516f53e14bb5883454a9f1dbdbc1ad4",
         "title": "禁林闻晓莺",
         "author": "陆扆",
         "content": "曙色分层汉，莺声绕上林。\n报花开瑞锦，催柳绽黄金。\n断续随风远，间关送月沈。\n语当温树近，飞觉禁园深。\n绣户惊残梦，瑶池啭好音。\n愿将栖息意，从此沃天心。",
@@ -7,20 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "630dca2ecf6a70869f1f5f564a7b4ab7",
         "title": "句",
         "author": "陆扆",
         "content": "今秋已约天台月。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "禁林闻晓莺",
-        "author": "陆扆",
-        "content": "曙色分层汉，莺声绕上林。报花开瑞锦，催柳绽黄金。\n断续随风远，间关送月沈。语当温树近，飞觉禁园深。\n绣户惊残梦，瑶池啭好音。愿将栖息意，从此沃天心。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六百八十八"
-        }
     }
 ]

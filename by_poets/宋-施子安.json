@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a98a0bae3c19d7fba83a7740b62975ba",
         "title": "句  其一",
         "author": "施子安",
         "content": "蝉唤翠阴声断续，鸟藏红叶响啁啾。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e6a10dd987ef836d84673fb89f0d947c",
         "title": "句  其二",
         "author": "施子安",
         "content": "陇云飘软玉，江月洗寒金。",

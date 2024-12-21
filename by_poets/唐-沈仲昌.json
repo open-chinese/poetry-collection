@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "d1e493d4ba3f49bc4df64f03ed18fa16",
         "title": "状江南 仲秋",
         "author": "沈仲昌",
         "content": "江南仲秋天，鱏鼻大如船。\n雷是樟亭浪，苔为界石钱。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "65e9550eaa969bebf77ff8cf4672dfc9",
         "title": "状江南：仲秋",
         "author": "沈仲昌",
-        "content": "江南仲秋天，驔鼻大如船。雷是樟亭浪，苔为界石钱。",
+        "content": "江南仲秋天，驔鼻大如船。\n雷是樟亭浪，苔为界石钱。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

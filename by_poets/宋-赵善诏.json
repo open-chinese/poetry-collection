@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6b085c02e633c016fcab312ed9ddb859",
         "title": "隆州",
         "author": "赵善诏",
         "content": "三山高峭拔，鼎峙各争雄。\n秀气钟英物，衣冠盛蜀中。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f984789269f87d72dc81c38d8c02dfc7",
         "title": "句  其一",
         "author": "赵善诏",
         "content": "仁寿州如斗，分符愧罔功。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5ed4118b2ba1d9eb17807a4d51297ca3",
         "title": "句  其二",
         "author": "赵善诏",
         "content": "谁谓山城僻，伦魁此破荒。",

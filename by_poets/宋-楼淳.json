@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "42907080e7deb2843be3ad161d796d39",
         "title": "隠居凤山清明寺  其一",
         "author": "楼淳",
         "content": "凤鸟久不至，哲人叹已矣。\n空留千载名，寂寞残阳裏。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b99d0cc4f07decb19cb865f98a73c11f",
         "title": "隠居凤山清明寺  其二",
         "author": "楼淳",
         "content": "日上钟未鸣，老僧睡犹熟。\n谁是山中人，长享清明福。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "985658e9c7ad5a132c6e1626dbff73c2",
         "title": "清明寺",
         "author": "楼淳",
         "content": "风尘满天下，此地独清明。\n神州何处是，有泪落新亭。",

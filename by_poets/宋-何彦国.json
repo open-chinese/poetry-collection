@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a1ad98582301cebb6d1f8ef9d02df09b",
         "title": "景福寺",
         "author": "何彦国",
         "content": "山留灌木冬长茂，岩抱阴云冻不开。\n沧海未干徐福死，更于何处觅蓬莱。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "23432c6cf35dc2903fef6fe206a5f63f",
         "title": "大蓬山天宝碑",
         "author": "何彦国",
         "content": "谁向山阴谩刻镌，雨淋日炙隶文全。\n依稀记得升平事，天宝犹题十二年。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ba07ebe2f16fd816c50a861306c5fada",
         "title": "句",
         "author": "何彦国",
         "content": "暗量无限人间事，难概不平天下心。",

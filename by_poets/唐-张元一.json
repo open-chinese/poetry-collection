@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "b85d561c1aba5bbf44ec49d30638a6bf",
         "title": "叙可笑事",
         "author": "张元一",
         "content": "朱前疑着绿，逯仁杰着朱。\n阎知微骑马，马吉甫骑驴。\n将名作姓李千里，将姓作名吴栖梧。\n左台胡御史，右台御史胡。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "615051bf8d2a5aea673e163926ad55f0",
         "title": "嘲武懿宗",
         "author": "张元一",
         "content": "长弓短度箭，蜀马临阶騗。\n去贼七百里，隈墻独自战。\n忽然逢着贼，骑猪向南𧾩。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1880497e321032589b01f2b5447de313",
         "title": "又嘲武懿宗",
         "author": "张元一",
         "content": "裹头极草草，掠鬓不菶菶。\n未见桃花面皮，漫作杏子眼孔。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "29e22a53d98b6b7f3b7baaa798e06387",
         "title": "咏静乐县主",
         "author": "张元一",
         "content": "马带桃花锦，帬衔绿草罗。\n定知帏帽底，仪容似大哥。",
@@ -28,9 +32,10 @@
         "collection_info": null
     },
     {
+        "uuid": "0003db33980697284eee6b141e486d92",
         "title": "叙可笑事",
         "author": "张元一",
-        "content": "朱前疑着绿，逯仁杰着朱。阎知微骑马，马吉甫骑驴。\n将名作姓李千里，将姓作名吴栖梧。左台胡御史，",
+        "content": "朱前疑着绿，逯仁杰着朱。\n阎知微骑马，马吉甫骑驴。\n将名作姓李千里，将姓作名吴栖梧。\n左台胡御史，",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -38,9 +43,10 @@
         }
     },
     {
+        "uuid": "50f739ff1e6b1985c73246938522c3d8",
         "title": "嘲武懿宗",
         "author": "张元一",
-        "content": "长弓短度箭，蜀马临阶骗。去贼七百里，隈墙独自战。\n忽然逢着贼，骑猪向南r2。",
+        "content": "长弓短度箭，蜀马临阶骗。\n去贼七百里，隈墙独自战。\n忽然逢着贼，骑猪向南r2。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -48,9 +54,10 @@
         }
     },
     {
+        "uuid": "8e0744a24f9ca0773b090bdabcd9ce62",
         "title": "又嘲",
         "author": "张元一",
-        "content": "裹头极草草，掠鬓不菶菶。未见桃花面皮，漫作杏子眼孔。",
+        "content": "裹头极草草，掠鬓不菶菶。\n未见桃花面皮，漫作杏子眼孔。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -58,9 +65,10 @@
         }
     },
     {
+        "uuid": "f808c73f554acf22c0f292920077ba03",
         "title": "咏静乐县主",
         "author": "张元一",
-        "content": "马带桃花锦，裙衔绿草罗。定知帏帽底，仪容似大哥。",
+        "content": "马带桃花锦，裙衔绿草罗。\n定知帏帽底，仪容似大哥。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

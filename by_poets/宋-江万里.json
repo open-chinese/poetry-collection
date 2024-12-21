@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a78ad13b2738404c65b3cf1d18a74bcc",
         "title": "水调歌头 生日重重见",
         "author": "江万里",
         "content": "生日重重见，馀闰有新春。\n为吾母寿，富贵外物总休论。\n且说家怀旧话，教学也曾菽水，亲意尽欣欣。\n只此是真乐，乐岂在邦君。\n吾二老，常说与，要廉勤。\n庐陵几千万户，休戚属儿身。\n三瑞堂中绿醑，酿就满城和气，端又属人伦。\n吾亦老吾老，谁不敬其亲。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3c754972c68bfc18fffc8226e763b96e",
         "title": "梅花  其一",
         "author": "江万里",
         "content": "草际春回残雪消，强扶衰病傍溪桥。\n东风不管梅花落，自酿新黄染柳条。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "072f26f4b8901e25963dae8289439f04",
         "title": "梅花  其二",
         "author": "江万里",
         "content": "床头周易用心来，旧卷经年病不开。\n到得初冬梦颜子，欠伸俄健起寻梅。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8d0216b0ec170a6d27096c5e577e95ca",
         "title": "荷花",
         "author": "江万里",
         "content": "结亭临水似舟中，夜雨潇潇乱打篷。\n荷叶晓看元不湿，却疑误听五更风。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f9a1b96257ab7fd1711f254a0bee20ab",
         "title": "诗退风涛",
         "author": "江万里",
         "content": "万里为官彻底清，舟中行止甚分明。\n如今若有亏心事，一任碧波深处沉。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a9ef037180566be1e51a71f2741395bd",
         "title": "道番昜登龙虎",
         "author": "江万里",
         "content": "瞻彼高山，苍苍相缪。\n云舒霞张，溪谷险幽。\n鸣鹤在树，猿猱啾啾。\n青松多风，白露已秋。\n仙乎曷去，胡不少留。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "22442ea433ea2917369a736da035f60c",
         "title": "劝农",
         "author": "江万里",
         "content": "农岂犹需我劝农，且从人意卜年丰。\n喜闻布谷声声急，莫为催科处处穷。\n父老来前吾语汝，官民相近古遗风。\n欲知太守乐其乐，乐在田家欢笑中。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fda96fdf69aead1d2fd0f8c9a189fb7f",
         "title": "钟陵归舟即事",
         "author": "江万里",
         "content": "昨日北风今日强，归船又过斫柴江。\n浮槎却被春流误，挂在沙头古柳桩。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d01c7632924133ac54b258718c595a43",
         "title": "龙虎山",
         "author": "江万里",
         "content": "凿开风月长生地，占却烟霞不老身。\n虚靖当年仙去后，未知丹诀付何人。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "797c4fb0e07942857989d96969099145",
         "title": "和瑞雪",
         "author": "江万里",
         "content": "与天通处在人和，未有人和天荐瘥。\n消息连朝来玉阙，川原满眼尽银河。\n坡书已得欧公体，力士宜尊太白靴。\n人物于今如越雪，欲令惯见不嫌多。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ddcd3db55bf520dfa44f3fbc8235a56d",
         "title": "辟妖禽吟",
         "author": "江万里",
         "content": "去国离家路八千，平生不爱半文钱。\n苍天鉴我无私意，莫使妖禽夜叫冤。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5648dd17c349a0bf258c39eb2a0caa3c",
         "title": "嘲元宰相",
         "author": "江万里",
         "content": "钓得金鰲休便休，何须垂上钓鱼鈎。\n昨宵试向江头望，明月芦花别是秋。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ad7b03fb302b9bcf49d56eea5157a7aa",
         "title": "朝贺",
         "author": "江万里",
         "content": "四海衣冠拜九重，圣君在位像飞龙。\n遥瞻雉扇双开处，万岁齐呼瑞气浓。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7dcde9bde16ed0e879e49bbd76836a1d",
         "title": "题黄鹤楼",
         "author": "江万里",
         "content": "黄鹤楼高倚半天，楼中黄鹤去千年。\n檐楹自是留真境，几席何妨得老仙。\n云护山光秋驻马，日笼江影昼停船。\n良工改写归图画，俯仰令人一慨然。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "56fb58342934bc911d90e3c73e3c57d4",
         "title": "柯山图",
         "author": "江万里",
         "content": "柯山千仞鬰嶙峋，喜见丹青写送人。\n洞府无人留永日，神仙有路隔重云。\n苍松白石秋容凈，绝壁悬崖晓势分。\n归向公庭对真景，却疑人是画中身。",
@@ -105,6 +120,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3c459dd416d38d080f2794f075cc990f",
         "title": "句",
         "author": "江万里",
         "content": "不忍骤开还骤落，殷勤含蕊待君来。",

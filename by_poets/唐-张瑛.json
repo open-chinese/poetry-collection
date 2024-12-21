@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6a9b691162204c264d0b25d05a2615a5",
         "title": "铜雀台",
         "author": "张瑛",
         "content": "君王冥漠不可见，铜雀歌舞空裴回。\n西陵啧啧悲宿鸟，高殿沈沈闭青苔。\n青苔无人迹，红粉空相哀。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "415f6ccffa1cc604c84932d51b6df11a",
         "title": "望月",
         "author": "张瑛",
         "content": "天汉凉秋夜，澄澄一镜明。\n山空猨屡啸，林静鹤频惊。",
@@ -14,9 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "faf1b0552777d0c223355539a42d7026",
         "title": "铜雀台",
         "author": "张瑛",
-        "content": "君王冥漠不可见，铜雀歌舞空裴回。西陵啧啧悲宿鸟，",
+        "content": "君王冥漠不可见，铜雀歌舞空裴回。\n西陵啧啧悲宿鸟，",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -24,9 +27,10 @@
         }
     },
     {
+        "uuid": "2ac2a4f42be0c83bae24e52cfceb8538",
         "title": "望月",
         "author": "张瑛",
-        "content": "天汉凉秋夜，澄澄一镜明。山空猿屡啸，林静鹤频惊。",
+        "content": "天汉凉秋夜，澄澄一镜明。\n山空猿屡啸，林静鹤频惊。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

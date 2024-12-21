@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "0126b4a193ba2dd2f197cbcf64fa727c",
         "title": "题洛阳县壁",
         "author": "李兼",
         "content": "猾吏畏服，县妖破胆。\n好录政声，闻于御览。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "题洛阳县壁",
-        "author": "李兼",
-        "content": "猾吏畏服，县妖破胆。好录政声，闻于御览。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百七十三"
-        }
     }
 ]

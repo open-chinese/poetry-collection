@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "5bce25ac1dae273834ff07a870a617c7",
         "title": "邵武  其一",
         "author": "叶仪凤",
         "content": "溪上千峰碧玉环，瞰溪台榭紫云间。\n鸟啼花落非人世，似在金鳌山上山。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "30bc8a2eda06cb381bb46cbe2e4c330d",
         "title": "邵武  其二",
         "author": "叶仪凤",
         "content": "城南城北草如茵，绿水青山眼界新。\n更问樵溪何处是，满城桃李万家春。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9e4d4da70af2c4b2cbd22f31004cdb6d",
         "title": "句",
         "author": "叶仪凤",
         "content": "天钟秀气魁文陛，地涌仙源接武夷。",

@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "3e118dc5ff6f6cf6fd3161e63431858a",
         "title": "哭长孙侍郎",
         "author": "杜诵",
         "content": "道为诗书重，名因赋颂雄。\n礼闱曾擢桂，宪府既乘骢。\n流水生涯尽，浮云世事空。\n唯余旧台柏，萧瑟九原中。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "哭长孙侍郎",
-        "author": "杜诵",
-        "content": "道为诗书重，名因赋颂雄。礼闱曾擢桂，宪府既乘骢。\n流水生涯尽，浮云世事空。唯余旧台柏，萧瑟九原中。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百七十二"
-        }
     }
 ]

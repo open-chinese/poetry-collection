@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "0c5d8914a72a7db4585321874b078a8c",
         "title": "怀旧山",
         "author": "沧浩",
         "content": "一坐西林寺，从来未下山。\n不因寻长者，无事到人间。\n宿雨愁为客，寒花笑未还。\n空怀旧山月，童子诵经闲。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "怀旧山",
-        "author": "沧浩",
-        "content": "一坐西林寺，从来未下山。不因寻长者，无事到人间。\n宿雨愁为客，寒花笑未还。空怀旧山月，童子诵经闲。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百五十"
-        }
     }
 ]

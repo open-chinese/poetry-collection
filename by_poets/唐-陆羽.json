@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "bdd96fcd79f15e0d4c87a0faa8709afc",
         "title": "歌",
         "author": "陆羽",
         "content": "不羡黄金罍，不羡白玉杯。\n不羡朝入省，不羡暮入台。\n惟羡西江水，曾向金陵城下来。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8abe6dd2cc4eebc98b72e76220aae3f3",
         "title": "会稽东小山",
         "author": "陆羽",
         "content": "月色寒潮入剡溪，青猨叫断绿林西。\n昔人已逐东流去，空见年年江草齐。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "128b658fa89c483175247613ae8f7bd5",
         "title": "句",
         "author": "陆羽",
         "content": "辟彊旧林间，怪石纷相向。\n绝涧方险寻，乱岩亦危造。\n泻从千仞石，寄逐九江船。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c6ff41aa385248f26b22709a4f6376c8",
         "title": "句",
         "author": "陆羽",
         "content": "行坐诵佛书。\n（见齐己《白莲集》卷九《过陆鸿渐旧居》自注引）。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d2f33ba0d99f73f44ea274c83b304097",
         "title": "与耿湋联句",
         "author": "陆羽",
         "content": "城裏携笼万壑前。\n（羽。\n下阙。\n见席刻本《耿湋诗集》）。",
@@ -35,9 +40,10 @@
         "collection_info": null
     },
     {
+        "uuid": "fe48c1c4cac702f52586a387f5edf2f6",
         "title": "歌",
         "author": "陆羽",
-        "content": "不羡黄金罍，不羡白玉杯；不羡朝入省，不羡暮入台；\n惟羡西江水，曾向金陵城下来。",
+        "content": "不羡黄金罍，不羡白玉杯；不羡朝入省，不羡暮入台；惟羡西江水，曾向金陵城下来。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -45,6 +51,7 @@
         }
     },
     {
+        "uuid": "93fa96d8f9306d6cdd1686ce24e262a9",
         "title": "会稽东小山",
         "author": "陆羽",
         "content": "月色寒潮入剡溪，青猿叫断绿林西。\n昔人已逐东流去，空见年年江草齐。",
@@ -55,6 +62,7 @@
         }
     },
     {
+        "uuid": "a859cb4cbbe835cdefd55c437f3eb1c4",
         "title": "句",
         "author": "陆羽",
         "content": "辟疆旧林间，怪石纷相向。\n绝涧方险寻，乱岩亦危造。\n泻从千仞石，寄逐九江船。",

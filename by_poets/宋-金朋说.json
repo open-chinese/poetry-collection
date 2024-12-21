@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "5f36f0d75cdffd21fb92693484c64556",
         "title": "碧岩吟",
         "author": "金朋说",
         "content": "苍苍岩上树，夜气积而然。\n念彼人之学，盈科为有源。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "79f9d4c6208e406064ec122fdbfe7b4a",
         "title": "积学吟",
         "author": "金朋说",
         "content": "莠除苗自长，醅化醴方醇。\n学至盎然后，眼前皆是春。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2183fcd8e20f5c4085bef9ce56dd4d5f",
         "title": "诚意吟",
         "author": "金朋说",
         "content": "正心谨独时，笃实惟精一。\n克念寸不欺，充然四端立。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8109877a19ab8f5f3a6d2fc4967e819c",
         "title": "正心吟",
         "author": "金朋说",
         "content": "明诚道不离，知格无邪僞。\n中正着吾心，毋为私欲蔽。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a1758f2ff468cb80dd239974f714978d",
         "title": "自欺吟",
         "author": "金朋说",
         "content": "揠苗昧所养，乞祭骄其妻。\n诡遇得禽者，宁无惭嬖奚。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "41040851754ab721bff52af683fb459c",
         "title": "读书吟",
         "author": "金朋说",
         "content": "读书本卫道，何以道欺人。\n古害称杨墨，而今害益深。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e6320bc92ca02bd72a737182f342f8ad",
         "title": "闲居吟",
         "author": "金朋说",
         "content": "斗室安居广，炉香乐性闲。\n不欺幽独境，无愧两仪间。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "812f14272748765511cbed9e13caeeec",
         "title": "芸禾吟",
         "author": "金朋说",
         "content": "芸禾雨苦连，草秽何能蠲。\n借问司农者，俱云不得天。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ff3a231b8a46f9dfab758bb916093d9d",
         "title": "修身吟",
         "author": "金朋说",
         "content": "克己工夫熟，磋磨日日新。\n形端仪表正，汤圣自盘铭。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cad7296d795b9233aeae6d63d6db7aec",
         "title": "齐家吟",
         "author": "金朋说",
         "content": "齐家先正己，标准自吾身。\n动息从心裏，规模卫武箴。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3c51ace57a01f0c27aa8598fdb6f4cde",
         "title": "省斋吟",
         "author": "金朋说",
         "content": "修己师曾子，为人谋必忠。\n信诚交以道，传习熟加工。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2e6d75e01da6a6bf0fac4009205ab0dc",
         "title": "夏日山居",
         "author": "金朋说",
         "content": "时当夏日临，酷暑避无地。\n唯对碧岩山，清凉又安逸。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c51881c0f2306b3e59efade489d6115b",
         "title": "种豆吟",
         "author": "金朋说",
         "content": "南亩种豆苗，苗稀草犹胜。\n农人费锄耘，凶秽何不凈。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d9e9a2d6ce1063c5968dfe6cd9b83856",
         "title": "种柳吟",
         "author": "金朋说",
         "content": "种柳护吾庐，无妨隠者居。\n绿酬一樽酒，青映五车书。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "df8581893c6624c66d70f6ec23698c68",
         "title": "赋归吟",
         "author": "金朋说",
         "content": "松菊存陶径，弦歌绝武城。\n江东新发棹，僮仆笑相迎。",
@@ -105,6 +120,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d1d20e83d7a654eb287cb0b9a6028879",
         "title": "冬雪吟",
         "author": "金朋说",
         "content": "彤云垂四野，六出舞漫天。\n却笑广文郑，严寒无坐毡。",
@@ -112,6 +128,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d148f50ef394cc0a69622c97d5878125",
         "title": "种桃吟",
         "author": "金朋说",
         "content": "分种玄都观，移根出武陵。\n河阳花满县，曾历避狂秦。",
@@ -119,6 +136,7 @@
         "collection_info": null
     },
     {
+        "uuid": "73cbc387d94c4e5566cf2163fb8f9c95",
         "title": "种梅吟",
         "author": "金朋说",
         "content": "栽梅沿屋角，幽趣少人知。\n雪后月明夜，孤芳吐几枝。",
@@ -126,6 +144,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b421bf6ca67c7c9402048c652838cd3b",
         "title": "种松吟",
         "author": "金朋说",
         "content": "人皆爱桃李，我爱种青松。\n桃李易凋谢，青松却耐寒。",
@@ -133,6 +152,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c5d91ee3ae8fb737fda4cbbcf33016e1",
         "title": "种竹吟",
         "author": "金朋说",
         "content": "种竹清无俗，虚心耐岁寒。\n凭窗风日爽，诗酒可盘桓。",
@@ -140,6 +160,7 @@
         "collection_info": null
     },
     {
+        "uuid": "73f334d783976a7bcd041532966be627",
         "title": "种菊吟",
         "author": "金朋说",
         "content": "众卉竞春妍，芬芳无彼此。\n霜寒摇落时，独秀何如尔。",
@@ -147,6 +168,7 @@
         "collection_info": null
     },
     {
+        "uuid": "16643cfe7862fe37d3fe515086d1b1ea",
         "title": "晨鸡吟",
         "author": "金朋说",
         "content": "司晨兼五德，曾伴宋宗窗。\n日攘能防慎，终当免镬汤。",
@@ -154,6 +176,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0bcba484f201fd5038788afa6cc2fae0",
         "title": "持敬斋吟",
         "author": "金朋说",
         "content": "恭己时存养，敬以充四端。\n唯狂能克念，作圣抑何难。",
@@ -161,6 +184,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d4bdb2431f7b8c60b050465563967d43",
         "title": "止斋吟",
         "author": "金朋说",
         "content": "知止于至善，修身止用诚。\n五伦止此定，明德日新民。",
@@ -168,6 +192,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f9af537b5213a8500f372c4af62337be",
         "title": "戒五荒",
         "author": "金朋说",
         "content": "重色躭沉湎，娱音乐侈华。\n禽荒迷不返，未有不亡家。",
@@ -175,6 +200,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5223b462898a4f7020bac8ed048b3db0",
         "title": "春日吟",
         "author": "金朋说",
         "content": "柳塘花坞矮垣墙，帘捲东风砌草芳。\n天理流行随处见，盈虚伸缩可消详。",
@@ -182,6 +208,7 @@
         "collection_info": null
     },
     {
+        "uuid": "11678cb4e0e30fdaca8c6d6ac11156ca",
         "title": "游山吟",
         "author": "金朋说",
         "content": "蹑屐山行日看花，春前桃李属谁家。\n千红万紫争妍媚，不似青松耐岁华。",
@@ -189,6 +216,7 @@
         "collection_info": null
     },
     {
+        "uuid": "36a5312ff150393feaea5da20be50374",
         "title": "春山吟",
         "author": "金朋说",
         "content": "岧峣嫩绿间妖红，碧树琼花潋滟中。\n一段天机犹织就，宜为宅畔锦屏风。",
@@ -196,6 +224,7 @@
         "collection_info": null
     },
     {
+        "uuid": "222dffbf8bd256fcb0a1396065f6adc0",
         "title": "海棠吟",
         "author": "金朋说",
         "content": "艳质妖娜放早春，谁教帝主溺初心。\n椒房一睡纔扶起，彻动渔阳鼙鼓声。",
@@ -203,6 +232,7 @@
         "collection_info": null
     },
     {
+        "uuid": "77125d23d57da138a1e267fdfd3a4b80",
         "title": "牡丹吟",
         "author": "金朋说",
         "content": "娇姿艳质号花王，魏砌姚阶羡紫黄。\n更有一株何处种，天然标格出扶桑。",
@@ -210,6 +240,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e70a917d8943ce045f815b8ccdbb4730",
         "title": "芍药吟",
         "author": "金朋说",
         "content": "画阑倚玉对偎红，娜嬝翻阶放艷秾。\n自笑主人无个事，年年携酒祝东风。",
@@ -217,6 +248,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f430e887bf2aaf2014ba036d0bc2a32f",
         "title": "蔷薇吟",
         "author": "金朋说",
         "content": "涂朱抹粉吐芳馨，倚架依阑承露新。\n腻白妖红谁不惜，樽前莫负插花吟。",
@@ -224,6 +256,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5e7222fe31ea7ae9b9bc303437539a63",
         "title": "茉莉吟",
         "author": "金朋说",
         "content": "一种秋容淡素粧，西风吹破几枝芳。\n琼葩玉蕊金飙夜，疑是梅花入梦香。",
@@ -231,6 +264,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1eebd26fe32637a840a6702cd24df178",
         "title": "木槿花",
         "author": "金朋说",
         "content": "夜合朝开秋露新，幽庭雅称画屏清。\n果然蠲得人间忿，何必当年宠太真。",
@@ -238,6 +272,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6b3228b00c05604cc53bcbd1f52547c5",
         "title": "木樨吟",
         "author": "金朋说",
         "content": "月窟移来种异常，金英玉糁散天香。\n年年八月中秋节，赏尽诗翁酒几缸。",
@@ -245,6 +280,7 @@
         "collection_info": null
     },
     {
+        "uuid": "13f23bede34b8f177bcef38d47c697ce",
         "title": "菊花吟",
         "author": "金朋说",
         "content": "金葩玉蘂破寒霜，北径东篱艷吐芳。\n自惜彊腰翁去后，几人能共对重阳。",
@@ -252,6 +288,7 @@
         "collection_info": null
     },
     {
+        "uuid": "51fd4f5ca62ba8318e0aa87a2ead2489",
         "title": "梅花吟",
         "author": "金朋说",
         "content": "傲雪含芳破五花，水村山郭傍诗家。\n本为金鼎调羹物，寥落山林老岁华。",
@@ -259,6 +296,7 @@
         "collection_info": null
     },
     {
+        "uuid": "993e2f226b4fb3a18a733daa59fcc086",
         "title": "山茶花",
         "author": "金朋说",
         "content": "严寒瑞雪正飘飘，布满干坤似玉浇。\n独见墙头倾赤艷，鲜红几朶破琼瑶。",
@@ -266,6 +304,7 @@
         "collection_info": null
     },
     {
+        "uuid": "23dace173f35584b6d8ea673aa55fbd3",
         "title": "莲花吟",
         "author": "金朋说",
         "content": "夐出涟漪不染泥，浓粧淡抹总相宜。\n六郎莫恃人怜惜，君子名称更绝奇。",
@@ -273,6 +312,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4c5e668263a3f0d34ed4c72f8b1cb3d7",
         "title": "葵花吟",
         "author": "金朋说",
         "content": "绛萼纍纍承晓露，含英藴质并朱云。\n庙廊忠梗谁堪比，能展丹心向日倾。",
@@ -280,6 +320,7 @@
         "collection_info": null
     },
     {
+        "uuid": "35e321df2f6749e5eb325cf04fd3b368",
         "title": "赏桃吟",
         "author": "金朋说",
         "content": "瑶池结实几千春，曾种河阳花满城。\n若问武陵先日事，相逢俱是避秦人。",
@@ -287,6 +328,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2d75484dd0ee79d65e8117296d7e5bfc",
         "title": "赏李吟",
         "author": "金朋说",
         "content": "雅缀琼林伴召棠，梨花综错影琳琅。\n惭无廊庙调羹味，莫惜区区弃路旁。",
@@ -294,6 +336,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1306eb1e006750d3c49438d263d9d75b",
         "title": "赏柳吟",
         "author": "金朋说",
         "content": "舞翠垂丝夹小桥，春风庭院鸟声娇。\n自从靖节萧踈后，復许谁人不折腰。",
@@ -301,6 +344,7 @@
         "collection_info": null
     },
     {
+        "uuid": "949cafb85b0cd00b7cd61c5a366b3a2b",
         "title": "赏松吟",
         "author": "金朋说",
         "content": "岩谷虽芜松尚存，溪门僮仆伺朝昏。\n林泉清兴真飘逸，月满轩窗酒满罇。",
@@ -308,6 +352,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0d2a99549317ffd1b507d1bcd916d0a0",
         "title": "赏竹吟",
         "author": "金朋说",
         "content": "放鹤空庭竹似宾，轻风晴日绿筛金。\n幽人宁使食无肉，不可轩墀少此君。",
@@ -315,6 +360,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2802d11e2c4e3fb5b7b582fdd1e3ce7a",
         "title": "幽居吟",
         "author": "金朋说",
         "content": "种竹为垣护草堂，面山临水纳幽芳。\n从容泉石无牵绊，不似从前志庙廊。",
@@ -322,6 +368,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5f60ae5d06019d1565ac6bdbd45b1678",
         "title": "新秋即事",
         "author": "金朋说",
         "content": "池塘高柳噪新蝉，庭馆秋风初入弦。\n抚罢瑶琴金井畔，不堪梧叶落翩翩。",
@@ -329,6 +376,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d763ba8833225a3a6f23dbbde243a0ce",
         "title": "秋日书怀",
         "author": "金朋说",
         "content": "夜合花开放晓晴，凉飙新爽小池亭。\n幽人雅称林泉兴，弄月吟风乐更清。",
@@ -336,6 +384,7 @@
         "collection_info": null
     },
     {
+        "uuid": "69c565c2cac226d712035e26481a5bd4",
         "title": "七夕吟",
         "author": "金朋说",
         "content": "银河东达鹊桥西，织女牛郎会晤时。\n纔得欢娱又离别，相逢拟待隔年期。",
@@ -343,6 +392,7 @@
         "collection_info": null
     },
     {
+        "uuid": "808b0d36803425a289109ec9ea1a4205",
         "title": "中秋夜偕朱表侄题月",
         "author": "金朋说",
         "content": "晴空光溢玉盘鲜，银汉斓斒斗柄旋。\n此夕共为攀桂问，姮娥着付与谁先。",
@@ -350,6 +400,7 @@
         "collection_info": null
     },
     {
+        "uuid": "87edc224e6f90b2b4f90faea33ee0ff6",
         "title": "秋山吟",
         "author": "金朋说",
         "content": "浓淡霜林入望中，天工施巧染秋容。\n秋容犹胜春光好，翠叶烧丹绿树红。",
@@ -357,6 +408,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3b2f4318fa5432302a30496eee82dd91",
         "title": "冬日忆友",
         "author": "金朋说",
         "content": "寥落园林度小春，枝头橙橘摘黄金。\n蟹螯樽俎新豊美，剪烛连宵忆故人。",
@@ -364,6 +416,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d2ca14926c39e9285c1ea9df621b3c50",
         "title": "冬日幽居",
         "author": "金朋说",
         "content": "炉煨榾柮雪煎茶，松竹环居耐岁华。\n窗外玉梅疏弄影，助人诗兴两三花。",
@@ -371,6 +424,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3203a4ec7c2871ca3dea330a7d275cea",
         "title": "雪山",
         "author": "金朋说",
         "content": "耸翠摩苍列画图，彤云作雪满天铺。\n青山莫谓长无老，一夜飞琼尽白颅。",
@@ -378,6 +432,7 @@
         "collection_info": null
     },
     {
+        "uuid": "16e907c6f095c7602e9c52f23d4c943c",
         "title": "咏朱默斋山茶花",
         "author": "金朋说",
         "content": "谁掇孤根墙角栽，天然秾艷衬瑶台。\n岁寒松柏如相问，一点丹红雪裏开。",
@@ -385,6 +440,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2a4d3232c8d1d55d56b8294532d0badd",
         "title": "题吴表兄雪鹤山茶图",
         "author": "金朋说",
         "content": "飘然六出舞长空，四顾楼台玉砌中。\n却被两般来点破，鹤呈丹顶树头红。",
@@ -392,6 +448,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9d500e5c92017da5036aa2778017fd24",
         "title": "乐渔吟",
         "author": "金朋说",
         "content": "桃花涧底频垂钓，蓼子滩头稳繫舟。\n取得鱼来换美酒，清风明月兴悠悠。",
@@ -399,6 +456,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6cb6c1fdb66b00e2b3280acf6ca6e7cc",
         "title": "乐樵吟",
         "author": "金朋说",
         "content": "木美牛山斤斧息，烂柯林下度长年。\n有时岩底问渔者，利害相论理豁然。",
@@ -406,6 +464,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2fec8df4c90e2fa3c17fcfbec49d872a",
         "title": "乐耕吟",
         "author": "金朋说",
         "content": "黄鹂语后麦初熟，鸿雁来时稻正香。\n但获新仓丰稔足，床头新酿酒盈缸。",
@@ -413,6 +472,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8659712503037184b17ce3c18f33c266",
         "title": "乐牧吟",
         "author": "金朋说",
         "content": "牛背日高方睡熟，横吹短笛不成腔。\n毛球打罢归来晚，古木寒鸦又夕阳。",
@@ -420,6 +480,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f0cb4baea8e7864938098c38f0ea7d3c",
         "title": "夏日幽居",
         "author": "金朋说",
         "content": "小隠楼台绿树中，藕塘花艳散香风。\n纶巾羽扇熏风坐，逸兴飘飘迥不同。",
@@ -427,6 +488,7 @@
         "collection_info": null
     },
     {
+        "uuid": "df45978869f64395ff431fba6a14ceba",
         "title": "泰伯虞仲祠",
         "author": "金朋说",
         "content": "阅墙兄弟不相容，尺布犹怜尚可缝。\n让位介然如弃屣，盛哉至德厚无穷。",
@@ -434,6 +496,7 @@
         "collection_info": null
     },
     {
+        "uuid": "33af1040c6e7046f098d90fdb4946c92",
         "title": "闵子骞",
         "author": "金朋说",
         "content": "名称大孝世之难，袄絮芦花岂耐寒。\n宁使一身甘冻死，肯教三子受衣单。",
@@ -441,6 +504,7 @@
         "collection_info": null
     },
     {
+        "uuid": "393c0a48fc99c1159e97eda9aae5c7bb",
         "title": "漂母堂",
         "author": "金朋说",
         "content": "恻隠殊无一念仁，谁能推食食王孙。\n纷纷天下奇男子，不及淮阴一妇人。",
@@ -448,6 +512,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fcbf335f822a3ae5da5bc7cf5e694c41",
         "title": "折槛吟",
         "author": "金朋说",
         "content": "折槛当年世丈夫，上方谁肯借昆吾。\n虽然未克诛奸佞，万古人臣可范模。",
@@ -455,6 +520,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5e324815282b49300f6bebe28dc2fcfe",
         "title": "汉党锢",
         "author": "金朋说",
         "content": "坑士焚书已促秦，前途覆辙又因循。\n范滂一命何须惜，可叹颠危汉室倾。",
@@ -462,6 +528,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2ce9424a4b3fcf41ee769c29d6c1df9b",
         "title": "诸葛武侯",
         "author": "金朋说",
         "content": "南阳高卧隠人龙，出处躬耕莘野同。\n讨贼祁山声大义，至今史册播丹忠。",
@@ -469,6 +536,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d58611e43eee1ffea0e07bb39b114831",
         "title": "荀彧饮药",
         "author": "金朋说",
         "content": "管仲尊周昔相桓，当年文若附曹瞒。\n匡朝宁国言虽正，始比高光孰发端。",
@@ -476,6 +544,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b94e37fe3d266e31657d72a7847ae41e",
         "title": "赤壁鏖兵",
         "author": "金朋说",
         "content": "西北楼船烈焰中，周瑜于此破曹公。\n孙郎不是刘豚犬，百万兵消一阵风。",
@@ -483,6 +552,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fbee4c076a81fab5c433779e108188ad",
         "title": "司马昭弒魏主",
         "author": "金朋说",
         "content": "曹操师模司马昭，镕成成弒济君刀。\n恢恢天网原无漏，报施何曾差一毫。",
@@ -490,6 +560,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a1b7e0d02f7df3d70799231a1d670bca",
         "title": "司马温公帝魏",
         "author": "金朋说",
         "content": "春秋大义经中史，司马当年失董狐。\n昭烈本为炎汉后，何书僣国列于吴。",
@@ -497,6 +568,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6d3ba5c4faa2a084dc610179a45a4964",
         "title": "李密陈情表",
         "author": "金朋说",
         "content": "乌鸟私情虽孝恳，谀人藐主岂忠诚。\n堂堂大汉天潢派，何必陈情以僞名。",
@@ -504,6 +576,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9191b134e15b21f30e1f19a000dbfb50",
         "title": "建康怀古",
         "author": "金朋说",
         "content": "石头城下炬烧寒，司马东来骨肉残。\n可惜六朝花粉地，年年风雨草漫漫。",
@@ -511,6 +584,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a8083d930722f323f9dd5477ee17d8aa",
         "title": "苻坚伐晋",
         "author": "金朋说",
         "content": "南国山河不易图，投鞭欲使断江流。\n骄兵百万填淝水，狼狈归来国已休。",
@@ -518,6 +592,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f496f32013e88d671e4d27338cfc91b9",
         "title": "唐太宗",
         "author": "金朋说",
         "content": "唐世闺门少谨严，三纲浊乱有由然。\n晋阳挟父私宫妾，巢剌王妃不可言。",
@@ -525,6 +600,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4e99a24b4aa364634b5c9902b61826a8",
         "title": "武则天",
         "author": "金朋说",
         "content": "唐代司晨有牝鸡，灭残宗室殆无遗。\n若非仁杰擎天力，李鼎将移属武媚。",
@@ -532,6 +608,7 @@
         "collection_info": null
     },
     {
+        "uuid": "10f7d39024196b9fabe3c5ec31933155",
         "title": "杨贵妃",
         "author": "金朋说",
         "content": "倾国娇容启色荒，能移帝主堕三纲。\n荔枝嚬笑虽甘美，马践嵬坡促命亡。",
@@ -539,6 +616,7 @@
         "collection_info": null
     },
     {
+        "uuid": "61252a60039fdef53242d45baef0607d",
         "title": "张忠靖",
         "author": "金朋说",
         "content": "尽职倾忠世所稀，舍生取义重伦彜。\n昭昭名节标青史，万古流芳天下奇。",
@@ -546,6 +624,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1f1799a0fcaa30fbeec7189ac533d581",
         "title": "李谪仙",
         "author": "金朋说",
         "content": "笔端文彩辉星斗，怀抱诗豪泣鬼神。\n超迈英才贯绝世，明皇宠异贵无伦。",
@@ -553,6 +632,7 @@
         "collection_info": null
     },
     {
+        "uuid": "171c33dc98c5e737570d4536847961cd",
         "title": "韩昌黎",
         "author": "金朋说",
         "content": "世降文衰失正儒，韩公卫道辟杨朱。\n诚通衡岳开云阵，义信遐荒化鳄鱼。",
@@ -560,6 +640,7 @@
         "collection_info": null
     },
     {
+        "uuid": "29b56f652cfc1d76dc7f06f0c854a6eb",
         "title": "唐宪宗",
         "author": "金朋说",
         "content": "能询天宝乱从生，林甫专权罢九龄。\n刺史权纔除柳泌，金丹燥发命随倾。",
@@ -567,6 +648,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c662cbfdd29f79703ecaa4db4b84b6f2",
         "title": "裴垍",
         "author": "金朋说",
         "content": "竭诚佐理奬言司，先正君心帝者师。\n举荐不为盲宰相，尽供乃职日孜孜。",
@@ -574,6 +656,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f4655c93693491356014e9be703b1479",
         "title": "李绛裴度",
         "author": "金朋说",
         "content": "辅主中兴划懋功，削平僣叛一循公。\n自怜党起群邪进，王业萧条不克终。",
@@ -581,6 +664,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b9853129b08c995bac148f85caf0f939",
         "title": "唐穆宗",
         "author": "金朋说",
         "content": "燥发金丹柳泌诛，长生妙药已成虚。\n穆宗心眼何昏惑，不省张皋覆辙书。",
@@ -588,6 +672,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7e85e806f4ca5f2d5c77285a1e34a0a9",
         "title": "唐敬宗",
         "author": "金朋说",
         "content": "丹扆六箴真药石，童君不饵夭天年。\n宴游亵狎比羣小，灭烛筵边血溅鲜。",
@@ -595,6 +680,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fc3d3d769fbd1d9e66913f7312e962df",
         "title": "唐文宗  其一",
         "author": "金朋说",
         "content": "耻为凡主冀明良，摈出贤才事可伤。\n若用刘蕡救时策，何须醇酒烂霞觞。",
@@ -602,6 +688,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c3c158a0de51fa694d3a148a3133314d",
         "title": "唐文宗  其二",
         "author": "金朋说",
         "content": "贤良策举厌刘蕡，报献徒悲自比伦。\n直疏李邵言不用，宁从甘露祸金门。",
@@ -609,6 +696,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4abb31d1daaf0c2a5302da037074fde6",
         "title": "悉怛谋降唐",
         "author": "金朋说",
         "content": "祖宗疆域陷西戎，得復来归悉怛谋。\n不受生降唯守信，死年褒赠復何忧。",
@@ -616,6 +704,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1b0605f2fa8d5b7c0c9adc3327c075f2",
         "title": "唐宣宗饵药",
         "author": "金朋说",
         "content": "长生妄诞诳愚言，覆辙前途不自悛。\n若饵金丹人不死，北邙青冢尽神仙。",
@@ -623,6 +712,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1d57c9ebfaa7d8812915aa6437e9774a",
         "title": "歇后宰相",
         "author": "金朋说",
         "content": "歇后诗人何志诚，自量心迹甚详明。\n世多觊窦穿窬者，对尔宁无愧赧情。",
@@ -630,6 +720,7 @@
         "collection_info": null
     },
     {
+        "uuid": "845ba1d83766e252c0f58fd25b455720",
         "title": "唐阉宦",
         "author": "金朋说",
         "content": "握兵定策擅朝权，天子门生任劫迁。\n教党愚君为得志，他年类灭是谁愆。",
@@ -637,6 +728,7 @@
         "collection_info": null
     },
     {
+        "uuid": "daefcc703432166780b2d2cceba49498",
         "title": "五季梁主",
         "author": "金朋说",
         "content": "弒君杀父乱纲常，弟戮其兄促灭亡。\n上下交征仁义绝，背违天理应难昌。",
@@ -644,6 +736,7 @@
         "collection_info": null
     },
     {
+        "uuid": "13fe6b0444feddd6fb7a00c5c68c1d4b",
         "title": "五季石晋  其一",
         "author": "金朋说",
         "content": "父礼契丹输左袵，尊夷割地表称臣。\n降戎借势冠裳倒，万古春秋一罪人。",
@@ -651,6 +744,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a742530b0435c427f192a91725a53efd",
         "title": "五季石晋  其二",
         "author": "金朋说",
         "content": "石晋尊夷取帝华，如何两世覆邦家。\n杀胡林下天还报，剖腹盐心归帝羓。",
@@ -658,6 +752,7 @@
         "collection_info": null
     },
     {
+        "uuid": "66f7756d0d79fa266f55bad242496f59",
         "title": "五季相冯道",
         "author": "金朋说",
         "content": "历代成规知谨守，五朝八姓诰封新。\n改辞易面何无耻，视古夷齐不愧心。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "fdf84db18fe02eb1583e6fcf90f7b4c3",
         "title": "题升山",
         "author": "任生",
         "content": "城外升山寺，城中望宛然。\n及登无半日，欲到已经年。",
@@ -7,20 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "5e5e8bb76441520007f63102a95ae1c6",
         "title": "投曹文姬诗",
         "author": "任生",
         "content": "玉皇前殿掌书仙，一染尘心下九天。\n莫怪浓香熏骨腻，云衣曾惹御炉烟。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "题升山",
-        "author": "任生",
-        "content": "城外升山寺，城中望宛然。及登无半日，欲到已经年。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百八十三"
-        }
     }
 ]

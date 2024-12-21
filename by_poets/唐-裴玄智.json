@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "5da307ef3f8010fe948d9e746d80a7b3",
         "title": "书化度藏院壁",
         "author": "裴玄智",
         "content": "将肉遣狼守，置骨向狗头。\n自非阿罗汉，焉能免得偷。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "书化度藏院壁",
-        "author": "裴玄智",
-        "content": "将肉遣狼守，置骨向狗头。自非阿罗汉，焉能免得偷。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十九"
-        }
     }
 ]

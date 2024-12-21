@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "12fc576017c0f8b4dd25b4a059c93379",
         "title": "雪",
         "author": "张元",
         "content": "五丁仗剑决云霓，直取银河下帝畿。\n战死玉龙三十万，败鳞风捲满天飞。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "621d6a9318b34458e21d895f0f140b71",
         "title": "诗一首",
         "author": "张元",
         "content": "夏竦何曾耸，韩琦未是奇。\n满川龙虎举，犹自说兵机。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2a3dfe193133666cb6ce6aed5a35adc8",
         "title": "句  其一",
         "author": "张元",
         "content": "好着金笼收拾取，莫教飞去别人家。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "184cc7be0d195d2bfbab9dcc8d0f758e",
         "title": "句  其二",
         "author": "张元",
         "content": "有心待搦月中兔，更向白云头上飞。",

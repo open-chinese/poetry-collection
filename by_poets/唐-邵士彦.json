@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "e734828cabe8e47b218e2703eb63776b",
         "title": "秋闺",
         "author": "邵士彦",
         "content": "斜日空庭暮，幽闺积恨盈。\n细风吹帐冷，微月度窗明。\n怨坐啼相续，愁眠梦不成。\n调琴欲有弄，畏作断肠声。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "秋闺",
-        "author": "邵士彦",
-        "content": "斜日空庭暮，幽闺积恨盈。细风吹帐冷，微月度窗明。\n怨坐啼相续，愁眠梦不成。调琴欲有弄，畏作断肠声。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十四"
-        }
     }
 ]

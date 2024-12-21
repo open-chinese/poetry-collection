@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "4857a44354e128c0a2f0f1848c0cc89b",
         "title": "秦君亭",
         "author": "张思",
         "content": "蝉蜕真为一世豪，双蜗逐逐笑吾曹。\n秦君已去亭长在，着向山高更觉高。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9e020251fdb00681c61243e45de4fc34",
         "title": "碧玉峡",
         "author": "张思",
         "content": "野迥方知天广大，身高更觉石岧峣。\n泉人试为平章看，胜绝何如透碧霄。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2beeef17d061f98cd2b86cf0593a45e1",
         "title": "醉石",
         "author": "张思",
         "content": "席地为茵寄此生，漥樽独酌有余清。\n簑衣和月卧不醒，江上数峰云自横。",

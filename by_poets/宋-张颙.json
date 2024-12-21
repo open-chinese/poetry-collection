@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "e5630c3ccb21b90cf52faa28cd622b57",
         "title": "黄鹤楼",
         "author": "张颙",
         "content": "崔颢题诗在上头，登临何必更冥搜。\n楼前黄鹤不重见，槛外长江空自流。\n万顷烟云连梦泽，一川风景借西州。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "31bf4d4f91697bf3f53e06fe6cf291f8",
         "title": "句",
         "author": "张颙",
         "content": "两州花萼竞相辉，间断红尘一水涯。",

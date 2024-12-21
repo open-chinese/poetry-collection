@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "9173e8b58cdcaee154b103225102634b",
         "title": "醉吟三首 一",
         "author": "张氲",
         "content": "去岁无田种，今春乏酒材。\n从他花鸟笑，佯醉卧楼台。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7d0149333953aeb339ced2a3c943bbf1",
         "title": "醉吟三首 二",
         "author": "张氲",
         "content": "下调无人睬，高心又被瞋。\n不知时俗意，教我若为人。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "83654db3b1a0a543b5ca29a40c9bad83",
         "title": "醉吟三首 三",
         "author": "张氲",
         "content": "入市非求利，过朝不为名。\n有时随俗物，相伴且营营。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "5846fbb302ef5989ba04f38f9bfc2387",
         "title": "醉吟三首",
         "author": "张氲",
-        "content": "去岁无田种，今春乏酒材。从他花鸟笑，佯醉卧楼台。\n下调无人睬，高心又被瞋。不知时俗意，教我若为人。\n入市非求利，过朝不为名。有时随俗物，相伴且营营。",
+        "content": "去岁无田种，今春乏酒材。\n从他花鸟笑，佯醉卧楼台。\n下调无人睬，高心又被瞋。\n不知时俗意，教我若为人。\n入市非求利，过朝不为名。\n有时随俗物，相伴且营营。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

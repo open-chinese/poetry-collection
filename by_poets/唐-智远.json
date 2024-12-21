@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "176ddf07a2656e91804d72314606e39a",
         "title": "律僧",
         "author": "智远",
         "content": "滤水与龛灯，长长护有情。\n自从青草出，便不下阶行。\n北阙应无梦，南山旧有名。\n将何喻浮世，惟指浪沤轻。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "律僧",
-        "author": "智远",
-        "content": "滤水与龛灯，长长护有情。自从青草出，便不下阶行。\n北阙应无梦，南山旧有名。将何喻浮世，惟指浪沤轻。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百五十"
-        }
     }
 ]

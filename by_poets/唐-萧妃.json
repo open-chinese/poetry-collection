@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "954c9313da0e43988c0aa07962737ada",
         "title": "夜梦",
         "author": "萧妃",
         "content": "昨日梦君归，贱妾下鸣机。\n极知意气薄，不着去时衣。\n故言如梦裏，赖得雁书飞。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "夜梦",
-        "author": "萧妃",
-        "content": "昨日梦君归，贱妾下鸣机。极知意气薄，不着去时衣。\n故言如梦裏，赖得雁书飞。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七"
-        }
     }
 ]

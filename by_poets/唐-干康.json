@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "9da1ee8cd878bc9dea56f98eb4c73108",
         "title": "投谒齐己",
         "author": "干康",
         "content": "隔岸红尘忙似火，当轩青嶂冷如冰。\n烹茶童子休相问，报道门前是衲僧。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8be2b3a2827d5904f0fcb9f841e19d8c",
         "title": "赋残雪",
         "author": "干康",
         "content": "六出奇花已住开，郡城相次见楼台。\n时人莫把和泥看，一片飞从天上来。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "750878760416fe547e437000c538ed46",
         "title": "句",
         "author": "干康",
         "content": "镜湖中有月，处士后无人。\n荻笋抽高节，鲈鱼跃老鳞。",
@@ -21,19 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "dfcd318f9b353ab665a97b4e7a76e562",
         "title": "投谒齐己",
         "author": "干康",
         "content": "隔岸红尘忙似火，当轩青嶂冷如冰。\n烹茶童子休相问，报导门前是衲僧。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百四十九"
-        }
-    },
-    {
-        "title": "句",
-        "author": "干康",
-        "content": "镜湖中有月，处士后无人。荻笋抽高节，鲈鱼跃老鳞。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

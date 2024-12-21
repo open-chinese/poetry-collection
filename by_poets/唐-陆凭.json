@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "7beb72aef062a24266d683850d5e6c4b",
         "title": "咏浮云",
         "author": "陆凭",
         "content": "虚虚復空空，瞬息天地中。\n假合成此像，吾亦非吾躬。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "0ffc81ff7a882ec56403643c4de4568c",
         "title": "咏浮云",
         "author": "陆凭",
-        "content": "虚虚复空空，瞬息天地中。假合成此像，吾亦非吾躬。",
+        "content": "虚虚复空空，瞬息天地中。\n假合成此像，吾亦非吾躬。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

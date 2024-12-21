@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a8dcf2ed012a7ec216b7d0dcfdbac47e",
         "title": "答僧",
         "author": "释遇安",
         "content": "欲识曹溪旨，云飞前面山。\n分明真实箇，不用别追攀。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "370e38c04efb29cb7593e3d7415692a1",
         "title": "将卒示嗣子藴仁",
         "author": "释遇安",
         "content": "不是岭头携得事，岂从鸡足付将来。\n自古圣贤皆若此，非吾今日为君裁。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4d1b1fe1b3fff0db8c6a66b7da5b45a6",
         "title": "呈韶国师偈",
         "author": "释遇安",
         "content": "推真真无物，穷妄妄无形。\n返观真与妄，真妄亦虚名。",

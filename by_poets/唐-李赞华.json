@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "1dee267770420e468cf3c2c0a6f5cecc",
         "title": "立木海上刻诗",
         "author": "李赞华",
         "content": "小山压大山，大山全无力。\n羞见故乡人，从此投外国。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "立木海上刻诗",
-        "author": "李赞华",
-        "content": "小山压大山，大山全无力。羞见故乡人，从此投外国。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百三十二"
-        }
     }
 ]

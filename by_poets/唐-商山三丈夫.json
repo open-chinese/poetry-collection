@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "814fb16ff9a4be52a133a1970541fdce",
         "title": "秋月联句",
         "author": "商山三丈夫",
         "content": "秋月圆如镜，秋风利似刀。\n秋云轻比絮，秋草细如毛。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ecb14f405da33780f3ae9a623c172126",
         "title": "天明联句",
         "author": "商山三丈夫",
         "content": "幽树高高影，山花寂寂香。\n山天遥历历，山水急汤汤。",
@@ -14,9 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "daa41c00900aae10edadf82b15e7933c",
         "title": "秋月联句",
         "author": "商山三丈夫",
-        "content": "秋月圆如镜，——王步兵\n秋风利似刀。——萧中郎\n秋云轻比絮，——梁璟\n秋草细如毛。——诸葛长史",
+        "content": "秋月圆如镜，——王步兵秋风利似刀。\n——萧中郎秋云轻比絮，——梁璟秋草细如毛。\n——诸葛长史",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

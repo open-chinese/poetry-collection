@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ea107127ad676384c45d9f8d2da2003a",
         "title": "偈颂九首  其一",
         "author": "释玿",
         "content": "鹊既鸣鹊鹊，鸦则鸣鸦鸦。\n禾山四打鼓，赵州三吃茶。\n春来花处处，云散月家家。\n达磨当年无板齿，祇应特地过流沙。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f0429b853adf8713ed483fe171df73dc",
         "title": "偈颂九首  其二",
         "author": "释玿",
         "content": "五五二十五，乖龙不为雨。\n沙石欲生烟，稻麻将槁死。\n山僧有箇七字顶轮王陀罗尼，能破龙宫。\n开蛰户，斥雷师，驱电母，布慈云而洒甘露。\n唵苏噜悉唎苏噜。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bbbef648ce9572a587412835826243aa",
         "title": "偈颂九首  其三",
         "author": "释玿",
         "content": "云山偶尔遭攧，臂痛不可胜言。\n府教挥金办供，殷勤咨请谈禅。\n禅禅，不在拈槌竖拂，亦非作用周旋。\n不在扬眉瞬目，亦非文字语言。\n祇据现成公案，自然七方八圆。\n在云门得之，则曰一句三句。\n在法眼得之，则曰惟心法门。\n在沩仰得之，则曰父慈子孝。\n在临济得之，则曰三要三玄。\n在曹洞得之，则有偏正回互。\n在天下老和尚得之，则有问答机缘。\n在云山得之，则全提正令于人天之上。\n在府教学士得之，则致吾君于尧舜之前。\n在现前大众得之，则随宜应用。\n在太孺人黄氏得之，则生于忉利诸天。\n禅禅，绵绵密密，密密绵绵。\n渡水胡僧无膝裤，东村王老屋头穿。\n拈来一一中的，不妨似箭离絃。\n脱或踌躇拟议，迢迢十万八千。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "78e47a5b0839bd1ac90c690e89ba9ba7",
         "title": "偈颂九首  其四",
         "author": "释玿",
         "content": "语是谤，寂是诳。\n不语不寂，转增虚妄。\n春风吹落桃李花，淡烟疎雨笼青嶂。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "65d8e30f7388d633d3553829f98a4877",
         "title": "偈颂九首  其五",
         "author": "释玿",
         "content": "向来云岫访雷峰，朔风吹雪落长松。\n今日雷峰访云岫，无限春光满岩窦。\n机锋互换主宾分，八两元来重半斤。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d59c4e4ceeba40c9561e6d1c18366158",
         "title": "偈颂九首  其六",
         "author": "释玿",
         "content": "垦土诛茆作佛宫，栽田博饭与君同。\n梦中十载因缘尽，又拄乌藤过别峰。\n临岐一句如何说，此去平分江上月。\n千里同风事宛然，云山虽别何曾别。\n别不别，鹭鸶飞入寒江雪。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "19d1ab2454d8600c8af442ec929c6507",
         "title": "偈颂九首  其七",
         "author": "释玿",
         "content": "与么文彩，甚生标格。\n直下承当，迥超言默。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9d624773dc093c306d13263230352af8",
         "title": "偈颂九首  其八",
         "author": "释玿",
         "content": "休卜度，世间那有扬州鹤。\n一身与世等委蛇，万事随缘即安乐。\n无意来时却宛然，有心用处还应错。\n错错错，莫莫莫，近日秋林多叶落。\n铁牛飞过洞庭湖，西山走入滕王阁。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a16079ed167f5c60ad21599eef3f9fe2",
         "title": "偈颂九首  其九",
         "author": "释玿",
         "content": "一拳拳到黄鹤楼，一踢踢翻鹦鹉洲。\n玉麟掣断黄金锁，大丈夫儿得自由。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f0650368b31e84f3db66abb8a1ad3885",
         "title": "颂古三十一首  其一",
         "author": "释玿",
         "content": "文死罔明休卜度，瞿昙女子谩鍼锥。\n推倒铁山归去也，纵横十字更由谁。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2a5c9ff495a7ac320d88729b775bffc5",
         "title": "颂古三十一首  其二",
         "author": "释玿",
         "content": "相逢打鼓弄琵琶，须是还他两会家。\n曲罢不知何处去，夕阳斜映暮天霞。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a2a28b90e537522b10a24c5e53e20e49",
         "title": "颂古三十一首  其三",
         "author": "释玿",
         "content": "身世悠悠不繫舟，得随流处且随流。\n今朝有酒今朝醉，明日无钱明日愁。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a2d483e9a790d4f08a65edbf4a37b2ac",
         "title": "颂古三十一首  其四",
         "author": "释玿",
         "content": "梦中要渡深溪水，伎俩多般进不能。\n蓦地觉来伎俩尽，床头山月已三更。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "07a8bdb1332bf08bd5d968c49e8c5d00",
         "title": "颂古三十一首  其五",
         "author": "释玿",
         "content": "喝声绝处怒雷收，丧尽家风一不留。\n总是战争收拾得，却因歌舞破除休。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ceff7b04b3bded19302460520047f21f",
         "title": "颂古三十一首  其六",
         "author": "释玿",
         "content": "大雄山下老狐精，千古丛林恼杀人。\n若遇金毛师子子，看伊无处着浑身。",
@@ -105,6 +120,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1e02c657a5fd0d49e07efd55dacb2c7a",
         "title": "颂古三十一首  其七",
         "author": "释玿",
         "content": "是贼识贼精识精，南泉无过强惺惺。\n赵州礼拜归堂去，前箭犹轻后箭深。",
@@ -112,6 +128,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bac74f8883d82a2f4f0fd17f5dcd9cc2",
         "title": "颂古三十一首  其八",
         "author": "释玿",
         "content": "家财丧尽没丝毫，祇箇一身犹恨多。\n却向池阳最深处，杀人空手不持刀。",
@@ -119,6 +136,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f72ea0826e322854476e8796ea16ad59",
         "title": "颂古三十一首  其九",
         "author": "释玿",
         "content": "前得得，后不得，一贯谁知两五百。\n雨桧萧萧，风松瑟瑟。\n隔山人听鹧鸪词，错认胡笳十八拍。",
@@ -126,6 +144,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8ded7d1ea5b4715a40dda01d2a149eb0",
         "title": "颂古三十一首  其一○",
         "author": "释玿",
         "content": "此儿活计口皮边，点着风驰与电旋。\n谩说镇州萝卜大，何曾亲见老南泉。",
@@ -133,6 +152,7 @@
         "collection_info": null
     },
     {
+        "uuid": "264a13e09ecb28bd1ed9633d75bb1b20",
         "title": "颂古三十一首  其一一",
         "author": "释玿",
         "content": "当机转处不踌躇，琉璃盘裏走明珠。\n赵州老子村校书，一条拄杖两人舁。",
@@ -140,6 +160,7 @@
         "collection_info": null
     },
     {
+        "uuid": "414fb887017568d5fea7f1fea17361ee",
         "title": "颂古三十一首  其一二",
         "author": "释玿",
         "content": "庭前柏树子，一二三四五。\n窦八布衫穿，禾山解打鼓。",
@@ -147,6 +168,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a02881be5bdfb856ed0fdcd204c812f3",
         "title": "颂古三十一首  其一三",
         "author": "释玿",
         "content": "无直路，却萦纡。\n赵州东壁上，依旧挂葫芦。\n有张公吃村酒，李公醉不醒。",
@@ -154,6 +176,7 @@
         "collection_info": null
     },
     {
+        "uuid": "413f111c9b061dff7e0f89b33470fb27",
         "title": "颂古三十一首  其一四",
         "author": "释玿",
         "content": "利刀截断命根，跳出狐群狗队。\n拈起万煅蒺藜，铁额铜头粉碎。",
@@ -161,6 +184,7 @@
         "collection_info": null
     },
     {
+        "uuid": "35150d52499d6154faefc4bce8331fdf",
         "title": "颂古三十一首  其一五",
         "author": "释玿",
         "content": "拶到悬崖撒手时，七斤衫重有谁知。\n寒来暑往浑无用，挂在赵州东院西。",
@@ -168,6 +192,7 @@
         "collection_info": null
     },
     {
+        "uuid": "698cd6bed921bdd1bc4343bed1ccf7c9",
         "title": "颂古三十一首  其一六",
         "author": "释玿",
         "content": "明日大悲院裏斋，铁围山岳尽衝开。\n猪头象鼻，乌觜鱼腮。\n石人抚掌呵呵笑，寒山拾得在天台。",
@@ -175,6 +200,7 @@
         "collection_info": null
     },
     {
+        "uuid": "30c4987396cae0879b9ab03310a76eac",
         "title": "颂古三十一首  其一七",
         "author": "释玿",
         "content": "劫火光中共唱酬，随波逐浪谩悠悠。\n剖尽衷肠人不会，草鞋拈取盖龟休。",
@@ -182,6 +208,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4ee5e399fed699acab4ac259b3cefc7c",
         "title": "颂古三十一首  其一八",
         "author": "释玿",
         "content": "投子投子，机轮无阻。\n要吞即吞，要吐即吐。\n若还殢齿粘牙，争得超今迈古。",
@@ -189,6 +216,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ae4e48fdf892540304af110d75ffafac",
         "title": "颂古三十一首  其一九",
         "author": "释玿",
         "content": "有是父兮有是子，同条生也同条死。\n三世如来烈焰堆，互换说法元如此。\n莫颠言，休倒语，截断葛藤须荐取。",
@@ -196,6 +224,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b51bec92afda894061ced555f0d01df5",
         "title": "颂古三十一首  其二○",
         "author": "释玿",
         "content": "塞北千人帐，江南万斛船。\n菩提窝裏坐，总谓是虚传。",
@@ -203,6 +232,7 @@
         "collection_info": null
     },
     {
+        "uuid": "881ab3e03a17c21a0ba476d01930f6dc",
         "title": "颂古三十一首  其二一",
         "author": "释玿",
         "content": "曹山不如，花根本艷。\n不如曹山，虎体元班。\n江南地暖，塞北春寒。\n一把柳丝收不得，和烟搭在玉阑干。",
@@ -210,6 +240,7 @@
         "collection_info": null
     },
     {
+        "uuid": "58a0a2e90b301c82faf43440093b1ff1",
         "title": "颂古三十一首  其二二",
         "author": "释玿",
         "content": "隔，穿耳胡僧眼睛黑。\n东院西边是赵州，观音院裏安弥勒。",
@@ -217,6 +248,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6860b49537be01b52fc38bcf6111a7c3",
         "title": "颂古三十一首  其二三",
         "author": "释玿",
         "content": "北禅夜分岁，特地巧安排。\n维那出隻手，线去又丝来。\n田郎催拍板，鲍老舞三台。\n若教行正令，活作一坑埋。",
@@ -224,6 +256,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e402086fa2d5c5080855c42122dff155",
         "title": "颂古三十一首  其二四",
         "author": "释玿",
         "content": "苦中乐，乐中苦，大唐打鼓新罗舞。\n寒山烧火满头灰，却笑丰干倒骑虎。",
@@ -231,6 +264,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fdc8f7ab13bb9ad845396af881d9672a",
         "title": "颂古三十一首  其二五",
         "author": "释玿",
         "content": "有主有宾，有礼有乐。\n得失是非，如何摸索。\n纔摸索，无上醍醐成毒药。\n君不见大鹏展翼盖十洲，投窗之物空啾啾。",
@@ -238,6 +272,7 @@
         "collection_info": null
     },
     {
+        "uuid": "35aea7d59ca3e94c5917b0a5178b58bd",
         "title": "颂古三十一首  其二六",
         "author": "释玿",
         "content": "一人牙如剑树，一人口似血盆。\n一拳还一踢，一踢报一拳。\n亚竖摩酰顶门眼，不妨亲踏上头关。",
@@ -245,6 +280,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a21d9d984b71d0a1925e2832f6fc545b",
         "title": "颂古三十一首  其二七",
         "author": "释玿",
         "content": "我手何似佛手，堪笑紫湖养狗。\n撞着焦尾大虫，性命输他一口。",
@@ -252,6 +288,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e45d1bc267dc6722212aea9970cdf740",
         "title": "颂古三十一首  其二八",
         "author": "释玿",
         "content": "我脚何似驴脚，拟议知君大错。\n进前欲饮醍醐，已似遭他毒药。",
@@ -259,6 +296,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c9151cc536eb2d78fb0bd7f06e0cda8f",
         "title": "颂古三十一首  其二九",
         "author": "释玿",
         "content": "人人尽有生缘，且非夷狄中原。\n镇府出大萝卜，赵州亲见南泉。",
@@ -266,6 +304,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d2f02240fc3dedb4d036242844fe4751",
         "title": "颂古三十一首  其三○",
         "author": "释玿",
         "content": "佛手驴脚生缘，生缘驴脚佛手。\n李公醉倒街头，元是张公吃酒。\n黄龙山裏老婆禅，恰似河阳新妇丑。",
@@ -273,6 +312,7 @@
         "collection_info": null
     },
     {
+        "uuid": "35ee58da85ea2efe529171742439c2fa",
         "title": "颂古三十一首  其三一",
         "author": "释玿",
         "content": "唇上必并班豹剥，舌头当的帝都丁。\n自古上贤犹不识，造次凡流岂可明。",

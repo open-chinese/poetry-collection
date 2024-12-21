@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "d5643beb1118f23c3c638013f88699c4",
         "title": "宿金河戍",
         "author": "张震",
         "content": "朝发铁麟驿，夕宿金河戍。\n奔波急王程，一日千里路。\n但见容鬓改，不知岁华暮。\n悠悠沙漠行，王事弥多故。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "宿金河戍",
-        "author": "张震",
-        "content": "朝发铁麟驿，夕宿金河戍。奔波急王程，一日千里路。\n但见容鬓改，不知岁华暮。悠悠沙漠行，王事弥多故。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百六十八"
-        }
     }
 ]

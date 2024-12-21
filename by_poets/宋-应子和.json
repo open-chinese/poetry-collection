@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "4869e63d41327244569194b86705b7f3",
         "title": "句  其一",
         "author": "应子和",
         "content": "两岸夕阳红。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "dbf30af0a4172b263dfb008ec013a328",
         "title": "句  其二",
         "author": "应子和",
         "content": "蜡炬短烧红。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0e2c9adc742ecd7792ded14460d6a307",
         "title": "句  其三",
         "author": "应子和",
         "content": "风过落花红。",

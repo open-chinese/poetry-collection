@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "751cb8c9be06164d3dc2b57ea4d0f751",
         "title": "送南中尉",
         "author": "吏部选人",
         "content": "羡君初拜职，嗟我独无名。\n且是正员尉，全胜兼试卿。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "送南中尉",
-        "author": "吏部选人",
-        "content": "羡君初拜职，嗟我独无名。且是正员尉，全胜兼试卿。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百八十四"
-        }
     }
 ]

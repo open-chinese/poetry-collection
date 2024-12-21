@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "94ffee326ac703ecb80693c2dfc8b21e",
         "title": "同孟浩然宴赋",
         "author": "王迥",
         "content": "屈宋英声今止已，江山继嗣多才子。\n作者于今尽相似，聚宴王家其乐矣。\n共赋新诗发宫征，书于屋壁彰厥美。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "35b364152e65a2668bb821ee20342cc6",
         "title": "同孟浩然宴赋",
         "author": "王迥",
-        "content": "屈宋英声今止已，江山继嗣多才子。作者于今尽相似，",
+        "content": "屈宋英声今止已，江山继嗣多才子。\n作者于今尽相似，",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

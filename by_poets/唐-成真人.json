@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6543f991042649811cf8a07019d0e009",
         "title": "题壁",
         "author": "成真人",
         "content": "蜀路南行，燕师北至。\n本拟白日昇天，且看黑龙饮渭。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "3624200b4cfce657e28e12a7fe2cf78f",
         "title": "题壁",
         "author": "成真人",
-        "content": "蜀路南行，燕师北至。本拟白日升天，且看黑龙饮渭。",
+        "content": "蜀路南行，燕师北至。\n本拟白日升天，且看黑龙饮渭。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

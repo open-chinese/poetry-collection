@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ba93dbb2f980f05d38e6bd1373ef0e40",
         "title": "句  其一",
         "author": "王辅",
         "content": "山光水色两依依。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f56c119cbf3ec013e9761a2e34260c9f",
         "title": "句  其二",
         "author": "王辅",
         "content": "茎抽银线细，根结水晶寒。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5d0f3a37c4bba0b207059d8676d46353",
         "title": "句  其三",
         "author": "王辅",
         "content": "入堂无復见双亲，建此来宁似在神。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "90867dc712b9a349dc62f987a9d6d2a0",
         "title": "句  其四",
         "author": "王辅",
         "content": "陟彼南山采。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "fc47fe67e7316a9295d911636154377b",
         "title": "上蜀王",
         "author": "张道古",
         "content": "封章才达冕旒前，黜诏俄离玉座端。\n二乱岂由明主用，五危终被佞臣弹。\n西巡凤府非为固，东播銮舆卒未安。\n谏疏至今如可在，谁能更与读来看。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c63a82f32b3ff1d11b78f6537b527e50",
         "title": "咏雨",
         "author": "张道古",
         "content": "亢阳今已久，嘉雨自云倾。\n一点不斜去，极多时下成。",
@@ -14,19 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "ceacb9905bf129a781468fc67a683678",
         "title": "上蜀王",
         "author": "张道古",
-        "content": "封章才达冕旒前，黜诏俄离玉座端。二乱岂由明主用，\n谏疏至今如可在，谁能更与读来看。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六百九十四"
-        }
-    },
-    {
-        "title": "咏雨",
-        "author": "张道古",
-        "content": "亢阳今已久，嘉雨自云倾。一点不斜去，极多时下成。",
+        "content": "封章才达冕旒前，黜诏俄离玉座端。\n二乱岂由明主用，谏疏至今如可在，谁能更与读来看。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

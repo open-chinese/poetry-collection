@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "b77165acb55297ca0e72e9933883d00a",
         "title": "荅户部员外贺遂涉戏赠",
         "author": "赵谦光",
         "content": "锦帐随情设，金鑪任意熏。\n惟愁员外署，不应列星文。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c1a5712022207fb5f06ff61ecf8ce1fa",
         "title": "荅贺遂涉",
         "author": "赵谦光",
         "content": "锦帐随情设，金炉任意熏。\n唯愁员外置，不应列星文。",
@@ -14,9 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "0b7fadf4b7f87520df62b0b5a2e3ba83",
         "title": "答户部员外贺遂涉戏赠",
         "author": "赵谦光",
-        "content": "锦帐随情设，金炉任意熏。惟愁员外署，不应列星文。",
+        "content": "锦帐随情设，金炉任意熏。\n惟愁员外署，不应列星文。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -24,9 +27,10 @@
         }
     },
     {
+        "uuid": "29b8f265368c6e58aab9c988893e9987",
         "title": "答贺遂涉",
         "author": "赵谦光",
-        "content": "锦帐随情设，金炉任意熏。唯愁员外置，不应列星文。",
+        "content": "锦帐随情设，金炉任意熏。\n唯愁员外置，不应列星文。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

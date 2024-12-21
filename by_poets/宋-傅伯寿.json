@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "683d287b09428f1c0dedb80c3c01c6cd",
         "title": "一段奇轩",
         "author": "傅伯寿",
         "content": "门外红尘走利名，庵中白髮任浮生。\n羡师法窟能深入，厌我诗坛已屡盟。\n渺渺水光帘万迭，离离梅影雪三更。\n何人荐取真消息，试鼓瑶琴一再行。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9f07bb51aa1d8dbb37fa15eeff37e9c7",
         "title": "题姜相峰前祠  其一",
         "author": "傅伯寿",
         "content": "草间荒冢没麒麟，古寺何人为写真。\n华表不归空怨鹤，长松半落欲生鳞。\n艰难曾藉扶危力，鲠介原非卖直人。\n安得贞元同贞观，怀思忠愤一霑巾。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "551666ecb12cae25d93ae6cfded7971f",
         "title": "题姜相峰前祠  其二",
         "author": "傅伯寿",
         "content": "早岁声名起日南，暮年病骨卧烟岚。\n死生有地皆天命，不用人间更疾谗。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ea36eec3d7c104c5f0d10baa1e048916",
         "title": "一眺石",
         "author": "傅伯寿",
         "content": "一眺人间万事非，海鸥山鸟便忘机。\n林端髣髴见帆影，知有扁舟天际归。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "39e0053b5460aff984c098f3bf1f5599",
         "title": "碧玉峡",
         "author": "傅伯寿",
         "content": "野迥方知天广大，身高更觉石岧峣。\n泉人试为平章看，胜绝何如透碧霄。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5c8d7083d898b0801e527fe126085b05",
         "title": "钓台",
         "author": "傅伯寿",
         "content": "倚空绝壁势雄豪，招引山风接海涛。\n不假他人立名字，严台何似此台高。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a14618f7957f0f23e1c1ffba23e5f67a",
         "title": "和泉守王龟龄",
         "author": "傅伯寿",
         "content": "名节士所重，当如护睛脑。\n立朝与行己，本末要可考。",

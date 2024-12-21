@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "efeb7f9f6122a002e21778155d7aabe2",
         "title": "再游园亭",
         "author": "王宏",
         "content": "一夜春膏涨碧溪，水滨沙际润无泥。\n幽人绿野临江曲，太守红旗转竹西。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5b379434cd32bf4a8bd895b7a3bf3564",
         "title": "句  其一",
         "author": "王宏",
         "content": "春来赏遍牡丹春，江上侯家迥出羣。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "406484ad331a3abedbac4f29d1693064",
         "title": "句  其二",
         "author": "王宏",
         "content": "青女横霜夜，神炉盛冻天。",

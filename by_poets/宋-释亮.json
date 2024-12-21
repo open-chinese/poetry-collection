@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c80ccc5fc965131c6d06e27386f56631",
         "title": "偈颂七首  其一",
         "author": "释亮",
         "content": "一叶落，天下秋，几人于此辨来由。\n衲僧冷地呵呵笑，南岳天台拄杖头。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c758aa69ee178e86721b872037e25529",
         "title": "偈颂七首  其二",
         "author": "释亮",
         "content": "两箇屎橛，合作一团。\n熏天炙地谁能嗅，千古丛林作话端。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "79b4d8940bb23545af21018180dcd6ba",
         "title": "偈颂七首  其三",
         "author": "释亮",
         "content": "今朝十一月十五，光阴似箭岁将莫。\n参禅学道如何，切忌守株而待兔。\n若是金毛师子儿，翻身一掷无回互。\n无回互，惊杀南山白额虎。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "810a7ccfc61c24dd9a21d59b0663c463",
         "title": "偈颂七首  其四",
         "author": "释亮",
         "content": "今朝三月半，百花开烂熳。\n祖意甚分明，何妨着眼看。\n看看，忽然花谢树头空，又被风吹别调中。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8c1fe7751e0d7e61ca98f5c919fadd0c",
         "title": "偈颂七首  其五",
         "author": "释亮",
         "content": "者僧问处绝誵讹，就便拈来付与它。\n嫩绿枝头红一点，动人春色不消多。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8c1700cc90cf94c12949e48055e14e58",
         "title": "偈颂七首  其六",
         "author": "释亮",
         "content": "九旬禁足今朝满，漆桶掀翻快活人。\n莫怪点胸夸独步，只缘过夏在清真。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "801dad1ff878f746605f4a4511edb3af",
         "title": "偈颂七首  其七",
         "author": "释亮",
         "content": "说参禅，弥天过，缘是见成行货。\n可怜背觉合尘，饭箩边忍饥饿。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b693ce7e1755439aff1cb58b8f59c42a",
         "title": "指三门",
         "author": "释亮",
         "content": "蹋断千差路，泼天门户开。\n抬头空荡荡，脚下起风雷。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "85d4bec32704eac985db13ff0ab2f354",
         "title": "偈颂五首  其一",
         "author": "释亮",
         "content": "八十老婆心已灰，强颜抹粉与涂蚽。\n自知潦倒无羞耻，遇兴何妨舞一回。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1ff7d0ca8d5a91c66efdaf0a9bec0380",
         "title": "偈颂五首  其二",
         "author": "释亮",
         "content": "柳缘花红春鸟啼，明明祖意报君知。\n箇中直下知端的，已落吾家第二机。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7471cf7cdd8c693ae0984bbfc870759e",
         "title": "偈颂五首  其三",
         "author": "释亮",
         "content": "参学事，绝商量，急着眼，快承当，处处无非安乐乡。\n阿呵呵，好快活，万两黄金也消得。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7935c66fd26cbfccc080f389d3c015c7",
         "title": "偈颂五首  其四",
         "author": "释亮",
         "content": "狂风暴雨轰霹坜，满庭撼动花狼籍。\n红红白白已周遮，何劳饭袋重拈出。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6c5f4f0a9b21f7be98792903ce581cb8",
         "title": "偈颂五首  其五",
         "author": "释亮",
         "content": "金风起，树叶落，体露堂堂活鱍鱍。\n报君知，快领略。\n回头转脑拟思量，错认笊篱作木杓。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "70df7baac2257d42cff7c312fc50a154",
         "title": "颂古四首  其一",
         "author": "释亮",
         "content": "你有主丈与主丈，你无主丈夺主丈。\n拨乱干坤几箇知，鶑啼不在花枝上。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "86c4b639d19d73e09fbc2fcd9b81a2d3",
         "title": "颂古四首  其二",
         "author": "释亮",
         "content": "几年湖海不知羞，一见桃花自点头。\n堪笑傍观犹眼热，也来趁队逞风流。",
@@ -105,6 +120,7 @@
         "collection_info": null
     },
     {
+        "uuid": "62efc8f7872df599d503fc2059960259",
         "title": "颂古四首  其三",
         "author": "释亮",
         "content": "饥时定闻饥，饱时定闻饱。\n婆子在台山，赵州勘破了。",
@@ -112,6 +128,7 @@
         "collection_info": null
     },
     {
+        "uuid": "40d947f704756b2f3a55ac2b273bef65",
         "title": "颂古四首  其四",
         "author": "释亮",
         "content": "一色通身白，天然绝点尘。\n咤沙当古路，不吼也惊人。",
@@ -119,6 +136,7 @@
         "collection_info": null
     },
     {
+        "uuid": "35f56b3476714cbb94b442806be4a0f6",
         "title": "建康黄尚书请住清真曾以颂却之",
         "author": "释亮",
         "content": "彻骨穷来不厌穷，横眠倒卧白云中。\n饥餐一钵和罗饭，此外无能振祖风。",
@@ -126,6 +144,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6fd8b08bc3544b35d805cca660da8688",
         "title": "悼遯庵",
         "author": "释亮",
         "content": "无端拗曲作直，平白换人眼睛。\n而今双履归去，且喜天下太平。",
@@ -133,6 +152,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a1ae1e9e4627332272101cf395006db0",
         "title": "藤簟",
         "author": "释亮",
         "content": "打成一片凝如水，风吹不动寒光起。\n饭饱齁齁快活眠，不知身在秋波裏。",
@@ -140,6 +160,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1894b4a477fdb0c4f07eb288e10c009c",
         "title": "开涂田道者求语",
         "author": "释亮",
         "content": "大海波涛涌，道人愿力坚。\n当头一截断，万顷看平田。",
@@ -147,6 +168,7 @@
         "collection_info": null
     },
     {
+        "uuid": "df4a466d58b5d1c3cd68984b43e9b7f4",
         "title": "光维那归乡",
         "author": "释亮",
         "content": "光境俱亡了，寒潭彻底清。\n泝流翻巨浪，五十四州惊。",
@@ -154,6 +176,7 @@
         "collection_info": null
     },
     {
+        "uuid": "47bf0d8f6b099b4f144d475de43b014b",
         "title": "寄天童痴绝和尚",
         "author": "释亮",
         "content": "潦倒西山百不能，随身頼有一枝藤。\n东撑西拄消閒日，甘作荒山小院僧。",
@@ -161,6 +184,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8710ad16e7f7194d7c26f9a78e5af733",
         "title": "达上人乞语",
         "author": "释亮",
         "content": "达道应须併六贼，六贼併了何所得。\n十方坐断眼头空，观音院裏无弥勒。",
@@ -168,6 +192,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9f625c440c35d40092b507d4ffa5d036",
         "title": "碧云寄华藏故旧",
         "author": "释亮",
         "content": "碧云深处望湖山，时步松门独往还。\n眼底故人都不见，但闻幽鸟语关关。",
@@ -175,6 +200,7 @@
         "collection_info": null
     },
     {
+        "uuid": "eb4beb2dd372385133bacc36042a6098",
         "title": "见侍者求语",
         "author": "释亮",
         "content": "三呼三应箭锋拄，不呼不应全体露。\n汝从雪窦到灵山，步步蹋着无差互。",
@@ -182,6 +208,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d8bf38fcad7a92adc71fa381614e6d91",
         "title": "光上人求语",
         "author": "释亮",
         "content": "光明寂照徧河沙，认着依前满眼花。\n丧尽诸缘回首看，寥寥四顾绝周遮。\n绝周遮处未为是，更须知有祖师关。\n透得关，生死佛魔甚屎屁。\n时来平地一声雷，四海五湖如鼎沸。",
@@ -189,6 +216,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a6933441357acbcb477f0f6047e541b5",
         "title": "古禅人乞语",
         "author": "释亮",
         "content": "底事完全亘古今，何劳特地徧参寻。\n草鞋蹋破知端的，悔涉山川恨转深。",

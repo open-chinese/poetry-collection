@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "bdc5ed805b90244de4d7158149a86d29",
         "title": "君山",
         "author": "王濯",
         "content": "无际波光滉太虚，君山一点暮云孤。\n危楼栏槛能多少，展尽江湖万里图。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3400572cf8767466159667aae625f2ce",
         "title": "清都观",
         "author": "王濯",
         "content": "天上清都人莫到，山间仙观久荒凉。\n惟余旧浴丹砂井，一酌犹令齿颊香。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c009871fb115beebbd8b4c68d641d5b4",
         "title": "句",
         "author": "王濯",
         "content": "绝壁高千丈，清泉应六时。",

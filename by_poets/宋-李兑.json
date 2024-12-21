@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c61a288d4a3dac5e6468bccf1e052c6c",
         "title": "句  其一",
         "author": "李兑",
         "content": "高鸟翔云外。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2ca223bd88e13e51f927eab237b95c40",
         "title": "句  其二",
         "author": "李兑",
         "content": "烟浮平野碧。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c0922f7f84c3bb7f909f23d17154f88b",
         "title": "句  其三",
         "author": "李兑",
         "content": "未敢嘆途穷。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a13a5971b3e615ad7d3b1bcdf485c1f5",
         "title": "句  其四",
         "author": "李兑",
         "content": "万壑初收雨。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "92944f1d3547afd13d440c9162939dff",
         "title": "句  其五",
         "author": "李兑",
         "content": "日抹平山红。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8df183abb757692e60e47b3c375f49e2",
         "title": "句  其六",
         "author": "李兑",
         "content": "何处不迟留。",

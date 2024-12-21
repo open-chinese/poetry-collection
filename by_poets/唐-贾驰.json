@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a5558dc8d08cc71e4e7d8fc75d348167",
         "title": "横吹曲辞 入关",
         "author": "贾驰",
         "content": "河上微风来，关头树初湿。\n今朝关城吏，又见孤客入。\n上国谁与期，西来徒自急。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "027d8d7c23c4a0156cedc54f0c435f9b",
         "title": "復覩三乡题处留赠",
         "author": "贾驰",
         "content": "壁古字未灭，声长响不绝。\n蕙质本如云，松心应耐雪。\n耿耿离幽谷，悠悠望瓯越。\n杞妇哭夫时，城崩无此说。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ed699cd5f1008aa4f1d7ba41b1167340",
         "title": "秋入关",
         "author": "贾驰",
         "content": "河上微风来，关头树初湿。\n今朝关城吏，又见孤客入。\n上国谁与期，西来徒自急。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a9b3987085cc5ed32c4da002feabadc5",
         "title": "句",
         "author": "贾驰",
         "content": "东风吹晓霜，雪鸟双双来。\n（见《唐诗纪事》卷六十引张为《诗人主客图》）。",
@@ -28,9 +32,10 @@
         "collection_info": null
     },
     {
+        "uuid": "f5d5d64468bbde1b67e75739c10a0172",
         "title": "横吹曲辞：入关",
         "author": "贾驰",
-        "content": "河上微风来，关头树初湿。今朝关城吏，又见孤客入。\n上国谁与期，西来徒自急。",
+        "content": "河上微风来，关头树初湿。\n今朝关城吏，又见孤客入。\n上国谁与期，西来徒自急。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -38,19 +43,10 @@
         }
     },
     {
+        "uuid": "556fde38cea6405d8b12b80e3fa64108",
         "title": "复睹三乡题处留赠",
         "author": "贾驰",
-        "content": "壁古字未灭，声长响不绝。蕙质本如云，松心应耐雪。\n耿耿离幽谷，悠悠望瓯越。杞妇哭夫时，城崩无此说。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百二十六"
-        }
-    },
-    {
-        "title": "秋入关",
-        "author": "贾驰",
-        "content": "河上微风来，关头树初湿。今朝关城吏，又见孤客入。\n上国谁与期，西来徒自急。",
+        "content": "壁古字未灭，声长响不绝。\n蕙质本如云，松心应耐雪。\n耿耿离幽谷，悠悠望瓯越。\n杞妇哭夫时，城崩无此说。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

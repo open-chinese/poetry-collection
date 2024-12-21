@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "44d4d9d9355291bce42bc6dd78b7e94c",
         "title": "句  其一",
         "author": "李良臣",
         "content": "似是兄弟姓则殊。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b2f50073b74bac6eb834cced8caed040",
         "title": "句  其二",
         "author": "李良臣",
         "content": "士耻无名字，吾儿早振声。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "59e1a3654e1552d23863aaea1be1f1be",
         "title": "句  其三",
         "author": "李良臣",
         "content": "勿贻麟楦笑，千古愧公卿。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9de52af506cc9d230908726b642283a5",
         "title": "句  其四",
         "author": "李良臣",
         "content": "简州何处景最佳，东溪清绝人最夸。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0164d842e7d165395766d2f583f50ae7",
         "title": "句  其五",
         "author": "李良臣",
         "content": "侯家荣经山水县，胜致绝出西南州。",

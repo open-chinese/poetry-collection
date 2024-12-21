@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "03a7b08b3a16a2dec6c4ec2ff297b3e2",
         "title": "句  其一",
         "author": "刘洞",
         "content": "千里长江皆渡马，十年养士得何人。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7e1349f290233db07d1321ecab67e9e0",
         "title": "句  其二",
         "author": "刘洞",
         "content": "翻忆潘郎章奏内，阴阴日暮好沾巾。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c4877696ad9c94ba578b2d29b6c13c54",
         "title": "句  其三",
         "author": "刘洞",
         "content": "百骸同草木，万象入心灵。",

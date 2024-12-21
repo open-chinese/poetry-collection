@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "0f2656be1b2ffd71c4a513359f46b80d",
         "title": "宿新安江深渡馆寄郑州王使君",
         "author": "朱长文",
         "content": "霜飞十月中，摇落众山空。\n孤馆闭寒木，大江生夜风。\n赋诗忙有意，沈约在关东。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c78c603edb0800e1e50fa4efb4b9745b",
         "title": "春眺扬州西上岗寄徐员外",
         "author": "朱长文",
         "content": "芜城西眺极苍流，漠漠春烟间曙楼。\n瓜步早潮吞建业，蒜山晴雪照扬州。\n隋家故事不能问，鹤在仙池期我游。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b52353ac14f31a8d7594a9c86014a979",
         "title": "送李司直归浙东幕兼寄鲍将军",
         "author": "朱长文",
         "content": "翩翩书记早曾闻，二十年来愿见君。\n今日相逢悲白髮，同时几许在青云。\n人从北固山边去，水到西陵渡口分。\n会作王门曳裾客，为余前谢鲍将军。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ece909746f5a4aa7023b6637ec613314",
         "title": "望中有怀",
         "author": "朱长文",
         "content": "龙向洞中衔雨出，鸟从花里带香飞。\n白云断处见明月，黄叶落时闻捣衣。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d1591d89f7d4d92f0fc343424b574f08",
         "title": "题虎丘山西寺",
         "author": "朱长文",
         "content": "王氏家山昔在兹，陆机为赋陆云诗。\n青莲香匝东西宇，日月与僧无尽时。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8f071c5baea78a4b42cbfcfce3581155",
         "title": "吴兴送梁补阙归朝赋得荻花",
         "author": "朱长文",
         "content": "柳家汀洲孟冬月，云寒水清荻花发。\n一枝持赠朝天人，愿比蓬莱殿前雪。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "50aad33c750f5c3c59f2a88a181ebcec",
         "title": "句",
         "author": "朱长文",
         "content": "夜静忽疑身是梦，更闻寒雨滴芭蕉。",
@@ -49,19 +56,10 @@
         "collection_info": null
     },
     {
-        "title": "宿新安江深渡馆寄郑州王使君",
-        "author": "朱长文",
-        "content": "霜飞十月中，摇落众山空。孤馆闭寒木，大江生夜风。\n赋诗忙有意，沈约在关东。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百七十二"
-        }
-    },
-    {
+        "uuid": "14da9efd8ce069330f68273f9a23343a",
         "title": "春眺扬州西上岗寄徐员外",
         "author": "朱长文",
-        "content": "芜城西眺极苍流，漠漠春烟间曙楼。瓜步早潮吞建业，",
+        "content": "芜城西眺极苍流，漠漠春烟间曙楼。\n瓜步早潮吞建业，",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -69,9 +67,10 @@
         }
     },
     {
+        "uuid": "acb43f897570b0cea63868b17411beba",
         "title": "送李司直归浙东幕兼寄鲍将军",
         "author": "朱长文",
-        "content": "翩翩书记早曾闻，二十年来愿见君。今日相逢悲白髮，\n会作王门曳裾客，为余前谢鲍将军。",
+        "content": "翩翩书记早曾闻，二十年来愿见君。\n今日相逢悲白髮，会作王门曳裾客，为余前谢鲍将军。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -79,6 +78,7 @@
         }
     },
     {
+        "uuid": "02592fc9b8cf12d3c32af657e5345fd2",
         "title": "望中有怀",
         "author": "朱长文",
         "content": "龙向洞中衔雨出，鸟从花裏带香飞。\n白云断处见明月，黄叶落时闻捣衣。",
@@ -89,6 +89,7 @@
         }
     },
     {
+        "uuid": "610fbb5b646cff78438ab36a40343c7e",
         "title": "句",
         "author": "朱长文",
         "content": "夜静忽疑身是梦，更闻寒雨滴芭蕉。\n。",

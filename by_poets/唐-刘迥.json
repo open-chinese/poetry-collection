@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "426d1dcc2a7c38e84d8d83c67ed7f206",
         "title": "烂柯山四首 一",
         "author": "刘迥",
         "content": "白云引策仗，苔径谁往还。\n渐见松树偃，时闻鸟声闲。\n豁然喧氛尽，独对万重山。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6c9ec106e51278c0bf9ed78a9ab9bc59",
         "title": "烂柯山四首 二",
         "author": "刘迥",
         "content": "石桥架绝壑，苍翠横鸟道。\n凭槛云脚下，颓阳日犹蚤。\n霓裳倘一遇，千载长不老。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a6f6d8b1696b153476f398315341465d",
         "title": "烂柯山四首 三",
         "author": "刘迥",
         "content": "灵境偶一寻，洞天碧云上。\n烂柯有遗迹，羽客何由访。\n日暮怅欲还，晴烟满千嶂。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c286ccb84f023ec4feeca8a731124d6b",
         "title": "烂柯山四首 四",
         "author": "刘迥",
         "content": "绳床宴坐久，石窟绝行迹。\n能在人代中，遂将人代隔。\n白云风扬飞，非欲待归客。",
@@ -28,9 +32,10 @@
         "collection_info": null
     },
     {
+        "uuid": "7353289831f123e21fb5706800524f34",
         "title": "烂柯山四首：最高顶",
         "author": "刘迥",
-        "content": "白云引策杖，苔径谁往还。渐见松树偃，时闻鸟声闲。\n豁然喧氛尽，独对万重山。",
+        "content": "白云引策杖，苔径谁往还。\n渐见松树偃，时闻鸟声闲。\n豁然喧氛尽，独对万重山。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -38,9 +43,10 @@
         }
     },
     {
+        "uuid": "9797418aba20d3d688b8c9ad43d6d55f",
         "title": "烂柯山四首：石桥",
         "author": "刘迥",
-        "content": "石桥架绝壑，苍翠横鸟道。凭槛云脚下，颓阳日犹蚤。\n霓裳倘一遇，千载长不老。",
+        "content": "石桥架绝壑，苍翠横鸟道。\n凭槛云脚下，颓阳日犹蚤。\n霓裳倘一遇，千载长不老。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -48,9 +54,10 @@
         }
     },
     {
+        "uuid": "9efc92cfdfb53eee073993ef2d06eea4",
         "title": "烂柯山四首：仙人棋",
         "author": "刘迥",
-        "content": "灵境偶一寻，洞天碧云上。烂柯有遗迹，羽客何由访。\n日暮怅欲还，晴烟满千嶂。",
+        "content": "灵境偶一寻，洞天碧云上。\n烂柯有遗迹，羽客何由访。\n日暮怅欲还，晴烟满千嶂。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -58,9 +65,10 @@
         }
     },
     {
+        "uuid": "da0f1f37aec356a0ce6223bc9282fc54",
         "title": "烂柯山四首：石室二禅师",
         "author": "刘迥",
-        "content": "绳床宴坐久，石窟绝行迹。能在人代中，遂将人代隔。\n白云风扬飞，非欲待归客。",
+        "content": "绳床宴坐久，石窟绝行迹。\n能在人代中，遂将人代隔。\n白云风扬飞，非欲待归客。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

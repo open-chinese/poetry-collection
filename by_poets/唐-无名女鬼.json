@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "64c8102a50114ce513a2c01dd7b50734",
         "title": "示宋善威",
         "author": "无名女鬼",
         "content": "月落三株树，日映九重天。\n良夜欢宴罢，暂别庚申年。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "示宋善威",
-        "author": "无名女鬼",
-        "content": "月落三株树，日映九重天。良夜欢宴罢，暂别庚申年。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十六"
-        }
     }
 ]

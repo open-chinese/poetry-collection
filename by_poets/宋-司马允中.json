@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "feecf70f813f9729740ac34f0795593b",
         "title": "陆羽井",
         "author": "司马允中",
         "content": "百尺寒泉浸崖腹，藓蚀题名不堪读。\n只今此味属谁论，自把铜瓶汲新渌。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8018e2df03ebed40f98376c0042ff687",
         "title": "陈公楼",
         "author": "司马允中",
         "content": "陈公汲深实奇计，转向人间作丰岁。\n辘轳声晓潜虬寒，玄猨啼在深深树。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0bbda75abf49854e08d0df6e5bb24eb7",
         "title": "千顷云",
         "author": "司马允中",
         "content": "且与祖龙相颉颃，大施霖雨谩悠扬。\n归来好护安禅石，莫作巫山一梦长。",

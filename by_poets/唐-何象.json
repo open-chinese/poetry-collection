@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "f5b9f8b8cb23e81f9916b2c9331343b9",
         "title": "赋得御制句朔野阵云飞",
         "author": "何象",
         "content": "塞日穿痕断，边鸿背影飞。\n缥缈浮黄屋，阴沈护御衣。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "赋得御制句朔野阵云飞",
-        "author": "何象",
-        "content": "塞日穿痕断，边鸿背影飞。缥缈浮黄屋，阴沈护御衣。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百六十八"
-        }
     }
 ]

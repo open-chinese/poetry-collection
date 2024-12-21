@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "78bd7079501f89da8b3881cc6b244df7",
         "title": "荅诸姊妹戒饮",
         "author": "蒋氏",
         "content": "平生偏好酒，劳尔劝吾餐。\n但得杯中满，时光度不难。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "5ec78c4fd156e6c94da876993f146727",
         "title": "答诸姊妹戒饮",
         "author": "蒋氏",
-        "content": "平生偏好酒，劳尔劝吾餐。但得杯中满，时光度不难。",
+        "content": "平生偏好酒，劳尔劝吾餐。\n但得杯中满，时光度不难。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

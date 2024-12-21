@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ea8585208eefd62ce8596ab53f5af52c",
         "title": "闻鹿鸣互谑",
         "author": "严震",
         "content": "釜戴山中鹿又鸣，此际多应到表兄。\n表兄不是严家子，合是三兄与四兄。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "79c9e84daa81c4819cf2ac42103472ed",
         "title": "闻鹿鸣互谑",
         "author": "严震",
-        "content": "釜戴山中鹿又鸣，——中表\n此际多应到表兄。——严震\n表兄不是严家子，合是三兄与四兄。——中表",
+        "content": "釜戴山中鹿又鸣，——中表此际多应到表兄。\n——严震表兄不是严家子，合是三兄与四兄。\n——中表",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

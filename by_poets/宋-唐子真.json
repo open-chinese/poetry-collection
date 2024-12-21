@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "e53740eb22bca3b1d877d97f48a6b0ac",
         "title": "句  其一",
         "author": "唐子真",
         "content": "捲衣更上前岩去，别有云山千万重。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2192d4fccfe8a5972407aa7023257945",
         "title": "句  其二",
         "author": "唐子真",
         "content": "六六峰从云外立，三三人出洞中来。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6000c70aee4f835c4bf0cad4eb57b1c3",
         "title": "句  其三",
         "author": "唐子真",
         "content": "碧玉环中藏世界，白云影裏见楼台。",

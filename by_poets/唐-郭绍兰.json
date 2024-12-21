@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "bf50b79431cb8ec5a9ad1f3c13e5ef91",
         "title": "寄夫",
         "author": "郭绍兰",
         "content": "我壻去重湖，临窗泣血书。\n殷勤凭燕翼，寄与薄情夫。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "4139ac0bf5f1362769db8e8a8f90c8b5",
         "title": "寄夫",
         "author": "郭绍兰",
-        "content": "我婿去重湖，临窗泣血书。殷勤凭燕翼，寄与薄情夫。",
+        "content": "我婿去重湖，临窗泣血书。\n殷勤凭燕翼，寄与薄情夫。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

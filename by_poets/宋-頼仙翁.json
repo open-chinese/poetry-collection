@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "47d22198006ccd2d12357e5480798609",
         "title": "句  其一",
         "author": "頼仙翁",
         "content": "一条丁水铜鱼塞，三十年来旧相识。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "526a6be9dcbabd6b3406b81abc061c85",
         "title": "句  其二",
         "author": "頼仙翁",
         "content": "巧妙四山云岫落，玲珑双甑月灯明。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7199add8958347829b4453200f43babe",
         "title": "句  其三",
         "author": "頼仙翁",
         "content": "宝山流连井，久立方知省。",

@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "05d5dafb484aa7035cf801797ec9a474",
         "title": "登祝融峰",
         "author": "李征古",
         "content": "欲上祝融峰，先登古石桥。\n凿开巇崄处，取路到丹霄。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "登祝融峰",
-        "author": "李征古",
-        "content": "欲上祝融峰，先登古石桥。凿开巇崄处，取路到丹霄。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百三十八"
-        }
     }
 ]

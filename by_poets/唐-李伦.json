@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "11e5a094df3f49381e1c9a8ec6b2169a",
         "title": "顾城",
         "author": "李伦",
         "content": "世久荒墟在，白云几代耕。\n市廛新草绿，里社故烟轻。\n不谨罹天讨，来苏岂忿兵。\n谁云殷鉴远，今古在人程。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "39fdde463fccc197fb6fcbabb991d5a8",
         "title": "顾城",
         "author": "李伦",
-        "content": "世久荒墟在，白云几代耕。市廛新草绿，裏社故烟轻。\n不谨罹天讨，来苏岂忿兵。谁云殷鉴远，今古在人程。",
+        "content": "世久荒墟在，白云几代耕。\n市廛新草绿，裏社故烟轻。\n不谨罹天讨，来苏岂忿兵。\n谁云殷鉴远，今古在人程。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

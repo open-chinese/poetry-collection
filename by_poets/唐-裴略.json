@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "1dcbb6b0bc8cf66c81652d5a19ac3fb7",
         "title": "为温仆射嘲竹",
         "author": "裴略",
         "content": "竹，风吹青肃肃，凌冬叶不凋，经春子不熟。\n虚心未得待国士，皮上何湏生节目。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "972a6c49d7ef17d33d4e2aa6f1c72c0b",
         "title": "又嘲屏墙",
         "author": "裴略",
         "content": "高下八九尺，东西六七步。\n突兀当厅坐，几许遮贤路。",
@@ -14,19 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "d321c93e46a0f67f28963ce54e735229",
         "title": "为温仆射嘲竹",
         "author": "裴略",
-        "content": "竹，风吹青肃肃。凌冬叶不凋，经春子不熟。\n虚心未得待国士，皮上何须生节目。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十九"
-        }
-    },
-    {
-        "title": "又嘲屏墙",
-        "author": "裴略",
-        "content": "高下八九尺，东西六七步。突兀当厅坐，几许遮贤路。",
+        "content": "竹，风吹青肃肃。\n凌冬叶不凋，经春子不熟。\n虚心未得待国士，皮上何须生节目。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

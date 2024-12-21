@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "035b157c1a7ee5c18706eb8b834418d0",
         "title": "寄钱郎中",
         "author": "法照",
         "content": "闭门深树裏，闲足鸟来过。\n五马不復贵，一僧谁奈何。\n药苗家自有，香饭乞时多。\n寄语婵娟客，将心向薜萝。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a4b5f4892792ac5515396432a8decdf7",
         "title": "送清江上人",
         "author": "法照",
         "content": "越人僧体古，清虑洗尘劳。\n一国诗名远，多生律行高。\n见山援葛藟，避世着方袍。\n早晚云门去，侬应逐尔曹。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8a698fe15a1fbea061c30a5458559237",
         "title": "送无着禅师归新罗",
         "author": "法照",
         "content": "万里归乡路，随缘不算程。\n寻山百衲弊，过海一杯轻。\n夜宿依云色，晨斋就水声。\n何年持贝叶，却到汉家城。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8c2d47eb169fe8df631e2ba80e3967a6",
         "title": "寄劝俗兄弟二首 一",
         "author": "法照",
         "content": "同气连枝本自荣，些些言语莫伤情。",
@@ -28,40 +32,11 @@
         "collection_info": null
     },
     {
+        "uuid": "eab22203a815e73acb6fe71ea76439be",
         "title": "寄劝俗兄弟二首 二",
         "author": "法照",
         "content": "兄弟同居忍便安，莫因毫末起争端。\n眼前生子又兄弟，留与儿孙作样看。\n（见影清光绪抄本张鹏翼修《洋县志》卷七）。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "寄钱郎中",
-        "author": "法照",
-        "content": "闭门深树裏，闲足鸟来过。五马不復贵，一僧谁奈何。\n药苗家自有，香饭乞时多。寄语婵娟客，将心向薜萝。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百一十"
-        }
-    },
-    {
-        "title": "送清江上人",
-        "author": "法照",
-        "content": "越人僧体古，清虑洗尘劳。一国诗名远，多生律行高。\n见山援葛藟，避世着方袍。早晚云门去，侬应逐尔曹。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百一十"
-        }
-    },
-    {
-        "title": "送无着禅师归新罗",
-        "author": "法照",
-        "content": "万里归乡路，随缘不算程。寻山百衲弊，过海一杯轻。\n夜宿依云色，晨斋就水声。何年持贝叶，却到汉家城。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百一十"
-        }
     }
 ]

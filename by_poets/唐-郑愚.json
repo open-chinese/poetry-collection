@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c2ed20deeedd6283e2afb2d33bedc43d",
         "title": "幼作",
         "author": "郑愚",
         "content": "台山初罢雾，岐海正分流。\n渔浦扬来笛，鸿逵翼去舟。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "142b380f7ec02e76fe6131e651505052",
         "title": "茶诗",
         "author": "郑愚",
         "content": "嫩芽香且灵，吾谓草中英。\n夜臼和烟捣，寒炉对雪烹。\n惟忧碧粉散，尝见绿花生。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cdbbde4ac573633fdd2cbe3a9036d882",
         "title": "醉题广州使院",
         "author": "郑愚",
         "content": "数年百姓受饥荒，太守贪残似虎狼。\n今日海隅鱼米贱，大须惭媿石榴黄。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d8bb9dea357a2d9669c3e408f1540148",
         "title": "拟权龙褒体赠鄠县李令及寄朝右",
         "author": "郑愚",
         "content": "鄠县李长官，横琴膝上弄。\n不闻有政声，但见手子动。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8c3ec72053ed5e8dc33d344e00c050ad",
         "title": "泛石岐海",
         "author": "郑愚",
         "content": "此日携琴剑，飘然事远游。\n台山初罢雾，岐海正分流。\n渔浦扬来笛，鸿逵翼去舟。\n鬂愁蒲柳早，衣怯芰荷秋。\n未卜虞翻宅，休登王粲楼，怆然怀伴侣，徒尔赋离忧。\n（《嘉庆广东通志》一○一《山川略·香山县》）（〖1〗《全唐诗》卷五九七收「台山」以下四句，题为《幼作》。\n）。",
@@ -35,39 +40,10 @@
         "collection_info": null
     },
     {
-        "title": "幼作",
-        "author": "郑愚",
-        "content": "台山初罢雾，岐海正分流。渔浦扬来笛，鸿逵翼去舟。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百九十七"
-        }
-    },
-    {
-        "title": "茶诗",
-        "author": "郑愚",
-        "content": "嫩芽香且灵，吾谓草中英。夜臼和烟捣，寒炉对雪烹。\n惟忧碧粉散，尝见绿花生。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百九十七"
-        }
-    },
-    {
+        "uuid": "7de5f3ee3c7ba50d94d636add27ccd0d",
         "title": "醉题广州使院",
         "author": "郑愚",
         "content": "数年百姓受饥荒，太守贪残似虎狼。\n今日海隅鱼米贱，大须惭愧石榴黄。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百七十"
-        }
-    },
-    {
-        "title": "拟权龙褒体赠鄠县李令及寄朝右",
-        "author": "郑愚",
-        "content": "鄠县李长官，横琴膝上弄。不闻有政声，但见手子动。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

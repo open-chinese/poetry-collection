@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a96b54ba9cf8f68f65a9081e54319ffe",
         "title": "抛毬曲三首  其一",
         "author": "李慎言",
         "content": "侍宴黄昏未肯休，玉阶夜色月如流。\n朝来自觉承恩最，笑倩傍人认绣毬。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a58bb0152c45cadb0b25c74857a30590",
         "title": "抛毬曲三首  其二",
         "author": "李慎言",
         "content": "隋家宫殿锁清秋，曾晚婵娟扬绣毬。\n金钥玉箫俱寂寂，一天明月照高楼。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0c205a0e83d2f8a66dc4a79938234fe0",
         "title": "抛毬曲三首  其三",
         "author": "李慎言",
         "content": "堪恨隋家几帝王，舞腰缓尽绣鸳鸯。\n如今重到抛毬处，不见熏炉旧日香。",

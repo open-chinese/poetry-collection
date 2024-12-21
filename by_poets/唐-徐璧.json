@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "83412d39af789935f559f275b9578973",
         "title": "失题",
         "author": "徐璧",
         "content": "双燕今朝至，何时发海滨？窥檐向人语，如道故乡春。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f106edd148b6dc421efdeba091504c5c",
         "title": "春燕",
         "author": "徐璧",
         "content": "空（《文苑英华》三二九《禽兽》诗《全唐诗》七六九失题，又列为无世次爵里可考）。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fa5916c5da1f7479ea1c360fe3578524",
         "title": "催粧",
         "author": "徐璧",
         "content": "空（《搜玉小集》《唐人选唐诗》，皆初唐人〖《全唐诗》七六九作徐安期。\n〗〖《唐诗纪事》卷十三署徐安期，《万首唐人绝句》卷五五亦署徐璧。\n《全唐诗补逸》卷十七据《永乐大典》卷六五二三录《催妆》诗，作徐壁，今删彼存此。\n〗）。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "7fd0cbf1f0f5993bd8f7f6808069b0fb",
         "title": "失题",
         "author": "徐璧",
-        "content": "双燕今朝至，何时发海滨。窥檐向人语，如道故乡春。",
+        "content": "双燕今朝至，何时发海滨。\n窥檐向人语，如道故乡春。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

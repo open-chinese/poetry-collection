@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a338388585deb0b69dd55f025731e4b6",
         "title": "与李荣互谑",
         "author": "僧法轨",
         "content": "姓李应须礼，言荣又不荣。\n身长三尺半，头毛犹未生。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "88bd5be3b5ba9d11e501f075deb22c38",
         "title": "与李荣互谑",
         "author": "僧法轨",
-        "content": "姓李应须礼，言荣又不荣。——僧法轨\n身长三尺半，头毛犹未生。——李荣",
+        "content": "姓李应须礼，言荣又不荣。\n——僧法轨身长三尺半，头毛犹未生。\n——李荣",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

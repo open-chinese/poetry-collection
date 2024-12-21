@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "de613ed56d8c12df7d21906991aae489",
         "title": "歌",
         "author": "元寂",
         "content": "酒秃酒秃，何荣何辱。\n但见衣冠成古丘，不见江河变陵谷。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "歌",
-        "author": "元寂",
-        "content": "酒秃酒秃，何荣何辱。但见衣冠成古丘，不见江河变陵谷。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百二十五"
-        }
     }
 ]

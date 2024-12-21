@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "5a1543a48550329c8ea243a58925fe24",
         "title": "句",
         "author": "尉迟匡",
         "content": "明月飞出海，黄河流上天。\n芙蓉初出水，桃李忽无言。\n夜夜月为青冢镜，年年雪作黑山花。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8e521c72bf2a33f8d813f18b61aadefc",
         "title": "句",
         "author": "尉迟匡",
         "content": "明月飞出海，黄河流上天。",
@@ -17,6 +19,7 @@
         }
     },
     {
+        "uuid": "b735c4b68bea19c25a152805055f0ad0",
         "title": "句",
         "author": "尉迟匡",
         "content": "芙蓉初出水，桃李忽无言。",
@@ -27,6 +30,7 @@
         }
     },
     {
+        "uuid": "df7d9ed5f814540d55e9d318089a5eb1",
         "title": "句",
         "author": "尉迟匡",
         "content": "夜夜月为青冢镜，年年雪作黑山花。",

@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "20da21fcdb43a1349518473df5cc7261",
         "title": "生查子",
         "author": "刘侍读",
         "content": "深秋更漏长，滴尽银台烛。\n独步出幽闺，月晃波澄绿。\n菱荷风乍触，一对鸳鸯宿。\n虚棹玉钗惊，惊起还相续。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "生查子",
-        "author": "刘侍读",
-        "content": "深秋更漏长，滴尽银台烛。独步出幽闺，月晃波澄绿。\n菱荷风乍触，一对鸳鸯宿。虚棹玉钗惊，惊起还相续。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百九十九"
-        }
     }
 ]

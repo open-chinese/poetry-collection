@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "841b900a56a6251348a4ec51e56e0141",
         "title": "咏烛寄人",
         "author": "潘求仁",
         "content": "烛与人相似，通宵遽白煎。\n不应须下泪，祗是为人然。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "2f4d6ba9e8a1676998b2fd13e6ee1a3a",
         "title": "咏烛寄人",
         "author": "潘求仁",
-        "content": "烛与人相似，通宵遽白煎。不应须下泪，只是为人然。",
+        "content": "烛与人相似，通宵遽白煎。\n不应须下泪，只是为人然。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

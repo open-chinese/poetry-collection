@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "8bf1f623cd1c81c7e63c5b903a75e0b0",
         "title": "长门怨 一",
         "author": "刘媛",
         "content": "雨滴梧桐秋夜长，愁心和雨到昭阳。\n泪痕不学君恩断，拭却千行更万行。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6271c48d70274bb30a707c3c00ef5f66",
         "title": "长门怨 二",
         "author": "刘媛",
         "content": "学画蛾眉独出羣，当时人道便承恩。\n经年不见君王面，花落黄昏空掩门。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6c2bb076b52123eaefc3a6971dac78ee",
         "title": "送远",
         "author": "刘媛",
         "content": "闻道瞿塘滟滪堆，青山流水近阳台。\n知君此去无还日，妾亦随波不復迴。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "296a19a468603f57b6091af398067b31",
         "title": "句",
         "author": "刘媛",
         "content": "春风报梅柳，一夜发南枝。\n傍人那得知心事，一面残妆空泪痕。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "79ad743055420660db5ad789520ca1f3",
         "title": "除夜",
         "author": "刘媛",
         "content": "春风报梅柳，一夜发南枝。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1663eef710bc92016636d247ec5f2225",
         "title": "赠怨者",
         "author": "刘媛",
         "content": "傍人那得知心事，一面残粧空涙痕。\n（见《吟窗杂录》卷三十《古今才妇》。\n）（按：《全唐诗》卷八百一收四句，缺题，故重录之。\n）。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "848d94f97e123703e4db44d2b2cfd44f",
         "title": "长门怨",
         "author": "刘媛",
         "content": "雨滴梧桐秋夜长，愁心和雨到昭阳。\n泪痕不学君恩断，拭却千行更万行。\n学画蛾眉独出群，当时人道便承恩。\n经年不见君王面，花落黄昏空掩门。",
@@ -52,6 +59,7 @@
         }
     },
     {
+        "uuid": "fa78a17d9f0b3db42e2dac68f5dcc9fa",
         "title": "送远",
         "author": "刘媛",
         "content": "闻道瞿塘滟滪堆，青山流水近阳台。\n知君此去无还日，妾亦随波不復回。",

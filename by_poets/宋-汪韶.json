@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "f9e2becad687ae3c2ea761c1b82e2f7e",
         "title": "演雅  其一",
         "author": "汪韶",
         "content": "布谷不耕不穑，巧妇无褐无衣。\n提壶不可挹酒，络纬宁来贸丝。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "34e25fa7833993cb6ab5ca54846badd8",
         "title": "演雅  其二",
         "author": "汪韶",
         "content": "蜾蠃尧舜父子，鸿雁鲁卫弟兄。\n斗蚁滕薛争长，狎鸥晋郑寻盟。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "24fd4a29b3062999495ae1a3ac52696b",
         "title": "读史",
         "author": "汪韶",
         "content": "南北几离合，江山一古今。\n秋风驼卧棘，春雨燕巢林。\n家国兴亡梦，英雄胜败心。\n九疑呼不起，愁绝暮云深。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ac87ccff1daee150605848f15d5c9527",
         "title": "孙武",
         "author": "汪韶",
         "content": "为忧玩色堕军实，故假陈兵去二姬。\n却恨此机深莫悟，后人不谏受西施。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c8c4dc6b817962a8b6298cbf5bd5a400",
         "title": "句",
         "author": "汪韶",
         "content": "十八九常如意少，百千亿任化身多。",

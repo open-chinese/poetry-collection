@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "65b9282a62ddf47c639385397eceba63",
         "title": "赠别二首 一",
         "author": "柳郴",
         "content": "江浦程千里，离尊泪数行。\n无论吴与楚，俱是客他乡。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "56fda5e5afdeb8342b43c09aefc111c0",
         "title": "赠别二首 二",
         "author": "柳郴",
         "content": "何处最悲辛，长亭临古津。\n往来舟檝路，前后别离人。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d7b6e1d3059750e587d620744d78bf65",
         "title": "句",
         "author": "柳郴",
         "content": "他乡生白髮，旧国有青山。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "6411c73a37e772d2afebb8b26ffd2a89",
         "title": "赠别二首",
         "author": "柳郴",
-        "content": "江浦程千里，离尊泪数行。无论吴与楚，俱是客他乡。\n何处最悲辛，长亭临古津。往来舟楫路，前后别离人。",
+        "content": "江浦程千里，离尊泪数行。\n无论吴与楚，俱是客他乡。\n何处最悲辛，长亭临古津。\n往来舟楫路，前后别离人。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -31,6 +35,7 @@
         }
     },
     {
+        "uuid": "6fb453154187d883ad69b9a40f9a1998",
         "title": "句",
         "author": "柳郴",
         "content": "他乡生白髮，旧国有青山。\n。",

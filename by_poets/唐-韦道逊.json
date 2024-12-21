@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "be122eda8559ff0e24bec59eaffeec5c",
         "title": "晚春宴",
         "author": "韦道逊",
         "content": "日斜宾馆晚，春轻麦候初。\n帘暄巢幕燕，池跃戏莲鱼。\n石声随流响，桐影傍岩疎。\n谁能千里外，独寄八行书。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "2b7342b177e4d555bf14e149fcc41dcd",
         "title": "晚春宴",
         "author": "韦道逊",
-        "content": "日斜宾馆晚，春轻麦候初。檐暄巢幕燕，池跃戏莲鱼。\n石声随流响，桐影傍岩疏。谁能千裏外，独寄八行书。",
+        "content": "日斜宾馆晚，春轻麦候初。\n檐暄巢幕燕，池跃戏莲鱼。\n石声随流响，桐影傍岩疏。\n谁能千裏外，独寄八行书。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

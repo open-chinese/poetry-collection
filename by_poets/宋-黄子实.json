@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ea6272be55fbd5e6021cb01f9d78d046",
         "title": "句  其一",
         "author": "黄子实",
         "content": "剩携尊酒斟蓝尾，惜不杯羹荐墨头。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4ccfaddb8587f2c2b7bb75a7e0db5a92",
         "title": "句  其二",
         "author": "黄子实",
         "content": "履痕莫辨阴王迹，敢去多题汉晋年。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5610a6b9b107028f8096bcb6e9d893e4",
         "title": "句  其三",
         "author": "黄子实",
         "content": "月穿篷席罅，风轧舵牙声。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5bcf9f0004954ef1b79aadc19dc8d0fc",
         "title": "句  其四",
         "author": "黄子实",
         "content": "旅梦难安枕，村酤不满瓶。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "8527985180cb0a14700105694538c0c0",
         "title": "晚泊汉江渡",
         "author": "刘畋",
         "content": "末秋云木轻，莲折晚香清。\n雨下侵苔色，云凉出浪声。\n迭帆依岸尽，微照夹堤明。\n渡吏已头白，遥知客姓名。",
@@ -7,20 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "60327c533814bb8c26cc4cb380c1bfc1",
         "title": "句",
         "author": "刘畋",
         "content": "残阳来霁岫，独兴起沧洲。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "晚泊汉江渡",
-        "author": "刘畋",
-        "content": "末秋云木轻，莲折晚香清。雨下侵苔色，云凉出浪声。\n迭帆依岸尽，微照夹堤明。渡吏已头白，遥知客姓名。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百一十九"
-        }
     }
 ]

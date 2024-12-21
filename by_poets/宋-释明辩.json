@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "3c0e6bc9fceef9ec7e5c1f08c7f6d264",
         "title": "偈八首  其一",
         "author": "释明辩",
         "content": "猛虎口边拾得，毒虵头上安排。\n更不钉摏摇橹，回头别有生涯。\n婆子被我勘破了，大悲院裏有村斋。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "dc67182c85f2253d3260588ce1f8e94b",
         "title": "偈八首  其二",
         "author": "释明辩",
         "content": "诤五眼，涌金春色晚。\n得五力，吹落碧桃华。\n唯证乃知难可测。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7109d145bdff8876bccd85c63a2c7c1d",
         "title": "偈八首  其三",
         "author": "释明辩",
         "content": "十五日已前不得去，少林双履无藏处。\n十五日已后不得住，桂子天香和雨露。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "97c18d728a7ba200a16d488687e2684c",
         "title": "偈八首  其四",
         "author": "释明辩",
         "content": "黄龙头角从来异，不与今时岁月争。\n復妙回途何处去，月明终夜照虚堂。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2546ed4577ed0988b644db1118d1adfd",
         "title": "偈八首  其五",
         "author": "释明辩",
         "content": "我疑千年苍玉精，化为一片秋水骨。\n海神欲护护不得，一旦鰲头忽擎出。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "37befdceb5fbe6b62387857994af014c",
         "title": "偈八首  其六",
         "author": "释明辩",
         "content": "吹尽风流大石调，唱出富贵黄钟宫。\n舞腰催拍月当晓，更进蒲萄酒一钟。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fb380013523feedcd14631f3a2daf4ed",
         "title": "偈八首  其七",
         "author": "释明辩",
         "content": "狗子佛性有，毗卢爱饮弥勒酒。\n狗子佛性无，文殊醉倒普贤扶。\n扶到家中全酩酊，胡言汉语骂妻孥。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1caf02c359c6cfbe2558319f4d5cf437",
         "title": "偈八首  其八",
         "author": "释明辩",
         "content": "龙门和尚，阐提潦倒。\n不信佛法，灭除禅道。\n拶破毗卢向上关，猫儿洗面自道好。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f037f4c1c29651fcc0b1fd85b8453f6d",
         "title": "颂古十六首  其一",
         "author": "释明辩",
         "content": "黄金凿，白玉椎。\n开开混沌窍，透出玄元机。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f1bedae2daa7deb6ba6058bfe9e1b1f1",
         "title": "颂古十六首  其二",
         "author": "释明辩",
         "content": "社舞村歌笑杀人，骑牛挑鸭走成群。\n三杯酒罢归家去，留得猪头碍塞人。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a9695bd490eec31b11c33fabd3eb7589",
         "title": "颂古十六首  其三",
         "author": "释明辩",
         "content": "要得他家活计强，竿头须解倒拈枪。\n这边打鼓那边拍，引得瞿昙笑一场。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fbe0fb1145ddc424cbef2c1e2fd342e2",
         "title": "颂古十六首  其四",
         "author": "释明辩",
         "content": "张果老踏破葫芦，吕洞宾失却宝剑。\n两箇撒手相逢，囊箧更无一綫。\n何仙姑铁笛横吹，解道长江静如练。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "871693aca3af15800718297d03d38bcf",
         "title": "颂古十六首  其五",
         "author": "释明辩",
         "content": "弓强难结鸳鸯纽，御道那栽栗棘蓬。\n堪笑香严饶舌老，今年犹胜去年穷。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "29d0108a1046dad713309a9a85b44fbc",
         "title": "颂古十六首  其六",
         "author": "释明辩",
         "content": "不向东山久，蔷薇几度华。\n白云他自散，明月落谁家。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "de3ba86226594cb4fdd5f78efb93ccb0",
         "title": "颂古十六首  其七",
         "author": "释明辩",
         "content": "行主无人能赛，姐姐更是好手。\n腾身百尺竿头，打箇背翻筋斗。",
@@ -105,6 +120,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5f73459bc957c38a73c77107d2053900",
         "title": "颂古十六首  其八",
         "author": "释明辩",
         "content": "老鼠齩生铁，十分滋味别。\n猫儿左右看，嚥唾也不彻。",
@@ -112,6 +128,7 @@
         "collection_info": null
     },
     {
+        "uuid": "922d76757aaec35d22d0604130e1c741",
         "title": "颂古十六首  其九",
         "author": "释明辩",
         "content": "百宝光攒无儿顶，是大神咒最灵奇。\n揭谛波罗僧揭谛，石人半夜失乌鸡。",
@@ -119,6 +136,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4c2a659419c7c252154a696bcb55e5a4",
         "title": "颂古十六首  其一○",
         "author": "释明辩",
         "content": "画得真如活，华间试展开。\n黄莺偷眼觑，不敢下枝来。",
@@ -126,6 +144,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f00be8cdc05efa3cc0e769c20c7c6323",
         "title": "颂古十六首  其一一",
         "author": "释明辩",
         "content": "我手何似佛手，黄龙鼻下无口。\n当时所见颟顸，至今百拙千丑。",
@@ -133,6 +152,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0394d56bf10c76ffac6afd008393eec4",
         "title": "颂古十六首  其一二",
         "author": "释明辩",
         "content": "我脚何似驴脚，文殊亲见无着。\n好箇玻璃盏子，不要当面讳却。",
@@ -140,6 +160,7 @@
         "collection_info": null
     },
     {
+        "uuid": "68a83ba4c96aa5a41aa9b044a3d084bd",
         "title": "颂古十六首  其一三",
         "author": "释明辩",
         "content": "人人有箇生缘，从来罪大弥天。\n不是牵犁拽把，便须鼎镬油煎。",
@@ -147,6 +168,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6445daba0b152dffa255443de2739bf2",
         "title": "颂古十六首  其一四",
         "author": "释明辩",
         "content": "春水满幽涧，江风吹断云。\n年年那时节，忆着别离人。",
@@ -154,6 +176,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1ada7c35c4cefbac848cf7f7433178b9",
         "title": "颂古十六首  其一五",
         "author": "释明辩",
         "content": "住山身已老，世事任乖张。\n年来无侍者，客到自烧香。",
@@ -161,6 +184,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3a980466536a4abce3bd98b36a6f8a88",
         "title": "颂古十六首  其一六",
         "author": "释明辩",
         "content": "两女合为一媳妇，古寺基前幢子竖。\n彷佛上有陀罗尼，多少行人尽惊怖。",
@@ -168,6 +192,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cedaf7731a41629d9235e2e763d7dc5a",
         "title": "送街坊",
         "author": "释明辩",
         "content": "贞女不着娘家服，丈夫岂假分时财。\n十杯五盏从何有，空奋双拳趁得来。",
@@ -175,6 +200,7 @@
         "collection_info": null
     },
     {
+        "uuid": "654ffe1b8e6c804d9f85e056282f7e1b",
         "title": "送及禅人",
         "author": "释明辩",
         "content": "马面夜叉纔稽首，牛头狱卒便擎拳。\n洞宾唱箇陶甄理，脱殻乌龟飞上天。",
@@ -182,6 +208,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cdd95883f3288c570596b1c552a1b9b0",
         "title": "自赞三首  其一",
         "author": "释明辩",
         "content": "土豹长老，悟处敲誵。\n滑头胜似莼菜，软顽何啻黐胶。\n曾被三脚驴子，踏得鼻孔成四。",
@@ -189,6 +216,7 @@
         "collection_info": null
     },
     {
+        "uuid": "87430343facb4545fade9dedf0eb21d4",
         "title": "自赞三首  其二",
         "author": "释明辩",
         "content": "瞎老婆半夜吹火，张聋子日午闻歌。\n画得这般毫相，出生入死降魔。\n有时鼓起龙门浪，娑竭龙王不奈何。",
@@ -196,6 +224,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6f115b745ee1ef7b9915484875ee86c1",
         "title": "自赞三首  其三",
         "author": "释明辩",
         "content": "潦倒住持，不言规矩。\n聚三百僧，说无义语。\n平生要讨便宜，落水也求干处。",
@@ -203,6 +232,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7a8a5473515730609a3c23af377db634",
         "title": "达磨赞",
         "author": "释明辩",
         "content": "昇元阁前懡㦬，洛阳峰畔乖张。\n皮髓传成放霸，双履无处埋藏。\n不是一番寒彻骨，争得梅花扑鼻香。",
@@ -210,6 +240,7 @@
         "collection_info": null
     },
     {
+        "uuid": "48601c49f9fd543aa4bb90474bc9168c",
         "title": "颂古三十二首  其一",
         "author": "释明辩",
         "content": "掀翻地轴干坤窄，拨转天轮宇宙宽。\n须向强中呈好手，虚空打碎劫初看。",
@@ -217,6 +248,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b7f4625c20d982a46f6d9de711c9ccd1",
         "title": "颂古三十二首  其二",
         "author": "释明辩",
         "content": "垂鈎不似迷津客，张网诚非待兔人。\n半夜乌鸡何处去，天明吞却玉麒麟。",
@@ -224,6 +256,7 @@
         "collection_info": null
     },
     {
+        "uuid": "de43285e0400143c16462b72dd3cb70c",
         "title": "颂古三十二首  其三",
         "author": "释明辩",
         "content": "古皇前化超群檄，无字印文明划划。\n今时衲子若当阳，往往半千成五百。",
@@ -231,6 +264,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9d7607980e8636f90149d137f7044d09",
         "title": "颂古三十二首  其四",
         "author": "释明辩",
         "content": "猎涉荣枯未是奇，到头谁是出家儿。\n故乡漠漠在消息，时有孤云岭外归。",
@@ -238,6 +272,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4e4418cc2dcf13c4192e6e5edb43b99f",
         "title": "颂古三十二首  其五",
         "author": "释明辩",
         "content": "天高云静月弯弯，雨过秋空眼界宽。\n百亿文殊真妙体，分明只在一毫端。",
@@ -245,6 +280,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ee42ae28d95595a90be5d8e5cb833eb5",
         "title": "颂古三十二首  其六",
         "author": "释明辩",
         "content": "鹙子已圆无漏种，换却身形总不知。\n通途一贯非他物，午夜胡僧步雪归。",
@@ -252,6 +288,7 @@
         "collection_info": null
     },
     {
+        "uuid": "534e6b52628fed3b71e41b33df139eae",
         "title": "颂古三十二首  其七",
         "author": "释明辩",
         "content": "灵山会上旧家风，脱略从兹势莫穷。\n金斗峰前重漏泄，莫将附子当天雄。",
@@ -259,6 +296,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e10c8f437805b2791eee3a92e762fe92",
         "title": "颂古三十二首  其八",
         "author": "释明辩",
         "content": "冤憎会苦，爱别离苦。\n钝置瞿昙，一场莽卤。",
@@ -266,6 +304,7 @@
         "collection_info": null
     },
     {
+        "uuid": "846cc6ad6dc6a0609a8c59160ea050d0",
         "title": "颂古三十二首  其九",
         "author": "释明辩",
         "content": "当堂古路白云漫，碧眼黄头尚未谙。\n无孔笛儿毡拍板，轻轻吹破御街寒。",
@@ -273,6 +312,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f640ed0a4578510b2661165ee1741631",
         "title": "颂古三十二首  其一○",
         "author": "释明辩",
         "content": "马祖非心非佛，直下更无窼窟。\n今年树上胡桃，胜似去年柑橘。",
@@ -280,6 +320,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b3ee8e959bcf13aabb5c2ec312546ea1",
         "title": "颂古三十二首  其一一",
         "author": "释明辩",
         "content": "金刚南际老番王，反着襕衫入大唐。\n牛首旃檀都卖了，唯垂鼻孔不囊藏。",
@@ -287,6 +328,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ba18bb630189b1827391bb507c265b04",
         "title": "颂古三十二首  其一二",
         "author": "释明辩",
         "content": "盘走珠兮珠走盘，当机脱略好生观。\n世人知贵不知价，信手拈来也不难。",
@@ -294,6 +336,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c10ab7d2cfbe1c0136df465334ff82c3",
         "title": "颂古三十二首  其一三",
         "author": "释明辩",
         "content": "萝卜头禅聒噪人，霜刀累切了无痕。\n自古不通人咬嚼，只容衲子鹘崙吞。",
@@ -301,6 +344,7 @@
         "collection_info": null
     },
     {
+        "uuid": "46c4065e171785e2a709d4988f75fdf4",
         "title": "颂古三十二首  其一四",
         "author": "释明辩",
         "content": "玉洞玄关道路长，蟠桃岂是等闲芳。\n遮藏不许人间见，只恐春风漏泄香。",
@@ -308,6 +352,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5a44c7704f8b786b53eefcbfa140a356",
         "title": "颂古三十二首  其一五",
         "author": "释明辩",
         "content": "兜罗绵样硬赘头，河北风流老赵州。\n咸处着盐淡添水，轩头一笑更无休。",
@@ -315,6 +360,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1b8039e56b51a20888621e577a99ddaa",
         "title": "颂古三十二首  其一六",
         "author": "释明辩",
         "content": "左转右转，金刚宝剑。\n全藏半藏，由基发箭。\n红心心裏中红心，惊得须弥头倒旋。",
@@ -322,6 +368,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4c506cf31035b19c176312663d90d163",
         "title": "颂古三十二首  其一七",
         "author": "释明辩",
         "content": "大寂宗风示后昆，金刚宝剑利当门。\n瞎驴灭却正法眼，那箇男儿解出群。",
@@ -329,6 +376,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d47b15b569224aedf8fd861843c7fb2e",
         "title": "颂古三十二首  其一八",
         "author": "释明辩",
         "content": "脱略情尘老睦州，虎头虎尾一时收。\n芳草渡头韩干马，绿杨堤畔戴嵩牛。",
@@ -336,6 +384,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9a17896bb940a6f660d4f95b950d46fc",
         "title": "颂古三十二首  其一九",
         "author": "释明辩",
         "content": "体量非功不堕今，星移斗换岂同轮。\n多年历日虽无用，犯着应须总灭门。",
@@ -343,6 +392,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7fbe5d819cf24d8ff4838a2358a40d17",
         "title": "颂古三十二首  其二○",
         "author": "释明辩",
         "content": "高高孤顶雪蒙蒙，劫外行藏路不通。\n半夜岭梅消息转，不关春色暗香浓。",
@@ -350,6 +400,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d6452c32b0bb16ab6c288afcad90e408",
         "title": "颂古三十二首  其二一",
         "author": "释明辩",
         "content": "玉鞭纔举干坤静，皇道私无显至尊。\n贵极銮轝纔指斥，将军正令不容存。",
@@ -357,6 +408,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ae0b10d85f09b48ea5ae36853e52dec8",
         "title": "颂古三十二首  其二二",
         "author": "释明辩",
         "content": "转位投机觅更难，回途復妙岂相关。\n新丰洞口翻波浪，一扫须教彻底干。",
@@ -364,6 +416,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1de7733e0086229d8e3e20a33389e31f",
         "title": "颂古三十二首  其二四",
         "author": "释明辩",
         "content": "六朝翻译传来妙，到头未悟当时窍。\n须信枝头老凤凰，春来翻作黄莺叫。",
@@ -371,6 +424,7 @@
         "collection_info": null
     },
     {
+        "uuid": "47f488e28a073e7be4eda61a8a8a84f1",
         "title": "颂古三十二首  其二五",
         "author": "释明辩",
         "content": "万丈寒潭彻底清，霜天午夜欲生冰。\n钓鱼要掷金鳞饵，拨转芦蓬向月明。",
@@ -378,6 +432,7 @@
         "collection_info": null
     },
     {
+        "uuid": "905eb454c323ffda899c0f0201f11a98",
         "title": "颂古三十二首  其二六",
         "author": "释明辩",
         "content": "养得男儿要赌钱，浑身无有寸丝缠。\n是非窟裏和身入，生灭门中满口宣。",
@@ -385,6 +440,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7183572c04274ef56a2f02548f4f7f4c",
         "title": "颂古三十二首  其二七",
         "author": "释明辩",
         "content": "高安滩头百杂碎，象骨峰前眼搭痴。\n敢道鼓山无鼻孔，藂林千古笑嘻嘻。",
@@ -392,6 +448,7 @@
         "collection_info": null
     },
     {
+        "uuid": "91916ea7d16d27a085f1256ddb7fb829",
         "title": "颂古三十二首  其二八",
         "author": "释明辩",
         "content": "微酸梅子始生仁，莺老花残迹已陈。\n一夜南风移斗柄，明朝烟柳不关春。",
@@ -399,6 +456,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0cae5331a2fefde2f88b1e0743659dd6",
         "title": "颂古三十二首  其二九",
         "author": "释明辩",
         "content": "老将高提白玉鞭，双驹一策去翩翩。\n古今得失论量底，空看西山暮雨前。",
@@ -406,6 +464,7 @@
         "collection_info": null
     },
     {
+        "uuid": "84b18c7fc83f30030e3ebb101ce4591c",
         "title": "颂古三十二首  其三○",
         "author": "释明辩",
         "content": "曲蟺踏着相头摮，哑子得梦自家笑。\n笑到天明说向谁，乌鸦解作麒麟叫。",
@@ -413,6 +472,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3a2f4724d668c34f6aed9577c8841ea0",
         "title": "颂古三十二首  其三一",
         "author": "释明辩",
         "content": "试问人间有底忙，好将春事报春光。\n直饶日日花前醉，一季都来九十场。",
@@ -420,6 +480,7 @@
         "collection_info": null
     },
     {
+        "uuid": "08160e1debd69d97904edba7491f5f50",
         "title": "颂古三十二首  其三二",
         "author": "释明辩",
         "content": "栗蓬吞得有何难，更教吐出又心酸。\n吞吐得来休嚼碎，南辰光射北辰寒。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "da39bab0b5da23169be1ec82c57bff11",
         "title": "偈二首  其一",
         "author": "安分庵主",
         "content": "几年箇事挂胸怀，问尽诸方眼不开。\n肝胆此时俱裂破，一声江上侍郎来。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b0c48a09f046e0f95ced2ca9c742a56e",
         "title": "偈二首  其二",
         "author": "安分庵主",
         "content": "十五日已前，天上有星皆拱北。\n十五日已后，人间无水不朝东。\n已前已后总拈却，到处乡谈各不同。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "360c9a0ed2a6f3f27698717ad66d2320",
         "title": "责商山四皓",
         "author": "蔡京",
         "content": "秦末家家思逐鹿，商山四皓独忘机。\n如何鬓髮霜相似，更出深山定是非。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "255d79159340228fd48e5f699f5dae33",
         "title": "假节邕交道由吴溪",
         "author": "蔡京",
         "content": "停桡横水中，举目孤烟外。\n借问吴溪人，谁家有山卖。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1b0fb85c44a1a05f924459b9c69b4762",
         "title": "咏子规",
         "author": "蔡京",
         "content": "千年冤魄化为禽，永逐悲风叫远林。\n愁血滴花春艳死，月明飘浪冷光沈。\n凝成紫塞风前泪，惊破红楼梦裏心。\n肠断楚词归不得，劒门迢遰蜀江深。",
@@ -21,19 +24,10 @@
         "collection_info": null
     },
     {
-        "title": "假节邕交道由吴溪",
-        "author": "蔡京",
-        "content": "停桡横水中，举目孤烟外。借问吴溪人，谁家有山卖。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷四百七十二"
-        }
-    },
-    {
+        "uuid": "dbd192e3e15e970dea18c6b5e01d0343",
         "title": "咏子规",
         "author": "蔡京",
-        "content": "千年冤魄化为禽，永逐悲风叫远林。愁血滴花春艳死，\n肠断楚词归不得，剑门迢递蜀江深。",
+        "content": "千年冤魄化为禽，永逐悲风叫远林。\n愁血滴花春艳死，肠断楚词归不得，剑门迢递蜀江深。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

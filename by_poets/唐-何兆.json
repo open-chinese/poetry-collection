@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "8a258617d0489f1ef78b4138f8c8f536",
         "title": "赠兄",
         "author": "何兆",
         "content": "洛阳纸价因兄贵，蜀地红笺为弟贫。\n南北东西九千里，除兄与弟更无人。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "22be1e410c153b065a03e18a8e9d2047",
         "title": "玉蘂花",
         "author": "何兆",
         "content": "羽车潜下玉龟山，尘世何缘覩蕣颜。\n惟有多情天上雪，好风吹上绿云鬟。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c31a86d4f15a58470e01eb5c7575b1f7",
         "title": "句",
         "author": "何兆",
         "content": "芙蓉十二池心漏，薝卜三千灌顶香。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "01f557c829a2af5e752bdfa0164d83ff",
         "title": "玉蕊花",
         "author": "何兆",
         "content": "羽车潜下玉龟山，尘世何缘睹蕣颜。\n惟有多情天上雪，好风吹上绿云鬟。",
@@ -31,9 +35,10 @@
         }
     },
     {
+        "uuid": "ba2cd0a7f0d585d4603df26d66428950",
         "title": "句",
         "author": "何兆",
-        "content": "芙蓉十二池心漏，薝卜三千灌顶香。。",
+        "content": "芙蓉十二池心漏，薝卜三千灌顶香。\n。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

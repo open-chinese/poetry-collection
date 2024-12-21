@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "dae284a7d6c7cb7a6bc69782a3d99a2a",
         "title": "嘲僧惟恭",
         "author": "荆人",
         "content": "灵岿作尽业，惟恭继其迹。\n地狱千万重，莫厌排头人。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "949a35cfef043cd68d4e09ecddc6ea98",
         "title": "嘲僧惟恭",
         "author": "荆人",
-        "content": "灵岿作尽业，惟恭继其迹。地狱千万重，莫厌排头入。",
+        "content": "灵岿作尽业，惟恭继其迹。\n地狱千万重，莫厌排头入。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

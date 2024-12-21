@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "cbfedb544829aa7d1feb268c61b45a4c",
         "title": "应制贺边军支春衣 一",
         "author": "柳公权",
         "content": "去岁虽无战，今年未得归。\n皇恩何以报，春日得春衣。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "107c05503910e67b1a5bd7ca86b633b4",
         "title": "应制贺边军支春衣 二",
         "author": "柳公权",
         "content": "挟纩非真纩，分衣是假衣。\n从今貔武士，不惮戍金微。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "04485427dcf709f68e3426fba05471ad",
         "title": "应制为宫嫔咏",
         "author": "柳公权",
         "content": "不分前时忤主恩，已甘寂寞守长门。\n今朝却得君王顾，重入椒房拭泪痕。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4bb737cba6065ee7615bb9fb8bda60c4",
         "title": "题朱审寺壁山水画",
         "author": "柳公权",
         "content": "朱审偏能视夕岚，洞边深墨写秋潭。\n与君一顾西墙画，从此看山不向南。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a1cd561845b0a9bba0ac1e3967a522c6",
         "title": "阊门即事",
         "author": "柳公权",
         "content": "耕夫占募逐楼船，春草青青万顷田。\n试上吴门看郡郭，清明几处有新烟。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "93aa1bfb4c1b7c887ad51edaa2dfe717",
         "title": "砥柱",
         "author": "柳公权",
         "content": "禹凿锋鈚后，巍峨直至今。\n孤峰浮水面，一柱钉波心。\n顶压三门险，根随九曲深。\n拄天形突兀，逐浪势浮沉。\n岸嚮秋涛射，祠斑夜涨侵。\n喷香龙上下，刷羽鸟登临。\n祇有尖迎日，曾无柱影阴。\n旧碑文字在，遗事可追寻。\n（《古今图书集成·山川典》三九《底柱山部》（《记纂渊海》卷二十四收此诗「顶压三门险」以下四句，题作《题砥柱山》。\n「拄天」作「撑天」。\n）。",
@@ -42,9 +48,10 @@
         "collection_info": null
     },
     {
+        "uuid": "0a62814a974a0f85cba0ed3f0bbc405e",
         "title": "应制贺边军支春衣",
         "author": "柳公权",
-        "content": "去岁虽无战，今年未得归。皇恩何以报，春日得春衣。\n挟纩非真纩，分衣是假衣。从今貔武士，不惮戍金微。",
+        "content": "去岁虽无战，今年未得归。\n皇恩何以报，春日得春衣。\n挟纩非真纩，分衣是假衣。\n从今貔武士，不惮戍金微。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ac3cdd1fb7c24eb6bf1b6bacc0bb14e2",
         "title": "荷花",
         "author": "虞诏",
         "content": "晚来一棹鑑湖东，队队峯峦入短篷。\n一色藕花三十里，淡粧浓抹锦青红。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "40c8f0ec6773fd43798c41a336d6ffcc",
         "title": "柳花",
         "author": "虞诏",
         "content": "短长亭外柳依依，念我心归未得归。\n粉蝶不知行客恨，也随飞絮点征衣。",

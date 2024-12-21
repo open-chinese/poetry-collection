@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "94cdd7f8c22a67b5b20568fad081dfcd",
         "title": "赋荆门",
         "author": "薛琼",
         "content": "黄鸟翻红树，青牛卧绿苔。\n渚宫歌舞地，轻雾锁楼台。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "赋荆门",
-        "author": "薛琼",
-        "content": "黄鸟翻红树，青牛卧绿苔。渚宫歌舞地，轻雾锁楼台。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百零一"
-        }
     }
 ]

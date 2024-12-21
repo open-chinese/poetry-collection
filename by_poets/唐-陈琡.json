@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "50faa6c97ebd53afa23b7bc50eba8e43",
         "title": "别僧",
         "author": "陈琡",
         "content": "行若独轮车，常畏大道覆。\n止若员底器，常恐他物触。\n行止既如此，安得不离俗。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "别僧",
-        "author": "陈琡",
-        "content": "行若独轮车，常畏大道覆。止若员底器，常恐他物触。\n行止既如此，安得不离俗。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百九十七"
-        }
     }
 ]

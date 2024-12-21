@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "2019416e01aeafab74d07bb8604d2f24",
         "title": "笑巫诗",
         "author": "李序",
         "content": "魍魉何曾见，头旋即下神。\n图他衫子段，诈道大王嗔。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "笑巫诗",
-        "author": "李序",
-        "content": "魍魉何曾见，头旋即下神。图他衫子段，诈道大王嗔。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十四"
-        }
     }
 ]

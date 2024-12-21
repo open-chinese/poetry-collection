@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "d351cd1ade6b0b157700e42e0dce6feb",
         "title": "秋池一枝莲",
         "author": "郭恭",
         "content": "秋至皆零落，凌波独吐红。\n托根方得所，未肯即随风。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "秋池一枝莲",
-        "author": "郭恭",
-        "content": "秋至皆零落，凌波独吐红。托根方得所，未肯即随风。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百六十九"
-        }
     }
 ]

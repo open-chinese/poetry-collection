@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "48d1d9312ba77730796004b4f97fc39f",
         "title": "和中书侍郎院壁画云",
         "author": "李收",
         "content": "粉壁画云成，如能上太清。\n影从霄汉发，光照掖垣明。\n暎篠多幽趣，临轩得野情。\n独思作霖雨，流润及生灵。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6ce9a998cddb073d262f19cfbac5ebd7",
         "title": "幽情",
         "author": "李收",
         "content": "幽人惜春暮，潭上折芳草。\n佳期何时还，欲寄千里道。",
@@ -14,19 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "b88a7193060f3d482e1950991693feb9",
         "title": "和中书侍郎院壁画云",
         "author": "李收",
-        "content": "粉壁画云成，如能上太清。影从霄汉发，光照掖垣明。\n映筱多幽趣，临轩得野情。独思作霖雨，流润及生灵。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百零三"
-        }
-    },
-    {
-        "title": "幽情",
-        "author": "李收",
-        "content": "幽人惜春暮，潭上折芳草。佳期何时还，欲寄千里道。",
+        "content": "粉壁画云成，如能上太清。\n影从霄汉发，光照掖垣明。\n映筱多幽趣，临轩得野情。\n独思作霖雨，流润及生灵。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

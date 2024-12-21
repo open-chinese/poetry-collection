@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "f3300ad414968f35ff9e7a4a10c67fd6",
         "title": "醉眠亭四首  其一",
         "author": "晁端佐",
         "content": "潇洒松陵江上亭，醉来一梦傲云屏。\n生前笑语君须惜，世事纷纷不用醒。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d0e3a875f9aa90de006ce9110aa032ae",
         "title": "醉眠亭四首  其二",
         "author": "晁端佐",
         "content": "盘石幽亭乐未央，是非穷达两相忘。\n尘寰下望知何许，烂醉高眠自有乡。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7e584b276ce1ff224560b1a16db86493",
         "title": "醉眠亭四首  其三",
         "author": "晁端佐",
         "content": "尘埃收得一身闲，饮尽春瓶曝背眠。\n醉耳犹嫌山鸟聒，梦魂终日上高天。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ff2c6f50e90e472f9a9390785f5a5194",
         "title": "醉眠亭四首  其四",
         "author": "晁端佐",
         "content": "一枕双湖意浩然，狂歌酒尽即高眠。\n吾生久与时相弃，好逐君归作二仙。",

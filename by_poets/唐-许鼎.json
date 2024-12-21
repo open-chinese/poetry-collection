@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "51b3e030906d0f353fad7c5050859c49",
         "title": "登岭望",
         "author": "许鼎",
         "content": "淼淼三江水，悠悠五岭关。\n雁飞犹不度，人去若为还。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f2c4aeb43c544f447e2835e287af54ab",
         "title": "㟧岭四望",
         "author": "许鼎",
         "content": "汉家仙仗在咸阳，洛水东流出建章。\n野老至今犹望辛，离宫秋树独苍苍。",
@@ -14,16 +16,7 @@
         "collection_info": null
     },
     {
-        "title": "登岭望",
-        "author": "许鼎",
-        "content": "淼淼三江水，悠悠五岭关。雁飞犹不度，人去若为还。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百三十四"
-        }
-    },
-    {
+        "uuid": "f063ff96acb969ad509546c91f61016c",
         "title": "崿岭四望",
         "author": "许鼎",
         "content": "汉家仙仗在咸阳，洛水东流出建章。\n野老至今犹望幸，离宫秋树独苍苍。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "3a7a79baa427302b1c735c4f465fd914",
         "title": "题山院",
         "author": "权审",
         "content": "万叶风声利，一山秋气寒。\n晓霜浮碧瓦，落日度朱栏。",
@@ -7,20 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "6859297a4b135e18f17dc408b674dc7e",
         "title": "绝句",
         "author": "权审",
         "content": "得即高歌失即休，多悲多恨谩悠悠。\n今朝有酒今朝醉，明日愁来明日愁。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "题山院",
-        "author": "权审",
-        "content": "万叶风声利，一山秋气寒。晓霜浮碧瓦，落日度朱栏。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百四十六"
-        }
     }
 ]

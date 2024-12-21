@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "46d7ece521548b1b0d4ae3c83f0b8685",
         "title": "夜吟",
         "author": "巴峡鬼",
         "content": "秋径填黄叶，寒摧露草根。\n猨声一叫断，客泪数重痕。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "918fcd256304a30bbeeee45cd936d5d7",
         "title": "夜吟",
         "author": "巴峡鬼",
-        "content": "秋径填黄叶，寒摧露草根。猿声一叫断，客泪数重痕。",
+        "content": "秋径填黄叶，寒摧露草根。\n猿声一叫断，客泪数重痕。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

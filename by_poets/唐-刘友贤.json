@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "442e49b6a1aad113a2c3c5c1beec7f92",
         "title": "晦日宴高氏林亭",
         "author": "刘友贤",
         "content": "春来日渐赊，琴酒逐年华。\n欲向文通径，先游武子家。\n池碧新流满，岩红落照斜。\n兴阑情未尽，步步惜风花。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "晦日宴高氏林亭",
-        "author": "刘友贤",
-        "content": "春来日渐赊，琴酒逐年华。欲向文通径，先游武子家。\n池碧新流满，岩红落照斜。兴阑情未尽，步步惜风花。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七十二"
-        }
     }
 ]

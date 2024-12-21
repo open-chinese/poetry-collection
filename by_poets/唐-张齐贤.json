@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "e8e8d034ea4226149e59d81c98b0059a",
         "title": "郊庙歌辞 仪坤庙乐章 肃和",
         "author": "张齐贤",
         "content": "祼圭既濯，郁鬯既陈。\n画幕云举，黄流玉醇。\n仪充献酌，礼盛众禋。\n地察惟孝，愉焉飨亲。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "349f4063e6e192e7d3f2bf464d7003a5",
         "title": "仪坤庙乐章",
         "author": "张齐贤",
         "content": "祼圭既濯，郁鬯既陈。\n画幕云举，黄流玉醇。\n仪充献酌，礼盛众禋。\n地察惟孝，愉焉飨亲。",
@@ -14,23 +16,14 @@
         "collection_info": null
     },
     {
+        "uuid": "d8d9dba536f96c042b49091ea8a902c6",
         "title": "郊庙歌辞：仪坤庙乐章：肃和",
         "author": "张齐贤",
-        "content": "祼圭既濯，郁鬯既陈。画幕云举，黄流玉醇。\n仪充献酌，礼盛众禋。地察惟孝，愉焉飨亲。",
+        "content": "祼圭既濯，郁鬯既陈。\n画幕云举，黄流玉醇。\n仪充献酌，礼盛众禋。\n地察惟孝，愉焉飨亲。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
             "volume": "卷一十四"
-        }
-    },
-    {
-        "title": "仪坤庙乐章",
-        "author": "张齐贤",
-        "content": "祼圭既濯，郁鬯既陈。画幕云举，黄流玉醇。\n仪充献酌，礼盛众禋。地察惟孝，愉焉飨亲。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷九十四"
         }
     }
 ]

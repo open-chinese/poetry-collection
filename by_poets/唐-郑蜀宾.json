@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "c25e02d6f412f5a86c8db5d802b9b9f9",
         "title": "别亲朋",
         "author": "郑蜀宾",
         "content": "畏途方万里，生涯近百年。\n不知将白首，何处入黄泉。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "别亲朋",
-        "author": "郑蜀宾",
-        "content": "畏途方万里，生涯近百年。不知将白首，何处入黄泉。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百"
-        }
     }
 ]

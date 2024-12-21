@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "cae0c7b92e81e85175e1f43ef38b53a8",
         "title": "池鱼",
         "author": "祝庆夫",
         "content": "方池如鑑碧溶溶，锦鲤游扬逐浪中。\n竚看三春烟水暖，好观一跃化神龙。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d3b358a531d58d221bf8339187343b6e",
         "title": "庭竹",
         "author": "祝庆夫",
         "content": "庭前修竹长琅玕，任是隆冬不畏寒。\n戛玉筛金承雨露，亭亭青翠拂云端。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "50428a20052e3b1bff123e28d6cf380f",
         "title": "句",
         "author": "祝庆夫",
         "content": "冰雪凝难解，风云庆有时。",

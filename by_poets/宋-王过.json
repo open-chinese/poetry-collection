@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "5864d28cebd65259ad57cad3ae6ac678",
         "title": "诗一首",
         "author": "王过",
         "content": "荔子雨晴红点点，葡萄江涨绿流流。\n梦魂不啻三千里，倦翮难胜九万风。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1c6c0ec16624593c25e709954828b6bc",
         "title": "句  其一",
         "author": "王过",
         "content": "心存北阙驰魂梦，身渐东归出鬼关。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1296dec3a8f4ccaae18ae5f1075187fb",
         "title": "句  其二",
         "author": "王过",
         "content": "危亭北据水南流，槛外频来海上舟。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "16a98f4cc3e98107e8a443943657587e",
         "title": "句  其三",
         "author": "王过",
         "content": "寄语往来荆广客，鬼门关在鬰林西。",

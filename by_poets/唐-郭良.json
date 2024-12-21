@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ff87c5abd49fdcad3d07d3ecb121c816",
         "title": "题李将军山亭",
         "author": "郭良",
         "content": "凤辖将军位，龙门司隶家。\n衣冠为隐逸，山水作繁华。\n径出重林草，池摇两岸花。\n谁知贵公第，亭院有烟霞。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c201bf21226cc3a6a87732aa41e7749c",
         "title": "早行",
         "author": "郭良",
         "content": "早行星尚在，数里未天明。\n不辨云林色，空闻风水声。\n月从山上落，河入斗间横。\n渐至重门外，依稀见洛城。",
@@ -14,19 +16,10 @@
         "collection_info": null
     },
     {
-        "title": "题李将军山亭",
-        "author": "郭良",
-        "content": "凤辖将军位，龙门司隶家。衣冠为隐逸，山水作繁华。\n径出重林草，池摇两岸花。谁知贵公第，亭院有烟霞。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百零三"
-        }
-    },
-    {
+        "uuid": "56e01e0e0b5a21ea41f3079e58adad0e",
         "title": "早行",
         "author": "郭良",
-        "content": "早行星尚在，数裏未天明。不辨云林色，空闻风水声。\n月从山上落，河入斗间横。渐至重门外，依稀见洛城。",
+        "content": "早行星尚在，数裏未天明。\n不辨云林色，空闻风水声。\n月从山上落，河入斗间横。\n渐至重门外，依稀见洛城。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

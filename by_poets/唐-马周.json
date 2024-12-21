@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "b6530051f93c0500210f04c7d699ed13",
         "title": "凌朝浮江旅思",
         "author": "马周",
         "content": "太清上初日，春水送孤舟。\n山远疑无树，潮平似不流。\n岸花开且落，江鸟没还浮。\n羁望伤千里，长歌遣四愁。",
@@ -7,20 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "f17e90f27de18fcff27b8417b407f644",
         "title": "句",
         "author": "马周",
         "content": "何惜邓林树，不借一枝栖。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "凌朝浮江旅思",
-        "author": "马周",
-        "content": "太清上初日，春水送孤舟。山远疑无树，潮平似不流。\n岸花开且落，江鸟没还浮。羁望伤千里，长歌遣四愁。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三十九"
-        }
     }
 ]

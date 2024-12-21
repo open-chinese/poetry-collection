@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a0c706650dfcb4ca2a904955fff2bca2",
         "title": "马上有见",
         "author": "李茂复",
         "content": "行尽疏林见小桥，绿杨深处有红蕉。\n无端眼界无分别，安置心头不肯销。",
@@ -10,9 +11,10 @@
         }
     },
     {
+        "uuid": "29649eb02246fdf76c59ea72c791f11c",
         "title": "自叹",
         "author": "李茂复",
-        "content": "落日西山近一竿，世间恩爱极难yR。近来不作颠狂事，免被冤家恶眼看。",
+        "content": "落日西山近一竿，世间恩爱极难yR。\n近来不作颠狂事，免被冤家恶眼看。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

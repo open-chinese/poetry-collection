@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6da66037a9f0bfcd9447f97c89112c3c",
         "title": "忆长安 十一月",
         "author": "刘蕃",
         "content": "忆长安，子月时，千官贺至丹墀。\n御苑雪开琼树，龙堂冰作瑶池。\n兽炭毡炉正好，貂裘狐白相宜。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a064415932737038063cfc9bb6db3cbe",
         "title": "状江南 季秋",
         "author": "刘蕃",
         "content": "江南季秋天，栗熟大如拳。\n枫叶红霞举，苍芦白浪川。",
@@ -14,9 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "a02e64401e4eff4a8ed8f7e092b849de",
         "title": "忆长安：十一月",
         "author": "刘蕃",
-        "content": "忆长安，子月时，千官贺至丹墀。御苑雪开琼树，\n龙堂冰作瑶池。兽炭毡炉正好，貂裘狐白相宜。",
+        "content": "忆长安，子月时，千官贺至丹墀。\n御苑雪开琼树，龙堂冰作瑶池。\n兽炭毡炉正好，貂裘狐白相宜。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -24,9 +27,10 @@
         }
     },
     {
+        "uuid": "9bcb17debd6cd4d9e072881eb79b19e0",
         "title": "状江南：季秋",
         "author": "刘蕃",
-        "content": "江南季秋天，栗熟大如拳。枫叶红霞举，苍芦白浪川。",
+        "content": "江南季秋天，栗熟大如拳。\n枫叶红霞举，苍芦白浪川。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

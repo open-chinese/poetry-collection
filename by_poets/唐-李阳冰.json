@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "fa64e3d9b0b4c93a6eeaf529cdf4e11b",
         "title": "阮客旧居",
         "author": "李阳冰",
         "content": "阮客身何在，仙云洞口横。\n人间不到处，今日此中行。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "阮客旧居",
-        "author": "李阳冰",
-        "content": "阮客身何在，仙云洞口横。人间不到处，今日此中行。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百六十二"
-        }
     }
 ]

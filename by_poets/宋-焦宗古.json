@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c8146888dba0a947da6b329ee464be6f",
         "title": "句  其一",
         "author": "焦宗古",
         "content": "芳树高低啼蜀魄，朝云浓淡极巴天。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ec0e2de1af3abed007781ae3a16bef8d",
         "title": "句  其二",
         "author": "焦宗古",
         "content": "南阳客自称龙卧，东鲁人应嘆凤衰。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d12585c94527b3f450cfdaaef6eefb04",
         "title": "句  其三",
         "author": "焦宗古",
         "content": "酿成汉帝招王母，饮罢凉州拜孟池。",

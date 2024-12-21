@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "1d8dbd448c842379b41252b6386101ff",
         "title": "句  其一",
         "author": "毛德如",
         "content": "睡觉昏昏厌鼓声。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a9a64a82fe8451e595fc9b1ec8ad1ff6",
         "title": "句  其二",
         "author": "毛德如",
         "content": "城头松柏锁愁烟。",

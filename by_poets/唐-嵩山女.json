@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "b51a255df779895a2ebe72d387a64353",
         "title": "书任生案 一",
         "author": "嵩山女",
         "content": "我本籍上清，谪居游五岳。\n以君无俗累，来劝神仙学。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c99c3fbc23af0ee05cf27321ef421bd1",
         "title": "书任生案 二",
         "author": "嵩山女",
         "content": "葛洪还有妇，王母亦有夫。\n神仙尽灵匹，君意合何如。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "48a82cef55bfc680b541d866f5f2f205",
         "title": "临去书赠",
         "author": "嵩山女",
         "content": "君子既执迷，无由达情素。\n明月海山上，秋风独归去。",
@@ -21,19 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "698ef392ae786e0df106225a7823b20c",
         "title": "书任生案",
         "author": "嵩山女",
-        "content": "我本籍上清，谪居游五岳。以君无俗累，来劝神仙学。\n葛洪还有妇，王母亦有夫。神仙尽灵匹，君意合何如。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十三"
-        }
-    },
-    {
-        "title": "临去书赠",
-        "author": "嵩山女",
-        "content": "君子既执迷，无由达情素。明月海山上，秋风独归去。",
+        "content": "我本籍上清，谪居游五岳。\n以君无俗累，来劝神仙学。\n葛洪还有妇，王母亦有夫。\n神仙尽灵匹，君意合何如。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

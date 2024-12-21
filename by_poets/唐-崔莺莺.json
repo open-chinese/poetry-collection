@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "87dbf3df9d0a2f5963dff119761e8851",
         "title": "荅张生",
         "author": "崔莺莺",
         "content": "待月西厢下，迎风户半开。\n拂墙花影动，疑是玉人来。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f925a6dc564c0d3f79435fbcfa557a94",
         "title": "寄诗",
         "author": "崔莺莺",
         "content": "自从销瘦减容光，万转千迴懒下床。\n不为傍人羞不起，为郎憔悴却羞郎。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8667d2d935b0664925e6876545074cbd",
         "title": "告绝诗",
         "author": "崔莺莺",
         "content": "弃置今何道，当时且自亲。\n还将旧来意，怜取眼前人。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "b723f0c5ada543b21146dc85462d61fe",
         "title": "答张生",
         "author": "崔莺莺",
-        "content": "待月西厢下，迎风户半开。拂墙花影动，疑是玉人来。",
+        "content": "待月西厢下，迎风户半开。\n拂墙花影动，疑是玉人来。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -31,19 +35,10 @@
         }
     },
     {
+        "uuid": "a02a469151be7512dea2c8d47fb39aca",
         "title": "寄诗",
         "author": "崔莺莺",
         "content": "自从销瘦减容光，万转千回懒下床。\n不为傍人羞不起，为郎憔悴却羞郎。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百"
-        }
-    },
-    {
-        "title": "告绝诗",
-        "author": "崔莺莺",
-        "content": "弃置今何道，当时且自亲。还将旧来意，怜取眼前人。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

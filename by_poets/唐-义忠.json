@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "88a6051711e99555c767498e493ad24f",
         "title": "答王侍郎讽问黑豆未生芽时颂（题拟）",
         "author": "义忠",
         "content": "菩提慧日朝朝照，般若凉风夜夜吹。\n此处不生聚杂树，满山明月是禅枝。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a19d6288919e8347de782a6553bdfdb6",
         "title": "偈四首 一",
         "author": "义忠",
         "content": "即此见闻非见闻，无余声色可呈君。\n箇中若了全（《宗镜录》卷九八作「浑」）无事，体用无（《五灯会元》卷五作「何」）妨分不分。\n。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1404abcfa5007ec8fc949eb0623ac71d",
         "title": "偈四首 二",
         "author": "义忠",
         "content": "见闻觉知本非尘，识海波中自昧身。\n状似碧潭波沫覆，灵王翻作客中宾。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "da27d732374e7ea30ea3c179af7ce1c1",
         "title": "偈四首 三",
         "author": "义忠",
         "content": "见闻知觉本非因，当体虚玄觉妄真。\n见相不生痴爱业，洞然全是释迦身。\n（见《祖堂集》卷五）。",
@@ -28,9 +32,10 @@
         "collection_info": null
     },
     {
+        "uuid": "72b3b22a44b45d8b27887662bd028af4",
         "title": "偈四首 四",
         "author": "义忠",
-        "content": "解擘当胸箭，因何祇半人？\n为从途路晓，所以不全身。\n（《五灯会元》卷八）。",
+        "content": "解擘当胸箭，因何祇半人？为从途路晓，所以不全身。\n（《五灯会元》卷八）。",
         "dynasty": "唐",
         "collection_info": null
     }

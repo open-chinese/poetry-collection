@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "08dd343768129cd5eb9af4bdd60c7490",
         "title": "游九鲤湖",
         "author": "陈乘",
         "content": "汗漫乘春至，林峦雾雨生。\n洞莓黏屐重，岩雪溅衣轻。\n窟宅分三岛，烟霞接五城。\n却怜饶药物，欲辨不知名。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "游九鲤湖",
-        "author": "陈乘",
-        "content": "汗漫乘春至，林峦雾雨生。洞莓黏屐重，岩雪溅衣轻。\n窟宅分三岛，烟霞接五城。却怜饶药物，欲辨不知名。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六百九十四"
-        }
     }
 ]

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "4a9623b5cf63240a1abad3bb0484ca86",
         "title": "诗一首",
         "author": "黄濴",
         "content": "半浓半淡四山景，快雨快晴三月雷。\n桥影不随流水去，渔歌偏带夕阳来。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "32c92ea879eb38da041acd79b02783de",
         "title": "题郑介夫祠",
         "author": "黄濴",
         "content": "当年不作南行客，他日应无北狩人。\n官似虱微言许大，肉如蚁饱道方伸。",
