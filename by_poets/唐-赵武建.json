@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "c00f628e85b9c320e78b4e440a105f7d",
         "title": "刺左右膊诗",
         "author": "赵武建",
         "content": "野鸭滩头宿，朝朝被鹘梢。\n忽惊飞入水，留命到今朝。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "刺左右膊诗",
-        "author": "赵武建",
-        "content": "野鸭滩头宿，朝朝被鹘梢。忽惊飞入水，留命到今朝。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百七十三"
-        }
     }
 ]

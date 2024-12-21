@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "2d6e610a12930a37d7313432b7a4f8b6",
         "title": "宋江三十六赞  其一",
         "author": "龚开",
         "content": "不假称王，而呼保义。\n岂若狂卓，专犯忌讳。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ff0fd565379655bca790b56918825003",
         "title": "宋江三十六赞  其二",
         "author": "龚开",
         "content": "古人用智，义国安民。\n惜哉所予，酒色粗人。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ad34dbcbd91f10891b66df02c861bb21",
         "title": "宋江三十六赞  其三",
         "author": "龚开",
         "content": "白玉麒麟，见之可爱。\n风尘大行，皮毛终坏。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5c4e9803a3c9a9d9e34a4fe45680728e",
         "title": "宋江三十六赞  其四",
         "author": "龚开",
         "content": "大刀关胜，岂云长孙。\n云长义勇，汝其后昆。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c5ddd2c0229dc9d1559a6fadf4c795ed",
         "title": "宋江三十六赞  其五",
         "author": "龚开",
         "content": "地下阎罗，追魂摄魄。\n今其活矣，名喝太伯。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "01f039b3a8dd9e02fb2b952a72a12770",
         "title": "宋江三十六赞  其六",
         "author": "龚开",
         "content": "将军下短，贵称侯王。\n汝岂非夫，腿尺八长。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8b3447a28e7323dfc9c52de50f0e1c84",
         "title": "宋江三十六赞  其七",
         "author": "龚开",
         "content": "箭以羽行，破敌无颇。\n七札难穿，如游斜何。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1bcf01d0a513a7b925e43494c5b2baa8",
         "title": "宋江三十六赞  其八",
         "author": "龚开",
         "content": "平康巷陌，岂知汝名。\n大行春色，有一丈青。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ae5ffc35618d95c0bb011a3e46ddc406",
         "title": "宋江三十六赞  其九",
         "author": "龚开",
         "content": "尉迟壮士，以病自名。\n端能去病，国功可成。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "adaf8accd45835eb2436dc211487b542",
         "title": "宋江三十六赞  其一○",
         "author": "龚开",
         "content": "雪浪如山，汝能白跳。\n愿随忠魂，来驾怒潮。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9bae7db4a117e028135e44d5da9061d3",
         "title": "宋江三十六赞  其一一",
         "author": "龚开",
         "content": "大行好汉，三十有六。\n无此火儿，其数不足。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1011a9390eb34e6991652911ade28911",
         "title": "宋江三十六赞  其一二",
         "author": "龚开",
         "content": "灌口少年，短命何益。\n曷不监之，清源庙食。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4fabad5284bf5fa33f553bbdf01955a8",
         "title": "宋江三十六赞  其一三",
         "author": "龚开",
         "content": "有飞飞儿，出家尤好。\n与尔同袍，佛也被恼。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "59a1cf4a7e6ba0925dacbff0a2bdc620",
         "title": "宋江三十六赞  其一四",
         "author": "龚开",
         "content": "汝优婆塞，五戒在身。\n酒色财气，更要杀人。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c6c421eadf5c9c0662aac85d13aaf7e5",
         "title": "宋江三十六赞  其一五",
         "author": "龚开",
         "content": "尉迟彦章，去来一身。\n长鞭铁铸，汝岂其人。",
@@ -105,6 +120,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e3aab0e8b2eb1ea2c6013415c6560d60",
         "title": "宋江三十六赞  其一六",
         "author": "龚开",
         "content": "乖龙混江，射之即济。\n武皇雄争，自惜神臂。",
@@ -112,6 +128,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a2f1afa2c53c8136e98e0a4e06f7a5d5",
         "title": "宋江三十六赞  其一七",
         "author": "龚开",
         "content": "龙数肖九，汝有九文。\n盍从东皇，驾五色云。",
@@ -119,6 +136,7 @@
         "collection_info": null
     },
     {
+        "uuid": "34eb464e4605b8ee05ef8aeef47a0c5d",
         "title": "宋江三十六赞  其一八",
         "author": "龚开",
         "content": "中心慕汉，夺马而归。\n汝能慕广，何忧数奇。",
@@ -126,6 +144,7 @@
         "collection_info": null
     },
     {
+        "uuid": "84c4f981e9857c7b4ddd370ccce6310b",
         "title": "宋江三十六赞  其一九",
         "author": "龚开",
         "content": "霹雳有火，摧山破岳。\n天心无妄，汝孽自作。",
@@ -133,6 +152,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d7ee6ad81da4134cf52aca6cd2a63c94",
         "title": "宋江三十六赞  其二○",
         "author": "龚开",
         "content": "风有大小，不辨雌雄。\n山谷之中，遇尔亦凶。",
@@ -140,6 +160,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fdb80368b3d6c7d270dddabc7005f482",
         "title": "宋江三十六赞  其二一",
         "author": "龚开",
         "content": "风有大小，黑恶则惧。\n一噫之微，香满太虚。",
@@ -147,6 +168,7 @@
         "collection_info": null
     },
     {
+        "uuid": "89ceaf8c5f911ebc4eeb785b6352ce00",
         "title": "宋江三十六赞  其二二",
         "author": "龚开",
         "content": "飞而食肉，有此雄奇。\n生入玉关，岂伤令姿。",
@@ -154,6 +176,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bf1dd0a9fc96c94597c7dd7225683492",
         "title": "宋江三十六赞  其二三",
         "author": "龚开",
         "content": "不疾而速，故神无方。\n汝行何之，敢离大行。",
@@ -161,6 +184,7 @@
         "collection_info": null
     },
     {
+        "uuid": "babc5f0b680820acca906c2746bb57e9",
         "title": "宋江三十六赞  其二四",
         "author": "龚开",
         "content": "行军出师，其锋必先。\n汝勿锐进，天兵在前。",
@@ -168,6 +192,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ca913c39c7fd096d9b4e80408f87bd5a",
         "title": "宋江三十六赞  其二五",
         "author": "龚开",
         "content": "东家之西，即西家东。\n汝虽特立，何有吾宫。",
@@ -175,6 +200,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8208827409e535ab3382859e9ede58d1",
         "title": "宋江三十六赞  其二六",
         "author": "龚开",
         "content": "圣人治世，四灵在郊。\n汝兽何名，走旷劳劳。",
@@ -182,6 +208,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3109198b9078358ed22a0e20d9c90387",
         "title": "宋江三十六赞  其二七",
         "author": "龚开",
         "content": "关索之雄，超之亦贤。\n能持义勇，自命何全。",
@@ -189,6 +216,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8e60255f5f3a1ee6c2a9458c092df3ae",
         "title": "宋江三十六赞  其二八",
         "author": "龚开",
         "content": "昔樊将军，鸿门直撞。\n斗酒肉肩，其言甚壮。",
@@ -196,6 +224,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f93634bef335cb8b7af858bdc61178c5",
         "title": "宋江三十六赞  其二九",
         "author": "龚开",
         "content": "左嚙右噬，其毒可畏。\n逢阴德人，杖之亦毙。",
@@ -203,6 +232,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7d3e0e3d92f609dfe230b980355b6fca",
         "title": "宋江三十六赞  其三○",
         "author": "龚开",
         "content": "长髯郁然，美哉丰姿。\n忍使尺宅，而见愁眉。",
@@ -210,6 +240,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3fcc32925c87429cc53bfd46b3705a03",
         "title": "宋江三十六赞  其三一",
         "author": "龚开",
         "content": "出没太行，茫无畔岸。\n虽没遮拦，难离火伴。",
@@ -217,6 +248,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8ba87e56ba0371a1728899759da0284a",
         "title": "宋江三十六赞  其三二",
         "author": "龚开",
         "content": "石秀拚命，志在金宝。\n大似河鲀，腹果一饱。",
@@ -224,6 +256,7 @@
         "collection_info": null
     },
     {
+        "uuid": "619c81949fa4e79e67a0fc17bb908164",
         "title": "宋江三十六赞  其三三",
         "author": "龚开",
         "content": "医师用蝎，其体贵全。\n反其常性，雷公汝嫌。",
@@ -231,6 +264,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9fcc9e84e22d9f036a0e990510328c35",
         "title": "宋江三十六赞  其三四",
         "author": "龚开",
         "content": "毗沙天人，证紫金躯。\n顽铁铸汝，亦出洪炉。",
@@ -238,6 +272,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b624931f2379421c4b147ad88bf37a3a",
         "title": "宋江三十六赞  其三五",
         "author": "龚开",
         "content": "金不可辱，亦忌在秽。\n盍铸长殳，羽林是卫。",
@@ -245,6 +280,7 @@
         "collection_info": null
     },
     {
+        "uuid": "199fcd4cccf5b453966bf98c2f039164",
         "title": "宋江三十六赞  其三六",
         "author": "龚开",
         "content": "鸷禽雄长，惟鵰最狡。\n毋扑天飞，封狐在草。",
@@ -252,6 +288,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c0e4ffc70b350a5e86d76b5bf241f436",
         "title": "高马小儿图",
         "author": "龚开",
         "content": "华骢料肥九分臕，童子身长五尺饶。\n青丝鞚短金勒紧，春风去去人马骁。\n莫作寻常厮养看，沙陀义儿皆好汉。\n此儿此马俱可怜，马方三齿儿未冠。\n天真烂漫好容仪，楚楚衣装无不宜。\n岂比五陵年少辈，胭脂坡下斗轻肥。\n四海风尘虽已息，人才自少当爱惜。\n如此小儿如此马，它日应须万人敌。\n老夫出无馿可骑，乃有此马骑此儿。\n呼儿回头为小驻，停鞭听我新吟诗。\n儿不回头马行疾，老夫对之空啧啧。",
@@ -259,6 +296,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2ae96d8303ca9dbd308a90c82d94723e",
         "title": "黑马图",
         "author": "龚开",
         "content": "八尺龙媒出墨池，昆崙月窟等闲驰。\n幽州侠客夜骑去，行过阴山鬼不知。",
@@ -266,6 +304,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f0a1eccb88278f8af0eb7b173977f30a",
         "title": "瘦马图",
         "author": "龚开",
         "content": "一从云雾降天关，空尽先朝十二闲。\n今日有谁怜瘦骨，夕阳沙岸影如山。",
@@ -273,6 +312,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d4a6f6b40a4d930030ba9a8f73905836",
         "title": "陆右丞君实輓诗  其一",
         "author": "龚开",
         "content": "立事宁将败事论，在边难与在朝分。\n从来大地为沧海，可得孤臣抱幼君。\n南北一家今又见，干坤再造古曾闻。\n他年自有春秋笔，不比田横祭墓文。",
@@ -280,6 +320,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e76a050ad9ceabba69e35401ca89c823",
         "title": "陆右丞君实輓诗  其二",
         "author": "龚开",
         "content": "数关天地人何预，分在君臣礼可无。\n周粟如山夷叔馁，史书犹日臼婴诬。\n旧邦新命方开化，公法私情本不渝。\n忠义未须论彼此，后先崇长是昌图。",
@@ -287,6 +328,7 @@
         "collection_info": null
     },
     {
+        "uuid": "96869d951160b47376d7653a5cfa9b17",
         "title": "题中山出游图",
         "author": "龚开",
         "content": "髯君家本住中山，驾言出游安所适。\n谓为小猎无鹰犬，以为意行有家室。\n阿妹韶容见靓妆，五色臙脂最宜黑。\n道逢驿舍须少憩，古屋无人供酒食。\n赤帻乌衫固可烹，美人清血终难得。\n不如归饮中山酿，一醉三年万缘息。\n却愁有物觑高明，八姨豪买他人宅。\n待得君醒为扫除，马嵬金驮去无迹。",
@@ -294,6 +336,7 @@
         "collection_info": null
     },
     {
+        "uuid": "243cb4112b82d2a035c8845b8470cfd9",
         "title": "仆为虚谷先生作玉豹马先生有诗见酬极笔势之驰骋乃以此诗报谢",
         "author": "龚开",
         "content": "南山有雄豹，隠雾成变化。\n奇姿惊世人，毛物亦增价。\n天上房星浥瑞光，孕成白马而黑章。\n为谁容易来中国，风雪天山道路长。\n头为王，欲得方。\n目为相，欲得明。\n脊为将军欲得强，腹为城郭欲得张。\n绝怜此马皆具足，十五肋中包肾肠。\n嗟予老去有马癖，岂但障泥知爱惜。\n千金市骏已无人，秃笔松煤聊自得。\n君侯昔如汗血驹，名场万马曾先驱。\n山林钟鼎今何有，岁晚江湖託着书。\n白云未信仙乡远，黄髮鬖鬖健有余。\n饮酒百川犹一吸，吟诗何嫌万夫敌。\n我持此马将安归，投之君侯如献璧。\n君侯作诗凛驰骛，八荒满盈动雷雨。\n定知此马知此意，独欠老奚通马语。\n曹将军，杜工部，各有一心存万古。\n其传非画亦非诗，要在我辈之襟期，君侯君侯知不知。",
@@ -301,6 +344,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ee0aa855e466eadb4efbf395a236bca8",
         "title": "自题山水卷",
         "author": "龚开",
         "content": "谷口长松涧底藤，石桥山路晚登登。\n囊琴斗酒来何暮，空负寒斋昨夜镫。",
@@ -308,6 +352,7 @@
         "collection_info": null
     },
     {
+        "uuid": "07c7dca72a3ea65224fc9385b859999a",
         "title": "题赵鸥波高士图",
         "author": "龚开",
         "content": "雪气侵人卧欲僵，苦劳明府到藜床。\n主宾问答皆情语，何用閒名入荐章。",
@@ -315,6 +360,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f6181ed39f3f80166ce5cff4eae62948",
         "title": "题昭陵什伐赤马图",
         "author": "龚开",
         "content": "赤骥驼僧去玉关，换他白马载经□。\n谁怜什伐飞龙子，赢得金创卧帝闲。",
@@ -322,6 +368,7 @@
         "collection_info": null
     },
     {
+        "uuid": "07a6a8cd9e09da84b5f51ca548d02c3f",
         "title": "一字至七字观周曾秋塘图有作",
         "author": "龚开",
         "content": "秋，秋。\n潇洒，清幽。\n人静处，水边头。\n波纹细细，风色飕飕。\n鸥鹭情相狎，凫鹥乐自由。\n疎苇败荷池沼，白苹红蓼汀洲。\n几竿渔钓去已尽，一段晚云寒不收。",
@@ -329,6 +376,7 @@
         "collection_info": null
     },
     {
+        "uuid": "53795ef5152ddcc4c90164d4d49aa81c",
         "title": "儿子咸画鴈老人作江天仍作诗命咸书卷上",
         "author": "龚开",
         "content": "朔方六月犹有雪，江南十月冰未结。\n鴈门一夜起秋风，飞到江南未八月。\n江南处处多稻粱，景物何独为潇湘。\n沙汀月暗渔火起，警奴一夜空荒忙。\n休言汝肉不登俎，全身已被家儿取。\n犹幸先生有爱心，放汝长江得容与。",
@@ -336,6 +384,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2db18430d1b342b3909417286b0a2868",
         "title": "题自写苏黄像",
         "author": "龚开",
         "content": "海风吹髮如短蓬，精魄弄成秃鬓翁。\n归来已觉阳羡邻里喜，不似雪堂概江空。\n六年岁月幪尊中。\n何况如今一螺墨，安能及公目如初生犊。\n细观此画尤崛奇，两颧巉岩无剩肉。\n百年光景春梦婆，人閒遂少天上多。\n一炷清香留永日，柰此堂堂不语何。\n譬如宝鼎沦洄水，万夫之力那能起。\n后来博古彼谁子，犹写雄深吞簠簋。\n不然岂徒有三足两耳□□，天地中閒泣神鬼。\n□□人之龙，文之虎，人言海内四学士，又云苏门之六子。\n洪崖肩高万丈余，谈笑拍摩何轩渠。\n当为谁作前者王，当为谁作后者卢。\n诗到圣时不读书，高处岂独煮汤坐团蒲。\n岂非迢迢百世下，好事亦写苏黄图。\n又非中郎虎贲之有身，又非叔敖身后之□死。\n典刑摩诘劣少须，一丈精神三尺素，光芒射人数百步。\n布袍便是山谷褐，可能其中有菜肚。",

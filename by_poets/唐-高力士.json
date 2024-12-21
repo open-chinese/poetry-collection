@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "624ddda959dac5e0f3a994e7e407755e",
         "title": "感巫州荠菜",
         "author": "高力士",
         "content": "两京作觔卖，五溪无人采。\n夷夏虽有殊，气味都不改。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9808c9bbc184958750b31c6ab842f005",
         "title": "句",
         "author": "高力士",
         "content": "烟熏眼落膜，瘴染面朱虞。",
@@ -14,9 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "2f8bebe8113425dded654621ffcaa0fc",
         "title": "感巫州荠菜",
         "author": "高力士",
-        "content": "两京作斤卖，五溪无人采。夷夏虽有殊，气味都不改。",
+        "content": "两京作斤卖，五溪无人采。\n夷夏虽有殊，气味都不改。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

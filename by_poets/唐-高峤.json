@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "b5d0a62fbd681f055733bfa23f0499e8",
         "title": "晦日宴高氏林亭",
         "author": "高峤",
         "content": "飞观写春望，开宴坐汀沙。\n积溜含苔色，晴空荡日华。\n歌入平阳第，舞对石崇家。\n莫虑能骑马，投辖自停车。",
@@ -7,30 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "8aeda3f6fbe9767172432c5eba1e6e35",
         "title": "晦日重宴",
         "author": "高峤",
         "content": "驾言寻凤侣，乘欢俯雁池。\n班荆逢旧识，斟桂喜深知。\n紫兰方出径，黄莺未啭枝。\n别有陶春日，青天云雾披。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "晦日宴高氏林亭",
-        "author": "高峤",
-        "content": "飞观写春望，开宴坐汀沙。积溜含苔色，晴空荡日华。\n歌入平阳第，舞对石崇家。莫虑能骑马，投辖自停车。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七十二"
-        }
-    },
-    {
-        "title": "晦日重宴",
-        "author": "高峤",
-        "content": "驾言寻凤侣，乘欢俯雁池。班荆逢旧识，斟桂喜深知。\n紫兰方出径，黄莺未啭枝。别有陶春日，青天云雾披。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七十二"
-        }
     }
 ]

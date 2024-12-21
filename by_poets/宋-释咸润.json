@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "edd73aa23c5061905623056ca1e5f691",
         "title": "五泄山三学院十题 五泄",
         "author": "释咸润",
         "content": "飞泉成五级，一级一龙湫。\n削出万仞秀，讵让蓬莱丘。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "76ec8ef816875dc3e4924b7cb9fe6068",
         "title": "五泄山三学院十题 西源",
         "author": "释咸润",
         "content": "造化凿绅维，千岩斗空碧。\n有时云雨开，残阳落幽石。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3fcd6792725fdb9fb6e290802ec94382",
         "title": "五泄山三学院十题 夹岩",
         "author": "释咸润",
         "content": "一径数里间，巉岩镇幽谷。\n中夹清溪流，白云长断续。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9c878c684458819516bb9d9f15bfe78e",
         "title": "五泄山三学院十题 龙井",
         "author": "释咸润",
         "content": "寒井深无极，人谓藏虬龙。\n尝闻救炎旱，丝雨洒长空。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fd585011bf44dd0681bb4942a590f975",
         "title": "五泄山三学院十题 石鼓",
         "author": "释咸润",
         "content": "巨石平如掌，天然状鼙鼓。\n击之还有声，分明含太古。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c83a2f6fbdbe94468806f036e352a60a",
         "title": "五泄山三学院十题 石门",
         "author": "释咸润",
         "content": "双峰起云际，髣髴五侯门。\n烟霞锁不开，曾无车马奔。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "79abd1b972f95b435e1697e495a1dae6",
         "title": "五泄山三学院十题 石屏",
         "author": "释咸润",
         "content": "峭石状危屏，截断诸峰青。\n白云触不飞，仙掌空遗名。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "41fed76ed96289d21962599792489e09",
         "title": "五泄山三学院十题 俱胝岩",
         "author": "释咸润",
         "content": "昔人持此咒，岩坐岁寒深。\n梵言不復闻，雅名流至今。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a9de1910e2f2a8e528e2fad49ead15b9",
         "title": "五泄山三学院十题 祷雨潭",
         "author": "释咸润",
         "content": "尝闻越邑民，祷雨碧岩畔。\n神龙如有期，为霖通旱暵。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b60e5ec064683153808af05bed62ae2f",
         "title": "五泄山三学院十题 摘星岩",
         "author": "释咸润",
         "content": "扪萝梯峭石，直上青云端。\n咫尺星斗光，冷射人心寒。",

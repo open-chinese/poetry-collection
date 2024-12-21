@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "1753c57284663bf3c3e1a9b8d3af5569",
         "title": "晦日宴高氏林亭",
         "author": "崔知贤",
         "content": "上月河阳地，芳辰景物华。\n绵蛮变时鸟，照曜起春霞。\n柳摇风处色，梅散日前花。\n淹留洛城晚，歌吹石崇家。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8408a44a3428c82d75dd2c6498161f0c",
         "title": "上元夜效小庾体",
         "author": "崔知贤",
         "content": "今夜启城闉，结伴戏芳春。\n鼓声撩乱动，风光触处新。\n月下多游骑，灯前饶看人。\n欢乐无穷已，歌舞达明晨。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "be13b7b92fb2db62ff1b6eaed7ea7a1e",
         "title": "三月三日宴王明府山亭",
         "author": "崔知贤",
         "content": "京洛皇居，芳禊春余。\n影媚元巳，和风上除。\n云开翠帟，水鹜鲜居。\n林渚萦暎，烟霞卷舒。\n花飘粉蝶，藻跃文鱼。\n沿波式宴，其乐只且。",
@@ -21,29 +24,10 @@
         "collection_info": null
     },
     {
-        "title": "晦日宴高氏林亭",
-        "author": "崔知贤",
-        "content": "上月河阳地，芳辰景物华。绵蛮变时鸟，照曜起春霞。\n柳摇风处色，梅散日前花。淹留洛城晚，歌吹石崇家。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七十二"
-        }
-    },
-    {
-        "title": "上元夜效小庾体",
-        "author": "崔知贤",
-        "content": "今夜启城闉，结伴戏芳春。鼓声撩乱动，风光触处新。\n月下多游骑，灯前饶看人。欢乐无穷已，歌舞达明晨。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七十二"
-        }
-    },
-    {
+        "uuid": "2a7bb9fb53547fa4fed24e0a21fd3063",
         "title": "三月三日宴王明府山亭",
         "author": "崔知贤",
-        "content": "京洛皇居，芳禊春余。影媚元巳，和风上除。云开翠帟，\n沿波式宴，其乐只且。",
+        "content": "京洛皇居，芳禊春余。\n影媚元巳，和风上除。\n云开翠帟，沿波式宴，其乐只且。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

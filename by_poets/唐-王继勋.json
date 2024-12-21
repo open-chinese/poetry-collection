@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "e6f37676abd5bf66faef65962d0be5c9",
         "title": "赠和龙妙空禅师",
         "author": "王继勋",
         "content": "白面山南灵庆院，茅斋道者雪峰禅。\n只栖云树两三亩，不下烟萝四五年。\n猨鸟认声呼唤易，龙神降伏住持坚。\n谁知今日秋江畔，独步医王阐法筵。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a33d5537de6de28881243c8e3e3ad9fa",
         "title": "题建造寺",
         "author": "王继勋",
         "content": "曾看画图劳健羡，如今亲见画犹麄。\n减除天半石初泐，欠却几株松未枯。\n题像阁人渔浦叟，集生台鸟谢城乌。\n我来一听支公论，自是吾身幻得吾。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "13561ba2aade0c90761b90f992e34ae5",
         "title": "句",
         "author": "王继勋",
         "content": "扫石云随帚，耕山鸟傍人。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "92e01dd94b36474bc00485e88540b0d0",
         "title": "赠和龙妙空禅师",
         "author": "王继勋",
-        "content": "白麵山南灵庆院，茅斋道者雪峰禅。只栖云树两三亩，\n谁知今日秋江畔，独步医王阐法筵。",
+        "content": "白麵山南灵庆院，茅斋道者雪峰禅。\n只栖云树两三亩，谁知今日秋江畔，独步医王阐法筵。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

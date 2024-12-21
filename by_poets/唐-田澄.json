@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "6093ddd27b439d14c518c43582a3a61f",
         "title": "成都为客作",
         "author": "田澄",
         "content": "蜀郡将之远，城南万里桥。\n衣缘乡泪湿，貌以客愁销。\n地富鱼为米，山芳桂是樵。\n旅游唯得酒，今日过明朝。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "成都为客作",
-        "author": "田澄",
-        "content": "蜀郡将之远，城南万里桥。衣缘乡泪湿，貌以客愁销。\n地富鱼为米，山芳桂是樵。旅游唯得酒，今日过明朝。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百五十五"
-        }
     }
 ]

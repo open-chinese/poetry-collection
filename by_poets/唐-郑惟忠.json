@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6b26dc2b4944156ba50c5108937269b9",
         "title": "送苏尚书赴益州",
         "author": "郑惟忠",
         "content": "离忧将岁尽，归望逐春来。\n庭花如有意，留艳待人开。",
@@ -7,20 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "55c7eba69d5f71ca8c4bcb5811371a78",
         "title": "古石之歌",
         "author": "郑惟忠",
         "content": "江东藏瑞简，济北蕴兵书。\n若非平固湖中鴈，定是昆明池裏鱼。\n（见《文苑英华》卷三一《古石赋》附）。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "送苏尚书赴益州",
-        "author": "郑惟忠",
-        "content": "离忧将岁尽，归望逐春来。庭花如有意，留艳待人开。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷四十五"
-        }
     }
 ]

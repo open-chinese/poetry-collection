@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c47e3c0f252cbf84d921012ed2c10ec5",
         "title": "北堂  其一",
         "author": "黄公槐",
         "content": "瞻彼北堂，在彼永阳。\n白云之下，通化之乡。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d5a9f516787ac4f1190d6053a04d4c51",
         "title": "北堂  其二",
         "author": "黄公槐",
         "content": "瞻彼北堂，在彼永水。\n白云之下，新丰之里。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9e969e1be37399dd0c4ffb56a52500da",
         "title": "北堂  其三",
         "author": "黄公槐",
         "content": "北堂有子，其实三兮。\n仲焉此去，其心惨兮。",

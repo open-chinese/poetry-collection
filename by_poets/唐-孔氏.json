@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "844c5c98439cc0bb3ed6c63fe6d4d16a",
         "title": "赠夫诗三首 一",
         "author": "孔氏",
         "content": "不忿成故人，掩涕每盈巾。\n死生今有隔，相见永无因。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2d9a96f315ea88a9bb7f34481383bfbf",
         "title": "赠夫诗三首 二",
         "author": "孔氏",
         "content": "匣裏残妆粉，留将与后人。\n黄泉无用处，恨作冢中尘。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "52bd8fb5313f437daef5088fc9350e1f",
         "title": "赠夫诗三首 三",
         "author": "孔氏",
         "content": "有意怀男女，无情亦任君。\n欲知肠断处，明月照孤坟。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "8e4f86fc0ac61fe076149c95c09ccb27",
         "title": "赠夫诗三首",
         "author": "孔氏",
-        "content": "不忿成故人，掩涕每盈巾。死生今有隔，相见永无因。\n匣裏残妆粉，留将与后人。黄泉无用处，恨作冢中尘。\n有意怀男女，无情亦任君。欲知肠断处，明月照孤坟。",
+        "content": "不忿成故人，掩涕每盈巾。\n死生今有隔，相见永无因。\n匣裏残妆粉，留将与后人。\n黄泉无用处，恨作冢中尘。\n有意怀男女，无情亦任君。\n欲知肠断处，明月照孤坟。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

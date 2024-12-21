@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "6da363960e2d8e1271d21a1f4a182ac1",
         "title": "时兴",
         "author": "杨贲",
         "content": "贵人昔未贵，咸愿顾寒微。\n及自登枢要，何曾问布衣。\n平明登紫阁，日晏下彤闱。\n扰扰路傍子，无劳歌是非。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "时兴",
-        "author": "杨贲",
-        "content": "贵人昔未贵，咸愿顾寒微。及自登枢要，何曾问布衣。\n平明登紫阁，日晏下彤闱。扰扰路傍子，无劳歌是非。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷二百零四"
-        }
     }
 ]

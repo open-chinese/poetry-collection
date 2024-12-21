@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6ec54cf7c81aa4018cbffefc967565eb",
         "title": "谒尧帝庙",
         "author": "轩辕弥明",
         "content": "祖龙开国尽遐荒，庙建唐尧镇此邦。\n山卷白云朝帝座，林疎红日列仙幢。\n巍巍圣蹟陵松峤，荡荡恩波洽桂江。\n瞻仰威灵共回首，紫霞深处锁轩窗。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "f8c7392e1ef9f7fea374e7da38affb3d",
         "title": "谒尧帝庙",
         "author": "轩辕弥明",
-        "content": "祖龙开国尽遐荒，庙建唐尧镇此邦。山卷白云朝帝座，\n瞻仰威灵共回首，紫霞深处锁轩窗。",
+        "content": "祖龙开国尽遐荒，庙建唐尧镇此邦。\n山卷白云朝帝座，瞻仰威灵共回首，紫霞深处锁轩窗。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

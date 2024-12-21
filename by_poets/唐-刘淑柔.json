@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "559db2fd3cff474672baf91cdd0663b4",
         "title": "中秋夜泊武昌",
         "author": "刘淑柔",
         "content": "两城相对峙，一水向东流。\n今夜素娥月，何年黄鹤楼。\n悠悠兰棹晚，渺渺荻花秋。\n无奈柔肠断，关山总是愁。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "中秋夜泊武昌",
-        "author": "刘淑柔",
-        "content": "两城相对峙，一水向东流。今夜素娥月，何年黄鹤楼。\n悠悠兰棹晚，渺渺荻花秋。无奈柔肠断，关山总是愁。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百零一"
-        }
     }
 ]

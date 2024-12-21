@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "85f93e069f6b5943b76113dd0fcd2ef2",
         "title": "大酺乐",
         "author": "张文收",
         "content": "泪滴珠难尽，容残玉易销。\n倘随明月去，莫道梦魂遥。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "大酺乐",
-        "author": "张文收",
-        "content": "泪滴珠难尽，容残玉易销。倘随明月去，莫道梦魂遥。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三十八"
-        }
     }
 ]

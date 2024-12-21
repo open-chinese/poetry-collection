@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "fcb64c7b1404b6114aa06c77a82b4c0b",
         "title": "句  其一",
         "author": "俞君锡",
         "content": "洗瓢鱼隠石，扫叶蚁移家。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ee5eb2a9eb3096b204ca500e423e8428",
         "title": "句  其二",
         "author": "俞君锡",
         "content": "野猿偷果去，村仆借书还。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0c589325b025ebde58d639be3a12c8cc",
         "title": "句  其三",
         "author": "俞君锡",
         "content": "教仆扫枯叶，留僧煎早茶。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "669fe9234a139ed99078b61f01c60ce6",
         "title": "句  其四",
         "author": "俞君锡",
         "content": "荒店难寻酒，长途半趁船。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "847b36f073004795c59815d7c8bf69da",
         "title": "句  其五",
         "author": "俞君锡",
         "content": "蛩声依坏砌，树影倒寒池。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e1978a825912b5ab17bc91c46203fa95",
         "title": "句  其六",
         "author": "俞君锡",
         "content": "半身长在旅，何日定还家。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "b1d695e5d245a3385c7b2953c6fd5e4a",
         "title": "句  其一",
         "author": "成锐",
         "content": "綵槛应无分，春风不借恩。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ea175e95b1389d56c61874eb704859d0",
         "title": "句  其二",
         "author": "成锐",
         "content": "馨香虽有艷，栽植未逢人。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0271fb9c34665132077938488d17a28e",
         "title": "句  其三",
         "author": "成锐",
         "content": "凭高看渐远，更上最高楼。",

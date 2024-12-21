@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "f9edff379158b9dabeda82d5e45e4d7e",
         "title": "和主司王起",
         "author": "蒯希逸",
         "content": "一振声华入紫薇，三开秦镜照春闱。\n龙门旧列金章贵，莺谷新迁碧落飞。\n恩感风雷宜变化，诗裁锦绣借光辉。\n谁知散质多荣忝，鸳鹭清尘接布衣。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2035fa3ecba8dd6d1147984fe253c121",
         "title": "句",
         "author": "蒯希逸",
         "content": "蟾蜍醉裏破，蛱蝶梦中残。\n山险不曾离马后，酒醒长见在床前。",
@@ -14,9 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "93c95a0f529ac625c4ea75c6d9065729",
         "title": "和主司王起",
         "author": "蒯希逸",
-        "content": "一振声华入紫薇，三开秦镜照春闱。龙门旧列金章贵，\n谁知散质多荣忝，鸳鹭清尘接布衣。",
+        "content": "一振声华入紫薇，三开秦镜照春闱。\n龙门旧列金章贵，谁知散质多荣忝，鸳鹭清尘接布衣。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -24,9 +27,10 @@
         }
     },
     {
+        "uuid": "dfd518c0158cd9aad46811ca74662c9c",
         "title": "句",
         "author": "蒯希逸",
-        "content": "蟾蜍醉裏破，蛱蝶梦中残。。\n山险不曾离马后，酒醒长见在床前。（希逸有仆武干，",
+        "content": "蟾蜍醉裏破，蛱蝶梦中残。\n。\n山险不曾离马后，酒醒长见在床前。\n（希逸有仆武干，",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

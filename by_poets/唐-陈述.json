@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "04bfa5582110c5613d2e88ed410f459f",
         "title": "叹美人照镜",
         "author": "陈述",
         "content": "插花枝共动，含笑靥俱生。\n衫分两处色，钏响一边声。\n就中还妒影，恐夺可怜名。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "叹美人照镜",
-        "author": "陈述",
-        "content": "插花枝共动，含笑靥俱生。衫分两处色，钏响一边声。\n就中还妒影，恐夺可怜名。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百六十九"
-        }
     }
 ]

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "1ac1cab424a68d81129b637471a444a6",
         "title": "游道岩观  其一",
         "author": "邓希恕",
         "content": "乘云不到玉皇家，岩上仙桃几度花。\n今日喜偕三益友，看来丹竈炼黄芽。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f5b05915c98482d577197b42f7817a03",
         "title": "游道岩观  其二",
         "author": "邓希恕",
         "content": "石敲新火煮云腴，细讲濂溪太极图。\n此去不知千载后，有人来讲此图无。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2163c602d611765b6b2b2fe6291e9d5c",
         "title": "句",
         "author": "邓希恕",
         "content": "龟鹤与羣同寿隽，貂蝉相映半时贤。",

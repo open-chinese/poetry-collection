@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "107b3dd463099e79472d61cd3fb6728b",
         "title": "郊庙歌辞  懿宗室舞",
         "author": "萧仿",
         "content": "圣祚无疆，庆传乐章。\n金枝繁茂，玉叶延长。\n海渎常[晏]，波涛不扬。\n汪汪美化，垂范今王。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fcf654b72157d8d1ce6ddbf2037eaa04",
         "title": "享太庙乐章",
         "author": "萧仿",
         "content": "圣祚无疆，庆传乐章。\n金枝繁茂，玉叶延长。\n海渎常晏，波涛不扬。\n汪汪美化，垂范今王。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "20ba812d2ee0082a87264d05a77924a8",
         "title": "享太庙乐章",
         "author": "萧仿",
         "content": "于铄丕嗣，惟帝之光。\n羽籥象德，金石荐祥。\n圣系无极，景命永昌。\n神降上哲，维天配长。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "6d1c9b397575ad0203edf352d5637838",
         "title": "郊庙歌辞：享太庙乐章：懿宗室舞",
         "author": "萧仿",
-        "content": "圣祚无疆，庆传乐章。金枝繁茂，玉叶延长。\n海渎常晏，波涛不扬。汪汪美化，垂范今王。",
+        "content": "圣祚无疆，庆传乐章。\n金枝繁茂，玉叶延长。\n海渎常晏，波涛不扬。\n汪汪美化，垂范今王。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -31,19 +35,10 @@
         }
     },
     {
+        "uuid": "4a064441af4d062945d6e046cc7837fa",
         "title": "享太庙乐章",
         "author": "萧仿",
-        "content": "圣祚无疆，庆传乐章。金枝繁茂，玉叶延长。\n海渎常晏，波涛不扬。汪汪美化，垂范今王。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百一十六"
-        }
-    },
-    {
-        "title": "享太庙乐章",
-        "author": "萧仿",
-        "content": "于铄丕嗣，惟帝之光。羽钥象德，金石荐祥。\n圣系无极，景命永昌。神降上哲，维天配长。",
+        "content": "于铄丕嗣，惟帝之光。\n羽钥象德，金石荐祥。\n圣系无极，景命永昌。\n神降上哲，维天配长。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

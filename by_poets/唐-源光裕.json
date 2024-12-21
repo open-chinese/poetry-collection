@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "1fcbe0c95a699ba3e44df0f6f0263bab",
         "title": "郊庙歌辞 祭汾阴乐章 顺和",
         "author": "源光裕",
         "content": "方丘既膳，嘉飨载谧。\n齐敬毕诚，陶匏贵质。\n秀毕丰荐，芳俎盈实。\n永永福流，其昇如日。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c3f53a5e7b66b7c7e885b8c69fbb5e67",
         "title": "祭汾阴乐章",
         "author": "源光裕",
         "content": "方丘既膳，嘉飨载谧。\n斋敬毕诚，陶匏贵质。\n秀毕丰荐，芳俎盈实。\n永永福流，其升如日。",
@@ -14,23 +16,14 @@
         "collection_info": null
     },
     {
+        "uuid": "ff2a0bd1897f896a2e4d20a584c0fc05",
         "title": "郊庙歌辞：祭汾阴乐章：顺和",
         "author": "源光裕",
-        "content": "方丘既膳，嘉飨载谧。齐敬毕诚，陶匏贵质。\n秀毕丰荐，芳俎盈实。永永福流，其升如日。",
+        "content": "方丘既膳，嘉飨载谧。\n齐敬毕诚，陶匏贵质。\n秀毕丰荐，芳俎盈实。\n永永福流，其升如日。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
             "volume": "卷一十二"
-        }
-    },
-    {
-        "title": "祭汾阴乐章",
-        "author": "源光裕",
-        "content": "方丘既膳，嘉飨载谧。斋敬毕诚，陶匏贵质。\n秀毕丰荐，芳俎盈实。永永福流，其升如日。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百零七"
         }
     }
 ]

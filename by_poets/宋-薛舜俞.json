@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "94425ad1439428e91260c815f1dcf687",
         "title": "句  其一",
         "author": "薛舜俞",
         "content": "丘壑胸中事。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3effe382536fbcdbc51b05584dd95309",
         "title": "句  其二",
         "author": "薛舜俞",
         "content": "旧邑浮航外。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b6329007e46eec05b80034e6c985bd74",
         "title": "句  其三",
         "author": "薛舜俞",
         "content": "轩窗眼界开。",

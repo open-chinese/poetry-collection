@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "e39d1cd2ae4a65cc30574e9ca6d2ff1e",
         "title": "笠泽亭",
         "author": "刘嘉谟",
         "content": "荷笠扁舟上，持纶巨泽中。\n无劳问名字，便是此亭公。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "79ee868aba4ff6ff77a0cd3dbcc65d74",
         "title": "北津口水阁",
         "author": "刘嘉谟",
         "content": "沉沉卧虹底，小阁贴平湖。\n鱼戏几堪掬，鸥驯欲就呼。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e7e72a91b4a525e6a1652af2f178e25e",
         "title": "大明桥",
         "author": "刘嘉谟",
         "content": "东望扶桑路，迢迢几万程。\n沧浪将尽处，忽见大明生。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d025232c29a12057dfa879b4f9056e2c",
         "title": "万顷桥",
         "author": "刘嘉谟",
         "content": "巨浸莽无极，聊为万顷看。\n世无黄叔度，君试倚阑干。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a8337428e15c715ad9270244b45e2413",
         "title": "定海桥",
         "author": "刘嘉谟",
         "content": "昔日松江上，潮翻定海来。\n而今旧桥水，不到半江回。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "af5835114b3658cb3ad78665a80a1be2",
         "title": "顾公祠",
         "author": "刘嘉谟",
         "content": "博洽倾当世，江东孔子儒。\n荒墟访遗庙，老稚辄名呼。",

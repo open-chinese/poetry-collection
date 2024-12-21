@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "01caf6fe6833b825b6dc49d18c0463d8",
         "title": "题大风山",
         "author": "陈朝老",
         "content": "上到禅关眼更明，重重天际万山青。\n便当常住云飞处，闲炷清香学诵经。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bf57f3607e0df01ecefc0d11fee40ec1",
         "title": "句  其一",
         "author": "陈朝老",
         "content": "姑射楼台簇水仙。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b5aea77213a3eeeaee4e4300141519d3",
         "title": "句  其二",
         "author": "陈朝老",
         "content": "淑气随风裂麝脐。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7badef73205be9c7decc3e69a34a9286",
         "title": "句  其三",
         "author": "陈朝老",
         "content": "拥炉莫言冷，世间行路难。",

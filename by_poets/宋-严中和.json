@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "d4069ddce7b7e0d2a8436ba91eef1e44",
         "title": "诗三首  其一",
         "author": "严中和",
         "content": "山中道人不裹巾，一片石床生绿鳞。\n昨夜瓦瓶冰冻破，梅花无水自精神。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "89a1afab53156e09b47ae6eb31b73dac",
         "title": "诗三首  其二",
         "author": "严中和",
         "content": "梅天雨气入帘栊，衣润频添柏火烘。\n四月江南无矮树，人家都在绿阴中。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "827de7efbc9512e68a28129c12ad4832",
         "title": "诗三首  其三",
         "author": "严中和",
         "content": "一声杜宇三更后，向晓绿阴连碧苔。\n却恨楼高春数尺，柳绵飞不上窗来。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "24894fd851314ff0eca645cbe10f302d",
         "title": "月夜看桂",
         "author": "严中和",
         "content": "玉杵声中舞素娥，西风叶叶自婆娑。\n一天清气无人管，惟有山楼树影多。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ad9f1fbd119eae151a9d1168295e0a9b",
         "title": "句  其一",
         "author": "严中和",
         "content": "树影踏不碎，花香嗅却无。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e6ee24335dfc25f4674500f60a01829a",
         "title": "句  其二",
         "author": "严中和",
         "content": "寺老柳遮塔，雨多春碍船。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4aa67f0b9167ede9ad529fe84d6b71fa",
         "title": "句  其三",
         "author": "严中和",
         "content": "涧水活不冻，山枫老自灵。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ee57413b524ed0dee1be21c3fb7f8016",
         "title": "句  其四",
         "author": "严中和",
         "content": "画扇题诗鸾背湿，铜彝煎脑鸭心香。",

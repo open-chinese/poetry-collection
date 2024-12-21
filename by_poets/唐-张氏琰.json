@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "3ff9aa24e289dcb22f12d287661939f1",
         "title": "相和歌辞 铜雀台",
         "author": "张氏琰",
         "content": "君王冥寞不可见，铜雀歌舞空裴回。\n西陵啧啧悲宿鸟，空殿沈沈闭青苔。\n青苔无人迹，红粉空相哀。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "8da5971029ba11fa694d6d0a9d90fc53",
         "title": "相和歌辞：铜雀台",
         "author": "张氏琰",
-        "content": "君王冥寞不可见，铜雀歌舞空裴回。西陵啧啧悲宿鸟，",
+        "content": "君王冥寞不可见，铜雀歌舞空裴回。\n西陵啧啧悲宿鸟，",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

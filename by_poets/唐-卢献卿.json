@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "3855a90ff2d3c2d4fae7e1a1b73b65c8",
         "title": "梦中诗",
         "author": "卢献卿",
         "content": "卜筑郊原古，青山无四邻。\n扶疎遶屋树，寂寞独归人。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "1ff8de8f9c266253c42e4356f102d9bd",
         "title": "梦中诗",
         "author": "卢献卿",
-        "content": "卜筑郊原古，青山无四邻。扶疏绕屋树，寂寞独归人。",
+        "content": "卜筑郊原古，青山无四邻。\n扶疏绕屋树，寂寞独归人。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

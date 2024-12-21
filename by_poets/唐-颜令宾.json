@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "3a1990dc19097107190cac589b22f7f2",
         "title": "临终召客",
         "author": "颜令宾",
         "content": "气余三五喘，花剩两三枝。\n话别一尊酒，相邀无后期。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "临终召客",
-        "author": "颜令宾",
-        "content": "气余三五喘，花剩两三枝。话别一尊酒，相邀无后期。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百零二"
-        }
     }
 ]

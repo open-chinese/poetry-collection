@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "db778f8e5ede54ef072019e41082c4dd",
         "title": "圣果寺",
         "author": "处默",
         "content": "路自中峰上，盘回出薜萝。\n到江吴地尽，隔岸越山多。\n古木丛青霭，遥天浸白波。\n下方城郭近，钟磬杂笙歌。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "51e6afde2b83aa677205ca681a9dce84",
         "title": "送僧游西域",
         "author": "处默",
         "content": "一盂兼一锡，秪此度流沙。\n野性虽为客，禅心即是家。\n寺披云峤雪，路入晓天霞。\n自说游诸国，回应岁月赊。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9ffe693083398680ea204db2f2d22519",
         "title": "远烟",
         "author": "处默",
         "content": "霭霭前山上，凝光满薜萝。\n高风吹不尽，远树得偏多。\n翠与晴云合，轻将淑气和。\n正堪流野目，朱阁意如何。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fa7cd76024b50197793a90a116f6625b",
         "title": "萤",
         "author": "处默",
         "content": "熠熠与娟娟，池塘竹树边。\n乱飞如拽火，成聚却无烟。\n微雨洒不灭，轻风吹欲燃。\n昔时书案上，频把作囊悬。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c1384842abea0d6086e1bd5927052fe7",
         "title": "忆庐山旧居",
         "author": "处默",
         "content": "麤衣粝食老烟霞，勉把衰颜惜岁华。\n独鹤秪为山客伴，闲云常在野僧家。\n丛生嫩蕨黏松粉，自落干薪带藓花。\n明月清风旧相得，十年归恨可能赊。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "babbf70a3c59e66e4205669507c1ea27",
         "title": "题栖霞寺僧房",
         "author": "处默",
         "content": "名山不取买山钱，任构花宫近碧巅。\n松桧老依云裏寺，楼台深锁洞中天。\n风经绝嶂回疎雨，石倚危屏挂落泉。\n欲结茅庵共师住，肯饶多少薜萝烟。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b33f63a3940c66d2e1f0a1f36bc13815",
         "title": "山中作",
         "author": "处默",
         "content": "席帘高捲枕高攲，门掩垂萝蘸碧溪。\n闲把史书眠一觉，起来山日过松西。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "aece28297d1d359fcf3f28c8e7de6be1",
         "title": "织妇",
         "author": "处默",
         "content": "蓬鬓蓬门积恨多，夜阑灯下不停梭。\n成缣犹自陪钱纳，未直青楼一曲歌。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "70032c356ae1fa165e93fdd1224c41e1",
         "title": "句",
         "author": "处默",
         "content": "太平时节无人看，雪刃闲封满匣尘。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bfe8d7a105e0e2f46dca4738bc44ac7f",
         "title": "为贯休作（题拟）",
         "author": "处默",
         "content": "分袂无血泪，望处空阑干。\n（见《四部丛刊》本《禅月集》附昙域《后序》引。\n）。",
@@ -70,19 +80,10 @@
         "collection_info": null
     },
     {
-        "title": "圣果寺",
-        "author": "处默",
-        "content": "路自中峰上，盘回出薜萝。到江吴地尽，隔岸越山多。\n古木丛青霭，遥天浸白波。下方城郭近，钟磬杂笙歌。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百四十九"
-        }
-    },
-    {
+        "uuid": "3182ba864765a4555207b0cff975524c",
         "title": "送僧游西域",
         "author": "处默",
-        "content": "一盂兼一锡，只此度流沙。野性虽为客，禅心即是家。\n寺披云峤雪，路入晓天霞。自说游诸国，回应岁月赊。",
+        "content": "一盂兼一锡，只此度流沙。\n野性虽为客，禅心即是家。\n寺披云峤雪，路入晓天霞。\n自说游诸国，回应岁月赊。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -90,29 +91,10 @@
         }
     },
     {
-        "title": "远烟",
-        "author": "处默",
-        "content": "霭霭前山上，凝光满薜萝。高风吹不尽，远树得偏多。\n翠与晴云合，轻将淑气和。正堪流野目，朱阁意如何。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百四十九"
-        }
-    },
-    {
-        "title": "萤",
-        "author": "处默",
-        "content": "熠熠与娟娟，池塘竹树边。乱飞如拽火，成聚却无烟。\n微雨洒不灭，轻风吹欲燃。昔时书案上，频把作囊悬。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百四十九"
-        }
-    },
-    {
+        "uuid": "f327256c58eb0f0ee473d74d8d91f0c2",
         "title": "忆庐山旧居",
         "author": "处默",
-        "content": "粗衣粝食老烟霞，勉把衰颜惜岁华。独鹤只为山客伴，\n明月清风旧相得，十年归恨可能赊。",
+        "content": "粗衣粝食老烟霞，勉把衰颜惜岁华。\n独鹤只为山客伴，明月清风旧相得，十年归恨可能赊。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -120,9 +102,10 @@
         }
     },
     {
+        "uuid": "990578846837c323da50bc3f591a6eb3",
         "title": "题栖霞寺僧房",
         "author": "处默",
-        "content": "名山不取买山钱，任构花宫近碧巅。松桧老依云裏寺，\n欲结茅庵共师住，肯饶多少薜萝烟。",
+        "content": "名山不取买山钱，任构花宫近碧巅。\n松桧老依云裏寺，欲结茅庵共师住，肯饶多少薜萝烟。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -130,6 +113,7 @@
         }
     },
     {
+        "uuid": "d930816368f6149bc194c0cd62325f7f",
         "title": "山中作",
         "author": "处默",
         "content": "席帘高卷枕高欹，门掩垂萝蘸碧溪。\n闲把史书眠一觉，起来山日过松西。",
@@ -140,9 +124,10 @@
         }
     },
     {
+        "uuid": "00fbb458548d06ef257d7d8ca911b3b4",
         "title": "句",
         "author": "处默",
-        "content": "太平时节无人看，雪刃闲封满匣尘。（《剑》，",
+        "content": "太平时节无人看，雪刃闲封满匣尘。\n（《剑》，",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

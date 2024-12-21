@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "da2aeb31d183ca1d5205e88dcc1a4a06",
         "title": "芳树",
         "author": "符子珪",
         "content": "芳树宜三月，曈曈艳绮年。\n香交珠箔气，阴占绿庭烟。\n小叶风吹长，繁花露濯鲜。\n遂令秾李儿，折取簪花钿。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "芳树",
-        "author": "符子珪",
-        "content": "芳树宜三月，曈曈艳绮年。香交珠箔气，阴占绿庭烟。\n小叶风吹长，繁花露濯鲜。遂令秾李儿，折取簪花钿。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百六十九"
-        }
     }
 ]

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "1ba922ed1060b3a74dfa839bb3c8ea68",
         "title": "句  其一",
         "author": "方维",
         "content": "青胆雄于金斗大，赤心坚比铁山高。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b8e7887f3602521acf203053f6616916",
         "title": "句  其二",
         "author": "方维",
         "content": "身在江城抑何暮，心游魏阙不崇朝。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "22d8a17c2392754cead3bfc66f98d833",
         "title": "句  其三",
         "author": "方维",
         "content": "垣墉角占楼台近，城郭心藏洞府深。",

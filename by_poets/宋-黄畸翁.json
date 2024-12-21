@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "d621b99569ac93388696869feea181ff",
         "title": "句  其一",
         "author": "黄畸翁",
         "content": "流落人间一万篇。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "001d1d80e3f0c3d1fa9aed36e9f275a7",
         "title": "句  其二",
         "author": "黄畸翁",
         "content": "身闲不入红尘市，梦好频惊画角声。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "24bdebc6d1fa666eb506efd83c2a3963",
         "title": "句  其三",
         "author": "黄畸翁",
         "content": "日高三丈宿酒醒，鸟唤一声春梦惊。",

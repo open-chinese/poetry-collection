@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "97f6b88517003c1a7bc4f0bb2f6014f2",
         "title": "偈颂十一首  其一",
         "author": "释了演",
         "content": "谁庵不会说禅，一向外边之绕。\n鸣鼓集众升堂，岂容乱开臭口。\n而今无计可为，谩把屎肠抖擞。\n瞎驴趁队过新罗，惊起南辰藏北斗。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "84c8c196c7aeeed31c680872180e2fce",
         "title": "偈颂十一首  其二",
         "author": "释了演",
         "content": "扑落非他物，纵横不是尘。\n山河并大地，全露法王身。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d6e3ccab27a97b4135aad211d6bf2f85",
         "title": "偈颂十一首  其三",
         "author": "释了演",
         "content": "昨日闹浩浩，今朝静悄悄。\n静悄悄处闹浩浩，闹浩浩处静悄悄。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8d229f305472ecff25798088f57f2fa8",
         "title": "偈颂十一首  其四",
         "author": "释了演",
         "content": "高高峯顶云，散作人间雨。\n一句绝誵讹，相逢莫错举。\n不错举，猫儿偏解捉老鼠。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "34cc5af4aa2a9cb05d389aca98f86423",
         "title": "偈颂十一首  其五",
         "author": "释了演",
         "content": "今朝四月初一，即辰孟夏渐热。\n伏惟大众增休，各各眼横鼻直。\n若谓世谛流通，燋盘重添艾灸。\n若作佛法商量，瞎汉扶篱摸壁。\n还相委悉么，只为分明极。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2167e19f80056931b89c73bf160cc79e",
         "title": "偈颂十一首  其六",
         "author": "释了演",
         "content": "前来半斤，后来八两。\n斤两分明，一对漆桶。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d5f8510c7c76ffc0b426979c664254f3",
         "title": "偈颂十一首  其七",
         "author": "释了演",
         "content": "时当亚岁，节届书云。\n不萌枝上唤春归，无影树头增秀色。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "aa4314a63e39db5a9d81dddc0cdaa2e0",
         "title": "偈颂十一首  其八",
         "author": "释了演",
         "content": "腊月一，雪冻草枯，水寒冰结。\n黄河绝流，虚空迸裂。\n若将此语定纲宗，敢保老兄犹未彻。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a89d2d32874a39ea8ca0c39dae15736d",
         "title": "偈颂十一首  其九",
         "author": "释了演",
         "content": "四海共遵灵鹫制，九旬禁足自萧然。\n饥餐渴饮随缘过，禅道是非扫一边。\n知我者谓我深锥痛札，不知我者谓我弔影扬鞭。\n毕竟如何，月中丹桂和根拔，水底泥牛蓦角牵。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2a56eab12992453bb6eb35362786b97f",
         "title": "偈颂十一首  其一○",
         "author": "释了演",
         "content": "即心即拂，千山万水。\n非心非佛，草窠裏辊。\n向上一路千圣，不传热椀鸣声。\n三边若得浑无事，四海何愁不太平。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "76f97a0d0d0ca95c568392c1e32acbef",
         "title": "偈颂十一首  其一一",
         "author": "释了演",
         "content": "踢倒飞来回首去，倒骑佛殿出皇都。\n须知此外封疆阙，八面腾腾任卷舒。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b2b7473448364c5816028d94bb664c22",
         "title": "颂古三首  其一",
         "author": "释了演",
         "content": "倒握毒蛇横古路，背骑猛虎舞三台。\n收来放去无多子，铁眼铜睛被活埋。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5256e316b0d762520afbf34a01b4ad35",
         "title": "颂古三首  其二",
         "author": "释了演",
         "content": "赵州狗子无佛性，当空掘出秦时镜。\n光明浑不见星儿，上下四维俱彻映。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "43b847cf27c6bb868bd6a21bcb236a9d",
         "title": "颂古三首  其三",
         "author": "释了演",
         "content": "袖中宝剑摩星斗，肘后灵符照八方。\n拨转目前关捩子，从教天下竟忙忙。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "83ae88f4d667063785dabfa65adf7a6a",
         "title": "衡阳别妙喜老师",
         "author": "释了演",
         "content": "倒骑铁马渡潇湘，涧草岩花不覆藏。\n回雁峯高亲到顶，了无佛法可商量。",
@@ -105,6 +120,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ac88bc4b0464126440c7300fd3210967",
         "title": "寄育王廓和尚",
         "author": "释了演",
         "content": "向来事业俱荒废，即体生涯迥一空。\n渐愧此身无被盖，百般痴钝玷宗风。",
@@ -112,6 +128,7 @@
         "collection_info": null
     },
     {
+        "uuid": "676522555d3b5e3a63c89118f6c92610",
         "title": "石佛",
         "author": "释了演",
         "content": "积念有年瞻石佛，今朝一见绝疑猜。\n都卢面目只如此，却道三生凿出来。",
@@ -119,6 +136,7 @@
         "collection_info": null
     },
     {
+        "uuid": "dd42ee8ad1e175c859f591bd161ab936",
         "title": "空谷",
         "author": "释了演",
         "content": "谷空空谷谷空空，空谷全超万象中。\n流水落花浑不见，清风明月却相容。",
@@ -126,6 +144,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cfe64b4d14733796fa4d15cf758f0b50",
         "title": "与禅人",
         "author": "释了演",
         "content": "家山有路应须到，到得家山未是归。\n拈转杖头俱划断，好看午夜太阳辉。",
@@ -133,6 +152,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1a87ee170d68a50172a4547d149e8fc7",
         "title": "颂古九首  其一",
         "author": "释了演",
         "content": "二祖无端向少林，庭前立雪到腰深。\n直饶觅得心无有，未免全身被陆沉。",
@@ -140,6 +160,7 @@
         "collection_info": null
     },
     {
+        "uuid": "16f0120e391c41009811d28b3bcabf84",
         "title": "颂古九首  其二",
         "author": "释了演",
         "content": "不是心，不是佛，不是物，为君击碎精灵窟。\n天上人间知不知，鼻孔依前空突兀。",
@@ -147,6 +168,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d2a700430b3a2c84e98228cc798e728c",
         "title": "颂古九首  其三",
         "author": "释了演",
         "content": "忽闻幕下哭哀哀，顿使天台对五台。\n风月一天今古在，通身是口也难开。",
@@ -154,6 +176,7 @@
         "collection_info": null
     },
     {
+        "uuid": "27321265d63ffba657683de94a0a79a8",
         "title": "颂古九首  其四",
         "author": "释了演",
         "content": "沩山得体，仰山得用。\n体用俱全，梦中说梦。",
@@ -161,6 +184,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f4fae149dd3c62103bf20a8c93ef1aaf",
         "title": "颂古九首  其五",
         "author": "释了演",
         "content": "黄蘗堂前吃棒去，大愚肋下筑拳来。\n若言佛法无多子，到底分明眼未开。",
@@ -168,6 +192,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2e20e4f5b0104a2ce80bcbc5425a4302",
         "title": "颂古九首  其六",
         "author": "释了演",
         "content": "临行特地扬家丑，带累傍人满面惭。\n霹雳一声云雨散，至今父子未相谙。",
@@ -175,6 +200,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8fa1149f4dc8c0246fe8db94deacc0c9",
         "title": "颂古九首  其七",
         "author": "释了演",
         "content": "灵云亲说悟桃花，端的无疑眼裏沙。\n纵使玄沙言未彻，相逢且吃赵州茶。",
@@ -182,6 +208,7 @@
         "collection_info": null
     },
     {
+        "uuid": "78f2e53dfa6e9aaaeaf63750e9e55a13",
         "title": "颂古九首  其八",
         "author": "释了演",
         "content": "俱胝一指禅，古今成话欛。\n打破鬼门关，露柱寻无罅。",
@@ -189,6 +216,7 @@
         "collection_info": null
     },
     {
+        "uuid": "09733d1e1afdd918fb5698f25d4b94ed",
         "title": "颂古九首  其九",
         "author": "释了演",
         "content": "兴化棒头轰霹雳，克宾脚下走尘烟。\n若无塞外将军令，那得嘉名四海传。",

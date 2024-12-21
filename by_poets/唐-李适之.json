@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "3e287dc82266c3c48d76667b7c7f235d",
         "title": "朝退",
         "author": "李适之",
         "content": "朱门长不闭，亲友恣相过。\n年今将半百，不乐復如何。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ac96a9bb89e60a1dc1bd6f11d58217df",
         "title": "罢相作",
         "author": "李适之",
         "content": "避贤初罢相，乐圣且衔杯。\n为问门前客，今朝几箇来。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "156a5b5d9567d011d75a30e7852e7185",
         "title": "送贺秘监归会稽诗",
         "author": "李适之",
         "content": "圣代全高尚，玄风阐道微。\n筵开百僚（《广卓异记》作「壶」）饯，诏许二疏归。\n仙记题金箓，朝章换（《广卓异记》作「披」）羽衣。\n悄然承睿藻，行路满光辉。\n（同前。\n以乐史《广卓异记》卷三所录相校。\n《广卓异记》原署「左丞相李适之。\n」）。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "b97384b5422230696bafc3c02ee5bf55",
         "title": "朝退",
         "author": "李适之",
-        "content": "朱门长不闭，亲友恣相过。年今将半百，不乐复如何。",
+        "content": "朱门长不闭，亲友恣相过。\n年今将半百，不乐复如何。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -31,9 +35,10 @@
         }
     },
     {
+        "uuid": "66cd1af5652e96f978cc54ae4509e948",
         "title": "罢相作",
         "author": "李适之",
-        "content": "避贤初罢相，乐圣且衔杯。为问门前客，今朝几个来。",
+        "content": "避贤初罢相，乐圣且衔杯。\n为问门前客，今朝几个来。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

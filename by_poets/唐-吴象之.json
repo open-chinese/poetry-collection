@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "b8e688ae4a1039acc14b4bb93396d1ff",
         "title": "阳春歌",
         "author": "吴象之",
         "content": "帘低晓露湿，帘捲莺声急。\n欲起把箜篌，如凝綵弦涩。\n孤眠愁不转，点泪声相及。\n净扫阶上花，风来更吹入。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ac32106d7fa83981d5ce0aaa638b5ecb",
         "title": "少年行",
         "author": "吴象之",
         "content": "承恩借猎小平津，使气常游中贵人。\n一掷千金浑是胆，家无四壁不知贫。",
@@ -14,9 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "fdbeac04e190a82f7271195bffe2bc0e",
         "title": "阳春歌",
         "author": "吴象之",
-        "content": "帘低晓露湿，帘卷莺声急。欲起把箜篌，如凝彩弦涩。\n孤眠愁不转，点泪声相及。净扫阶上花，风来更吹入。",
+        "content": "帘低晓露湿，帘卷莺声急。\n欲起把箜篌，如凝彩弦涩。\n孤眠愁不转，点泪声相及。\n净扫阶上花，风来更吹入。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

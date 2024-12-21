@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "546f60f6f645664d54603d9587d400f6",
         "title": "郊庙歌辞 祭汾阴乐章 舒和",
         "author": "何鸾",
         "content": "乐奏云阕，礼章载虔。\n禋宗于地，昭假于天。\n惟馨荐矣，既醉歆焉。\n神之降福，永永万年。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "35e02f15eebb440a43eba1241ba8f38d",
         "title": "祭汾阴乐章",
         "author": "何鸾",
         "content": "乐奏云阕，礼章载虔。\n禋宗于地，昭假于天。\n惟馨荐矣，既醉歆焉。\n神之降福，永永万年。",
@@ -14,23 +16,14 @@
         "collection_info": null
     },
     {
+        "uuid": "6393fd4c250840ab86a7840b5aa67362",
         "title": "郊庙歌辞：祭汾阴乐章：舒和",
         "author": "何鸾",
-        "content": "乐奏云阕，礼章载虔。禋宗于地，昭假于天。\n惟馨荐矣，既醉歆焉。神之降福，永永万年。",
+        "content": "乐奏云阕，礼章载虔。\n禋宗于地，昭假于天。\n惟馨荐矣，既醉歆焉。\n神之降福，永永万年。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
             "volume": "卷一十二"
-        }
-    },
-    {
-        "title": "祭汾阴乐章",
-        "author": "何鸾",
-        "content": "乐奏云阕，礼章载虔。禋宗于地，昭假于天。\n惟馨荐矣，既醉歆焉。神之降福，永永万年。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六十七"
         }
     }
 ]

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "296689f46d06eac1336d0f4565ba3b0e",
         "title": "老僧",
         "author": "景云",
         "content": "日照西山雪，老僧门始开。\n冻瓶粘柱础，宿火陷炉灰。\n童子病归去，鹿麑寒入来。\n斋钟知渐近，枝鸟下生台。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "01d3122c34c2bf8a86b9727c77c4f2e4",
         "title": "溪叟",
         "author": "景云",
         "content": "溪翁居处静，溪鸟入门飞。\n早起钓鱼去，夜深乘月归。\n露香菰米熟，烟暖荇丝肥。\n潇洒尘埃外，扁舟一草衣。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "97617a906a6656c619f3aa08deb1bf7e",
         "title": "画松",
         "author": "景云",
         "content": "画松一似真松树，且待寻思记得无。\n曾在天台山上见，石桥南畔第三株。",
@@ -21,19 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "46382d07b91d05eeade950e8f6ab12a3",
         "title": "老僧",
         "author": "景云",
-        "content": "日照西山雪，老僧门始开。冻瓶粘柱础，宿火焰炉灰。\n童子病归去，鹿麑寒入来。斋钟知渐近，枝鸟下生台。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百零八"
-        }
-    },
-    {
-        "title": "溪叟",
-        "author": "景云",
-        "content": "溪翁居处静，溪鸟入门飞。早起钓鱼去，夜深乘月归。\n露香菰米熟，烟暖荇丝肥。潇洒尘埃外，扁舟一草衣。",
+        "content": "日照西山雪，老僧门始开。\n冻瓶粘柱础，宿火焰炉灰。\n童子病归去，鹿麑寒入来。\n斋钟知渐近，枝鸟下生台。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

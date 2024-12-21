@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "e9508dbcde59ae0c903f8812580c1e69",
         "title": "句  其一",
         "author": "赵子栎",
         "content": "夜棋三百子，晓髮一千梳。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c181c988ed67ca77f61e8ffeac199f91",
         "title": "句  其二",
         "author": "赵子栎",
         "content": "髮为干戈白，心于社稷丹。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9da5428779de769871b0aa87b12b2498",
         "title": "句  其三",
         "author": "赵子栎",
         "content": "杜鹃不是蜀天子，前身定是陶渊明。",

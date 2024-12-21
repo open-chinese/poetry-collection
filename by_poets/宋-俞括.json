@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "fea39e8ac2722ef83afd179151361f37",
         "title": "诗一首",
         "author": "俞括",
         "content": "二十四峰尖，参差列郡南。\n半空擎梵宇，绝顶寄僧龛。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9fcb5dfe4f9bc47153958b6a02f3a004",
         "title": "句",
         "author": "俞括",
         "content": "岩排星斗七，石涌佛身三。",

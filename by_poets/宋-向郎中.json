@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "850acd17560f9de8a1b442bfb90f3a70",
         "title": "句  其一",
         "author": "向郎中",
         "content": "湖边乔木幽人宅，楼外长江帝子洲。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4b3427cc9529692b97f4a7244f4e9482",
         "title": "句  其二",
         "author": "向郎中",
         "content": "惟洪一都会，控带荆与瓯。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d8d91fd34f58a0da67e4e035dc4aa10b",
         "title": "句  其三",
         "author": "向郎中",
         "content": "身在鸣銮帝子楼。",

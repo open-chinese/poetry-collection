@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "ad70c725c5715d612b936fb804b2dc4c",
         "title": "题汉州西湖",
         "author": "严公贶",
         "content": "凤沼才难尽，余思凿西湖。\n珍木罗修岸，冰光映坐隅。\n琴台今寂寞，竹岛尚萦纡。\n犹蕴济川志，芳名终不渝。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "题汉州西湖",
-        "author": "严公贶",
-        "content": "凤沼才难尽，余思凿西湖。珍木罗修岸，冰光映坐隅。\n琴台今寂寞，竹岛尚萦纡。犹蕴济川志，芳名终不渝。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷四百七十"
-        }
     }
 ]

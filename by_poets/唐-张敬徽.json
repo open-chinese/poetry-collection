@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "593fabdbab6d855d072fb6638fe3250d",
         "title": "采莲曲",
         "author": "张敬徽",
         "content": "游女泛江晴，莲红水復清。\n竞多愁日暮，争疾畏船倾。\n波动疑钗落，风生觉袖轻。\n相看未尽意，归浦棹歌声。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "e5e6fdeba11b3cbbf44f2b356372b3d1",
         "title": "采莲曲",
         "author": "张敬徽",
-        "content": "游女泛江晴，莲红水复清。竞多愁日暮，争疾畏船倾。\n波动疑钗落，风生觉袖轻。相看未尽意，归浦棹歌声。",
+        "content": "游女泛江晴，莲红水复清。\n竞多愁日暮，争疾畏船倾。\n波动疑钗落，风生觉袖轻。\n相看未尽意，归浦棹歌声。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

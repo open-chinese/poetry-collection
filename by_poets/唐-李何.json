@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "b7428c22d23717622bb1d49a92f60138",
         "title": "观妓",
         "author": "李何",
         "content": "向晚小乘游，朝来新上头。\n从来许长袖，未有客难留。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "观妓",
-        "author": "李何",
-        "content": "向晚小乘游，朝来新上头。从来许长袖，未有客难留。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百六十九"
-        }
     }
 ]

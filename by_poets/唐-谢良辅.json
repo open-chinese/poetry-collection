@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "5d4d74d0a70645a12d6e640176deebbf",
         "title": "忆长安 正月",
         "author": "谢良辅",
         "content": "忆长安，正月时，和风喜气相随。\n献寿彤庭万国，烧灯青玉五枝。\n终南往往残雪，渭水处处流澌。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f9c58c356b2b89311cd1bdb2f8f8efe7",
         "title": "忆长安 十二月",
         "author": "谢良辅",
         "content": "忆长安，腊月时，温泉彩仗新移。\n瑞气遥迎凤辇，日光先暖龙池。\n取酒虾蟇陵下，家家守岁传巵。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4e73684a977d904c5cc47fa9bef6852b",
         "title": "状江南 仲春",
         "author": "谢良辅",
         "content": "江南仲春天，细雨色如烟。\n丝为武昌柳，布作石门泉。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0ad4935908388656e20957e93f8da5ed",
         "title": "状江南 孟冬",
         "author": "谢良辅",
         "content": "江南孟冬天，荻穗软如绵。\n绿绢芭蕉裂，黄金橘柚悬。",
@@ -28,9 +32,10 @@
         "collection_info": null
     },
     {
+        "uuid": "cacf447b56a6c0db363bcde20655345b",
         "title": "忆长安：正月",
         "author": "谢良辅",
-        "content": "忆长安，正月时，和风喜气相随。献寿彤庭万国，\n烧灯青玉五枝。终南往往残雪，渭水处处流澌。",
+        "content": "忆长安，正月时，和风喜气相随。\n献寿彤庭万国，烧灯青玉五枝。\n终南往往残雪，渭水处处流澌。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -38,9 +43,10 @@
         }
     },
     {
+        "uuid": "4a7a44b146a57f75f3464db1a08ebf97",
         "title": "忆长安：十二月",
         "author": "谢良辅",
-        "content": "忆长安，腊月时，温泉彩仗新移。瑞气遥迎凤辇，\n日光先暖龙池。取酒虾蟆陵下，家家守岁传卮。",
+        "content": "忆长安，腊月时，温泉彩仗新移。\n瑞气遥迎凤辇，日光先暖龙池。\n取酒虾蟆陵下，家家守岁传卮。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -48,9 +54,10 @@
         }
     },
     {
+        "uuid": "ff8d75b36c5830be30efaa63bfca59e0",
         "title": "状江南：仲春",
         "author": "谢良辅",
-        "content": "江南仲春天，细雨色如烟。丝为武昌柳，布作石门泉。",
+        "content": "江南仲春天，细雨色如烟。\n丝为武昌柳，布作石门泉。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -58,9 +65,10 @@
         }
     },
     {
+        "uuid": "d79d6f37493ec1c14af1b299c74441fb",
         "title": "状江南：孟冬",
         "author": "谢良辅",
-        "content": "江南孟冬天，荻穗软如绵。绿绢芭蕉裂，黄金橘柚悬。",
+        "content": "江南孟冬天，荻穗软如绵。\n绿绢芭蕉裂，黄金橘柚悬。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a6f01515015c88719d1afe430887aeea",
         "title": "呈圆悟",
         "author": "释祖觉",
         "content": "家住孤峰顶，长年半掩门。\n自嗟身已老，活计付儿孙。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cd65137bb259530d262f3c0355c28b21",
         "title": "寄圆悟",
         "author": "释祖觉",
         "content": "出林依旧入蓬蒿，天网恢恢不可逃。\n谁信业缘无避处，归来不怕语声高。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "beb753899a7feca2b8d7a87d82f948d1",
         "title": "偈",
         "author": "释祖觉",
         "content": "一尘起，大地收。\n一叶落，天下秋。\n悬须弥于诸人鼻孔上，着大海于诸人眼睛中。",

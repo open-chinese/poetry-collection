@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "cbeb168f79a616fc3b890193d71ee6e6",
         "title": "失题",
         "author": "方棫",
         "content": "午醉醒来晚，无人梦自惊。\n夕阳如有意，长傍小窗明。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "失题",
-        "author": "方棫",
-        "content": "午醉醒来晚，无人梦自惊。夕阳如有意，长傍小窗明。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十五"
-        }
     }
 ]

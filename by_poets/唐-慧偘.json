@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "8d2180afd6502d6dde9345b6b57ed1ab",
         "title": "听独杵捣衣",
         "author": "慧偘",
         "content": "非是无人助，意欲自鸣砧。\n向月怜孤影，承风送迥音。\n疑捣双丝练，似奏一弦琴。\n令君闻独杵，知妾有专心。",
@@ -7,30 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "8a4c0bf1cd0a0e8c20ef17330fbc9971",
         "title": "闻侯方儿来寇",
         "author": "慧偘",
         "content": "羊皮赎去士，马革敛还尸。\n天下方无事，孝廉非哭时。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "听独杵捣衣",
-        "author": "慧偘",
-        "content": "非是无人助，意欲自鸣砧。向月怜孤影，承风送迥音。\n疑捣双丝练，似奏一弦琴。令君闻独杵，知妾有专心。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百零八"
-        }
-    },
-    {
-        "title": "闻侯方儿来寇",
-        "author": "慧偘",
-        "content": "羊皮赎去士，马革敛还尸。天下方无事，孝廉非哭时。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百零八"
-        }
     }
 ]

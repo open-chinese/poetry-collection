@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6b3f59d8b1bc4419abcaf60cfc862180",
         "title": "句  其一",
         "author": "李拱",
         "content": "犬眠花影地，牛牧雨声坡。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6e3c787fb5d35a77ecec8a0a87dcdc7a",
         "title": "句  其二",
         "author": "李拱",
         "content": "琴弹终日得古调，印锁经秋带藓痕。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "be78ed482c703b30eae14d465d2d1581",
         "title": "句  其三",
         "author": "李拱",
         "content": "雨后有人耕绿野，月明无犬吠花村。",

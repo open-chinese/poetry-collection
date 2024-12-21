@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "2b1e17915041435198c2d42a363629cc",
         "title": "登清居台",
         "author": "魏峦",
         "content": "迤逦清居台，连延白云外。\n侧聆天上语，下视飞鸟背。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "登清居台",
-        "author": "魏峦",
-        "content": "迤逦清居台，连延白云外。侧聆天上语，下视飞鸟背。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十八"
-        }
     }
 ]

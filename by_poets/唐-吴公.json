@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "d642c7caadc332f80b363b1a3a1160d3",
         "title": "绝句",
         "author": "吴公",
         "content": "去国投兹土，编茅隐旧踪。\n年年秋水上，独对数株松。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "绝句",
-        "author": "吴公",
-        "content": "去国投兹土，编茅隐旧踪。年年秋水上，独对数株松。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百八十三"
-        }
     }
 ]

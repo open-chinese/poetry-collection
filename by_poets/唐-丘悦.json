@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "5e2b106c9d795e1b296417d759380e10",
         "title": "仪坤庙乐章",
         "author": "丘悦",
         "content": "孝哉我后，冲乎回圣。\n道映重华，德辉文命。\n慕深视箧，情殷抚镜。\n万国移命，兆人承庆。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "8a2dcb796573e65b0acd211a03bbacbb",
         "title": "仪坤庙乐章",
         "author": "丘悦",
-        "content": "孝哉我后，冲乎乃圣。道映重华，德辉文命。慕深视箧，",
+        "content": "孝哉我后，冲乎乃圣。\n道映重华，德辉文命。\n慕深视箧，",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

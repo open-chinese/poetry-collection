@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "a91c4a76b85ae9708fed943ab3a846ec",
         "title": "自咏豆花",
         "author": "陈黯",
         "content": "玳瑁应难比，斑犀定不加。\n天嫌未端正，满面与妆花。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "自咏豆花",
-        "author": "陈黯",
-        "content": "玳瑁应难比，斑犀定不加。天嫌未端正，满面与妆花。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六百零七"
-        }
     }
 ]

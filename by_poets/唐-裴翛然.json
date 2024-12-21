@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "56f01f4143e3723394448358f58e9837",
         "title": "夜醉卧街",
         "author": "裴翛然",
         "content": "遮莫冬冬动，须倾满满杯。\n金吾如借问，但道玉山颓。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "夜醉卧街",
-        "author": "裴翛然",
-        "content": "遮莫冬冬动，须倾满满杯。金吾如借问，但道玉山颓。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百五十二"
-        }
     }
 ]

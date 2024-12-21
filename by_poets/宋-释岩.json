@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "51eda79ab3b689078c6d969585608d98",
         "title": "偈",
         "author": "释岩",
         "content": "干坤肃静，海晏河清。\n风不鸣条，雨不破块。\n春生夏长，秋收冬藏。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bbe5f8126c1a6ed45f7cce80773abdec",
         "title": "偈五首  其一",
         "author": "释岩",
         "content": "雨后鸠鸣，山前麦熟。\n何处牧儿，骑牛笑相逐。\n莫把短笛横吹，风前一曲两曲。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "be93cf6bbdfd0f431ec3b39fd6984da6",
         "title": "偈五首  其二",
         "author": "释岩",
         "content": "衲僧现前三昧，释迦老子不会。\n住世四十九年，说得天花乱坠。\n争似饥餐渴饮，展脚堂中打睡。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "893bef5fceab5c5918957fa8e85dece9",
         "title": "偈五首  其三",
         "author": "释岩",
         "content": "诸人知处，山僧尽知。\n山僧知处，诸人不知。\n头上是天，脚下是地。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "723d0921ee7ca4b67b0d8c37e3574303",
         "title": "偈五首  其四",
         "author": "释岩",
         "content": "一境谁相到，翛然绝点尘。\n天花莫狼藉，吾匪解空人。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "38ac6904e0bbfb92bdd12a5fdd8a61b6",
         "title": "偈五首  其五",
         "author": "释岩",
         "content": "樵夫跣足下层峦，大笑渔翁溪上寒。\n山色横担鄽市去，家家门底透长安。",

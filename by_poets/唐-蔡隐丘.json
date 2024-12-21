@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "41e7b3c376c5e0858d24f4a216005b2e",
         "title": "石桥琪树",
         "author": "蔡隐丘",
         "content": "山上天将近，人间路渐遥。\n谁当云裏见，知欲渡仙桥。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6ea0ffad94a6aa345b89dd58c15924d9",
         "title": "句",
         "author": "蔡隐丘",
         "content": "整巾千嶂耸，曳履百泉鸣。",
@@ -14,20 +16,11 @@
         "collection_info": null
     },
     {
+        "uuid": "226d0b744e3fdebd4d82151bf38c2acb",
         "title": "句",
         "author": "蔡隐丘",
         "content": "草径不闻金马诏，松门唯见石人看。\n（见《吟窗杂录》卷二六《历代吟谱》）。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "石桥琪树",
-        "author": "蔡隐丘",
-        "content": "山上天将近，人间路渐遥。谁当云裏见，知欲渡仙桥。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百一十四"
-        }
     }
 ]

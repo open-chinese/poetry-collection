@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "7bd4bb465c5d4932874e96141e548c07",
         "title": "满江红 三月风前花薄命",
         "author": "陈善",
         "content": "三月风前花薄命，五更枕上春无力。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "79dbbb95f2ffc954c0647dc123ce6035",
         "title": "和人",
         "author": "陈善",
         "content": "鲛绡巧织在深泉，不与人间机杼联。\n要知妙在笔墨外，第一莫为醒者传。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "805e7747e9a19e2e040ce1ba5f56599c",
         "title": "姑苏灵岩寺",
         "author": "陈善",
         "content": "山僧不好古，改作任所欲。\n洞荒径已迷，廊空响谁续。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5a08973013550237e8c0c45a1fa763d2",
         "title": "句",
         "author": "陈善",
         "content": "不到沧浪亭上望，那知此句是天成。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e92c5ca67b163f5cde902cbabd4acdf6",
         "title": "句  其一",
         "author": "陈善",
         "content": "春风一日归深院，巫峡千山锁暮云。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "80977c89ee5bbbd5fffd31d4ff48f1cc",
         "title": "句  其二",
         "author": "陈善",
         "content": "闻说平生辅汉卿，武夷山下啜残羹。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "42bbf32970fa7edef92f9e07ac81376c",
         "title": "句  其三",
         "author": "陈善",
         "content": "不知筋力衰多少，但觉新来懒上楼。",

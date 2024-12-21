@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "10ced2e3f6da8ddd344d67d78977c6b2",
         "title": "诗一首",
         "author": "戚明瑞",
         "content": "蓝田战秦将，子婴竖降帻。\n至今柏树精，疑是卧龙魄。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7577057a4e3107e24727f8b0f98506f0",
         "title": "句  其一",
         "author": "戚明瑞",
         "content": "旧梦不堪游螘国，生涯只合在渔舟。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cabfea5a73deab5253a558946dfa62c1",
         "title": "句  其二",
         "author": "戚明瑞",
         "content": "鸺鹠欢喜舞南风。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ecf756c4e6e2904a8aa4d0bbe2d0a577",
         "title": "句  其三",
         "author": "戚明瑞",
         "content": "老槐阴下吹箜篌。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "566063d0a3191985416d14b840045aff",
         "title": "句  其四",
         "author": "戚明瑞",
         "content": "纔听黄鹂便断肠。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f54ea0c0872ec254f5043b4b3629a1bf",
         "title": "句  其五",
         "author": "戚明瑞",
         "content": "望帝花飞春尚寒。",

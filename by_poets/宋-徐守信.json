@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "e87e830ee667519972bad9cd00396c5f",
         "title": "诗三首  其一",
         "author": "徐守信",
         "content": "遥望南庄景色幽，前人田土后人收。\n儿孙自有儿孙福，莫与儿孙作马牛。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "79c87aab7c8092c9c4f8a54bba39d3bb",
         "title": "诗三首  其二",
         "author": "徐守信",
         "content": "富贵贫穷各有由，宿缘分定莫罔求。\n不曾下得春时种，空守荒田望有收。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5630ec9a77254e63d06c7bef9066a84a",
         "title": "诗三首  其三",
         "author": "徐守信",
         "content": "南庄北宅眼前花，好儿好女莫缦夸。\n我若一朝身死后，又属张三李四家。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "231647eb9e12603f241dcc8bfbff5b26",
         "title": "偈",
         "author": "徐守信",
         "content": "天地一尺，四海一滴。\n把眼一眨，不见踪迹。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "853cc768e1dc149d3e0dd4c8e383a48e",
         "title": "诗一首",
         "author": "徐守信",
         "content": "牡蛎滩头一艇横，夕阳西去待潮生。\n与君不负登临约，同上金鳌背上行。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c4a53444691866fa8c4978964fe55436",
         "title": "题方丈  其一",
         "author": "黄庭美",
         "content": "宾云奏彻控青鸾，綵幔香销生翠寒。\n三十六峰秋色裏，月明人倚玉阑干。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9da64cb46773a590859db8bef87d1fa7",
         "title": "题方丈  其二",
         "author": "黄庭美",
         "content": "欲看太乙青蔾火，笑领仙人绿玉杯。\n物外同心谁管鲍，山中清话得张裴。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8b9f89e4591ca13b2ea9da2a45030df8",
         "title": "题方丈  其三",
         "author": "黄庭美",
         "content": "九重云外步虚声，十二时中太古情。\n为问当年赤松子，人生何处是功成。",

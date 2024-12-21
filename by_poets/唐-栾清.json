@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "eeacf07f2a5aac08f99225fa73621e25",
         "title": "遇莲叶二客诗",
         "author": "栾清",
         "content": "得饮摅公酒，復登摅公舟。\n便得神体清，超遥旷无忧。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "835c673d1b5f8f019263d813af0d557e",
         "title": "莲叶二客诗 一",
         "author": "栾清",
         "content": "行时云作伴，坐即酒为侣。\n腹以元化充，衣将云霞补。\n纣虐与尧仁，可惜皆朽腐。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "44757b5c94b2039bf4b90d410c18659b",
         "title": "莲叶二客诗 二",
         "author": "栾清",
         "content": "檝棹无所假，超然信萍查。\n朝浮旭日辉，夕荫清月华。\n营营功业人，朽骨成泥沙。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "7969e0b0fc3c82a39bd688476aebbb30",
         "title": "遇莲叶二客诗",
         "author": "栾清",
-        "content": "得饮摅公酒，复登摅公舟。便得神体清，超遥旷无忧。",
+        "content": "得饮摅公酒，复登摅公舟。\n便得神体清，超遥旷无忧。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

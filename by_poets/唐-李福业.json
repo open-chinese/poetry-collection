@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "44c70ac7e9ec9c8e25cae3199f3497e2",
         "title": "岭外守岁",
         "author": "李福业",
         "content": "冬去更筹尽，春随斗柄迴。\n寒暄一夜隔，客鬓两年催。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "7890bb28eea8e0174502d1b6e93f895b",
         "title": "岭外守岁",
         "author": "李福业",
-        "content": "冬去更筹尽，春随斗柄回。寒暄一夜隔，客鬓两年催。",
+        "content": "冬去更筹尽，春随斗柄回。\n寒暄一夜隔，客鬓两年催。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

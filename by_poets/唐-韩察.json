@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "fb1cf8b5dbbb945ac6bc1b834dbfa128",
         "title": "和张相公太原山亭怀古诗",
         "author": "韩察",
         "content": "公府政多暇，思与仁智全。\n为山想岩穴，引水听潺湲。\n轩冕迹自逸，尘俗无由牵。\n苍生方瞩望，讵得赋归田。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "和张相公太原山亭怀古诗",
-        "author": "韩察",
-        "content": "公府政多暇，思与仁智全。为山想岩穴，引水听潺湲。\n轩冕迹自逸，尘俗无由牵。苍生方瞩望，讵得赋归田。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百六十六"
-        }
     }
 ]

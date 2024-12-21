@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "8bf5ea828f782e07edf46074464a9e94",
         "title": "游青城山",
         "author": "白逊",
         "content": "青城山中云茫茫，龙车问道来轩皇。\n当封分为五岳长，天地截作神仙乡。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5a217f050f4a17e3f3b34a5b00bf68a2",
         "title": "句  其一",
         "author": "白逊",
         "content": "鹿随采药携家去，鹤恐飞仙佩箭归。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "89f4368eacd72b4451959befaa7a2073",
         "title": "句  其二",
         "author": "白逊",
         "content": "上清宫殿与云齐，六六峰朝万岭低。",

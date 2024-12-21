@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "428c283ec337173bd404fe47aade1d18",
         "title": "绝句",
         "author": "何正平",
         "content": "坐见茅斋一叶秋，小山丛柱鸟声幽。\n不知迭嶂夜来雨，清晓石楠花乱流。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "21a725120de27fa43aca8edacc611db2",
         "title": "句",
         "author": "何正平",
         "content": "一枝春瘦雪初消。",

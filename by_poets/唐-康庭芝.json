@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "8caff2dff97a9a4454ce34afa6884aa4",
         "title": "咏月",
         "author": "康庭芝",
         "content": "天使下西楼，光含万里秋。\n台前疑挂镜，帘外似悬钩。\n张尹将眉学，班姬取扇俦。\n佳期应借问，为报在刀头。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "咏月",
-        "author": "康庭芝",
-        "content": "天使下西楼，光含万里秋。台前疑挂镜，帘外似悬钩。\n张尹将眉学，班姬取扇俦。佳期应借问，为报在刀头。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷一百一十三"
-        }
     }
 ]

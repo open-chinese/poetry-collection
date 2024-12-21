@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "30d1912f9c550a1de8da3db9accb497a",
         "title": "四时诗 春",
         "author": "徐瓘",
         "content": "风吹细浪低田麦，雨过初分浅水秧。\n红树半开桃脸嫩，绿波深映柳丝长。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d61c32132428dbece9a57769306ea571",
         "title": "四时诗 夏",
         "author": "徐瓘",
         "content": "林垂紫李玉成蹊，水映红榴石近溪。\n深栋双双飞燕语，阴槐绿树万蝉嘶。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "09e102123cb4a7b803c63f3346d7f6c6",
         "title": "四时诗 秋",
         "author": "徐瓘",
         "content": "红飘乱叶树连枝，雨着疏花菊遶篱。\n蓬转恨多饶白髮，鸿归数处寄新诗。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "14ce9bbb7f077510da71a6e4b15be040",
         "title": "四时诗 冬",
         "author": "徐瓘",
         "content": "飞花雪片落梅残，兴发歌楼酒量宽。\n矶石钓鱼观冻手，衣蓑绿映暮江寒。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2f6fabfe341d70454a378919c6de1265",
         "title": "偶书",
         "author": "徐瓘",
         "content": "明中悟理造忱诚，性觉通真见即行。\n生不生来空是境，有无有处化为城。\n荣枯现梦因缘想，色相求心妄执情。\n名与实亡都在道，盲聋苦学漫营营。",

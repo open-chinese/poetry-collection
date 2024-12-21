@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "1c0091d352ba924bbd951a2f26555358",
         "title": "清溪馆作",
         "author": "钱戭",
         "content": "指途清溪裏，左右唯深林。\n云蔽望乡处，雨愁为客心。\n遇人多物役，听鸟时幽音。\n何必沧浪水，庶兹浣尘襟。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "清溪馆作",
-        "author": "钱戭",
-        "content": "指途清溪裏，左右唯深林。云蔽望乡处，雨愁为客心。\n遇人多物役，听鸟时幽音。何必沧浪水，庶兹浣尘襟。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十"
-        }
     }
 ]

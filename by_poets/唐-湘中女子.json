@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "dfa794eb0d9d2c7ad6c8e9bc57da1301",
         "title": "驿楼诵诗",
         "author": "湘中女子",
         "content": "红树醉秋色，碧溪弹夜弦。\n佳期不可再，风雨杳如年。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "驿楼诵诗",
-        "author": "湘中女子",
-        "content": "红树醉秋色，碧溪弹夜弦。佳期不可再，风雨杳如年。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十六"
-        }
     }
 ]

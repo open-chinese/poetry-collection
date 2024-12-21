@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "2182649bcafd375cd88cc59faf242974",
         "title": "诗三首  其一",
         "author": "释遇贤",
         "content": "门前绿树无啼鸟，庭下苍苔有落花。\n聊与东君论箇事，十分春色属谁家。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "569f5f60641423dbe68065e39f90f822",
         "title": "诗三首  其二",
         "author": "释遇贤",
         "content": "心閒增道气，忍事敌灾屯。\n谨言终少祸，节俭胜求人。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4f338f358ac4724daacf4c7d7de86220",
         "title": "诗三首  其三",
         "author": "释遇贤",
         "content": "金斝又闻泛，玉山还报颓。\n莫教更漏促，趁取月明迴。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f17c7f9d165f6106aa1c8d21a774ac8e",
         "title": "诗一首",
         "author": "释遇贤",
         "content": "扬子江头浪最深，行人到此尽沉吟。\n他时若向无波处，还似有波时用心。",

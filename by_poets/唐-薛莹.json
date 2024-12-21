@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "0b5f5078890c6b9087e887c02583e82d",
         "title": "秋晚同友人闲步",
         "author": "薛莹",
         "content": "藉草与行莎，相看日未斜。\n断崖分鸟道，疎树见人家。\n望远临孤石，吟余落片霞。\n野情看不足，归路思犹赊。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e607d9db0d98a1f59b8c57461fa16bad",
         "title": "宿仙都观阴王二君修道处",
         "author": "薛莹",
         "content": "十载别仙峰，峰前千古踪。\n阴王修道处，云雪满高松。\n洞口风雷异，池心星汉重。\n明朝下山去，片月落残钟。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7c0f938e34d343ee9709f0ebf9075444",
         "title": "宿东岩寺晓起",
         "author": "薛莹",
         "content": "野寺寒塘晓，游人一梦分。\n钟残数树月，僧起半岩云。\n宿鸟惊初见，幽泉落不闻。\n吟余凭前槛，红叶下纷纷。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6a7b4bb5f0c76eb3deee05e542610f1d",
         "title": "秋日湖上",
         "author": "薛莹",
         "content": "落日五湖游，烟波处处愁。\n沈浮千古事，谁与问东流。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0966d86d535aabbaa93b4c5e25c55c98",
         "title": "江山闲望",
         "author": "薛莹",
         "content": "渺渺无穷尽，风涛几日平。\n年光与人事，东去一声声。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4f0de8cdc5eb20483d35d941509a9b83",
         "title": "访武陵道者不遇",
         "author": "薛莹",
         "content": "花发鸟仍啼，行行路欲迷。\n二真无问处，虚度武陵溪。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "093701041fce6a8eb3a9b229c66d04d3",
         "title": "寄旧山隐侣",
         "author": "薛莹",
         "content": "旧山诸隐沦，身在苦无身。\n莫锁白云路，白云多悞人。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6390d3d403fb056ae5bc8bbdd3ae0d1f",
         "title": "羡僧",
         "author": "薛莹",
         "content": "处世曾无着，生前事尽非。\n一缾兼一衲，南北去如归。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "eda091bdffd6720a8f7b229da41877bf",
         "title": "锦",
         "author": "薛莹",
         "content": "轧轧弄寒机，功多力渐微。\n惟忧机上锦，不称舞人衣。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "237a49c8fe927b40ab2ac19f98b6776a",
         "title": "中秋月",
         "author": "薛莹",
         "content": "三十六旬盈復缺，百年堪喜又堪伤。\n劝君莫惜登楼望，云放婵娟不久长。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1b682578869da2421dc2eecdc2a80504",
         "title": "句",
         "author": "薛莹",
         "content": "单棹横疎雨，江滩秋泊时。\n花留身住越，月递梦还秦。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "263d78ff13705c6eec1e8b4636a0bf77",
         "title": "十日菊",
         "author": "薛莹",
         "content": "昨日尊前折，万人酣晓香。\n今朝篱下见，满地委残阳。\n得失片时痛，荣枯一岁伤。\n未将同腐草，犹更有重霜。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f03a52556bd2256f9a5e1e6552c49f0f",
         "title": "海上",
         "author": "薛莹",
         "content": "花留身住越，月递梦还秦。\n（见《海录碎事》卷十）（按：《全唐诗》卷五四二收此二句，缺题，今重录。\n）。",
@@ -91,9 +104,10 @@
         "collection_info": null
     },
     {
+        "uuid": "49f970da39715ac7627860f3645c8917",
         "title": "秋晚同友人閒步",
         "author": "薛莹",
-        "content": "藉草与行莎，相看日未斜。断崖分鸟道，疏树见人家。\n望远临孤石，吟余落片霞。野情看不足，归路思犹赊。",
+        "content": "藉草与行莎，相看日未斜。\n断崖分鸟道，疏树见人家。\n望远临孤石，吟余落片霞。\n野情看不足，归路思犹赊。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -101,59 +115,10 @@
         }
     },
     {
-        "title": "宿仙都观阴王二君修道处",
-        "author": "薛莹",
-        "content": "十载别仙峰，峰前千古踪。阴王修道处，云雪满高松。\n洞口风雷异，池心星汉重。明朝下山去，片月落残钟。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百四十二"
-        }
-    },
-    {
-        "title": "宿东岩寺晓起",
-        "author": "薛莹",
-        "content": "野寺寒塘晓，游人一梦分。钟残数树月，僧起半岩云。\n宿鸟惊初见，幽泉落不闻。吟余凭前槛，红叶下纷纷。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百四十二"
-        }
-    },
-    {
-        "title": "秋日湖上",
-        "author": "薛莹",
-        "content": "落日五湖游，烟波处处愁。沈浮千古事，谁与问东流。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百四十二"
-        }
-    },
-    {
-        "title": "江山闲望",
-        "author": "薛莹",
-        "content": "渺渺无穷尽，风涛几日平。年光与人事，东去一声声。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百四十二"
-        }
-    },
-    {
-        "title": "访武陵道者不遇",
-        "author": "薛莹",
-        "content": "花发鸟仍啼，行行路欲迷。二真无问处，虚度武陵溪。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百四十二"
-        }
-    },
-    {
+        "uuid": "1783a9caa12a2cf9249bc7dd8a512b48",
         "title": "寄旧山隐侣",
         "author": "薛莹",
-        "content": "旧山诸隐沦，身在苦无身。莫锁白云路，白云多误人。",
+        "content": "旧山诸隐沦，身在苦无身。\n莫锁白云路，白云多误人。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -161,9 +126,10 @@
         }
     },
     {
+        "uuid": "09d18aca76757c8d06945b5f0f9478e6",
         "title": "羡僧",
         "author": "薛莹",
-        "content": "处世曾无着，生前事尽非。一瓶兼一衲，南北去如归。",
+        "content": "处世曾无着，生前事尽非。\n一瓶兼一衲，南北去如归。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -171,16 +137,7 @@
         }
     },
     {
-        "title": "锦",
-        "author": "薛莹",
-        "content": "轧轧弄寒机，功多力渐微。惟忧机上锦，不称舞人衣。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷五百四十二"
-        }
-    },
-    {
+        "uuid": "e7d26fb6aac18247b77eacd7f7adfacd",
         "title": "中秋月",
         "author": "薛莹",
         "content": "三十六旬盈复缺，百年堪喜又堪伤。\n劝君莫惜登楼望，云放婵娟不久长。",
@@ -191,6 +148,7 @@
         }
     },
     {
+        "uuid": "ef4cf60c338d67cc67921f41e62cc555",
         "title": "句",
         "author": "薛莹",
         "content": "单棹横疏雨，江滩秋泊时。\n花留身住越，月递梦还秦。",
@@ -198,16 +156,6 @@
         "collection_info": {
             "collection": "御定全唐诗",
             "volume": "卷五百四十二"
-        }
-    },
-    {
-        "title": "十日菊",
-        "author": "薛莹",
-        "content": "昨日尊前折，万人酣晓香。今朝篱下见，满地委残阳。\n得失片时痛，荣枯一岁伤。未将同腐草，犹更有重霜。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百八十四"
         }
     }
 ]

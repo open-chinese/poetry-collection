@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "10126ff0cec4041358c15566b21804f6",
         "title": "相和歌辞 明妃曲",
         "author": "王偃",
         "content": "北望单于日半斜，明君马上泣胡沙。\n一双泪滴黄河水，应得东流入汉家。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fc5d0410e26d20cd898ca2858f82ab43",
         "title": "杂曲歌辞 夜夜曲",
         "author": "王偃",
         "content": "北斗星移银汉低，班姬愁思凤城西。\n青槐陌上人行绝，明月楼前乌夜啼。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "33e6386fd25643f8cd93ccf3bd2e23c4",
         "title": "夜夜曲",
         "author": "王偃",
         "content": "北斗星移银汉低，班姬愁思凤城西。\n青槐陌上行人绝，明月楼前乌夜啼。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "99496ac7ee1b442a39cffb9fb1f617bb",
         "title": "明君词",
         "author": "王偃",
         "content": "北望单于日半斜，明君马上泣胡沙。\n一双泪滴黄河水，应得东流入汉家。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b16386ef7fd6ccdb6f76024eec75f978",
         "title": "相和歌辞：明妃曲",
         "author": "王偃",
         "content": "北望单于日半斜，明君马上泣胡沙。\n一双泪滴黄河水，应得东流入汉家。",
@@ -38,6 +43,7 @@
         }
     },
     {
+        "uuid": "47767800e8daaf4ec99a6c0560e9df4c",
         "title": "杂曲歌辞：夜夜曲",
         "author": "王偃",
         "content": "北斗星移银汉低，班姬愁思凤城西。\n青槐陌上人行绝，明月楼前乌夜啼。",

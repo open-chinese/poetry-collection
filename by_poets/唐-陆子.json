@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "fbf359326b82c52b173a35d6dabd94d7",
         "title": "嘲父",
         "author": "陆子",
         "content": "陆余庆，笔头无力觜头硬。\n一朝受辞讼，十日判不竟。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "嘲父",
-        "author": "陆子",
-        "content": "陆余庆，笔头无力觜头硬。一朝受辞讼，十日判不竟。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十九"
-        }
     }
 ]

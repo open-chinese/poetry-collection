@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "75dc86f60b0a133efd18d6e7a102da3d",
         "title": "岭南归后献诗",
         "author": "权龙褒",
         "content": "龙褒有何罪，天恩放岭南。\n敕知无罪过，追来与将军。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bf892667ea461ad28b97780c752c3031",
         "title": "初到沧州呈州官",
         "author": "权龙褒",
         "content": "遥看沧海城，杨柳郁青青。\n中央一羣汉，聚坐打杯觥。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cfe1aaa1b5a9dc3df3a24d1ef5c985e3",
         "title": "秋日述怀",
         "author": "权龙褒",
         "content": "檐前飞七百，雪白后园彊。\n饱食房裏侧，家粪集野蜋。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6e249928c859d86dd0676aebd5d3837a",
         "title": "喜雨",
         "author": "权龙褒",
         "content": "暗去也没雨，明来也没云。\n日头赫赤出，地上绿氤氲。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9879caf6cfaeda5bb51801d82dd21fd1",
         "title": "皇太子夏日赐宴诗",
         "author": "权龙褒",
         "content": "严霜白浩浩，明月赤团团。",
@@ -35,19 +40,10 @@
         "collection_info": null
     },
     {
-        "title": "岭南归后献诗",
-        "author": "权龙褒",
-        "content": "龙褒有何罪，天恩放岭南。敕知无罪过，追来与将军。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十九"
-        }
-    },
-    {
+        "uuid": "34bf5737e82730488c4045cf9058a936",
         "title": "初到沧州呈州官",
         "author": "权龙褒",
-        "content": "遥看沧海城，杨柳郁青青。中央一群汉，聚坐打杯觥。",
+        "content": "遥看沧海城，杨柳郁青青。\n中央一群汉，聚坐打杯觥。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -55,19 +51,10 @@
         }
     },
     {
+        "uuid": "187637dc4cd91945b84febb599a203ac",
         "title": "秋日述怀",
         "author": "权龙褒",
-        "content": "檐前飞七百，雪白后园强。饱食房裏侧，家粪集野螂。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十九"
-        }
-    },
-    {
-        "title": "喜雨",
-        "author": "权龙褒",
-        "content": "暗去也没雨，明来也没云。日头赫赤出，地上绿氤氲。",
+        "content": "檐前飞七百，雪白后园强。\n饱食房裏侧，家粪集野螂。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

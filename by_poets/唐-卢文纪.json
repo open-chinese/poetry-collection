@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "b21b663fec8732003fb47f3ed2410601",
         "title": "后唐宗庙乐舞辞",
         "author": "卢文纪",
         "content": "仁君御宇，环海谧清。\n运符武德，道协文明。\n九成式敍，百度惟成。\n金门积庆，玉叶传荣。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "6093eeb01bcf5882c1e09c582cda4c3a",
         "title": "后唐宗庙乐舞辞",
         "author": "卢文纪",
-        "content": "仁君御宇，寰海谧清。运符武德，道协文明。\n九成式叙，百度惟成。金门积庆，玉叶传荣。",
+        "content": "仁君御宇，寰海谧清。\n运符武德，道协文明。\n九成式叙，百度惟成。\n金门积庆，玉叶传荣。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

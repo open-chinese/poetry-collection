@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "64ddec928f5a23849d9033ad0426ea0a",
         "title": "秋夜吟",
         "author": "长安中鬼",
         "content": "六街鼓歇行人绝，九衢茫茫室有月。\n九衢生人何劳劳，长安土尽槐根高。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "06422dc26d9b6982d08a1d57faf53a13",
         "title": "秋夜吟",
         "author": "长安中鬼",
-        "content": "六街鼓歇行人绝，九衢茫茫室有月。——\n九衢生人何劳劳，长安土尽槐根高。——",
+        "content": "六街鼓歇行人绝，九衢茫茫室有月。\n——九衢生人何劳劳，长安土尽槐根高。\n——",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

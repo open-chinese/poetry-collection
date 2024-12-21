@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ece65421cf585c05ad258749de7de8a5",
         "title": "讽刘炎索贿诗",
         "author": "太守",
         "content": "未到桃源时，长忆出家景。\n及到桃源了，还似鑑中影。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "a77bb8fdf80fca4e8c2046160ac8c57f",
         "title": "讽刘炎索贿诗",
         "author": "太守",
-        "content": "未到桃源时，长忆出家景。及到桃源了，还似鉴中影。",
+        "content": "未到桃源时，长忆出家景。\n及到桃源了，还似鉴中影。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

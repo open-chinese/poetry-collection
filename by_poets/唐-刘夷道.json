@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "47def3e23d36928b7d0e28727850079d",
         "title": "伤死奴",
         "author": "刘夷道",
         "content": "丹籍生涯浅，黄泉归路深。\n不及江陵树，千秋长作林。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "伤死奴",
-        "author": "刘夷道",
-        "content": "丹籍生涯浅，黄泉归路深。不及江陵树，千秋长作林。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百六十九"
-        }
     }
 ]

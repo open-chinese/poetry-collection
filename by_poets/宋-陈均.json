@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "7d5224d43ec205624a69277d96b36576",
         "title": "九江闻雁",
         "author": "陈均",
         "content": "烟波渺渺梦悠悠，家在江南海尽头。\n音信稀疏兄弟隔，一声新雁九江秋。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b3aceff31ff3a2c9318da5af87a279f0",
         "title": "鹤林寺  其一",
         "author": "陈均",
         "content": "知有枫林坐竹间，每寻纡路试登山。\n虚檐忽见笼中鹤，似我爱閒身未閒。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fbe266683ecf5b12e4279b0b7a329b4e",
         "title": "鹤林寺  其二",
         "author": "陈均",
         "content": "竹遶高僧逢话处，花留仙者旧开枝。\n道身虚淡元无着，付与东风烂漫吹。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "75b930f29e15090c634d9a6badd4e435",
         "title": "七溪",
         "author": "陈均",
         "content": "为爱潺湲引步迟，不知行尽白云西。\n云深忘却来时路，吟断空山片月低。",

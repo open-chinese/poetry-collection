@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "3f1818ee8a6f0760894d8595f15928af",
         "title": "贻白永年诗",
         "author": "樵夫",
         "content": "清秋无所事，乘露出遥天。\n凭杖樵人语，相期白永年。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "5ae469fd9dbd347e2f622dfec8ca774f",
         "title": "贻白永年诗",
         "author": "樵夫",
-        "content": "清秋无所事，乘露出遥天。凭仗樵人语，相期白永年。",
+        "content": "清秋无所事，乘露出遥天。\n凭仗樵人语，相期白永年。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

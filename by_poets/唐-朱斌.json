@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "7e216b0f8671418a979a6481b1c28892",
         "title": "登楼",
         "author": "朱斌",
         "content": "白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "005b9ae6562d9159b3e728885e9b2960",
         "title": "登楼",
         "author": "朱斌",
-        "content": "白日依山尽，黄河入海流。欲穷千里目，更上一重楼。",
+        "content": "白日依山尽，黄河入海流。\n欲穷千里目，更上一重楼。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

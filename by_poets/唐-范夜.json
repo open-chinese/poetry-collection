@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "7cb265b3a92c718f62ad92f7e1d783fe",
         "title": "失题",
         "author": "范夜",
         "content": "举意三江竭，兴心四海枯。\n南游李邕死，北望宋珪殂。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "失题",
-        "author": "范夜",
-        "content": "举意三江竭，兴心四海枯。南游李邕死，北望宋珪殂。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十五"
-        }
     }
 ]

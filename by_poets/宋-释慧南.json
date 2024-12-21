@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ec80c22def508a5da038125a05ec62e8",
         "title": "颂二首  其一",
         "author": "释慧南",
         "content": "杰出丛林是赵州，老婆勘破有来由。\n而今四海清如镜，行人莫与路为雠。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c33a40b055527b01cebe42a390d5c5a7",
         "title": "颂二首  其二",
         "author": "释慧南",
         "content": "生缘断处伸馿脚，馿脚伸时佛手开。\n为报五湖参学者，三关一一透将来。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ea747d38283d3bcc5fcc596d5925c3f6",
         "title": "偈二首  其一",
         "author": "释慧南",
         "content": "心王不妄动，六国一时通。\n罢拈三尺劒，休弄一张弓。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8fff345ab6ea5113f2de917e4f785011",
         "title": "偈二首  其二",
         "author": "释慧南",
         "content": "得不得，传不得，归根得旨復何言。\n忆得首山曾漏泄，新妇骑馿阿家牵。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "4e484d89812901e92414e8e5e294c1df",
         "title": "戏张道人不饮酒",
         "author": "颜荛",
         "content": "言自云山访我来，每闻奇秘觉叨陪。\n吾师不饮人间酒，应待流霞即举杯。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "783a36420449e8a14027c5516448c7c0",
         "title": "句",
         "author": "颜荛",
         "content": "爽籁尽成鸣凤曲，游人多是弄珠仙。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "adb87a00e7b0de4a2c27e119eda56ee2",
         "title": "题孟浩然墓",
         "author": "颜荛",
         "content": "可怜垂世诗千首，换得荒坟数尺碑。\n（见《舆地纪胜》卷八二《襄阳府》）。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "423a2e2716d0357d3db80d1eb4c4d07d",
         "title": "习家池大堤（题拟）",
         "author": "颜荛",
         "content": "习家池畔思前事，游女江边想弄珠。\n檀溪春水长青蒲，溪上行人问的卢。\n（同前）。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "463b1eaace178763fb94995d3707c85a",
         "title": "习家池大堤",
         "author": "颜荛",
         "content": "习郁穿池事胜游，山翁酣饮继风流。\n（同前）。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "9addd10f973630248fced6fa8979777a",
         "title": "宝劒篇",
         "author": "刘长川",
         "content": "宝劒不可得，相逢几许难。\n今朝一度见，赤色照人寒。\n匣裏星文动，环边月影残。\n自然神鬼伏，无事莫空弹。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ee13d4d913eb5f78fa027f01cf906ade",
         "title": "将赴东都上李相公",
         "author": "刘长川",
         "content": "四海兵初偃，平津阁正开。\n谁知大炉下，还有不然灰。",
@@ -14,19 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "6a0f9f671e0a06a234fbdf100776f602",
         "title": "宝剑篇",
         "author": "刘长川",
-        "content": "宝剑不可得，相逢几许难。今朝一度见，赤色照人寒。\n匣裏星文动，环边月影残。自然神鬼伏，无事莫空弹。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百一十一"
-        }
-    },
-    {
-        "title": "将赴东都上李相公",
-        "author": "刘长川",
-        "content": "四海兵初偃，平津阁正开。谁知大炉下，还有不然灰。",
+        "content": "宝剑不可得，相逢几许难。\n今朝一度见，赤色照人寒。\n匣裏星文动，环边月影残。\n自然神鬼伏，无事莫空弹。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

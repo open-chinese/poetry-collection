@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "58662af7b0ea06d54f30368aa315553d",
         "title": "和蕙岩登塔韵  其一",
         "author": "郑起潜",
         "content": "秋向空高分外澄，排云携手共梯登。\n举头便是蟾宫路，休问青霄有几层。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "afe94158ccda993baecca754f48c8915",
         "title": "和蕙岩登塔韵  其二",
         "author": "郑起潜",
         "content": "巍倚浮图几曲栏，远山屏翠拥林端。\n鹏程便好乘风上，不管琼楼高处寒。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "aeedcd57579974daf71097c78013bf7c",
         "title": "题渊明采菊图",
         "author": "郑起潜",
         "content": "闲却经纶手，东篱把菊枝。\n先生花外意，难画亦难诗。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8550bacc3cf496f52d8923e5a9cb8ff1",
         "title": "题蜀道难图",
         "author": "郑起潜",
         "content": "蜀道难从古，于今分外难。\n江山风景在，忍把画图看。",

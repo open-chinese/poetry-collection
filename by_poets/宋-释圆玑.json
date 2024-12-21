@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "3a80e534cafe5aded7e6219373288c01",
         "title": "偈二首  其一",
         "author": "释圆玑",
         "content": "不学文章不读书，颓然终日自如愚。\n虽然百事不通晓，是马何曾唤作驴。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4f668c7a786f67e80f284af50f23ecca",
         "title": "偈二首  其二",
         "author": "释圆玑",
         "content": "无学庵中老，平生百不能。\n忖思多幸处，至老得为僧。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4c662b42067ea71be5350642634487b0",
         "title": "答张无尽因续成诗",
         "author": "释圆玑",
         "content": "野僧窿客下烟岚，试问如何是翠岩。\n门近洪崖千尺井，石桥分水绕松杉。",

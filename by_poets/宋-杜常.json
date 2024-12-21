@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "0cb9c2d587a29d997e03b634685f3b8f",
         "title": "过华清宫",
         "author": "杜常",
         "content": "行尽江南数十程，晓风残月入华清。\n朝元阁上西风急，都入长杨作雨声。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "797bb738a5e7a7ae5a4c721a207af74a",
         "title": "夜雨晨霁",
         "author": "杜常",
         "content": "桕叶青青栎叶红，高低相倚弄秋风。\n夜来雨后轻尘敛，绣出骊山岭上宫。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "50afc185b2ab982d71d38b41abf06b1b",
         "title": "温泉",
         "author": "杜常",
         "content": "已去开元四百年，此泉犹自响潺潺。\n也知不愤当时事，长作悲声恨禄山。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6bd4d27444cd0f2332e78d5a76e5dc10",
         "title": "骊山",
         "author": "杜常",
         "content": "渔阳烽燧起云间，玉辇苍黄下此山。\n何事君王自神武，区区南渡鹿头关。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "64897d5e2921cabfff379d76655487c2",
         "title": "句",
         "author": "杜常",
         "content": "江声聒破刺史眠。",

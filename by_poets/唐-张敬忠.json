@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "25302ca54a85cc81a2d34464419f086d",
         "title": "边词",
         "author": "张敬忠",
         "content": "五原春色旧来迟，二月垂杨未挂丝。\n即今河畔冰开日，正是长安花落时。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2da968bef8b930e26baf3de208900b68",
         "title": "戏咏",
         "author": "张敬忠",
         "content": "有意嫌兵部，专心望考功。\n谁知脚蹭蹬，几落省墙东。",
@@ -14,30 +16,11 @@
         "collection_info": null
     },
     {
+        "uuid": "85a091a51061037bffb1b6f316ddb8da",
         "title": "咏王主敬",
         "author": "张敬忠",
         "content": "有意嫌兵部，专心望考功。\n谁知脚踜蹬，却落省墙东。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "戏咏",
-        "author": "张敬忠",
-        "content": "有意嫌兵部，专心望考功。谁知脚蹭蹬，几落省墙东。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七十五"
-        }
-    },
-    {
-        "title": "咏王主敬",
-        "author": "张敬忠",
-        "content": "有意嫌兵部，专心望考功。谁知脚踜蹬，却落省墙东。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十九"
-        }
     }
 ]

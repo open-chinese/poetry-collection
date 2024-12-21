@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "f93087522f9dad3cf737ada37a2eaf0b",
         "title": "早行",
         "author": "王观",
         "content": "鸡唱催人起，又生前去愁。\n路明残月在，山露宿云收。\n村店烟火动，渔家灯烛幽。\n趋名与趋利，行役几时休。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "早行",
-        "author": "王观",
-        "content": "鸡唱催人起，又生前去愁。路明残月在，山露宿云收。\n村店烟火动，渔家灯烛幽。趋名与趋利，行役几时休。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷三百一十一"
-        }
     }
 ]

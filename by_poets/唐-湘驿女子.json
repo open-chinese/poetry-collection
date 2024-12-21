@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "b6de11754016a04783e416c9a08519c7",
         "title": "题玉泉溪",
         "author": "湘驿女子",
         "content": "红叶醉秋色，碧溪弹夜弦。\n佳期不可再，风雨杳如年。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "题玉泉溪",
-        "author": "湘驿女子",
-        "content": "红叶醉秋色，碧溪弹夜弦。佳期不可再，风雨杳如年。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百零一"
-        }
     }
 ]

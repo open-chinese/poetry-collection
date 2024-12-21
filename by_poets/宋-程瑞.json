@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "50dca4c7e701e00b28028c52a0c8e9ff",
         "title": "咏梅",
         "author": "程瑞",
         "content": "清浅溪桥水，高低篱外枝。\n这些风骨异，瘦尽古今诗。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a99f9b644d013ff57d3e17bbc4a7d59c",
         "title": "咏古",
         "author": "程瑞",
         "content": "博浪沙中力士，望仙桥下军人。\n古来忠胆一概，至今裂视二秦。",

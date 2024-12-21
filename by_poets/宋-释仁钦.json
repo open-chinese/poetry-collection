@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c791861ec7be847bf453a01ab275aed6",
         "title": "灵岩十二景 置寺殿",
         "author": "释仁钦",
         "content": "青蛇引路破樵径，二虎驮经莫厌频。\n周汉魏时于此住，年过八百又重新。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c3557de80aed182fb74772e0666aef35",
         "title": "灵岩十二景 般舟殿",
         "author": "释仁钦",
         "content": "般舟古殿最先风，运载含灵不可穷。\n生死海中波浪险，莫教沉溺失前功。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9c4545f73489443d59cead597f69d023",
         "title": "灵岩十二景 铁袈裟",
         "author": "释仁钦",
         "content": "我佛慈悲铁作衣，谁知方便示禅机。\n昔年庾岭家风在，直到如今识者稀。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c05fceeb0b7660a21f88d7e6d7ed8167",
         "title": "灵岩十二景 朗公山",
         "author": "释仁钦",
         "content": "万象森罗古此峰，传来几世朗公容。\n知音会遇无先后，今日依前旧日踪。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b0e883e87d2e1e21a344b7b2f9356c4d",
         "title": "灵岩十二景 明孔山",
         "author": "释仁钦",
         "content": "凿开灵岩玲珑晓，一窍圆光似月明。\n照古照今传万代，不知谁向此安名。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a9af483b0367e3769d7938d9909792b3",
         "title": "灵岩十二景 绝景亭",
         "author": "释仁钦",
         "content": "四顾林峦似列屏，一源流水响泠泠。\n游人到此忘归去，名称虚堂绝景亭。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fe48753cb8973d1dfbdf883a98db4bf3",
         "title": "灵岩十二景 甘露泉",
         "author": "释仁钦",
         "content": "甘露香泉竟日流，有时天旱四方求。\n随缘赴感无偏党，古往今来不记秋。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "68f78e038a811409870a1ece0a7b8f97",
         "title": "灵岩十二景 石龟泉",
         "author": "释仁钦",
         "content": "团团特石凿灵龟，口内喷流世莫疑。\n造化始知心所有，几人到此乱针锥。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "240891ddeb0bf76db4b42d8613bd2a36",
         "title": "灵岩十二景 锡杖泉",
         "author": "释仁钦",
         "content": "历历金镮振一声，滔滔千古迸流清。\n香厨日用无穷竭，饮者甘和悦众情。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f44e813a9d8a76d67b3a5adb3383deb0",
         "title": "灵岩十二景 白鹤泉",
         "author": "释仁钦",
         "content": "云鹤双飞去几年，遗踪依旧涌灵泉。\n澄澄皎洁无增减，石铫煎茶味更全。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "93076fb6cdac9451deaa8736b3b87781",
         "title": "灵岩十二景 鸡鸣山",
         "author": "释仁钦",
         "content": "鸡鸣欲晓惊行路，回首思量却再来。\n两两三三皆省觉，一人独上妙高台。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "05d36908d1a626d600a5c8de76811233",
         "title": "灵岩十二景 证明殿",
         "author": "释仁钦",
         "content": "万丈岩前作证明，十方檀信等空平。\n一针一草无遗漏，百劫千生果自成。",

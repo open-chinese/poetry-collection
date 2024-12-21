@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "fb0f383516be90c511c07f83729fed03",
         "title": "呈李续",
         "author": "韩弇",
         "content": "我有敌国讐，无人可为雪。\n每至秦陇头，游魂自呜咽。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "13920c31765d2b190b67f18132b1841d",
         "title": "呈李续",
         "author": "韩弇",
-        "content": "我有敌国雠，无人可为雪。每至秦陇头，游魂自呜咽。",
+        "content": "我有敌国雠，无人可为雪。\n每至秦陇头，游魂自呜咽。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

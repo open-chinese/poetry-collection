@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "9ce402eebd6e5d09bab90e35dde52d71",
         "title": "游越溪",
         "author": "郑绍",
         "content": "溪水碧悠悠，猨声断客愁。\n渔潭逢钓楫，月浦值孤舟。\n访泊随烟火，迷途视斗牛。\n今宵越乡意，还取醉忘忧。",
@@ -7,9 +8,10 @@
         "collection_info": null
     },
     {
+        "uuid": "0a9671c0d1fba3adfdf7accaf2956b47",
         "title": "游越溪",
         "author": "郑绍",
-        "content": "溪水碧悠悠，猿声断客愁。渔潭逢钓楫，月浦值孤舟。\n访泊随烟火，迷途视斗牛。今宵越乡意，还取醉忘忧。",
+        "content": "溪水碧悠悠，猿声断客愁。\n渔潭逢钓楫，月浦值孤舟。\n访泊随烟火，迷途视斗牛。\n今宵越乡意，还取醉忘忧。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "ab2182731510f79234e3fb9bb2a2f4fc",
         "title": "梁郊祀乐章 庆肃",
         "author": "张衮",
         "content": "笾豆簠簋，黍稷非馨。\n懿兹彝器，厥德惟明。\n金石匏革，以和以平。\n由此无疆，期乎永宁。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5c791def33f344160a405a578829803c",
         "title": "梁郊祀乐章 庆熙",
         "author": "张衮",
         "content": "哲后躬享，旨酒斯陈。\n王恭无斁，严祀惟寅。\n皇祖以配，大孝以振。\n宜锡景福，永休下民。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cf703af016cbb55971fdaa22006b6c64",
         "title": "梁郊祀乐章 庆隆",
         "author": "张衮",
         "content": "恭祀上帝，于国之阳。\n爵醴是荷，鸿基永昌。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "682bfe4b11703bce66b27052cae6c105",
         "title": "梁郊祀乐章 庆融",
         "author": "张衮",
         "content": "导和气兮袭氤氲，宣皇使兮彰圣神。\n服遐裔兮敷质文，格苗扈兮息烟尘。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b24df0dc1451e2cd55c2589fe5f97637",
         "title": "梁郊祀乐章 庆休",
         "author": "张衮",
         "content": "大业来四夷，仁风和万国。\n白日体无私，皇天辅有德。\n七旬罪已服，六旬师方克。\n伟哉帝道隆，终始常作则。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "435d8952bda393daff8d83362545057f",
         "title": "梁郊祀乐章 庆和",
         "author": "张衮",
         "content": "烟燎昇，礼容彻。\n诚感达，人神悦。\n灵贶彰，圣情结。\n玉座寂，金垆歇。",
@@ -42,9 +48,10 @@
         "collection_info": null
     },
     {
+        "uuid": "b01ccda52d5877e2c6178070943f94ab",
         "title": "郊庙歌辞：梁郊祀乐章：庆肃",
         "author": "张衮",
-        "content": "笾豆簠簋，黍稷非馨。懿兹彝器，厥德惟明。\n金石匏革，以和以平。繇此无体，期乎永宁。",
+        "content": "笾豆簠簋，黍稷非馨。\n懿兹彝器，厥德惟明。\n金石匏革，以和以平。\n繇此无体，期乎永宁。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -52,9 +59,10 @@
         }
     },
     {
+        "uuid": "31a266db2c4ec047b6c44b503c881062",
         "title": "梁郊祀乐章：庆肃",
         "author": "张衮",
-        "content": "笾豆簠簋，黍稷非馨。懿兹彝器，厥德惟明。\n金石匏革，以和以平。由此无疆，期乎永宁。",
+        "content": "笾豆簠簋，黍稷非馨。\n懿兹彝器，厥德惟明。\n金石匏革，以和以平。\n由此无疆，期乎永宁。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -62,9 +70,10 @@
         }
     },
     {
+        "uuid": "14beb4e0736e7ec9365fca975d81223e",
         "title": "梁郊祀乐章：庆熙",
         "author": "张衮",
-        "content": "哲后躬享，旨酒斯陈。王恭无斁，严祀惟寅。\n皇祖以配，大孝以振。宜锡景福，永休下民。",
+        "content": "哲后躬享，旨酒斯陈。\n王恭无斁，严祀惟寅。\n皇祖以配，大孝以振。\n宜锡景福，永休下民。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -72,9 +81,10 @@
         }
     },
     {
+        "uuid": "13d79d6fbea07ec03fdafaafcc2ea61e",
         "title": "梁郊祀乐章：庆隆",
         "author": "张衮",
-        "content": "恭祀上帝，于国之阳。爵醴是荷，鸿基永昌。",
+        "content": "恭祀上帝，于国之阳。\n爵醴是荷，鸿基永昌。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -82,6 +92,7 @@
         }
     },
     {
+        "uuid": "a7affb7faab4a1da8e9241adf19538bf",
         "title": "梁郊祀乐章：庆融",
         "author": "张衮",
         "content": "道和气兮袭氤氲，宣皇规兮彰圣神。\n服遐裔兮敷质文，格苗扈兮息烟尘。",
@@ -92,9 +103,10 @@
         }
     },
     {
+        "uuid": "db8e6600d75fd5db98187825942143d1",
         "title": "梁郊祀乐章：庆休",
         "author": "张衮",
-        "content": "大业来四夷，仁风和万国。白日体无私，皇天辅有德。\n七旬罪已服，六月师方克。伟哉帝道隆，终始常作则。",
+        "content": "大业来四夷，仁风和万国。\n白日体无私，皇天辅有德。\n七旬罪已服，六月师方克。\n伟哉帝道隆，终始常作则。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -102,9 +114,10 @@
         }
     },
     {
+        "uuid": "bf7d22ca6929712fb5b8bbfea9c99af1",
         "title": "梁郊祀乐章：庆和",
         "author": "张衮",
-        "content": "烟燎升，礼容彻。诚感达，人神悦。\n灵贶彰，圣情结。玉座寂，金炉歇。",
+        "content": "烟燎升，礼容彻。\n诚感达，人神悦。\n灵贶彰，圣情结。\n玉座寂，金炉歇。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

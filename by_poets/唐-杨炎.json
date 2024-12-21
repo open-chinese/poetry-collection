@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "94ec01739e41ed54e8ce1c073b61a570",
         "title": "流崖州至鬼门关作",
         "author": "杨炎",
         "content": "一去一万里，千知千不还。\n崖州何处在？生度鬼门关。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "11712c10f6bb727aa046d01699447b93",
         "title": "赠元载歌妓",
         "author": "杨炎",
         "content": "雪面淡眉天上女，凤箫鸾翅欲飞去。\n玉山翘翠步无尘，楚腰如柳不胜春。",
@@ -14,9 +16,10 @@
         "collection_info": null
     },
     {
+        "uuid": "a884839b588b45671aaed0b723b34ef9",
         "title": "流崖州至鬼门关作",
         "author": "杨炎",
-        "content": "一去一万里，千知千不还。崖州何处在，生度鬼门关。",
+        "content": "一去一万里，千知千不还。\n崖州何处在，生度鬼门关。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

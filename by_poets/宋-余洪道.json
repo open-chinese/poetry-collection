@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "cf5103cc5242ee189290030c768afd2e",
         "title": "句  其一",
         "author": "余洪道",
         "content": "世上声名无买处，人间官职有来时。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "74044c286948160ac750840f90dbd12b",
         "title": "句  其二",
         "author": "余洪道",
         "content": "须知凡卉空千万，不似寒花只两三。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "68c400de9cbde37709976f6334f98ced",
         "title": "句  其三",
         "author": "余洪道",
         "content": "着心计较般般错，退步思量事事宽。",

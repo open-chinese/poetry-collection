@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "7cd8c91c464c1b8089365dacf70d2ffa",
         "title": "题漫天坡  其一",
         "author": "郭奕",
         "content": "大漫天是小漫天，小漫天是大漫天。\n只因大小漫天后，遂使生灵入四川。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9009b5e29f3f02c262517f686de6e2c5",
         "title": "题漫天坡  其二",
         "author": "郭奕",
         "content": "秦山未尽蜀山来，日照关门两扇开。\n刺史莫嫌迎候远，相公新送陕西回。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b9df1109d6c54a72eb6fcbc167c57dac",
         "title": "咏张中孚兄弟",
         "author": "郭奕",
         "content": "张中孚，张中彦，江南塞北都行遍。\n教我如何做列传。",

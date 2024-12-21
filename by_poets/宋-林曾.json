@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "23718b7616378bbe573f93b5842f538b",
         "title": "汴河",
         "author": "林曾",
         "content": "一千八百隋家路，两岸青青入帝都。\n可惜翠华南渡后，旧时杨柳一株无。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "09a7234b2159dc7663554a2a394cba44",
         "title": "溪上谣",
         "author": "林曾",
         "content": "溪翁儿女枕溪住，时把钓竿倚芳树。\n沉吟独坐忍伤心，钓得鱼来放将去。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c7d4e2c7f1e99d4319ab8c2196a1e51d",
         "title": "句",
         "author": "林曾",
         "content": "鱼头红结魫，土面白生硝。",

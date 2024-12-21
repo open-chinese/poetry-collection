@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "78c1bd277bb97e705f5af2596d5a55d7",
         "title": "中秋月",
         "author": "潘纬",
         "content": "古今逢此夜，共冀泬㵳明。\n岂是月华别，祗应秋气清。\n影当中土正，轮对八荒平。\n寻客徒留望，璇玑自有程。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "855eda667ee65ea021385ff6f7baf30f",
         "title": "琴",
         "author": "潘纬",
         "content": "客来鸣素琴，惆怅对遗音。\n一曲起于古，几人听到今。\n尽含风霭远，自泛月烟深。\n风续水山操，坐生方外心。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "af0605aeb807c415bebf8fd2a3e2312d",
         "title": "句",
         "author": "潘纬",
         "content": "篆经千古涩，影泻一堂寒。",
@@ -21,19 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "b778ab2a302c78302806da1ff06af54c",
         "title": "中秋月",
         "author": "潘纬",
-        "content": "古今逢此夜，共冀泬明。岂是月华别，只应秋气清。\n影当中土正，轮对八荒平。寻客徒留望，璇玑自有程。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷六百"
-        }
-    },
-    {
-        "title": "琴",
-        "author": "潘纬",
-        "content": "客来鸣素琴，惆怅对遗音。一曲起于古，几人听到今。\n尽含风霭远，自泛月烟深。风续水山操，坐生方外心。",
+        "content": "古今逢此夜，共冀泬明。\n岂是月华别，只应秋气清。\n影当中土正，轮对八荒平。\n寻客徒留望，璇玑自有程。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

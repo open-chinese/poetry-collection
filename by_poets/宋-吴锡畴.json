@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "20fb6aab40acd91453ab7becbcfafd59",
         "title": "春望",
         "author": "吴锡畴",
         "content": "春事今如此，凭高兴未阑。\n半帘疏雨过，一院落花閒。\n草色迷幽径，禽声出晚山。\n东风能育物，不改鬓毛斑。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a3dc5095dc329427731f68c912371288",
         "title": "迂拙",
         "author": "吴锡畴",
         "content": "迂拙安吾分，炎凉任世情。\n箪瓢自钟鼎，风月即勋名。\n春树重重暗，晴云片片明。\n沧波山阁外，浩荡一鸥轻。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "40e8a953298177c86d4a3424fc0c04c0",
         "title": "晚步",
         "author": "吴锡畴",
         "content": "晚日弄晴阴，徐行野径深。\n山寒梅韵峭，林杳鹤声沈。\n缓水元无响，飞云岂有心。\n颇知閒最乐，天地入清吟。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d5812ceffc949c69eccb871df497ef61",
         "title": "烟波奇观写兴",
         "author": "吴锡畴",
         "content": "层楼一望立斜晖，三两人家出翠微。\n浅濑欲流山影去，疏帘不碍月明归。\n自来樵钓无荣辱，到底功名有是非。\n识得老天穷我意，免教世俗践危机。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f79ec57960892d09f46adf21a05b3b87",
         "title": "林和靖墓",
         "author": "吴锡畴",
         "content": "遗稿曾无封禅文，鹤归何处但孤坟。\n清风千载梅花共，说着梅花定说君。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "893f812258cadd6e5de62f0dade58804",
         "title": "春日",
         "author": "吴锡畴",
         "content": "韶光大半去匆匆，几许幽情递不通。\n燕未成家寒食雨，人如中酒落花风。\n一窗草忆濂溪老，五亩园思涑水翁。\n无赋招魂成独啸，且排春句答春工。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b52b09cb24def614db9304fd7c0494a3",
         "title": "兰",
         "author": "吴锡畴",
         "content": "石畔棱棱翠叶长，葳蕤紫蕊吐幽芳。\n灵均去后无人问，林密山深只自香。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9b2453c2ab00443e4e6de3f934363b76",
         "title": "夕阳",
         "author": "吴锡畴",
         "content": "夕阳牛背数家村，一笛声中欲断魂。\n人世百年双短鬓，不知禁得几黄昏。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "aef52ec5716aa0fc50cdc73c03754b09",
         "title": "洲上",
         "author": "吴锡畴",
         "content": "藜杖步芳洲，风花点碧流。\n诗情鳬泛泛，心事水悠悠。\n有约山长翠，无名草自幽。\n声声啼布谷，夜雨足西畴。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d2235445369bb2a8c8381949ee7125e9",
         "title": "寄漫客汪子美兼简竹牖东美",
         "author": "吴锡畴",
         "content": "雁断无书到笔峰，暮云空自满江东。\n漫郎一片襟期杳，子美三生习气同。\n身外有赀惟老砚，竹边无价是清风。\n何时共听檐花雨，小醉微吟夜烛红。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cdc3de76b1a233f4d386506f32ee0a90",
         "title": "晚春",
         "author": "吴锡畴",
         "content": "书策炉熏了日閒，雨余庭砌绿迴环。\n一春又是寻常过，两鬓谁知容易斑。\n轻薄杨花芳草岸，凄凉杜宇夕阳山。\n不嫌贫有双飞燕，依旧衔泥自往还。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ada6fb56f51cddeceea3be7255d22824",
         "title": "新荷",
         "author": "吴锡畴",
         "content": "园林春去后，幽景属池塘。\n过雨钿犹小，吹襟风已香。\n莫期包作馈，好待集为裳。\n太极翁何在，花时爱敢忘。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b9d17d16f8c7549becda0c63d89739e4",
         "title": "夜坐",
         "author": "吴锡畴",
         "content": "萧萧下庭叶，未晚闭柴门。\n故箧搜诗读，残灯唤酒温。\n砧鸣深巷月，犬吠隔溪村。\n人世如无夜，劳生事更繁。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7f9f6460a2cdc6ef5699994f3591083f",
         "title": "闻鶑",
         "author": "吴锡畴",
         "content": "湖边春压柳丝低，云淡风轻一杖藜。\n伐木诗亡交道绝，绵蛮空为尽情啼。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d304c30974e5ca91f64baaddf43d171a",
         "title": "渔父",
         "author": "吴锡畴",
         "content": "笭箵尽自了生涯，岸尾沙头即是家。\n入夜醉归横短笛，满江明月浸芦花。",
@@ -105,6 +120,7 @@
         "collection_info": null
     },
     {
+        "uuid": "dc43f72ea290388ef318bac5eaf2c0ad",
         "title": "春日从伯氏领子侄郊行",
         "author": "吴锡畴",
         "content": "寒食清明共一时，柔红开遍野棠梨。\n繁禽声乐风光丽，弱柳阴浓日脚迟。\n身外生涯何似酒，人间局面只如棋。\n行春莫待花飞却，藉草开樽剩赋诗。",
@@ -112,6 +128,7 @@
         "collection_info": null
     },
     {
+        "uuid": "655f47cdf263ebbc930b5d003ba1350f",
         "title": "棣华堂先大父国录叔大父安抚教授之地堂前古桂岿然独存花时踏月徘徊其下诵先君旧隠之诗次韵追感",
         "author": "吴锡畴",
         "content": "古桂吹香秋月明，当年曾听读书声。\n角弓有赋门人在，邂逅犹须问悴荣。",
@@ -119,6 +136,7 @@
         "collection_info": null
     },
     {
+        "uuid": "88ed6c87cf2f6187d3298d93d55caa2b",
         "title": "醉吟",
         "author": "吴锡畴",
         "content": "一径碧苔深，萧閒几醉吟。\n野花开自落，春色霁还阴。\n涉世谋多拙，逢人口欲瘖。\n门前流水浄，洗尽利名心。",
@@ -126,6 +144,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a1042375a8b806b1ed7c2c43294dcaf4",
         "title": "山村问宿",
         "author": "吴锡畴",
         "content": "问宿山村裏，人烟断復连。\n高峰明落日，危石响幽泉。\n世事双眉上，年华两鬓边。\n沧洲森万玉，飞梦月娟娟。",
@@ -133,6 +152,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1484335f8d13bff59a4dc3c0fc5f65c9",
         "title": "郡侯奏请为先竹洲易名因送逢原入京",
         "author": "吴锡畴",
         "content": "一封奏入五云开，褒录儒先动九垓。\n生意欲回洲上竹，好风已递陇头梅。\n志铭标揭留幽隧，谥法昭彰在曲台。\n去去片帆春水滑，捧持飞诰看归来。",
@@ -140,6 +160,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ba3198b9e12124c6714e1f50a2e4872c",
         "title": "友人有约未至",
         "author": "吴锡畴",
         "content": "梅破疏英饯岁华，寻梅有约过山家。\n短窗昨夜占佳晤，挑尽寒灯未肯花。",
@@ -147,6 +168,7 @@
         "collection_info": null
     },
     {
+        "uuid": "baa9f40cb630c8e98b3d7f849634d2ae",
         "title": "分题牡丹",
         "author": "吴锡畴",
         "content": "此花谁实与封王，公道东皇有品量。\n宿露低垂苍玉佩，暄风轻振紫罗裳。\n精神因为得春久，富贵何妨到晚芳。\n醉把一枝簪帽侧，从教人笑老夫狂。",
@@ -154,6 +176,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3ec66290d28d40b830cb47dbf58eb1b2",
         "title": "荷葭坞呈秋崖方工部",
         "author": "吴锡畴",
         "content": "怕惊啼鸟推棋罢，为爱落花迂屐行。\n窈窈绿云春一坞，游丝飞絮弄新晴。",
@@ -161,6 +184,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d443588bfab8bebed9ad58dd9172865a",
         "title": "晚眺",
         "author": "吴锡畴",
         "content": "日未沈西月色东，一山秋叶染霜红。\n鲜明恰胜春花好，不似春花耐得风。",
@@ -168,6 +192,7 @@
         "collection_info": null
     },
     {
+        "uuid": "582beb9767dfbafd54ce58894212493b",
         "title": "闻雁",
         "author": "吴锡畴",
         "content": "暮霞天角正红酣，渺渺飞鸣雁两三。\n万里中原消息断，頼能带得过江南。",
@@ -175,6 +200,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e87bca555d82058281b1161920bb89cb",
         "title": "僮谕",
         "author": "吴锡畴",
         "content": "小隠生涯无别事，护持蓑笠傍鸥沙。\n清泉频注吟边砚，活火随煎饭后茶。\n趁早须来添鹤料，便忙也去看梅花。\n焚香扫地齐书帙，客到邻墙有酒赊。",
@@ -182,6 +208,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c09151078f154ea41af45702f327e871",
         "title": "遇梅初花",
         "author": "吴锡畴",
         "content": "陇上无人寄一枝，疏花忽见喜生眉。\n岩棱面瘦霜明裏，潇洒香寒月上时。\n比姑射仙同调度，与林逋老共襟期。\n孤芳不竞能坚守，肯向离骚怨未知。",
@@ -189,6 +216,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a8547f21e0a48dddc2e1e2f9d25586b4",
         "title": "秋日",
         "author": "吴锡畴",
         "content": "西风吹雨故将寒，斗室盘旋宇宙宽。\n芦已成花衰鬓白，枫犹染叶醉容丹。\n人间岁月几羊胛，身外勋名一鼠肝。\n领略秋光无限意，东篱閒掇落英餐。",
@@ -196,6 +224,7 @@
         "collection_info": null
     },
     {
+        "uuid": "100117bce94d810a5fd47cd346950a2a",
         "title": "闻笛",
         "author": "吴锡畴",
         "content": "干坤沈万籁，风露杳双清。\n城近更初转，山空月正明。\n揽裘寒意重，看剑壮心惊。\n迢递谁家笛，凄凉此夜情。",
@@ -203,6 +232,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c2ba0ac7352c03ba06f1f8162280e6e8",
         "title": "杨花  其一",
         "author": "吴锡畴",
         "content": "为见春风不久归，颠狂上下弄晴晖。\n只饶天与无拘束，入幕穿帘任意飞。",
@@ -210,6 +240,7 @@
         "collection_info": null
     },
     {
+        "uuid": "04a6ae50d1908d3655f83b7192ccde42",
         "title": "杨花  其二",
         "author": "吴锡畴",
         "content": "飞舞随春去不停，空条留得罩邮亭。\n狂心未肯沾泥死，犹作轻浮水上萍。",
@@ -217,6 +248,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c5f0f4b05d1061df873fb72ee3322e93",
         "title": "次韵答吴仲山",
         "author": "吴锡畴",
         "content": "声利驱人万毂忙，何如林下玩幽芳。\n一池草色春不尽，半树梅花月也香。\n古锦忽分诗眼巧，短笺难寄话头长。\n相望正恨相逢晚，莫惜来过剪韭黄。",
@@ -224,6 +256,7 @@
         "collection_info": null
     },
     {
+        "uuid": "26ca6ac6f3e51b0829cfdbe767a7650c",
         "title": "舟中",
         "author": "吴锡畴",
         "content": "一笑起推篷，烟云望眼中。\n艣鸣无调乐，帆饱有情风。\n山近水偏绿，鹃啼花正红。\n前途足奇观，行色莫怱怱。",
@@ -231,6 +264,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d416521842055d27384ee67e17f86c75",
         "title": "次韵题纯老房竹",
         "author": "吴锡畴",
         "content": "有竹便不俗，萧疏三数竿。\n云深茶竈湿，雨过佛灯寒。\n纪壁何年种，停经了日看。\n尘劳应可涤，几欲借薄团。",
@@ -238,6 +272,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0293cebc7dc1e4446ecea39f8ef102b7",
         "title": "元日",
         "author": "吴锡畴",
         "content": "寂寞柴门贺客疏，已输渐后饮屠苏。\n花情柳思开新岁，竹简蒲团只故吾。\n献楚有谁能辨玉，求齐正自不工竽。\n朝来笑挽春风问，亦解重青两鬓无。",
@@ -245,6 +280,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b8405e4394b1474102c8b4a1ab54d5c7",
         "title": "临川忆旧",
         "author": "吴锡畴",
         "content": "漫浪同为逆旅人，倏然离合入思频。\n清明上巳多愁雨，芍药荼䕷各殿春。\n不改交情山翠旧，渐添老色鬓华新。\n近来世念寒烟薄，已办青蓑理钓纶。",
@@ -252,6 +288,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0f8d2b1a5209727fe2c04cf4a10c8af8",
         "title": "擘蟹",
         "author": "吴锡畴",
         "content": "寒蒲就缚失横行，已矣甘从五鼎烹。\n凭恃甲戈名以躁，贮藏风露败于清。\n芦花洲冷霜威健，竹叶杯深饮兴生。\n且与老饕成后赋，正须一笑付姜橙。",
@@ -259,6 +296,7 @@
         "collection_info": null
     },
     {
+        "uuid": "59eb4841515c506332403d8405cd878f",
         "title": "次韵逢原偶兴",
         "author": "吴锡畴",
         "content": "曾共清灯坐夜阑，依然故我只儒酸。\n昏眸但觉看山易，倦足方知行路难。\n扪虱坐谈思傲睨，闻鸡起舞叹衰残。\n閒中恰续无功记，以醉为乡尽自宽。",
@@ -266,6 +304,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f3f54044e84beb96a63d01f0bdf8e700",
         "title": "晚晴",
         "author": "吴锡畴",
         "content": "雨脚风收断，斜阳漏晚天。\n径芜蛙张王，花霁蝶轻儇。\n画思平林外，诗情步屧边。\n无山将亦隠，底用买山钱。",
@@ -273,6 +312,7 @@
         "collection_info": null
     },
     {
+        "uuid": "73b1ac7e1844a130b6db21c745840086",
         "title": "还友人诗卷",
         "author": "吴锡畴",
         "content": "坛荒杜陵后，何以续诗名。\n千里江山秀，一襟风露清。\n淡中无浅短，豪处有和平。\n细读松间集，如闻雅奏声。",
@@ -280,6 +320,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0edf09778c29c2ddf2bdbe0187a4a656",
         "title": "笼鹤",
         "author": "吴锡畴",
         "content": "本是云霄万里身，樊笼着向绿槐阴。\n虽然禄料曾无欠，孤却宽閒自在心。",
@@ -287,6 +328,7 @@
         "collection_info": null
     },
     {
+        "uuid": "71dbf4fdffd637eff53c29f8b0002621",
         "title": "送春  其一",
         "author": "吴锡畴",
         "content": "红衬晴霞一角天，小楼重上眺前川。\n莫言春去无踪迹，尽在枝头嫩绿边。",
@@ -294,6 +336,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c5cfadb5d6cfd52dd39eecd9beaaf187",
         "title": "送春  其二",
         "author": "吴锡畴",
         "content": "惆怅春归自不禁，日长门巷静沈沈。\n应知不止为花地，沃沃桑麻雨露深。",
@@ -301,6 +344,7 @@
         "collection_info": null
     },
     {
+        "uuid": "54b28da9824a5dc9676b54de4feb4f6e",
         "title": "送春  其三",
         "author": "吴锡畴",
         "content": "新绿迴环暗竹扉，静中物物总天机。\n啼鶑戏蝶浑如旧，莫是春风尚未归。",
@@ -308,6 +352,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b0b8baac9bd635f35b981913bcd6101c",
         "title": "九日集客",
         "author": "吴锡畴",
         "content": "佳节欲酬须酩酊，东篱不记几飞觞。\n从教乌帽吹将去，且对黄花领取香。\n世事漫劳三太息，人生宽破百重阳。\n英雄盖代今何在，戏马高台久已荒。",
@@ -315,6 +360,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1b0cf6dbc0f1059a25fe63a86d1b60d5",
         "title": "听雨",
         "author": "吴锡畴",
         "content": "细细檐花雨，青灯耿客魂。\n轻烟腾柏子，流水响桐孙。\n日月双车毂，干坤一酒樽。\n螘柯分已定，人自苦追奔。",
@@ -322,6 +368,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b00d57eeb58d972400a126abea9f44f5",
         "title": "次韵谢元寿",
         "author": "吴锡畴",
         "content": "曾被儒冠误，谋生事事疏。\n洲无千树橘，家有五车书。\n迭石和苔斸，移梅带雪锄。\n好非人所好，习气未能除。",
@@ -329,6 +376,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0aae8e2d9609d69a7561e96404b92291",
         "title": "赠写照陈生",
         "author": "吴锡畴",
         "content": "燕颔鸢肩总属夫，几何人得上凌烟。\n且烦写在山岩裏，野服黄冠看瀑泉。",
@@ -336,6 +384,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b6a07d349409b3e6d644d5162fcb0082",
         "title": "山中杂言  其一",
         "author": "吴锡畴",
         "content": "小小柴门傍竹开，幽深不惯有人来。\n颇嫌老鹤无情思，啄损庭前一径苔。",
@@ -343,6 +392,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1c373ed9554dff2f29506e22633f5827",
         "title": "山中杂言  其二",
         "author": "吴锡畴",
         "content": "老作山翁行辈人，素衣曾不化京尘。\n只应猿鹤无惊怨，从自龙蛇有屈伸。",
@@ -350,6 +400,7 @@
         "collection_info": null
     },
     {
+        "uuid": "96c5774971d340c2a9264ad7c2f582a9",
         "title": "山中杂言  其三",
         "author": "吴锡畴",
         "content": "数家鸡犬小成村，一带冈峦近入门。\n怕有渔人来问讯，溪流那得截云根。",
@@ -357,6 +408,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2ae3dece0fdf69d553e7df5392e79378",
         "title": "山中杂言  其四",
         "author": "吴锡畴",
         "content": "草色侵除雨后深，天教閒静在山林。\n无田种秫供桑落，有地栽兰当水沈。",
@@ -364,6 +416,7 @@
         "collection_info": null
     },
     {
+        "uuid": "def9d645bb1c7824632c370dd80b9bf2",
         "title": "山中杂言  其五",
         "author": "吴锡畴",
         "content": "移春有槛遍京华，剩种人间富贵花。\n谁识山中穷活计，眼前沃沃只桑麻。",
@@ -371,6 +424,7 @@
         "collection_info": null
     },
     {
+        "uuid": "815f7556d77d2d57d57b2793e68432c7",
         "title": "山中杂言  其六",
         "author": "吴锡畴",
         "content": "得失升沈是与非，纷纷世上局如棋。\n白云谷口横遮断，万事山中总不知。",
@@ -378,6 +432,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8d6082b4d327f5a82f0a49997ea0385b",
         "title": "山中杂言  其七",
         "author": "吴锡畴",
         "content": "谬有生涯类蠹鱼，萧然四壁一床书。\n儿曹未信儒冠误，犹事青灯废耒锄。",
@@ -385,6 +440,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a5085fe77dcd93458833152cb4dbfaba",
         "title": "次韵题璜原僧舍",
         "author": "吴锡畴",
         "content": "鱼鼓无声昼閴沈，荒碑积雨古苔侵。\n忽飞寒雀窥斋钵，偶有驯猿听梵音。",
@@ -392,6 +448,7 @@
         "collection_info": null
     },
     {
+        "uuid": "b1d39b6c16ee211f59bb2e48eb06b3cf",
         "title": "寂寂",
         "author": "吴锡畴",
         "content": "寂寂闭门坐，身閒心太平。\n豆花含雨重，梧叶坐秋鸣。\n道路风波恶，山林梦寐清。\n少狂无復在，未减是诗情。",
@@ -399,6 +456,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d7737d191ae91fbbf87b08a59c0fddfa",
         "title": "鸂鶒",
         "author": "吴锡畴",
         "content": "满身文彩漫成愁，一曲清池强滞留。\n翘足有时双睡去，梦魂依旧绕沧洲。",
@@ -406,6 +464,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0b1bd959b42bcb1dea9be2f5cc7ef8dd",
         "title": "桂花",
         "author": "吴锡畴",
         "content": "许多香却不多花，灏气浮空月满家。\n明日石坛金屑富，旋收剩馥入龙茶。",
@@ -413,6 +472,7 @@
         "collection_info": null
     },
     {
+        "uuid": "037ca0a495d1acf2a75289e062ab9dfa",
         "title": "次韵写兴",
         "author": "吴锡畴",
         "content": "不学韩公咎斗牛，此心无愧许沙鸥。\n阴晴明日自难料，得失频年已熟筹。\n痴计空为千载虑，虚名翻误一生忧。\n閒中菘韭皆真味，绝胜羊腔进膳羞。",
@@ -420,6 +480,7 @@
         "collection_info": null
     },
     {
+        "uuid": "dca2b8da25042441ef064ab5c31b969a",
         "title": "老境",
         "author": "吴锡畴",
         "content": "老境已骎骎，功名负壮心。\n昏眸云雾隔，短鬓雪霜侵。\n身为贫长客，诗因病懒吟。\n春山归未得，门径藓花深。",
@@ -427,6 +488,7 @@
         "collection_info": null
     },
     {
+        "uuid": "746e9e0d2c2841af271f752e7df04bb7",
         "title": "客枕闻鹃",
         "author": "吴锡畴",
         "content": "烟新寒食过，月皎子规来。\n万里他乡恨，千年故国哀。\n窗深敧枕听，梦短到家回。\n为尔添愁寂，春风不耐催。",
@@ -434,6 +496,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c0657a739a7725cac4ffe14fc40f8130",
         "title": "寻梅",
         "author": "吴锡畴",
         "content": "迤逦寻梅过别村，归来新月照黄昏。\n更无可觅春风面，捻断冰髭立断魂。",
@@ -441,6 +504,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d981e41fb2d3fff059a0ecb9a3c5dd73",
         "title": "晚春喜友人至",
         "author": "吴锡畴",
         "content": "柳门竹巷静生苔，节序俄惊物物催。\n一雨拉将寒食过，百花让与牡丹开。\n若为缱绻留春日，正可淋漓纵酒杯。\n呼舞忽闻猿鹤喜，儿童忙报故人来。",
@@ -448,6 +512,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e9b351dfb51efb5f591ae6ad9108e249",
         "title": "竹洲重葺仁寿堂",
         "author": "吴锡畴",
         "content": "抗章当日勇辞荣，三咏循陔世念轻。\n娱悦高堂仁者寿，壅培遗植圣之清。\n云涵翠葆添新荫，秋逼青琅戛旧声。\n故址依然成栋宇，水心题扁尚晶明。",
@@ -455,6 +520,7 @@
         "collection_info": null
     },
     {
+        "uuid": "62b1efc3820f870cb74bae54f2111152",
         "title": "雨中过昱岭",
         "author": "吴锡畴",
         "content": "下舆扶杖过山蹊，雨溅征裾屐溅泥。\n正自不禁行路苦，一声何处竹鸡啼。",
@@ -462,6 +528,7 @@
         "collection_info": null
     },
     {
+        "uuid": "207d708d900a9c219e509ac8309724c0",
         "title": "湖上闻鹃",
         "author": "吴锡畴",
         "content": "涌金门外买湖船，绿树阴阴叫杜鹃。\n恰莫叫从城裏去，有谁人肯办归田。",
@@ -469,6 +536,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2aa79926d82f414625ab0fe9060f0faf",
         "title": "独酌",
         "author": "吴锡畴",
         "content": "独酌悠然醉，应无语笑譁。\n百年柯上螘，万事琖中蛇。\n诗定重删草，灯挑又作花。\n不烦眠遣客，长啸岸乌纱。",
@@ -476,6 +544,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d993d99a058d76209a1ef1e369c2f8a5",
         "title": "秋怀",
         "author": "吴锡畴",
         "content": "雁声叫断一天秋，寒气凭陵季子裘。\n莫恨蛾眉偏薄命，曾知猿臂自难侯。\n绕黄花有诗消遣，持紫螯兼酒拍浮。\n未用凄凉如宋玉，月明清思满前洲。",
@@ -483,6 +552,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f087075562845e51e617cc09aa7efea3",
         "title": "悼鹤",
         "author": "吴锡畴",
         "content": "乘化归辽海，双笼一不开。\n坠翎留片雪，遗迹印荒苔。\n月朗怜孤唳，琴閒忆共来。\n瘗铭为琢石，鸡鹜不须猜。",
@@ -490,6 +560,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4bc570cc645a3c22b855b76d218fe0c3",
         "title": "次韵孙艮夫赠别  其一",
         "author": "吴锡畴",
         "content": "第一江山第一程，新诗快读逼梅清。\n碧云不断飞帆急，立尽樯竿晚日明。",
@@ -497,6 +568,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1963a0f9b7cf23e9b1bf3dee1d27a328",
         "title": "次韵孙艮夫赠别  其二",
         "author": "吴锡畴",
         "content": "扬子江头欵乃歌，一天星斗络斜河。\n怕无才思堪风月，拾入奚囊未必多。",
@@ -504,6 +576,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d8dfa7b109f762d00d93a179194f62fd",
         "title": "次韵叶介夫",
         "author": "吴锡畴",
         "content": "芳草垂杨浥嫩寒，苔痕新过雨斑斑。\n一年春付花开落，长日庭分燕往还。\n世事祇堪频对酒，诗情自可饱看山。\n尽穷莫用文为送，郊岛曾容季孟间。",
@@ -511,6 +584,7 @@
         "collection_info": null
     },
     {
+        "uuid": "09eb92857f019c7ca68f9a1fd22f18c0",
         "title": "秋夜",
         "author": "吴锡畴",
         "content": "寂寂虚堂风露凉，边声惊听雁南翔。\n短筇梦涉秋三径，长笛思乘月一航。\n老眼添昏如浊镜，吟怀多感类寒螀。\n久知拙不趁时样，肯羡东邻斗靓妆。",
@@ -518,6 +592,7 @@
         "collection_info": null
     },
     {
+        "uuid": "aa92061f7315183575dfed9dda756773",
         "title": "荆溪舟中对月",
         "author": "吴锡畴",
         "content": "历眼旬余半，终宵月在天。\n若将今岁看，仅有此番圆。\n寒逼鸿洲外，光摇螘瓮边。\n家山千里远，应共一婵娟。",
@@ -525,6 +600,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3e8c09706c6f8c1d032c4e13d4f03e9b",
         "title": "姑苏晚泊",
         "author": "吴锡畴",
         "content": "有味吟边景，无愁醉裏身。\n如何连夜梦，只是到家频。\n更永迟留月，梅寒漏泄春。\n吴王台下泊，访古待清晨。",
@@ -532,6 +608,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8b6177896b2d81db43d9a1f922571956",
         "title": "山行",
         "author": "吴锡畴",
         "content": "策蹇又山行，看山不识名。\n平林秋后薄，迭嶂日边明。\n云近侵衣湿，泉幽照影清。\n归樵饶乐意，笛弄两三声。",
@@ -539,6 +616,7 @@
         "collection_info": null
     },
     {
+        "uuid": "15ab6336417bbed775c093914275a1fe",
         "title": "醉起",
         "author": "吴锡畴",
         "content": "水宿篙师报歇程，维舟聊此问旗亭。\n醉来顿觉乡愁失，苦被霜风吹又醒。",
@@ -546,6 +624,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f7cae15467d4a7b49cb6b4a1962a9789",
         "title": "严滩",
         "author": "吴锡畴",
         "content": "极目飞鸿外，苍茫一渺然。\n风清垂钓濑，月淡放梅天。\n展卷评诗句，探囊结酒缘。\n舟中无此乐，但只闭篷眠。",
@@ -553,6 +632,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a846c95ddae9bcd5dfda12735a1e040b",
         "title": "新城",
         "author": "吴锡畴",
         "content": "短棹泊新城，江宽风易生。\n帆随潮共上，烟接岸俱平。\n冷蕊江南信，孤鸿塞北声。\n诗成休朗诵，怕有老龙惊。",
@@ -560,6 +640,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a95dc1b5d20e7ea80e9f36376ce1072f",
         "title": "晚山",
         "author": "吴锡畴",
         "content": "晚山欣静对，杳杳碧无垠。\n病叶明残照，飞鸿带断云。\n自怜麋鹿性，宜入鹭鸥群。\n世路多殊辙，升沈迹已分。",
@@ -567,6 +648,7 @@
         "collection_info": null
     },
     {
+        "uuid": "179128a9a37a5998137aa78de3b39e8a",
         "title": "夜感",
         "author": "吴锡畴",
         "content": "少年未识堤防老，不办坡翁大字书。\n犹有壮心躭万卷，其如昏目负三余。\n睡迟祇怕中宵觉，交淡从教俗轨疏。\n瞑坐漫搜诗拨遣，灵台一片炯如初。",
@@ -574,6 +656,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bdca09bfd7c24a6659396c91e9cf1262",
         "title": "凭栏",
         "author": "吴锡畴",
         "content": "刘伯龙如鬼笑何，居然幻境螘南柯。\n世间知止人应少，天下难言事最多。\n梧叶凄凉依节序，雁声依约自关河。\n凭栏莫起悲秋意，老色何妨借酒酡。",
@@ -581,6 +664,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c572b1fca2e3a150c5b414d4635ec4cf",
         "title": "无弦古琴",
         "author": "吴锡畴",
         "content": "寥寥谁是识琴心，得趣元来不在音。\n可惜伯牙犹未达，绝弦当日恨徒深。",
@@ -588,6 +672,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4e6102d7fabfaa54cdc11194a1141497",
         "title": "偶成  其一",
         "author": "吴锡畴",
         "content": "酒能成病姑停饮，诗怕伤时莫浪吟。\n客又不来春欲去，一帘花影咔鸣琴。",
@@ -595,6 +680,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5c69781c3e5e3438aeb3d9c1b353a867",
         "title": "偶成  其二",
         "author": "吴锡畴",
         "content": "酿蜜山蜂初割户，衔泥梁燕已成家。\n春愁漠漠连芳草，閒过东园数落花。",
@@ -602,6 +688,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d7bb0cb256aef277da5ba64df72b192d",
         "title": "多景楼",
         "author": "吴锡畴",
         "content": "栏干投北是神州，莫怪诸公怯上楼。\n千载潮声如有恨，犹能含怒到瓜洲。",
@@ -609,6 +696,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1a7f52da7d1ad4e5329d014b320d7656",
         "title": "姑苏台",
         "author": "吴锡畴",
         "content": "歌舞声消迹已陈，危台今日压城闉。\n麋游莫恨终亡国，谁把鸱夷载谏臣。",
@@ -616,6 +704,7 @@
         "collection_info": null
     },
     {
+        "uuid": "302f313cd4ad2bd223aa25a694c3570c",
         "title": "三高祠",
         "author": "吴锡畴",
         "content": "去越思吴居甫里，并祠千载说三高。\n到头杞菊饶余味，不涉人间富贵劳。",
@@ -623,6 +712,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7a46fc30af97725ec6754c9b39e37967",
         "title": "旅舟度岁呈范尧臣",
         "author": "吴锡畴",
         "content": "柏琖椒盘且罢休，吕蒙城下泊孤舟。\n昏灯独照还乡梦，久客新添别岁愁。\n爆竹无声惊寂寞，梅花有意伴淹留。\n明朝例是加年事，不信公侯不白头。",
@@ -630,6 +720,7 @@
         "collection_info": null
     },
     {
+        "uuid": "299e07adcc5bd33c672928295b93bc77",
         "title": "夏日",
         "author": "吴锡畴",
         "content": "雨作年丰计，凉为午睡媒。\n不烦思饮露，已可洗飞埃。\n延月帘高捲，看山牖尽开。\n心閒逢事懒，褦襶且休来。",
@@ -637,6 +728,7 @@
         "collection_info": null
     },
     {
+        "uuid": "268d34c6253a1d04f4caa71ead965a3c",
         "title": "菊边持螯",
         "author": "吴锡畴",
         "content": "奔火狂难改，横戈事已非。\n形模虽可怪，风味故应稀。\n玉斫双螯洁，金披一殻肥。\n持杯篱菊畔，又见醉忘归。",
@@ -644,6 +736,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f4e6fa9d99879f5ea3b4f6c6ea3cd2c8",
         "title": "对月有怀",
         "author": "吴锡畴",
         "content": "破晴斜月入帘阴，鬓影萧骚老不禁。\n九十日春风与雨，百千年事后犹今。\n牡丹红褪残妆面，杜宇声寒故国心。\n眼底交游期又误，飞鸿杳杳鲤沈沈。",
@@ -651,6 +744,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1e276cdee262a21978f6f50b4353545c",
         "title": "哭赵成德",
         "author": "吴锡畴",
         "content": "鹤怅东岩夜，声悲不可闻。\n有图留水月，无句管烟云。\n身后空传稿，生前事作坟。\n忍思携手日，溅泪漫纷纷。",
@@ -658,6 +752,7 @@
         "collection_info": null
     },
     {
+        "uuid": "38b869fbf54eb13b2e73adbddaf42f5b",
         "title": "重午于潜道中",
         "author": "吴锡畴",
         "content": "逢人篸艾知重午，漫把青钱问酒杯。\n岂是醉狂慵弔古，独醒不禁客愁来。",
@@ -665,6 +760,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8f95c961857c216a6ab1ee819af98699",
         "title": "六和塔",
         "author": "吴锡畴",
         "content": "直上浮屠最上头，茫茫渺渺入双眸。\n斜阳断雁新秋意，惹起西风一段愁。",
@@ -672,6 +768,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d6ccd7e5848c9ba90e67f17ca9c7e206",
         "title": "次韵汪仁甫",
         "author": "吴锡畴",
         "content": "斜河炯炯雁飞飞，老却斯人天未知。\n三径秋光犹在菊，一年心事可无诗。\n岁华迅似离弦箭，愁思多于盈杼丝。\n寂寂空山明月裏，谁拈霜竹倚风吹。",
@@ -679,6 +776,7 @@
         "collection_info": null
     },
     {
+        "uuid": "51dc6c687dbd542ccb16cc760126d1bc",
         "title": "结屋",
         "author": "吴锡畴",
         "content": "结屋须教坐对山，把茅纔此有三间。\n浇花抱瓮调停懒，洗砚裁笺准备閒。\n未问丹砂能蜕骨，久知绿酒可酡颜。\n江湖浪迹成何事，抖擞归囊句不悭。",
@@ -686,6 +784,7 @@
         "collection_info": null
     },
     {
+        "uuid": "07a266fbaa11644935e2b6ab7c13f566",
         "title": "夜雨",
         "author": "吴锡畴",
         "content": "漠漠春阴未肯晴，空阶滴点到平明。\n应知不入笙歌耳，来作愁人枕畔声。",
@@ -693,6 +792,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8833cf5f3b76f43ad7876685ccf78110",
         "title": "客思",
         "author": "吴锡畴",
         "content": "淹留为客久，萧散与心违。\n妻病家缘废，奴逃书问稀。\n雨荒招鹤径，苔滑钓鱼矶。\n愧尔汀头鹭，沧波自在飞。",
@@ -700,6 +800,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d48aa56733ddeaf7e971c09c8544cc8a",
         "title": "蓝溪道中",
         "author": "吴锡畴",
         "content": "绿窈雨初歇，清和日正长。\n乳禽穿薄霭，弱蔓上颓墙。\n村市笋厨美，田家麰饵香。\n老翁扶杖出，小立看移秧。",
@@ -707,6 +808,7 @@
         "collection_info": null
     },
     {
+        "uuid": "766902892220fa596606e72564cd1dda",
         "title": "看山",
         "author": "吴锡畴",
         "content": "一寒未办买山赀，随处看山总可诗。\n人事无常山换主，青山依旧不曾移。",
@@ -714,6 +816,7 @@
         "collection_info": null
     },
     {
+        "uuid": "60dc15412f6a9753bec6ecb5febff61b",
         "title": "秋来",
         "author": "吴锡畴",
         "content": "秋来病叶不禁风，渐觉虚檐坠片红。\n斜日半溪人唤渡，断云千里雁横空。\n诗情得似驯鸥子，世事徐观失马翁。\n忻戚莫将为我役，此怀拍拍自春融。",
@@ -721,6 +824,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ed30dc6722cc790805c3fcf6c6035a3a",
         "title": "九日",
         "author": "吴锡畴",
         "content": "九日今朝是，风吹帽欲斜。\n愁惟添白髮，贫莫负黄花。\n蟹上橙初熟，秋登酒易赊。\n茱萸休把玩，且办醉生涯。",
@@ -728,6 +832,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cfde9ce4b8ed71dc37558e24b0cdfc62",
         "title": "江氏静山堂",
         "author": "吴锡畴",
         "content": "一炷清香万迭山，依仁体艮寂然间。\n油云自去为霖雨，千古苍苍只恁閒。",
@@ -735,6 +840,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e3791144eef006c9fdb61e376e7989e0",
         "title": "楚东岁暮",
         "author": "吴锡畴",
         "content": "楼高霜冷漏声迟，独立阑干忆别离。\n明月一奁磨后镜，疏星几点劫残棋。\n岁寒时节难为客，老日头颅尽付诗。\n颇觉凄凉无晤语，临风说与冻梅知。",
@@ -742,6 +848,7 @@
         "collection_info": null
     },
     {
+        "uuid": "50de8d92c1785a458d06c2d8af408b17",
         "title": "重题钓台",
         "author": "吴锡畴",
         "content": "不向云台恋故袍，清风固自钓台高。\n渭川八十年烟雨，岂是渔竿把不牢。",
@@ -749,6 +856,7 @@
         "collection_info": null
     },
     {
+        "uuid": "439f6f384f01c1b3e9954b6fa0ffd5d5",
         "title": "除夜  其一",
         "author": "吴锡畴",
         "content": "日月跳丸岁又除，书生作计太迂疏。\n也知穷鬼难驱逐，鬰垒神荼莫用渠。",
@@ -756,6 +864,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d4e9de6f9a10521a5d6409ef74e82a7a",
         "title": "除夜  其二",
         "author": "吴锡畴",
         "content": "守岁儿童语笑频，老翁醉拥地炉春。\n欠伸起唤梅花说，明日平头五十人。",
@@ -763,6 +872,7 @@
         "collection_info": null
     },
     {
+        "uuid": "24bb861409e67844923ba156002b02ab",
         "title": "冬日  其一",
         "author": "吴锡畴",
         "content": "日薄霜清水见沙，水边偶到野人家。\n满阶风叶浑慵扫，为爱深红似落花。",
@@ -770,6 +880,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1b284ab739cd6d922dc1b9df213bd016",
         "title": "冬日  其二",
         "author": "吴锡畴",
         "content": "夕阳孤倚立溪头，三两渔舟遡碧流。\n惊起一行新宿雁，斜飞又过别汀洲。",
@@ -777,6 +888,7 @@
         "collection_info": null
     },
     {
+        "uuid": "fa576e520c8474971e79e05c9c1a242a",
         "title": "冬日  其三",
         "author": "吴锡畴",
         "content": "谁人雅趣似林逋，绕屋栽梅入画图。\n淡日笼晴霜转暖，从头看过有花无。",
@@ -784,6 +896,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2fe1c27a351c6cba6e8a966f8eeff08d",
         "title": "癸酉元日",
         "author": "吴锡畴",
         "content": "一声爆竹又惊春，荼垒中间写此心。\n忽忽行年周六甲，便便痴腹拟三壬。\n酒泉郡裏宁甘饮，饭颗山头尚苦吟。\n强健得閒元是福，何妨终老住云林。",
@@ -791,6 +904,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1b777ffc7b84f05ade6799f40611d5eb",
         "title": "琴枕",
         "author": "吴锡畴",
         "content": "三尺焦桐称醉眠，邯郸底用遇回仙。\n梦中髣髴闻流水，元是山间响瀑泉。",
@@ -798,6 +912,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a1ee07248c14bd9e7492e02db0a4da1b",
         "title": "别吴仲俊",
         "author": "吴锡畴",
         "content": "背人春事水趁东，浅紫深红次第空。\n宿霭未干桑叶雨，薄罗初试楝花风。\n诗联锻炼微吟裏，豪气施行半醉中。\n此去相逢堪几度，别怀作恶老来同。",
@@ -805,6 +920,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6ac18684da9774497277fa9782ec7afe",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其一",
         "author": "吴锡畴",
         "content": "我爱山居好，扶藜步晚晴。\n俗醇存古意，境寂快诗情。\n杜老银丝脍，坡翁玉糁羹。\n随缘清供足，尽可佚余生。",
@@ -812,6 +928,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2449763c95a14cd676b9d0cb77c4f0ac",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其二",
         "author": "吴锡畴",
         "content": "我爱山居好，蔬畦间莳花。\n笕泉归爨舍，篝火乞邻家。\n茁嫩猫头笋，焙芳雀舌茶。\n野人曾拜号，何用给黄麻。",
@@ -819,6 +936,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8801bef07a34232b299cd6f9c4a3722c",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其三",
         "author": "吴锡畴",
         "content": "我爱山居好，干坤自在身。\n林泉睎隠士，风月谥閒人。\n村酿添春困，庖蔬胜鼎珍。\n几携蓑笠去，保社在鸥津。",
@@ -826,6 +944,7 @@
         "collection_info": null
     },
     {
+        "uuid": "4d6ef615659f66d8d9467aca5126483f",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其四",
         "author": "吴锡畴",
         "content": "我爱山居好，轩窗傍水开。\n游鱼吹堕絮，閒鹤啄荒苔。\n有字人谁问，无租吏不来。\n寂寥门径侧，数尺长蒿莱。",
@@ -833,6 +952,7 @@
         "collection_info": null
     },
     {
+        "uuid": "1c8d3ae91483251fdec7bfd822fec56e",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其五",
         "author": "吴锡畴",
         "content": "我爱山居好，陶然与世忘。\n细听泉潄玉，那羡佩鸣珰。\n乳燕飞閒宇，新篁出矮墙。\n静观机不息，天地为谁忙。",
@@ -840,6 +960,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a4bd4ad1664c845664f4641b894daf9b",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其六",
         "author": "吴锡畴",
         "content": "我爱山居好，崖云湿爨烟。\n琴横双鹤舞，犁阁一牛眠。\n酒熟花开日，诗成雨霁天。\n逢场聊适意，总结喜欢缘。",
@@ -847,6 +968,7 @@
         "collection_info": null
     },
     {
+        "uuid": "67bcb95d55ce19a5c708a4de353797cd",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其七",
         "author": "吴锡畴",
         "content": "我爱山居好，枌榆老故丘。\n好峰当户立，远水护田流。\n鼓响移秧日，耞鸣穫稻秋。\n年丰身老健，一饱外无求。",
@@ -854,6 +976,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6f43d7c63efba346716aa4398fac1768",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其八",
         "author": "吴锡畴",
         "content": "我爱山居好，苍矶一钓竿。\n白鸥春水阔，黄犊绿坡宽。\n径菊香秋晚，溪梅约岁寒。\n人间幽意足，诗思倚栏干。",
@@ -861,6 +984,7 @@
         "collection_info": null
     },
     {
+        "uuid": "dfb02bf075214c6651f04ec84e546980",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其九",
         "author": "吴锡畴",
         "content": "我爱山居好，茶瓯困解围。\n松边横藓石，柳下敞渔扉。\n细雨噞喁出，斜阳觳觫归。\n交情殊贵贱，似觉故人非。",
@@ -868,6 +992,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bbea5e8b8b3bfa667a32c599138a4422",
         "title": "山居寂寥与世如隔是非不到荣辱两忘因忆秋崖工部尝教以我爱山居好十诗追次其韵聊写穷山之趣  其一○",
         "author": "吴锡畴",
         "content": "我爱山居好，田园在力耘。\n樵歌风外断，猿啸月中闻。\n舴艋夜招鹤，辘轳晓汲云。\n久惭呼处士，未必应星文。",
@@ -875,6 +1000,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a4f938476d44744083d18a7ef859666a",
         "title": "对雪",
         "author": "吴锡畴",
         "content": "婆娑舞忽凌空去，散漫狂还扫地来。\n几片飞黏梅树上，恍疑昨夜有花开。",
@@ -882,6 +1008,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ae73df6f777d7bae075aa205552aad9f",
         "title": "友人幽居",
         "author": "吴锡畴",
         "content": "空谷境常寂，幽居趣最真。\n蛙鸣聊当乐，花发即为春。\n白首惟诗酒，青山自主宾。\n惜无骚雅笔，写寄市朝人。",
@@ -889,6 +1016,7 @@
         "collection_info": null
     },
     {
+        "uuid": "a64349e0221706241be49d380d5b2592",
         "title": "对灯咏感",
         "author": "吴锡畴",
         "content": "竛竮瘦影伴孤灯，两鬓萧然失旧青。\n豪在尚堪论剑术，骨凡何用泥丹经。\n半生踪迹如春燕，少日交游类曙星。\n閒拂桐丝写幽意，洋洋不为有人听。",

@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "6680deb1f9e5463d4074844d91315d31",
         "title": "香城寺",
         "author": "刘元刚",
         "content": "末行陶令里，早自惯舁篮。\n米市呼干许，香城访晋昙。\n神游青黛岳，诗到碧云庵。\n不管衝寒去，乘风破晓岚。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d4d589cb237a3a87f6da12b2280086b1",
         "title": "武夷九曲棹歌图  其一",
         "author": "刘元刚",
         "content": "一曲初篙上水船，翠岚苍壁挟洄川。\n綵幢幔屋今何在，空有丹炉石鼎烟。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ccc42a607d0b7f604b0472e7211805c7",
         "title": "武夷九曲棹歌图  其二",
         "author": "刘元刚",
         "content": "二曲崚嶒三石峰，当时秦女采芙蓉。\n至今汤沐临清泚，不作巫山十二重。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "0c758c80fd84f7c21f6aa258f7e44a5e",
         "title": "武夷九曲棹歌图  其三",
         "author": "刘元刚",
         "content": "三曲悬崖插匦船，春秋八百又千年。\n不知天地黄心木，控鹤仙人肯汝怜。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "226b654753528ab6cebeba3f8e6cb88b",
         "title": "武夷九曲棹歌图  其四",
         "author": "刘元刚",
         "content": "五曲云崖有许深，石门书屋着修林。\n堂堂不泯清风在，一片寒潭印我心。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e2180d002d3c44dbe06a910dd163da37",
         "title": "武夷九曲棹歌图  其五",
         "author": "刘元刚",
         "content": "七曲催船快上滩，好山留与漫郎看。\n经行雪瀑仙屏下，恍记斋堂夜帐寒。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9ad4ab665f1f70d44c1c790ff5da4896",
         "title": "武夷九曲棹歌图  其六",
         "author": "刘元刚",
         "content": "八曲云山敛復开，长年倚棹立裴徊。\n俄然听得林间语，知道新村贳酒来。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "9725e91e8e190afb772f434c41f76600",
         "title": "武夷九曲棹歌图  其七",
         "author": "刘元刚",
         "content": "九曲遥岑更鬰然，板桥渔市引长川。\n唤回白马宾云梦，来看桑麻万里天。",

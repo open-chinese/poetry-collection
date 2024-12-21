@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "bfefc3ba72fe35a46c9291dd7028e5e5",
         "title": "句  其一",
         "author": "江砢",
         "content": "西风野如赭，见者辄吐舌。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "3f53bb86b08effac3f2d678674798c6a",
         "title": "句  其二",
         "author": "江砢",
         "content": "太傅数日别，刘公一纸书。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "79141a559850f0e8054f0a08b3842d2b",
         "title": "句  其三",
         "author": "江砢",
         "content": "读书三年艾，逢世四角轮。",

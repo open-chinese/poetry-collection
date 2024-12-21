@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "a09a5509356ea433f91b22a03e6e6834",
         "title": "题惠严寺",
         "author": "崔庸",
         "content": "人莫嫌山小，僧还爱寺灵。\n殿高神气力，龙活客丹青。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "题惠严寺",
-        "author": "崔庸",
-        "content": "人莫嫌山小，僧还爱寺灵。殿高神气力，龙活客丹青。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百一十九"
-        }
     }
 ]

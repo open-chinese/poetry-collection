@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "e069cf45c04f581a01c0d4c1339996bd",
         "title": "吟",
         "author": "富春沙际鬼",
         "content": "陊江三十年，潮打形骸朽。\n家人都不知，何处奠杯酒。",
@@ -7,30 +8,11 @@
         "collection_info": null
     },
     {
+        "uuid": "42fda12e905a24398f7dfb4523c1a26d",
         "title": "又吟",
         "author": "富春沙际鬼",
         "content": "莫问我姓名，向君言亦空。\n潮生沙骨冷，魂魄悲秋风。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "吟",
-        "author": "富春沙际鬼",
-        "content": "陊江三十年，潮打形骸朽。家人都不知，何处奠杯酒。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十五"
-        }
-    },
-    {
-        "title": "又吟",
-        "author": "富春沙际鬼",
-        "content": "莫问我姓名，向君言亦空。潮生沙骨冷，魂魄悲秋风。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十五"
-        }
     }
 ]

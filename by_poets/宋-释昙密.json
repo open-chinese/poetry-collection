@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "282eab0d6e3b40e52e634130674dea3b",
         "title": "偈颂十首  其一",
         "author": "释昙密",
         "content": "一二三四五，金木水火土。\n拾得语寒山，丰干骑老虎。\n报君知，莫莽卤。\n从来保福四谩人，不似禾山解打鼓。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "73eaa7d8e544cd445f7e5f76ab8a9893",
         "title": "偈颂十首  其二",
         "author": "释昙密",
         "content": "五祖箇老翁，从来多指注。\n不是不知归，忘却来时路。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f207c6832caaa45cbb3eb5d29b197240",
         "title": "偈颂十首  其三",
         "author": "释昙密",
         "content": "连绵雨不晴，谷子多损失。\n二麦未入泥，忧心常惕惕。\n来岁不饥荒，未敢相委悉。\n启告梵天帝释天玉皇大帝天，且放日头出。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "7ab99fef43513d79e5dc5794674cf489",
         "title": "偈颂十首  其四",
         "author": "释昙密",
         "content": "春日晴，黄鶑鸣，更听断崖流水声。\n青山迭翠，款步作程，归来烟岛有谁争。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ef22668bedd4ea550e915096736a15ce",
         "title": "偈颂十首  其五",
         "author": "释昙密",
         "content": "即心即佛，非心非佛。\n不是心，不是佛，不是物，半夜虚空揣出骨。\n十分描摸画难成，试问诸人是何物。\n阿呵呵，咄咄咄。\n拶倒门前大案山，搏风放出辽天鹘。",
@@ -35,6 +40,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c934bffa7d99dd8e91214d4c5f6b06c7",
         "title": "偈颂十首  其六",
         "author": "释昙密",
         "content": "一身浪宕无拘捡，闹市门头恣意游。\n汉地不收秦不管，不风流处也风流。\n健则坐，困则休，信任从教雪满头。\n寄语宣和政和元和佛陀，张僧伽李达磨，老聃孔丘，照顾沩山水牯牛。",
@@ -42,6 +48,7 @@
         "collection_info": null
     },
     {
+        "uuid": "388daf256de58fb171b643ee4bd8ae8f",
         "title": "偈颂十首  其七",
         "author": "释昙密",
         "content": "岂弟张夫子，遗我径寸璧。\n中有数箇字，字字无人识。",
@@ -49,6 +56,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f57f3aa7328bc15202f8de03dc5028b0",
         "title": "偈颂十首  其八",
         "author": "释昙密",
         "content": "菩提妙心作么发，日应万机元不差。\n回首瞥然轻觑着，大千沙界是皇家。",
@@ -56,6 +64,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c213c06264ba3cf045e796603bacb453",
         "title": "偈颂十首  其九",
         "author": "释昙密",
         "content": "咄这花木瓜，苦涩无以加。\n蓦然嚼得碎，清风生齿牙。\n种性恶，不堪夸。\n杨岐老馿三隻脚，蹋人无数满天涯。",
@@ -63,6 +72,7 @@
         "collection_info": null
     },
     {
+        "uuid": "050d8d9787f55ff112c386ae905a2a63",
         "title": "偈颂十首  其一○",
         "author": "释昙密",
         "content": "湖山迭乱青，湖水漾虚碧。\n断岸蓼花红，疎林秋露滴。\n良哉观世音，处处失弥勒。",
@@ -70,6 +80,7 @@
         "collection_info": null
     },
     {
+        "uuid": "6c7528e895ae6f90018a5cb88e1e3005",
         "title": "颂古二首  其一",
         "author": "释昙密",
         "content": "塞北平沙阔，黄河衮底流。\n征帆纔及岸，蛮狄一时收。",
@@ -77,6 +88,7 @@
         "collection_info": null
     },
     {
+        "uuid": "f6e696d2057d2df81b77a932f69e2bef",
         "title": "颂古二首  其二",
         "author": "释昙密",
         "content": "汲水僧归林下寺，待船人立渡头沙。\n澄江渺渺烟波窄，云静一天星斗斜。",
@@ -84,6 +96,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e36dbbf500fc1445cd281a2f88a950ab",
         "title": "数珠",
         "author": "释昙密",
         "content": "百八摩尼颗颗圆，辽天鼻孔一时穿。\n恒河沙数佛菩萨，日日呼来跳一圈。",
@@ -91,6 +104,7 @@
         "collection_info": null
     },
     {
+        "uuid": "2959dfbb4653df657a09181e4b01d798",
         "title": "颂古",
         "author": "释昙密",
         "content": "平地摝鱼虾，辽天射飞鹗。\n跛脚老云门，千错与万错。",
@@ -98,6 +112,7 @@
         "collection_info": null
     },
     {
+        "uuid": "bb246e053dad0d60216eb018b914f1b2",
         "title": "颂古",
         "author": "释昙密",
         "content": "崔颢曾题黄鹤楼，长沙拈起当风流。\n大千国土俱家业，诸佛何曾有地头。",

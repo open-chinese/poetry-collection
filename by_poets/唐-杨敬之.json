@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c45edf0ae1844d6c570f841070bd17e7",
         "title": "客思吟",
         "author": "杨敬之",
         "content": "禾黍正离离，南园剪白芝。\n细腰沈赵女，高髻唱蛮姬。\n路愧前冈月，梳惭一颔丝。\n乡人不可语，独念畏人知。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d93211ecb3452d61d9f01686eb7bb726",
         "title": "赠项斯",
         "author": "杨敬之",
         "content": "几度见诗诗总好，及观标格过于诗。\n平生不解藏人善，到处逢人说项斯。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "5562fac8d33b4109aac4cb469726a1bf",
         "title": "句",
         "author": "杨敬之",
         "content": "霜树鸟栖夜，空街雀报明。\n碧山相倚暮，归鴈一行斜。",
@@ -21,16 +24,7 @@
         "collection_info": null
     },
     {
-        "title": "客思吟",
-        "author": "杨敬之",
-        "content": "禾黍正离离，南园剪白芝。细腰沈赵女，高髻唱蛮姬。\n路愧前冈月，梳惭一颔丝。乡人不可语，独念畏人知。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷四百七十九"
-        }
-    },
-    {
+        "uuid": "c87e86e079acdaf7f664f717eec07340",
         "title": "句",
         "author": "杨敬之",
         "content": "霜树鸟栖夜，空街雀报明。\n碧山相倚暮，归雁一行斜。",

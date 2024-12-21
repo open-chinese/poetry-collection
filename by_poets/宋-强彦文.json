@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "35205dd9d331d7901c1eba61ae001728",
         "title": "句  其一",
         "author": "强彦文",
         "content": "空有青山自龙虎，可能荒冢更衣冠。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "ba482b9c4ce066b0d2690246245b014d",
         "title": "句  其二",
         "author": "强彦文",
         "content": "远山初见疑无路，曲径徐行渐有村。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "892c3554246b10a7366c41550c4d46e2",
         "title": "句  其三",
         "author": "强彦文",
         "content": "船中灯火十年话，枕上江湖万里心。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "eb7fb448280b43467e021afc05eefecf",
         "title": "句  其四",
         "author": "强彦文",
         "content": "客舍三杯酒，渔舟半夜灯。",

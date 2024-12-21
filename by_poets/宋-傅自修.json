@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "a9a3ebe94e09533da26593b398770589",
         "title": "题濠上斋二绝  其一",
         "author": "傅自修",
         "content": "焉知鱼乐我非鱼，梦裏荣枯觉则无。\n休学痴蝇贪纸穴，小窗烘日谩跏趺。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "c2e76d98030ce7830c394fa42fbf644c",
         "title": "题濠上斋二绝  其二",
         "author": "傅自修",
         "content": "小斋斗大四壁立，只着匡床与瓦炉。\n不涉语言君识否，莫从门外着工夫。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "006d2c4cac75097cc04a55a0a1f6eb9e",
         "title": "偶成  其一",
         "author": "傅自修",
         "content": "迭翠亭前秋水深，思韩亭下木成林。\n一生不得文章力，且向潮阳度岁阴。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "8cff3e71b29ad33eb30b2fd92959dd55",
         "title": "偶成  其二",
         "author": "傅自修",
         "content": "讼牒无多公事希，道心已熟壮心微。\n晚来吏散闲携杖，步到金山趁月归。",
@@ -28,6 +32,7 @@
         "collection_info": null
     },
     {
+        "uuid": "cfaa2bfe450692073f521aaecfc940d2",
         "title": "再题濠上斋",
         "author": "傅自修",
         "content": "外物为藩篱，障此道之径。\n昧则终日迷，达者默尔静。\n子夏出入间，悦乐犹异境。\n谁能入吾乡，节令四时正。",

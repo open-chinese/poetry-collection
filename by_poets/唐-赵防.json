@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "67fcdf9a1c4cb663fe455aa2fa562760",
         "title": "秋日寄弟",
         "author": "赵防",
         "content": "凉风飒庭户，渐疑华髮侵。\n已经杨柳谢，犹听蟪蛄吟。\n雨助滩声出，云连野色深。\n鹡鸰今在远，年酒共谁斟。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "秋日寄弟",
-        "author": "赵防",
-        "content": "凉风飒庭户，渐疑华髮侵。已经杨柳谢，犹听蟪蛄吟。\n雨助滩声出，云连野色深。鹡鸰今在远，年酒共谁斟。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百七十五"
-        }
     }
 ]

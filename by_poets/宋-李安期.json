@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "c185cfa72eaeaf21e9b840e3afbf80d5",
         "title": "诗一首",
         "author": "李安期",
         "content": "江左君臣笔力雄，一为宫体便移风。\n始知姬旦无才思，祇把豳诗咏女功。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "e6b0d54a52741e2a5470731e16e76d98",
         "title": "赋白鹭",
         "author": "李安期",
         "content": "渔父家风不设罾，锦鳞为饭水为羹。\n银袍祇当蓑衣着，自在江湖过一生。",

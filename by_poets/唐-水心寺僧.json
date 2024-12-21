@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "c1eda4b5be074e867b0240c46154053b",
         "title": "赠贾松先辈",
         "author": "水心寺僧",
         "content": "嵯峨山上石，岁岁色长新。\n若使尽成宝，谁为知己人。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "赠贾松先辈",
-        "author": "水心寺僧",
-        "content": "嵯峨山上石，岁岁色长新。若使尽成宝，谁为知己人。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百五十一"
-        }
     }
 ]

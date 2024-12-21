@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "37b552b073d86754c5ba7682be3e5344",
         "title": "山居 一",
         "author": "陈寡言",
         "content": "照水冰如鑑，扫雪玉为尘。\n何须问今古，便是上皇人。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "73cf7201aadd0f38f84a8e99a96ee88f",
         "title": "山居 二",
         "author": "陈寡言",
         "content": "醉卧茅堂不闭关，觉来开眼见青山。\n松花落处宿猨在，麋鹿羣羣林际还。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "974d107499061bac4406bad71ff02dcf",
         "title": "临化示弟子",
         "author": "陈寡言",
         "content": "我本无形暂有形，偶来人世逐营营。\n轮迴债负今还毕，搔首翛然归上清。",
@@ -21,9 +24,10 @@
         "collection_info": null
     },
     {
+        "uuid": "14bba87fa654efcbf8a15e04a5131c8a",
         "title": "山居",
         "author": "陈寡言",
-        "content": "照水冰如鉴，扫雪玉为尘。何须问今古，便是上皇人。\n醉卧茅堂不闭关，觉来开眼见青山。\n松花落处宿猿在，麋鹿群群林际还。",
+        "content": "照水冰如鉴，扫雪玉为尘。\n何须问今古，便是上皇人。\n醉卧茅堂不闭关，觉来开眼见青山。\n松花落处宿猿在，麋鹿群群林际还。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",
@@ -31,6 +35,7 @@
         }
     },
     {
+        "uuid": "274f918bf9a98c6d89b4bf0a15c5596c",
         "title": "临化示弟子",
         "author": "陈寡言",
         "content": "我本无形暂有形，偶来人世逐营营。\n轮回债负今还毕，搔首翛然归上清。",

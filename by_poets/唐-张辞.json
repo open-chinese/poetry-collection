@@ -1,5 +1,6 @@
 [
     {
+        "uuid": "49176ac3cbbd2af2b1cfa7dc6de7429c",
         "title": "题壁",
         "author": "张辞",
         "content": "争那金乌何，头上飞不住。\n红炉漫烧药，玉颜安可驻。\n今年花发枝，明年叶落树。\n不如且饮酒，莫管流年度。",
@@ -7,6 +8,7 @@
         "collection_info": null
     },
     {
+        "uuid": "11b8d7a49ea5077e26b536c9a8071cb4",
         "title": "上盐城令述德诗",
         "author": "张辞",
         "content": "门风常有蕙兰馨，鼎族家传霸国名。\n容貌静悬秋月彩，文章高振海涛声。\n讼堂无事调琴轸，郡阁何妨醉玉觥。\n今日东渐桥下水，一条从此镇常清。",
@@ -14,6 +16,7 @@
         "collection_info": null
     },
     {
+        "uuid": "39457caffe2ecacaedd8bee2f119622e",
         "title": "谢令学道诗",
         "author": "张辞",
         "content": "何用梯媒向外求，长生只合内中修。\n莫言大道人难得，自是行心不到头。",
@@ -21,6 +24,7 @@
         "collection_info": null
     },
     {
+        "uuid": "d3e9590bd72a5ec334e1f9be5994655b",
         "title": "别令诗",
         "author": "张辞",
         "content": "张辞张辞自不会，天下经书在腹内。\n身即腾腾处世间，心即逍遥出天外。",
@@ -28,19 +32,10 @@
         "collection_info": null
     },
     {
-        "title": "题壁",
-        "author": "张辞",
-        "content": "争那金乌何，头上飞不住。红炉漫烧药，玉颜安可驻。\n今年花发枝，明年叶落树。不如且饮酒，莫管流年度。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷八百六十一"
-        }
-    },
-    {
+        "uuid": "d09711b7a6ea7cd7809aaf47323bb2d6",
         "title": "上盐城令述德诗",
         "author": "张辞",
-        "content": "门风常有蕙兰馨，鼎族家传霸国名。容貌静悬秋月彩，\n今日东渐桥下水，一条从此镇常清。",
+        "content": "门风常有蕙兰馨，鼎族家传霸国名。\n容貌静悬秋月彩，今日东渐桥下水，一条从此镇常清。",
         "dynasty": "唐",
         "collection_info": {
             "collection": "御定全唐诗",

@@ -1,19 +1,10 @@
 [
     {
+        "uuid": "048ce23d70d99b0f996e2655a6d82e01",
         "title": "袍中诗",
         "author": "开元宫人",
         "content": "沙场征戍客，寒苦若为眠。\n战袍经手作，知落阿谁边。\n蓄意多添线，含情更着绵。\n今生已过也，结取后生缘。",
         "dynasty": "唐",
         "collection_info": null
-    },
-    {
-        "title": "袍中诗",
-        "author": "开元宫人",
-        "content": "沙场征戍客，寒苦若为眠。战袍经手作，知落阿谁边。\n蓄意多添线，含情更着绵。今生已过也，结取后生缘。",
-        "dynasty": "唐",
-        "collection_info": {
-            "collection": "御定全唐诗",
-            "volume": "卷七百九十七"
-        }
     }
 ]
