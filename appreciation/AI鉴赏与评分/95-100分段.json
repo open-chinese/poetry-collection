@@ -1,0 +1,3092 @@
+[
+    {
+        "index": 3390,
+        "uuid": "b01b093c95d849af126c37e6da7d9b64",
+        "title": "登高",
+        "author": "杜甫",
+        "content": "风急天高猨啸哀，渚清沙白鸟飞迴。\n无边落木萧萧下，不尽长江衮衮来。\n万里悲秋常作客，百年多病独登台。\n艰难苦恨繁霜鬓，潦倒新停浊酒桮。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "登高",
+            "author": "杜甫",
+            "content": "風急天高猨嘯哀，渚清沙白鳥飛迴。\n無邊落木蕭蕭下，不盡長江衮衮來。\n萬里悲秋常作客，百年多病獨登臺。\n艱難苦恨繁霜鬢，潦倒新停濁酒桮。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫的《登高》气象雄浑，前两联描绘风急天高、落木萧萧、长江滚滚的壮阔秋景，营造出沉郁悲凉的氛围。后两联抒怀，将个人悲苦与家国之愁融合，万里漂泊、年老多病，尽显身世之悲。全诗对仗工整，格律严谨，情感深沉，堪称登峰造极之作。",
+            "score": 99
+        }
+    },
+    {
+        "index": 6963,
+        "uuid": "439ee75955981f0ab99e19189875ce59",
+        "title": "清平调词三首",
+        "author": "李白",
+        "content": "云想衣裳花相容，春风拂槛露华浓。\n若非群玉山头见，会向瑶台月下逢。\n一枝秾艳露凝香，云雨巫山枉断肠。\n借问汉宫谁得似，可怜飞燕倚新妆。\n名花倾国两相欢，长得君王带笑看。\n解释春风无限恨，沉香亭北倚阑干。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百六十四"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "清平調詞三首",
+            "author": "李白",
+            "content": "雲想衣裳花相容，春風拂檻露華濃。\n若非群玉山頭見，會向瑤台月下逢。\n一枝穠豔露凝香，雲雨巫山枉斷腸。\n借問漢宮誰得似，可憐飛燕倚新妝。\n名花傾國兩相歡，長得君王帶笑看。\n解釋春風無限恨，沉香亭北倚闌干。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《清平调词三首》以华丽的辞藻、丰富的想象，将杨贵妃的美貌描绘得淋漓尽致。通过与神话、历史人物对比，更显其倾国倾城之姿。诗歌意境优美，充满浪漫主义色彩，是李白诗歌中的经典之作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57931,
+        "uuid": "9040e293eb61da91404911814f74a537",
+        "title": "宣州谢朓楼饯别校书叔云",
+        "author": "李白",
+        "content": "弃我去者昨日之日不可留，乱我心者今日之日多烦忧。\n长风万里送秋雁，对此可以酣高楼。\n蓬莱文章建安骨，中间小谢又清发。\n俱怀逸兴壮思飞，欲上青天览日月。\n抽刀断水水更流，举杯销愁愁更愁。\n人生在世不称意，明朝散髮弄扁舟。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "宣州謝朓樓餞別校書叔雲",
+            "author": "李白",
+            "content": "棄我去者昨日之日不可留，亂我心者今日之日多煩憂。\n長風萬里送秋雁，對此可以酣高樓。\n蓬萊文章建安骨，中間小謝又清發。\n俱懷逸興壯思飛，欲上青天覽日月。\n抽刀斷水水更流，舉杯銷愁愁更愁。\n人生在世不稱意，明朝散髮弄扁舟。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《宣州谢朓楼饯别校书叔云》情感奔放激昂。开篇抒时光难留、心烦意乱之感，接着借景抒情，营造豪迈氛围。诗中既赞古人风采，又表自身壮志。‘抽刀断水水更流，举杯销愁愁更愁’将愁绪刻画得淋漓尽致，最后流露出洒脱之意。全诗气势磅礴，情感跌宕起伏，极具感染力。",
+            "score": 98
+        }
+    },
+    {
+        "index": 56196,
+        "uuid": "96cb48c963098c3caacc757c978f8e53",
+        "title": "把酒问月",
+        "author": "李白",
+        "content": "青天有月来几时，我今停杯一问之。\n人攀明月不可得，月行却与人相随。\n皎如飞镜临丹阙，绿烟灭尽清辉发。\n但见宵从海上来，宁知晓向云间没。\n白兔捣药秋復春，嫦娥孤栖与谁邻。\n今人不见古时月，今月曾经照古人。\n古人今人若流水，共看明月皆如此。\n唯愿当歌对酒时，月光长照金樽裏。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "把酒問月",
+            "author": "李白",
+            "content": "青天有月來幾時，我今停杯一問之。\n人攀明月不可得，月行却與人相隨。\n皎如飛鏡臨丹闕，綠烟滅盡清輝發。\n但見宵從海上來，寧知曉向雲間沒。\n白兔擣藥秋復春，嫦娥孤棲與誰鄰。\n今人不見古時月，今月曾經照古人。\n古人今人若流水，共看明月皆如此。\n唯願當歌對酒時，月光長照金樽裏。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《把酒问月》意境雄浑而空灵。诗人以浪漫之笔，对月发问，探索宇宙与人生的奥秘。从月的永恒映照出古今人事的流变，既有对时光匆匆的感慨，又有对当下行乐的豁达。语言优美流畅，情感真挚深沉，充满了奇幻瑰丽的想象，展现出李白独特的艺术风格。",
+            "score": 98
+        }
+    },
+    {
+        "index": 9359,
+        "uuid": "d414a469ad101e79adce9add05d1dd0e",
+        "title": "茅屋为秋风所破歌",
+        "author": "杜甫",
+        "content": "八月秋高风怒号，卷我屋上三重茅。\n茅飞度江洒江郊，布衾多年冷似铁，骄儿恶卧踏裏裂。\n床床屋漏无干处，安得广厦千万间，大庇天下寒士俱欢颜，风雨不动安如山。\n呜呼何时眼前突兀见此屋，吾庐独破受冻死亦足。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百一十九"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "茅屋為秋風所破歌",
+            "author": "杜甫",
+            "content": "八月秋高風怒號，卷我屋上三重茅。\n茅飛度江灑江郊，布衾多年冷似鐵，驕兒惡臥踏裏裂。\n床床屋漏無干處，安得廣廈千萬間，大庇天下寒士俱歡顏，風雨不動安如山。\n嗚呼何時眼前突兀見此屋，吾廬獨破受凍死亦足。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《茅屋为秋风所破歌》描绘秋风破屋的惨状，诗人自身处境艰难却心系天下寒士，‘安得广厦千万间’的呼喊展现出伟大的人道主义精神。诗歌叙事、抒情完美结合，意象生动，意境深远，是千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 13812,
+        "uuid": "79b25bc32651a33f917b7bf4d023d2fa",
+        "title": "李凭箜篌引",
+        "author": "李贺",
+        "content": "吴丝蜀桐张高秋，空白凝云颓不流。\n江娥啼竹素女愁，李凭中国弹箜篌。\n昆山玉碎凤皇呌，芙蓉泣露香兰笑。\n十二门前融冷光，二十三丝动紫皇。\n女娲炼石补天处，石破天惊逗秋雨。\n梦入坤山教神妪，老鱼跳波瘦蛟舞。\n吴质不眠倚桂树，露脚斜飞湿寒兔。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "李憑箜篌引",
+            "author": "李賀",
+            "content": "吳絲蜀桐張高秋，空白凝雲頹不流。\n江娥啼竹素女愁，李憑中國彈箜篌。\n崑山玉碎鳳皇呌，芙蓉泣露香蘭笑。\n十二門前融冷光，二十三絲動紫皇。\n女媧鍊石補天處，石破天驚逗秋雨。\n夢入坤山教神嫗，老魚跳波瘦蛟舞。\n吳質不眠倚桂樹，露脚斜飛溼寒兔。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李贺的《李凭箜篌引》是传世佳作。诗中运用大量奇幻瑰丽的意象，如‘昆山玉碎’‘石破天惊’等，生动描绘出箜篌乐声的美妙。全诗意境奇妙，情感充沛，极具艺术感染力，展现出李贺非凡的艺术创造力。",
+            "score": 98
+        }
+    },
+    {
+        "index": 1911,
+        "uuid": "0102acc46d831c069fdb8af8b7d66986",
+        "title": "杂曲歌辞 夜坐吟",
+        "author": "李白",
+        "content": "踏踏马头谁见过，眼看北斗直天河。\n西风罗幕生翠波，铅华笑妾颦青蛾。\n为君起唱长相思，帘外严霜皆倒飞。\n明星烂烂东方陲，红霞稍出东南涯，陆郎去矣乘斑骓。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "雜曲歌辭 夜坐吟",
+            "author": "李白",
+            "content": "踏踏馬頭誰見過，眼看北斗直天河。\n西風羅幕生翠波，鉛華笑妾顰青蛾。\n爲君起唱長相思，簾外嚴霜皆倒飛。\n明星爛爛東方陲，紅霞稍出東南涯，陸郎去矣乘斑騅。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白此诗充满浪漫奇幻色彩，从踏踏马头到长相思的吟唱，再到明星红霞的描绘，最后陆郎乘斑骓而去，意境开阔，情感奔放，展现出李白独特的艺术风格，是传世之作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 13870,
+        "uuid": "f0f3ff970c6998f644691409f3d9ecf7",
+        "title": "金铜仙人辞汉歌",
+        "author": "李贺",
+        "content": "茂陵刘郎秋风客，夜闻马嘶晓无迹。\n画栏桂树悬秋香，三十六宫土花碧。\n魏官牵车指千里，东关酸风射眸子。\n空将汉月出宫门，忆君清泪如铅水。\n衰兰送客咸阳道，天若有情天亦老。\n携盘独出月荒凉，渭城已远波声小。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "金銅仙人辭漢歌",
+            "author": "李賀",
+            "content": "茂陵劉郎秋風客，夜聞馬嘶曉無跡。\n畫欄桂樹懸秋香，三十六宮土花碧。\n魏官牽車指千里，東關酸風射眸子。\n空將漢月出宮門，憶君清淚如鉛水。\n衰蘭送客咸陽道，天若有情天亦老。\n攜盤獨出月荒涼，渭城已遠波聲小。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《金铜仙人辞汉歌》是李贺的经典之作。诗中通过金铜仙人的视角，抒发兴亡之感。‘天若有情天亦老’更是千古名句，以奇幻的想象、深沉的情感，将历史的沧桑感展现得淋漓尽致，意象瑰丽，情感浓烈，艺术感染力极强。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57268,
+        "uuid": "47dab4e8d7d68b25172cfcd0352b7851",
+        "title": "白雪歌送武判官归京",
+        "author": "岑参",
+        "content": "北风捲地白草折，胡天八月即飞雪。\n忽然一夜春风来，千树万树梨花开。\n散入珠帘湿罗幕，狐裘不暖锦衾薄。\n将军角弓不得控，都护铁衣冷难着。\n瀚海阑干百丈冰，愁云黪淡万里凝。\n中军置酒饮归客，胡琴琵琶与羌笛。\n纷纷暮雪下辕门，风掣红旗冻不翻。\n轮台东门送君去，去时雪满天山路。\n山迴路转不见君，雪上空留马行处。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "白雪歌送武判官歸京",
+            "author": "岑參",
+            "content": "北風捲地白草折，胡天八月即飛雪。\n忽然一夜春風來，千樹萬樹梨花開。\n散入珠簾濕羅幕，狐裘不煖錦衾薄。\n將軍角弓不得控，都護鐵衣冷難着。\n瀚海闌干百丈冰，愁雲黲淡萬里凝。\n中軍置酒飲歸客，胡琴琵琶與羌笛。\n紛紛暮雪下轅門，風掣紅旗凍不翻。\n輪臺東門送君去，去時雪滿天山路。\n山迴路轉不見君，雪上空留馬行處。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "岑参的《白雪歌送武判官归京》堪称经典。以奇丽之笔描绘塞外雪景，‘忽如一夜春风来，千树万树梨花开’更是千古名句，想象奇特。全诗情景交融，将塞外的苦寒、送别之情展现得淋漓尽致，意境雄浑壮阔，具有极高的艺术价值。",
+            "score": 98
+        }
+    },
+    {
+        "index": 24769,
+        "uuid": "4d944dbbc894f6961d12beebf06551ca",
+        "title": "过华清宫绝句三首",
+        "author": "杜牧",
+        "content": "长安回望绣成堆，山顶千门次第开。\n一骑红尘妃子笑，无人知是荔枝来。\n新丰绿树起黄埃，数骑渔阳探使回。\n霓裳一曲千峰上，舞破中原始下来。\n万国笙歌醉太平，倚天楼殿月分明。\n云中乱拍禄山舞，风过重峦下笑声。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百二十一"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "過華清宮絕句三首",
+            "author": "杜牧",
+            "content": "長安回望繡成堆，山頂千門次第開。\n一騎紅塵妃子笑，無人知是荔枝來。\n新豐綠樹起黃埃，數騎漁陽探使回。\n霓裳一曲千峰上，舞破中原始下來。\n萬國笙歌醉太平，倚天樓殿月分明。\n雲中亂拍祿山舞，風過重巒下笑聲。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜牧的《过华清宫绝句三首》以史为鉴，借古讽今。首篇通过送荔枝一事，生动描绘出宫廷的奢华与荒诞，‘一骑红尘妃子笑’极具画面感。后两首分别从安禄山叛乱等角度，揭示了繁华背后的危机。组诗寓意深刻，讽刺辛辣，语言精炼，意境深远。",
+            "score": 98
+        }
+    },
+    {
+        "index": 42754,
+        "uuid": "4810d3d317f64dd7ee56fae47077813b",
+        "title": "清平调",
+        "author": "李白",
+        "content": "云想衣裳花想容，春风拂槛露华浓。\n若非群玉山头见，一枝红艳露凝香，云雨巫山枉断肠。\n借问汉宫谁得似，名花倾国两相欢，常得君王带笑看。\n解得春风无限恨，",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百九十"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "清平調",
+            "author": "李白",
+            "content": "雲想衣裳花想容，春風拂檻露華濃。\n若非群玉山頭見，一枝紅豔露凝香，雲雨巫山枉斷腸。\n借問漢宮誰得似，名花傾國兩相歡，常得君王帶笑看。\n解得春風無限恨，"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《清平调》以云、花比美人衣裳容貌，笔触灵动，尽显其超凡想象力。诗中描绘出贵妃的惊艳风姿，又巧妙借典故烘托，将美人与名花相映衬，更添韵味。整体语言华丽，意境优美，充满浪漫主义色彩。",
+            "score": 98
+        }
+    },
+    {
+        "index": 1719,
+        "uuid": "fb307c924740b0a7b9a0ef4edf739c62",
+        "title": "杂曲歌辞：清平调",
+        "author": "李白",
+        "content": "云想衣裳花想容，春风拂槛露华浓。\n若非群玉山头见，会向瑶台月下逢。\n一枝红艳露凝香，云雨巫山枉断肠。\n借问汉宫谁得似，可怜飞燕倚新妆。\n名花倾国两相欢，长得君王带笑看。\n解释春风无限恨，沉香亭北倚阑干。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十七"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "雜曲歌辭：清平調",
+            "author": "李白",
+            "content": "雲想衣裳花想容，春風拂檻露華濃。\n若非群玉山頭見，會向瑤台月下逢。\n一枝紅豔露凝香，雲雨巫山枉斷腸。\n借問漢宮誰得似，可憐飛燕倚新妝。\n名花傾國兩相歡，長得君王帶笑看。\n解釋春風無限恨，沉香亭北倚闌幹。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《清平调》堪称经典之作。以云、花比美人，想象奇妙，如‘云想衣裳花想容’令人称绝。且将美人与名花相映衬，生动描绘出贵妃的美貌与气质，情感真挚，意境优美，艺术成就极高。",
+            "score": 98
+        }
+    },
+    {
+        "index": 18499,
+        "uuid": "705035390f6abbe01d89f85f14481205",
+        "title": "遣悲怀三首",
+        "author": "元稹",
+        "content": "谢公最小偏怜女，嫁与黔娄百事乖。\n顾我无衣搜画箧，今日俸钱过十万，与君营奠复营斋。\n昔日戏言身后意，今朝皆到眼前来。\n衣裳已施行看尽，诚知此恨人人有，贫贱夫妻百事哀。\n闲坐悲君亦自悲，百年都是几多时。\n邓攸无子寻知命，唯将终夜长开眼，报答平生未展眉。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百零四"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "遣悲懷三首",
+            "author": "元稹",
+            "content": "謝公最小偏憐女，嫁與黔婁百事乖。\n顧我無衣搜畫篋，今日俸錢過十萬，與君營奠複營齋。\n昔日戲言身後意，今朝皆到眼前來。\n衣裳已施行看盡，誠知此恨人人有，貧賤夫妻百事哀。\n閑坐悲君亦自悲，百年都是幾多時。\n鄧攸無子尋知命，唯將終夜長開眼，報答平生未展眉。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "元稹的《遣悲怀三首》情感真挚深沉。通过回忆与亡妻的往昔生活，从日常琐事到身后安排，无不饱含对妻子的深情与思念。‘贫贱夫妻百事哀’一句，道出无数贫贱夫妻的辛酸，极具感染力。诗歌叙事与抒情完美结合，将对亡妻的爱与悼念展现得淋漓尽致。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57820,
+        "uuid": "e127583838db2247a087205df36cfd06",
+        "title": "蜀相",
+        "author": "杜甫",
+        "content": "丞相祠堂何处寻，锦官城外柏森森。\n映阶碧草自春色，隔叶黄鹂空好音。\n三顾频烦天下计，两朝开济老臣心。\n出师未捷身先死，长使英雄泪满襟。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "蜀相",
+            "author": "杜甫",
+            "content": "丞相祠堂何處尋，錦官城外柏森森。\n映堦碧草自春色，隔葉黃鸝空好音。\n三顧頻煩天下計，兩朝開濟老臣心。\n出師未捷身先死，長使英雄淚滿襟。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《蜀相》是杜甫的经典之作。诗开篇点明丞相祠堂位置，营造出庄严肃穆氛围。颔联以景衬情，碧草黄鹂之景更显寂寥。颈联高度概括诸葛亮一生功绩，展现其雄才大略与忠诚。尾联对其壮志未酬的惋惜，令英雄落泪。全诗融情于景，沉郁顿挫，具有极高艺术价值。",
+            "score": 98
+        }
+    },
+    {
+        "index": 23476,
+        "uuid": "df5708130ae9f050c307d6a44d3f9b82",
+        "title": "滕王阁",
+        "author": "王勃",
+        "content": "滕王高阁临江渚，佩玉鸣鸾罢歌舞。\n画栋朝飞南浦云，珠帘暮捲西山雨。\n闲云潭影日悠悠，物换星移几度秋。\n阁中帝子今何在？槛外长江空自流。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "滕王閣",
+            "author": "王勃",
+            "content": "滕王高閣臨江渚，珮玉鳴鸞罷歌舞。\n畫棟朝飛南浦雲，珠簾暮捲西山雨。\n閑雲潭影日悠悠，物換星移幾度秋。\n閣中帝子今何在？檻外長江空自流。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王勃的《滕王阁》乃千古名篇。诗中描绘滕王阁的壮丽景色，画栋飞云、珠帘捲雨等句极富画面感。后以物换星移引发对时光流转、人事变迁的感慨，帝子不在，长江自流，意境深远，既有高华之美，又有深沉之叹，艺术成就极高。",
+            "score": 98
+        }
+    },
+    {
+        "index": 22303,
+        "uuid": "49bb242f42798cc207206ff728ead4c3",
+        "title": "锦瑟",
+        "author": "李商隐",
+        "content": "锦瑟无端五十絃，一絃一柱思华年。\n庄生晓梦迷蝴蝶，望帝春心託杜鹃。\n沧海月明珠有泪，蓝田日暖玉生烟。\n此情可待成追忆，只是当时已惘然。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "錦瑟",
+            "author": "李商隱",
+            "content": "錦瑟無端五十絃，一絃一柱思華年。\n莊生曉夢迷蝴蝶，望帝春心託杜鵑。\n滄海月明珠有淚，藍田日暖玉生煙。\n此情可待成追憶，只是當時已惘然。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《锦瑟》是李商隐的经典之作。诗中以锦瑟起兴，用庄生梦蝶、望帝啼鹃等典故，营造出迷离恍惚的意境。沧海珠泪、蓝田玉烟等意象更是充满诗意。情感深沉而含蓄，具有极高的艺术价值。",
+            "score": 98
+        }
+    },
+    {
+        "index": 53894,
+        "uuid": "0012a9bce1e2f6f353e3a8ee71014da5",
+        "title": "行经华阴",
+        "author": "崔颢",
+        "content": "岧嶤太华俯咸京，天外三峰削不成。\n武帝祠前云欲散，仙人掌上雨初晴。\n河山北枕秦关险，驿树西连汉畤平。\n借问路傍名利客，无如此处学长生。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "行經華陰",
+            "author": "崔顥",
+            "content": "岧嶤太華俯咸京，天外三峰削不成。\n武帝祠前雲欲散，仙人掌上雨初晴。\n河山北枕秦關險，驛樹西連漢畤平。\n借問路傍名利客，無如此處學長生。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "崔颢《行经华阴》，首联写太华俯临咸京之雄伟。颔联描绘武帝祠、仙人掌之景。颈联写河山险要。尾联以问路作结，发人深思。意境雄浑壮阔，气象不凡，为传世之作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 22508,
+        "uuid": "254cae8a31c6b13a42daf09e956f5054",
+        "title": "马嵬二首 二",
+        "author": "李商隐",
+        "content": "海外徒闻更九州，他生未卜此生休。\n空闻虎旅传宵柝，无復鸡人报晓筹。\n此日六军同驻马，当时七夕笑牵牛。\n如何四纪为天子，不及卢家有莫愁。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "馬嵬二首 二",
+            "author": "李商隱",
+            "content": "海外徒聞更九州，他生未卜此生休。\n空聞虎旅傳宵柝，無復雞人報曉籌。\n此日六軍同駐馬，當時七夕笑牽牛。\n如何四紀爲天子，不及盧家有莫愁。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李商隐的《马嵬二首·其二》是咏史诗的经典之作。诗中对唐玄宗与杨贵妃的爱情悲剧进行深刻反思，将历史事件与神话传说交织，对比鲜明，如‘此日六军同驻马，当时七夕笑牵牛’。情感深沉，寓意深远，艺术价值极高。",
+            "score": 98
+        }
+    },
+    {
+        "index": 13828,
+        "uuid": "c366a45a81fe64ccf6738c11c274b399",
+        "title": "雁门太守行",
+        "author": "李贺",
+        "content": "黑云压城城欲摧，甲光向日金鳞开。\n角声满天秋色裏，塞上燕脂凝夜紫。\n半卷红旗临易水，霜重鼓寒声不起。\n报君黄金台上意，提携玉龙为君死。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "雁門太守行",
+            "author": "李賀",
+            "content": "黑雲壓城城欲摧，甲光向日金鱗開。\n角聲滿天秋色裏，塞上燕脂凝夜紫。\n半卷紅旗臨易水，霜重鼓寒聲不起。\n報君黃金臺上意，提攜玉龍爲君死。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李贺的《雁门太守行》气势磅礴。黑云压城渲染紧张气氛，甲光向日展现守军雄姿。角声、燕脂等描绘出激烈战斗场面。半卷红旗临易水富有画面感，报君黄金台上意，提携玉龙为君死表达战士们的忠诚与英勇，是传世佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 18289,
+        "uuid": "337c4d459005698d6ee2ea474ac0dabd",
+        "title": "高轩过",
+        "author": "李贺",
+        "content": "华裾织翠青如葱，金环压辔摇玲珑。\n马蹄隐耳声隆隆，二十八宿罗心胸，九精照耀贯当中。\n殿前作赋声摩空，我今垂翅附冥鸿，他日不羞蛇作龙。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷三百九十三"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "高軒過",
+            "author": "李賀",
+            "content": "華裾織翠青如蔥，金環壓轡搖玲瓏。\n馬蹄隱耳聲隆隆，二十八宿羅心胸，九精照耀貫當中。\n殿前作賦聲摩空，我今垂翅附冥鴻，他日不羞蛇作龍。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李贺的《高轩过》气势磅礴，开篇通过华丽的服饰、金环等描写展现出对方的高贵不凡，“二十八宿罗心胸”等句更显其才华出众。诗人自谦又怀壮志，情感复杂。诗语言瑰丽，想象奇特，是传世佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 53893,
+        "uuid": "a399c1496a3220a8a3a0d8a6a5def17f",
+        "title": "黄鹤楼",
+        "author": "崔颢",
+        "content": "昔人已乘白云去，此地空余黄鹤楼。\n黄鹤一去不復返，白云千载空悠悠。\n晴川历历汉阳树，春草萋萋鹦鹉洲。\n日暮乡关何处是，烟波江上使人愁。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "黃鶴樓",
+            "author": "崔顥",
+            "content": "昔人已乘白雲去，此地空餘黃鶴樓。\n黃鶴一去不復返，白雲千載空悠悠。\n晴川歷歷漢陽樹，春草萋萋鸚鵡洲。\n日暮鄉關何處是，煙波江上使人愁。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "崔颢的《黄鹤楼》是千古名篇。诗开篇以仙人乘鹤的传说起笔，营造出空灵之感，黄鹤一去不返增添了历史的沧桑感。颈联描绘出晴川、汉阳树、鹦鹉洲的壮丽景色。尾联的乡愁更是触动人心。全诗意境深远，气象雄浑。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57933,
+        "uuid": "b84e72986f1733d1810fd6a9a1e5ff8b",
+        "title": "登金陵凤凰台",
+        "author": "李白",
+        "content": "凤凰台上凤凰游，凤去台空江自流。\n吴宫花草埋幽径，晋代衣冠成古丘。\n三山半落青天外，二水中分白鹭洲。\n总为浮云能蔽日，长安不见使人愁。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "登金陵鳳凰臺",
+            "author": "李白",
+            "content": "鳳凰臺上鳳凰遊，鳳去臺空江自流。\n吳宮花草埋幽徑，晉代衣冠成古丘。\n三山半落青天外，二水中分白鷺洲。\n總爲浮雲能蔽日，長安不見使人愁。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白此诗乃登临怀古之作。首联借凤凰台的传说，营造出空灵之感。颔联感慨吴宫晋代的兴衰。颈联描绘壮丽山河，意境开阔。尾联以浮云蔽日暗喻时政，寄托忧国之思。全诗意境雄浑，情感深沉，艺术成就极高。",
+            "score": 98
+        }
+    },
+    {
+        "index": 3624,
+        "uuid": "5d718833f3f73eee5b3af08d0c827ab1",
+        "title": "秋兴八首 一",
+        "author": "杜甫",
+        "content": "玉露凋伤枫树林，巫山巫峡气萧森。\n江间波浪兼天涌，塞上风云接地阴。\n丛菊两开他日泪，孤舟一繫故园心。\n寒衣处处催刀尺，白帝城高急暮砧。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "秋興八首 一",
+            "author": "杜甫",
+            "content": "玉露凋傷楓樹林，巫山巫峽氣蕭森。\n江間波浪兼天湧，塞上風雲接地陰。\n叢菊兩開他日淚，孤舟一繫故園心。\n寒衣處處催刀尺，白帝城高急暮砧。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫的《秋兴八首·其一》气象雄浑，首联描绘萧瑟秋景，奠定基调。颔联以宏大的江波风云之景，渲染压抑氛围。颈联将个人身世与家国之思相融合，情真意切。尾联通过寒衣与暮砧，进一步烘托凄凉之感。此诗意境深沉，情感沉郁顿挫，展现出诗人忧国忧民的情怀。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57824,
+        "uuid": "06a6b03d07358d9dc41780ba0ad6d82c",
+        "title": "闻官军收河南河北",
+        "author": "杜甫",
+        "content": "劒外忽传收蓟北，初闻涕泪满衣裳。\n却看妻子愁何在，漫卷诗书喜欲狂。\n白日放歌须纵酒，青春作伴好还乡。\n即从巴峡穿巫峡，便下襄阳向洛阳。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "聞官軍收河南河北",
+            "author": "杜甫",
+            "content": "劒外忽傳收薊北，初聞涕淚滿衣裳。\n却看妻子愁何在，漫卷詩書喜欲狂。\n白日放歌須縱酒，青春作伴好還鄉。\n即從巴峽穿巫峽，便下襄陽向洛陽。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫此诗被称为生平第一快诗。听闻官军收复失地，诗人喜极而泣，情感真挚强烈。从家人的反应到自己的打算，层层递进。节奏明快，情感奔放，具有极高的艺术价值。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57632,
+        "uuid": "7689c4b2304b008dbc60ae5b84834312",
+        "title": "无题",
+        "author": "李商隐",
+        "content": "相见时难别亦难，东风无力百花残。\n春蚕到死丝方尽，蜡炬成灰泪始干。\n晓镜但愁云鬓改，夜吟应觉月光寒。\n蓬山此去无多路，青鸟殷勤为探看。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "無題",
+            "author": "李商隱",
+            "content": "相見時難別亦難，東風無力百花殘。\n春蠶到死絲方盡，蠟炬成灰淚始乾。\n曉鏡但愁雲鬢改，夜吟應覺月光寒。\n蓬山此去無多路，青鳥殷勤爲探看。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《无题》是李商隐的经典之作。诗中情感真挚深沉，‘春蚕到死丝方尽，蜡炬成灰泪始干’成为千古名句，以精妙的比喻表达无尽的思念。全诗意境凄美，情感回环往复，具有极高的艺术价值。",
+            "score": 98
+        }
+    },
+    {
+        "index": 11137,
+        "uuid": "30dfbcaa7f0ee41d88edf97386c6a929",
+        "title": "酬乐天扬州初逢席上见赠",
+        "author": "刘禹锡",
+        "content": "巴山楚水凄凉地，二十三年弃置身。\n怀旧空吟闻篴赋，到乡翻似烂柯人。\n沈舟侧畔千帆过，病树前头万木春。\n今日听君歌一曲，暂凭杯酒长精神。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "酬樂天揚州初逢席上見贈",
+            "author": "劉禹錫",
+            "content": "巴山楚水淒涼地，二十三年棄置身。\n懷舊空吟聞篴賦，到鄉翻似爛柯人。\n沈舟側畔千帆過，病樹前頭萬木春。\n今日聽君歌一曲，暫憑杯酒長精神。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《酬乐天扬州初逢席上见赠》情感真挚，沉郁中见豪放。首联倾诉被贬之苦，颔联巧用典故写人事变迁。颈联‘沉舟侧畔千帆过，病树前头万木春’以生动形象之景揭示新陈代谢的自然规律，富含哲理，给人以积极向上之感。尾联表明要振奋精神。全诗意境深远，韵味无穷。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57827,
+        "uuid": "6d9adfe7558db62bdc2e4cbe9cf275d9",
+        "title": "登楼",
+        "author": "杜甫",
+        "content": "花近高楼伤客心，万方多难此登临。\n锦江春色来天地，玉垒浮云变古今。\n北极朝廷终不改，西山寇盗莫相侵。\n可怜后主还祠庙，日暮聊为梁甫吟。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "登樓",
+            "author": "杜甫",
+            "content": "花近高樓傷客心，萬方多難此登臨。\n錦江春色來天地，玉壘浮雲變古今。\n北極朝廷終不改，西山寇盜莫相侵。\n可憐後主還祠廟，日暮聊爲梁甫吟。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫的《登楼》融自然景象与家国之思于一体。首联触景生情，‘万方多难’点明时代背景。颔联描绘锦江春色与玉垒浮云，气象宏大，蕴含古今变迁之感。颈联表达对朝廷的信念和对寇盗的警告。尾联借后主祠庙，寄托兴亡之叹。全诗意境雄浑，情感深沉，体现杜诗沉郁顿挫的风格。",
+            "score": 98
+        }
+    },
+    {
+        "index": 10240,
+        "uuid": "1237f20e23f627c89ed51931e21bf6d5",
+        "title": "江南逢李龟年",
+        "author": "杜甫",
+        "content": "岐王宅裏寻常见，崔九堂前几度闻。\n正是江南好风景，落花时节又逢君。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百三十二"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "江南逢李龜年",
+            "author": "杜甫",
+            "content": "岐王宅裏尋常見，崔九堂前幾度聞。\n正是江南好風景，落花時節又逢君。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫的《江南逢李龟年》是传世佳作。前两句回忆往昔的美好，后两句描绘当下的重逢，‘落花时节’不仅点明时令，更暗示了人生的沧桑和时代的变迁。短短四句，蕴含着无尽的感慨，以小见大，情感深沉。",
+            "score": 98
+        }
+    },
+    {
+        "index": 56246,
+        "uuid": "4238358bf5f327ed7afa02ca16b34679",
+        "title": "望庐山瀑布水二首 二",
+        "author": "李白",
+        "content": "日照香炉生紫烟，遥看瀑布挂前川。\n飞流直下三千尺，疑是银河落九天。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "望廬山瀑布水二首 二",
+            "author": "李白",
+            "content": "日照香爐生紫煙，遙看瀑布挂前川。\n飛流直下三千尺，疑是銀河落九天。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《望庐山瀑布水二首 二》意境宏大，气象万千。前两句生动描绘出庐山瀑布在阳光照耀下的奇幻之美，后两句以夸张手法将瀑布比作银河，极富浪漫主义色彩，是千古传颂的名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 3499,
+        "uuid": "37b56981bebc98c83fb9035932d4a272",
+        "title": "绝句四首 三",
+        "author": "杜甫",
+        "content": "两箇黄鹂鸣翠柳，一行白鹭上青天。\n窗含西岭千秋雪，门泊东吴万里船。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "絕句四首 三",
+            "author": "杜甫",
+            "content": "兩箇黃鸝鳴翠柳，一行白鷺上青天。\n窗含西嶺千秋雪，門泊東吳萬里船。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫此诗以短短四句勾勒出一幅生动鲜活的画面。黄鹂鸣于翠柳间，白鹭翱翔于青天之上，视觉与听觉巧妙融合。窗含千秋雪，门泊万里船，远近结合，空间感十足。对仗工整，色彩明丽，展现出自然之美与蓬勃生机，意境开阔且富有韵味。",
+            "score": 98
+        }
+    },
+    {
+        "index": 934,
+        "uuid": "94a7c901beae746db86e6915904d0a07",
+        "title": "横吹曲辞 出塞 一",
+        "author": "王昌龄",
+        "content": "秦时明月汉时关，万里长征人未还。\n但使龙城飞将在，不教胡马度阴山。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "橫吹曲辭 出塞 一",
+            "author": "王昌齡",
+            "content": "秦時明月漢時關，萬里長征人未還。\n但使龍城飛將在，不教胡馬度陰山。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王昌龄的《出塞》意境雄浑壮阔。首句以明月、关塞勾勒出苍茫的边境风光，万里长征凸显戍边之苦。后两句表达对名将的渴望，希望能抵御外敌。此诗语言精炼，内涵深刻，既写出了战争的残酷，又体现了对和平的向往，是边塞诗的经典之作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 5381,
+        "uuid": "a2ac2ec99d220b00c01e6cf2549e4a12",
+        "title": "凉州词二首” 一",
+        "author": "王之涣",
+        "content": "黄河远上白云间，一片孤城万仞山。\n羌笛何须怨杨柳，春光不度玉门关。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "涼州詞二首” 一",
+            "author": "王之渙",
+            "content": "黃河遠上白雲間，一片孤城萬仞山。\n羌笛何須怨楊柳，春光不度玉門關。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王之涣的这首凉州词堪称经典。黄河奔腾直上白云间，孤城与万仞山形成鲜明对比，景象雄浑。羌笛何须怨杨柳一句委婉含蓄，道出戍边战士的哀怨。意境高远，情感深沉，是传世佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 10934,
+        "uuid": "f3f3af880bb37f43ec8530c67d67f31a",
+        "title": "枫桥夜泊",
+        "author": "张继",
+        "content": "月落乌啼霜满天，江枫渔父对愁眠。\n姑苏城外寒山寺，夜半钟声到客船。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百四十二"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "楓橋夜泊",
+            "author": "張繼",
+            "content": "月落烏啼霜滿天，江楓漁父對愁眠。\n姑蘇城外寒山寺，夜半鐘聲到客船。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《枫桥夜泊》意境深远，月落、乌啼、霜、江枫等意象组合精妙，营造出一种清冷孤寂的氛围。夜半钟声更增添了愁绪。此诗情景交融，语言简洁却韵味无穷，是千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 11426,
+        "uuid": "688712a7ef8cb97d594594080fbfc56b",
+        "title": "金陵五题 石头城",
+        "author": "刘禹锡",
+        "content": "山围故国周遭在，潮打空城寂寞回。\n淮水东边旧时月，夜深还过女墙来。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "金陵五題 石頭城",
+            "author": "劉禹錫",
+            "content": "山圍故國周遭在，潮打空城寂寞回。\n淮水東邊舊時月，夜深還過女牆來。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《金陵五题·石头城》为传世佳作。山围故国、潮打空城营造出一种历史的沧桑感，淮水东边旧时月，将古今时空相连，让人感受到王朝兴衰的悲凉。意境深远，情感深沉，语言精炼。",
+            "score": 98
+        }
+    },
+    {
+        "index": 7235,
+        "uuid": "00e2e7f1126b475a69be3b4c93f7ad36",
+        "title": "黄鹤楼送孟浩然之广陵",
+        "author": "李白",
+        "content": "故人西辞黄鹤楼，烟花三月下扬州。\n孤帆远影碧山尽，唯见长江天际流。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百七十四"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "黃鶴樓送孟浩然之廣陵",
+            "author": "李白",
+            "content": "故人西辭黃鶴樓，煙花三月下揚州。\n孤帆遠影碧山盡，唯見長江天際流。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《黄鹤楼送孟浩然之广陵》意境开阔，烟花三月的美景为离别增添了浪漫色彩。孤帆远影渐去，唯见长江奔流，将离别的惆怅表达得含蓄而深远。整首诗气象宏大，是送别诗中的经典之作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 7176,
+        "uuid": "e820bdd9c2ac0b9d6c014b34db57ebcd",
+        "title": "闻王昌龄左迁龙标，遥有此寄",
+        "author": "李白",
+        "content": "杨花落尽子规啼，闻道龙标过五溪。\n我寄愁心与明月，随风直到夜郎西。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百七十二"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "聞王昌齡左遷龍標，遙有此寄",
+            "author": "李白",
+            "content": "楊花落盡子規啼，聞道龍標過五溪。\n我寄愁心與明月，隨風直到夜郎西。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《闻王昌龄左迁龙标，遥有此寄》，前两句点明时令与友人被贬之地，后两句将愁心寄托于明月，让明月随风陪伴友人到夜郎西，构思奇巧，情感真挚深沉，为传世佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 55952,
+        "uuid": "1c359f53c2e80555e4be6c24e9f16518",
+        "title": "赠汪伦",
+        "author": "李白",
+        "content": "李白乘舟将欲行，忽闻岸上踏歌声。\n桃花潭水深千尺，不及汪伦送我情。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "贈汪倫",
+            "author": "李白",
+            "content": "李白乘舟將欲行，忽聞岸上踏歌聲。\n桃花潭水深千尺，不及汪倫送我情。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《赠汪伦》是李白的经典之作。以生动的叙事，描写即将乘船离开时听到岸上踏歌声的情景，用桃花潭水之深来衬托汪伦送别的深情厚谊。语言清新自然，情感真挚动人，极具感染力，是流传千古的佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 56259,
+        "uuid": "ba3b7c061b4a4d5b801270122b989888",
+        "title": "望天门山",
+        "author": "李白",
+        "content": "天门中断楚江开，碧水东流至北迴。\n两岸青山相对出，孤帆一片日边来。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "望天門山",
+            "author": "李白",
+            "content": "天門中斷楚江開，碧水東流至北迴。\n兩岸青山相對出，孤帆一片日邊來。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《望天门山》描绘了天门山夹江对峙的雄伟景象。首句写天门山被江水冲断，气势磅礴。碧水东流北回，增添了灵动之美。两岸青山相对而出，赋予画面动态感。孤帆从日边驶来，更显江景开阔。整首诗意境宏大，语言简洁明快，展现出李白豪迈的诗风与对大自然的赞美之情。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57916,
+        "uuid": "1075cc643f264c1cb5a51ff47f9bf707",
+        "title": "清平调词三首 一",
+        "author": "李白",
+        "content": "云想衣裳花想容，春风拂槛露华浓。\n若非羣玉山头见，会向瑶台月下逢。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "清平調詞三首 一",
+            "author": "李白",
+            "content": "雲想衣裳花想容，春風拂檻露華濃。\n若非羣玉山頭見，會向瑤臺月下逢。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《清平调词三首 一》以奇妙的想象将云、花与人的衣裳、容貌相连，生动描绘出贵妃的艳丽姿容。春风拂槛、露华浓重之景烘托出其高贵气质，后两句以仙境比喻更添奇幻色彩。全诗语言优美，想象超凡，尽显浪漫主义风格，是李白奉诏为贵妃所作的佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 1183,
+        "uuid": "a740350c49a7d897a79c682706ebe193",
+        "title": "相和歌辞 从军行 四",
+        "author": "王昌龄",
+        "content": "青海长云暗雪山，孤城遥望雁门关。\n黄沙百战穿金甲，不破楼兰终不还。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "相和歌辭 從軍行 四",
+            "author": "王昌齡",
+            "content": "青海長雲暗雪山，孤城遙望雁門關。\n黃沙百戰穿金甲，不破樓蘭終不還。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王昌龄的《相和歌辞 从军行 四》堪称边塞诗经典。青海、雪山、孤城等景象营造出雄浑壮阔的氛围，‘黄沙百战穿金甲’体现战士战斗之艰苦，‘不破楼兰终不还’则彰显其坚定的报国之志，豪情满怀，具有强烈的感染力。",
+            "score": 98
+        }
+    },
+    {
+        "index": 952,
+        "uuid": "edcf8aaa4c97081087570fd31d298998",
+        "title": "横吹曲辞 出塞",
+        "author": "王之涣",
+        "content": "黄砂直上白云间，一片孤城万仞山。\n羌笛何须怨杨柳，春风不度玉门关。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "橫吹曲辭 出塞",
+            "author": "王之渙",
+            "content": "黃砂直上白雲間，一片孤城萬仞山。\n羌笛何須怨楊柳，春風不度玉門關。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王之涣的《横吹曲辞 出塞》气象雄浑壮阔。黄沙、孤城、羌笛等意象勾勒出边塞的苍凉，‘春风不度玉门关’更是千古名句，含蓄地表达了戍边战士的思乡之情，具有极高的艺术价值。",
+            "score": 98
+        }
+    },
+    {
+        "index": 25759,
+        "uuid": "aa6c107600a90eb14168312527261737",
+        "title": "夜雨寄北",
+        "author": "李商隐",
+        "content": "君问归期未有期，巴山夜雨涨秋池。\n何当共剪西窗烛，却话巴山夜雨时。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷五百三十九"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "夜雨寄北",
+            "author": "李商隱",
+            "content": "君問歸期未有期，巴山夜雨漲秋池。\n何當共剪西窗燭，卻話巴山夜雨時。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李商隐的《夜雨寄北》是经典之作。首句以问答形式写出归期不定的无奈。‘巴山夜雨涨秋池’描绘雨夜景象，烘托愁绪。后两句设想重逢时的情景，‘何当’‘却话’将时空交错，情感真挚深沉，余味悠长，展现出诗人高超的艺术技巧。",
+            "score": 98
+        }
+    },
+    {
+        "index": 11519,
+        "uuid": "52ce5b38e04090ba4bacc19c5093ed64",
+        "title": "望洞庭",
+        "author": "刘禹锡",
+        "content": "湖光秋月两相和，潭面无风镜未磨。\n遥望洞庭山水翠，白银盘裏一青螺。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "望洞庭",
+            "author": "劉禹錫",
+            "content": "湖光秋月兩相和，潭面無風鏡未磨。\n遙望洞庭山水翠，白銀盤裏一青螺。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "刘禹锡的《望洞庭》是传世之作。湖光与秋月相得益彰，潭面如镜，山水翠色，最后将洞庭山水比作白银盘里的青螺，形象生动，意境美妙，展现出高超的艺术技巧和独特的审美情趣。",
+            "score": 98
+        }
+    },
+    {
+        "index": 3305,
+        "uuid": "40256ba2bd5616de5d8f9197aad79272",
+        "title": "戏为六绝句 二",
+        "author": "杜甫",
+        "content": "杨王卢骆当时体，轻薄为文哂未休。\n尔曹身与名俱灭，不废江河万古流。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "戲爲六絕句 二",
+            "author": "杜甫",
+            "content": "楊王盧駱當時體，輕薄爲文哂未休。\n爾曹身與名俱滅，不廢江河萬古流。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫此诗对初唐四杰的文学成就给予了公正评价。诗中批评了当时那些轻薄之人对四杰的哂笑，指出他们虽对四杰加以诋毁，但自身却会身名俱灭，而四杰的作品如江河般万古长流。此诗体现了杜甫卓越的文学眼光和对文学传承的深刻理解，有振聋发聩之效。",
+            "score": 98
+        }
+    },
+    {
+        "index": 36778,
+        "uuid": "6ab7c55e073c7f261f0cec28c542d90f",
+        "title": "陇西行四首 二",
+        "author": "陈陶",
+        "content": "誓扫匈奴不顾身，五千貂锦丧胡尘。\n可怜无定河边骨，犹是春闺梦裏人。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "隴西行四首 二",
+            "author": "陳陶",
+            "content": "誓掃匈奴不顧身，五千貂錦喪胡塵。\n可憐無定河邊骨，猶是春閨夢裏人。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《陇西行四首·二》悲壮深沉。开篇描绘战士们誓扫匈奴的英勇无畏，‘五千貂锦丧胡尘’写出战争的惨烈。‘可怜无定河边骨，犹是春闺梦里人’，一边是战死的战士白骨，一边是闺中妻子的梦幻期待，强烈的对比令人动容，深刻反映了战争给人民带来的巨大伤痛。",
+            "score": 98
+        }
+    },
+    {
+        "index": 7459,
+        "uuid": "0f9c63874a962c5321d10bbe97856328",
+        "title": "早发白帝城",
+        "author": "李白",
+        "content": "朝辞白帝彩云间，千里江陵一日还。\n两岸猿声啼不尽，轻舟已过万重山。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百八十一"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "早發白帝城",
+            "author": "李白",
+            "content": "朝辭白帝彩雲間，千里江陵一日還。\n兩岸猿聲啼不盡，輕舟已過萬重山。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《早发白帝城》气势磅礴，朝辞暮至，行程之快令人惊叹。两岸猿声与轻舟疾行相映成趣，生动地展现了长江三峡的壮丽风光和行舟的畅快之感，语言简洁明快，意境雄浑开阔。",
+            "score": 98
+        }
+    },
+    {
+        "index": 7442,
+        "uuid": "2d2cd84ff21376c940aa3b2bdbafb5aa",
+        "title": "望天门山",
+        "author": "李白",
+        "content": "天门中断楚江开，碧水东流至北回。\n两岸青山相对出，孤帆一片日边来。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百八十"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "望天門山",
+            "author": "李白",
+            "content": "天門中斷楚江開，碧水東流至北回。\n兩岸青山相對出，孤帆一片日邊來。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《望天门山》气势磅礴。天门中断、楚江开，展现宏大开阔之景。碧水东流、青山相对，动静结合。孤帆日边来，增添画面感与灵动性。意境雄奇，语言简洁明快，是千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 5293,
+        "uuid": "8b43834cce3c8bd93695087e26029c4b",
+        "title": "九月九日忆山东兄弟",
+        "author": "王维",
+        "content": "独在异乡为异客，每逢佳节倍思亲。\n遥知兄弟登高处，遍插茱萸少一人。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百二十八"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "九月九日憶山東兄弟",
+            "author": "王維",
+            "content": "獨在異鄉為異客，每逢佳節倍思親。\n遙知兄弟登高處，遍插茱萸少一人。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《九月九日忆山东兄弟》情感真挚动人。首句点明异乡异客的孤独处境，‘每逢佳节倍思亲’直抒胸臆，将思乡怀亲之情推向高潮。后两句通过想象兄弟登高插茱萸的情景，反衬自己的孤独，构思巧妙。全诗语言质朴自然，情感细腻，具有很强的感染力，是千古传颂的思乡佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 1734,
+        "uuid": "583dc824e1df7940f144d206e0513293",
+        "title": "杂曲歌辞：渭城曲",
+        "author": "王维",
+        "content": "渭城朝雨浥轻尘，客舍青青柳色春。\n劝君更尽一杯酒，西出阳关无故人。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二十七"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "雜曲歌辭：渭城曲",
+            "author": "王維",
+            "content": "渭城朝雨浥輕塵，客舍青青柳色春。\n勸君更盡一杯酒，西出陽關無故人。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王维的《渭城曲》，朝雨浥尘，柳色青青，营造出清新明朗氛围。‘劝君更尽一杯酒’，将惜别之情推向高潮，后句点明友人远行后孤独，情感真挚深沉，意境深远，为送别诗经典。",
+            "score": 98
+        }
+    },
+    {
+        "index": 56280,
+        "uuid": "af991138c20cca452486e8817e622da7",
+        "title": "早发白帝城",
+        "author": "李白",
+        "content": "朝辞白帝彩云间，千里江陵一日还。\n两岸猨声啼不尽，轻舟已过万重山。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "早發白帝城",
+            "author": "李白",
+            "content": "朝辭白帝彩雲間，千里江陵一日還。\n兩岸猨聲啼不盡，輕舟已過萬重山。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《早发白帝城》气势磅礴，朝辞彩云间，千里一日还，展现出舟行之速，凸显诗人畅快心情。两岸猿声与轻舟过万重山形成动与静的对比，画面感强，语言明快流畅，是李白豪迈奔放风格的典型体现。",
+            "score": 98
+        }
+    },
+    {
+        "index": 44136,
+        "uuid": "fd9206926e36711e4bcb62cf384e037d",
+        "title": "忆秦娥",
+        "author": "李白",
+        "content": "箫声咽，秦娥梦断秦楼月。\n秦楼月，年年柳色，灞陵伤别。\n乐游原上清秋节，咸阳古道音尘绝。\n音尘绝，西风残照，汉家陵阙。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "憶秦娥",
+            "author": "李白",
+            "content": "簫聲咽，秦娥夢斷秦樓月。\n秦樓月，年年柳色，灞陵傷別。\n樂遊原上清秋節，咸陽古道音塵絕。\n音塵絕，西風殘照，漢家陵闕。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《忆秦娥》意境深远，情感深沉。箫声呜咽，秦娥梦断，灞陵伤别，渲染出离别的哀愁。西风残照下的汉家陵阙，更增添了历史的沧桑感。词风悲壮，是千古传颂的佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 55822,
+        "uuid": "b18644316f3514d4e02b29da6a955ed6",
+        "title": "临路歌",
+        "author": "李白",
+        "content": "大鹏飞兮振八裔，中天摧兮力不济。\n余风激兮万世，游扶桑兮挂石袂。\n后人得之传此，仲尼亡兮谁为出涕。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "臨路歌",
+            "author": "李白",
+            "content": "大鵬飛兮振八裔，中天摧兮力不濟。\n餘風激兮萬世，遊扶桑兮挂石袂。\n後人得之傳此，仲尼亡兮誰爲出涕。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《临路歌》气势磅礴，以大鹏自比，展现其高远志向。开篇写大鹏振翅高飞，却中天折翼，隐喻自身命运坎坷。‘余风激兮万世’体现其壮志豪情的深远影响。结尾借孔子之亡表达深沉的感慨。整首诗情感激荡，充满浪漫主义色彩，彰显诗人豪迈气概与不屈精神。",
+            "score": 98
+        }
+    },
+    {
+        "index": 6893,
+        "uuid": "1073b713923fd5a0b2e22bd59cf9070c",
+        "title": "蜀道难",
+        "author": "李白",
+        "content": "噫吁戏危乎高哉，蜀道之难难于上青天。\n蚕丛及鱼凫，西当太白有鸟道，可以横绝峨眉颠。\n地崩山摧壮士死，扪参历井仰胁息，以手抚膺坐长叹。\n问君西游何时还，又闻子规啼夜月，愁空山。\n蜀道之难难于上青天，飞湍瀑流争喧豗，砯崖转石万壑雷。\n其险也如此，",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百六十二"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "蜀道難",
+            "author": "李白",
+            "content": "噫籲戲危乎高哉，蜀道之難難於上青天。\n蠶叢及魚鳧，西當太白有鳥道，可以橫絕峨眉顛。\n地崩山摧壯士死，捫參曆井仰脅息，以手撫膺坐長歎。\n問君西遊何時還，又聞子規啼夜月，愁空山。\n蜀道之難難於上青天，飛湍瀑流爭喧豗，砯崖轉石萬壑雷。\n其險也如此，"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《蜀道难》是千古名篇，以浪漫主义的手法描绘蜀道的艰险壮丽。开篇惊叹蜀道之难，接着用神话传说、夸张描写增添神秘色彩。诗中对蜀道山川的描绘气势磅礴，情感激荡。其艺术成就极高，对后世影响深远。",
+            "score": 98
+        }
+    },
+    {
+        "index": 44105,
+        "uuid": "a2583d0f9f870b23681b8a0f539b155b",
+        "title": "浪淘沙 一",
+        "author": "后主煜",
+        "content": "帘外雨潺潺，春意阑珊。\n罗衾不耐五更寒，梦裏不知身是客，一晌贪欢。\n独自暮凭阑，无限江山。\n别时容易见时难，流水落花春去也，天上人间。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "浪淘沙 一",
+            "author": "後主煜",
+            "content": "簾外雨潺潺，春意闌珊。\n羅衾不耐五更寒，夢裏不知身是客，一晌貪歡。\n獨自暮凭闌，無限江山。\n別時容易見時難，流水落花春去也，天上人間。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李煜此词情感深沉悲怆，上阕写囚居生活的孤苦，下阕感慨江山易主。‘流水落花春去也，天上人间’将人生的无奈与悲叹推向极致，意境深远，感染力极强，是南唐后主的经典之作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57953,
+        "uuid": "c403919ad87ef2890b0c15a2a304e99f",
+        "title": "杂曲歌辞 游子吟",
+        "author": "孟郊",
+        "content": "慈母手中线，游子身上衣。\n临行密密缝，意恐迟迟归。\n谁言寸草心，报得三春晖。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "雜曲歌辭 遊子吟",
+            "author": "孟郊",
+            "content": "慈母手中線，遊子身上衣。\n臨行密密縫，意恐遲遲歸。\n誰言寸草心，報得三春暉。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "孟郊的《游子吟》情感至深，通过慈母缝衣的细节，凸显母爱的深沉与伟大。寸草心与三春晖的比喻精妙，将母子之情形象表达。语言质朴却饱含深情，是传颂千古的佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 42740,
+        "uuid": "e711cfa726ffd5cde8bb19fac377b672",
+        "title": "虞美人",
+        "author": "李煜",
+        "content": "风回小院庭芜绿，柳眼春相续。\n凭阑半日独无言，笙歌未散尊罍在，池面冰初解。\n烛明香暗画楼深，春花秋月何时了，往事知多少。\n小楼昨夜又东风，雕阑玉砌应犹在，只是朱颜改。\n问君能有几多愁，",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八百八十九"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "虞美人",
+            "author": "李煜",
+            "content": "風回小院庭蕪綠，柳眼春相續。\n憑闌半日獨無言，笙歌未散尊罍在，池面冰初解。\n燭明香暗畫樓深，春花秋月何時了，往事知多少。\n小樓昨夜又東風，雕闌玉砌應猶在，只是朱顏改。\n問君能有幾多愁，"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李煜的《虞美人》是千古名篇。上阕写庭院春色，烘托出孤寂心境。下阕则直抒亡国之愁，‘春花秋月何时了’等句将愁绪推向高潮，‘雕栏玉砌应犹在，只是朱颜改’对比强烈，深刻地表达了对故国的思念和人生的感慨。情感真挚，感染力强。",
+            "score": 98
+        }
+    },
+    {
+        "index": 44087,
+        "uuid": "9c82f506298cfb97d46b0f759c536538",
+        "title": "相见欢 一",
+        "author": "后主煜",
+        "content": "林花谢了春红，太悤悤。\n无奈朝来寒雨，晚来风。\n胭脂泪，相留醉，几时重。\n自是人生长恨，水长东。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "相見歡 一",
+            "author": "後主煜",
+            "content": "林花謝了春紅，太悤悤。\n無奈朝來寒雨，晚來風。\n胭脂淚，相留醉，幾時重。\n自是人生長恨，水長東。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李煜的《相见欢 一》是经典之作。上阕写林花匆匆凋谢，寒雨晚风侵袭，营造出衰败凄凉之感。下阕以“胭脂泪”等细腻地刻画人物的哀愁，“自是人生长恨，水长东”则将个人之愁升华到对人生的感慨，情感深沉，艺术感染力强。",
+            "score": 98
+        }
+    },
+    {
+        "index": 44088,
+        "uuid": "8891505aab4c8c72e9dbf5414e1019a3",
+        "title": "相见欢 二",
+        "author": "后主煜",
+        "content": "无言独上西楼，月如钩。\n寂寞梧桐深院，锁清秋。\n翦不断，理还乱，是离愁。\n别是一般滋味，在心头。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "相見歡 二",
+            "author": "後主煜",
+            "content": "無言獨上西樓，月如鉤。\n寂寞梧桐深院，鎖清秋。\n翦不斷，理還亂，是離愁。\n別是一般滋味，在心頭。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《相见欢 二》是李煜的经典之作。上阕勾勒出孤寂清冷的氛围，下阕将离愁刻画得细腻入微，‘剪不断，理还乱’更是成为千古名句，把抽象的情感具象化，极具感染力。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57910,
+        "uuid": "da66a84b0ae1be62f4fc9f6760c0a693",
+        "title": "行路难三首 一",
+        "author": "李白",
+        "content": "金樽清酒斗十千，玉盘珍羞直万钱。\n停杯投筯不能食，拔劒四顾心茫然。\n欲渡黄河冰塞川，将登太行雪满山。\n闲来垂钓碧溪上，忽復乘舟梦日边。\n行路难，行路难，多岐路，今安在。\n长风破浪会有时，直挂云帆济沧海。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "行路難三首 一",
+            "author": "李白",
+            "content": "金樽清酒斗十千，玉盤珍羞直萬錢。\n停杯投筯不能食，拔劒四顧心茫然。\n欲渡黃河冰塞川，將登太行雪滿山。\n閑來垂釣碧溪上，忽復乘舟夢日邊。\n行路難，行路難，多岐路，今安在。\n長風破浪會有時，直挂雲帆濟滄海。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《行路难三首 一》情感激荡，开篇以盛宴反衬内心的苦闷，接着用冰塞川、雪满山等意象描绘前路艰难。又以吕尚、伊尹自比，怀有壮志。最后长风破浪之句尽显豪迈。意境雄浑壮阔，情感跌宕起伏，艺术成就极高。",
+            "score": 98
+        }
+    },
+    {
+        "index": 44109,
+        "uuid": "4b2412ea96f7c6e66b0769b842f6c4a8",
+        "title": "虞美人 二",
+        "author": "后主煜",
+        "content": "春花秋月何时了，往事知多少。\n小楼昨夜又东风，故国不堪回首，月明中。\n雕阑玉砌应犹在，只是朱颜改。\n问君能有几多愁，恰似一江春水，向东流。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "虞美人 二",
+            "author": "後主煜",
+            "content": "春花秋月何時了，往事知多少。\n小樓昨夜又東風，故國不堪回首，月明中。\n雕闌玉砌應猶在，只是朱顏改。\n問君能有幾多愁，恰似一江春水，向東流。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《虞美人 二》为千古名篇，以春花秋月起兴，引发对往事的感慨。词中情感深沉悲怆，‘雕阑玉砌应犹在，只是朱颜改’对比强烈，‘问君能有几多愁，恰似一江春水向东流’将愁绪具象化，感染力极强。",
+            "score": 98
+        }
+    },
+    {
+        "index": 6898,
+        "uuid": "bde766566af63eaf95a06eff8298faee",
+        "title": "将进酒",
+        "author": "李白",
+        "content": "君不见黄河之水天上来，奔流到海不復回。\n君不见高堂明镜悲白髮，朝如青丝暮成雪。\n人生得意须尽欢，莫使金樽空对月。\n天生我材必有用，岑夫子，丹丘生，将进酒，君莫停。\n与君歌一曲，古来圣贤皆寂寞，惟有饮者留其名。\n陈王昔时宴平乐，五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百六十二"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "將進酒",
+            "author": "李白",
+            "content": "君不見黃河之水天上來，奔流到海不復回。\n君不見高堂明鏡悲白髮，朝如青絲暮成雪。\n人生得意須盡歡，莫使金樽空對月。\n天生我材必有用，岑夫子，丹丘生，將進酒，君莫停。\n與君歌一曲，古來聖賢皆寂寞，惟有飲者留其名。\n陳王昔時宴平樂，五花馬，千金裘，呼兒將出換美酒，與爾同銷萬古愁。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《将进酒》是李白的经典之作。诗中豪情满怀，如黄河之水般奔腾不息。既感慨人生短暂，又坚信自身价值。‘天生我材必有用’尽显自信，‘五花马，千金裘，呼儿将出换美酒，与尔同销万古愁’更是豪放至极，具有极高的艺术价值。",
+            "score": 98
+        }
+    },
+    {
+        "index": 3709,
+        "uuid": "4b5e495bdfbb5a9d02242caa1e62a910",
+        "title": "登幽州台歌",
+        "author": "陈子昂",
+        "content": "前不见古人，后不见来者。\n念天地之悠悠，独怆然而涕下。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷八十三"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "登幽州台歌",
+            "author": "陳子昂",
+            "content": "前不見古人，後不見來者。\n念天地之悠悠，獨愴然而涕下。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《登幽州台歌》意境雄浑壮阔，短短几句，表达出诗人怀才不遇、孤独悲怆的深沉情感。通过时空的宏大对比，凸显个体的渺小与孤独。语言简洁有力，是千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 1781,
+        "uuid": "ebccef4e93b49034e1aa62dfb61e3d07",
+        "title": "杂曲歌辞 行路难三首 一",
+        "author": "李白",
+        "content": "金尊清酒斗十千，玉盘珍羞直万钱。\n停杯投筯不能食，拔劒四顾心茫然。\n欲渡黄河冰塞川，将登太行雪暗天。\n闲来垂钓坐溪上，忽復乘舟梦日边。\n行路难，行路难，多岐路，今安在？长风破浪会有时，直挂云帆济沧海。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "雜曲歌辭 行路難三首 一",
+            "author": "李白",
+            "content": "金尊清酒斗十千，玉盤珍羞直萬錢。\n停杯投筯不能食，拔劒四顧心茫然。\n欲渡黃河冰塞川，將登太行雪暗天。\n閑來垂釣坐溪上，忽復乘舟夢日邊。\n行路難，行路難，多岐路，今安在？長風破浪會有時，直挂雲帆濟滄海。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《行路难三首 一》情感激荡，前几句营造出盛宴难食的苦闷氛围，‘欲渡黄河冰塞川’等句比喻人生道路的艰难。结尾‘长风破浪会有时’又展现出豪迈的气概，极具艺术感染力，是千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 789,
+        "uuid": "c443079672a8a3f7530aad6604a0e02c",
+        "title": "乐府杂曲：鼓吹曲辞：将进酒",
+        "author": "李白",
+        "content": "君不见黄河之水天上来，奔流到海不復回。\n君不见高堂明镜悲白髮，朝如青丝暮成雪。\n人生得意须尽欢，莫使金尊空对月。\n天生我材必有用，岑夫子，丹丘生，将进酒，杯莫停。\n与君歌一曲，古来圣贤皆寂寞，惟有饮者留其名。\n陈王昔时宴平乐，五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一十七"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "樂府雜曲：鼓吹曲辭：將進酒",
+            "author": "李白",
+            "content": "君不見黃河之水天上來，奔流到海不復回。\n君不見高堂明鏡悲白髮，朝如青絲暮成雪。\n人生得意須盡歡，莫使金尊空對月。\n天生我材必有用，岑夫子，丹丘生，將進酒，杯莫停。\n與君歌一曲，古來聖賢皆寂寞，惟有飲者留其名。\n陳王昔時宴平樂，五花馬，千金裘，呼兒將出換美酒，與爾同銷萬古愁。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《将进酒》气势磅礴，情感豪迈奔放。以黄河之水、人生白发等意象抒发时光易逝之感，又表达出对自身才华的坚信。‘五花马，千金裘，呼儿将出换美酒，与尔同销万古愁’尽显狂放不羁。是千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 3053,
+        "uuid": "d2a09b6139564d0b02e00187f3836f60",
+        "title": "春望",
+        "author": "杜甫",
+        "content": "国破山河在，城春草木深。\n感时花溅泪，恨别鸟惊心。\n烽火连三月，家书抵万金。\n白头搔更短，浑欲不胜簪。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "春望",
+            "author": "杜甫",
+            "content": "國破山河在，城春草木深。\n感時花濺淚，恨別鳥驚心。\n烽火連三月，家書抵萬金。\n白頭搔更短，渾欲不勝簪。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫的《春望》是千古名篇。开篇描绘国都沦陷后的破败景象，触目惊心。‘感时’‘恨别’将个人情感与家国命运紧密相连。烽火连绵，家书珍贵，凸显战乱之苦。最后描写自身衰老之态，令人动容。全诗意境深沉，情感真挚，格律严谨，具有极高的艺术价值。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57840,
+        "uuid": "6c36eefabb2c04e59c620312317ddfa2",
+        "title": "望月怀远",
+        "author": "张九龄",
+        "content": "海上生明月，天涯共此时。\n情人怨遥夜，竟夕起相思。\n灭烛怜光满，披衣觉露滋。\n不堪盈手赠，还寝梦佳期。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "望月懷遠",
+            "author": "張九齡",
+            "content": "海上生明月，天涯共此時。\n情人怨遙夜，竟夕起相思。\n滅燭憐光滿，披衣覺露滋。\n不堪盈手贈，還寢夢佳期。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《望月怀远》意境雄浑阔大。首句‘海上生明月’画面壮美，‘天涯共此时’则将情思引向远方。诗人因景生情，通过描写长夜难眠、怜光披衣等细节，将相思之情渲染得细腻深沉。结尾以梦佳期寄托情思，情真意切。此诗语言自然流畅，情感真挚，将望月怀人之情表现得淋漓尽致。",
+            "score": 98
+        }
+    },
+    {
+        "index": 53627,
+        "uuid": "88287994f68b72b3f934c6717cff3b2d",
+        "title": "汉江临泛",
+        "author": "王维",
+        "content": "楚塞三湘接，荆门九派通。\n江流天地外，山色有无中。\n郡邑浮前浦，波澜动远空。\n襄阳好风日，留醉与山翁。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "漢江臨汎",
+            "author": "王維",
+            "content": "楚塞三湘接，荆門九派通。\n江流天地外，山色有無中。\n郡邑浮前浦，波瀾動遠空。\n襄陽好風日，留醉與山翁。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王维的《汉江临泛》气势磅礴，将汉江的浩瀚、山水的壮阔描绘得淋漓尽致。‘江流天地外，山色有无中’堪称千古名句，境界开阔。整首诗意境雄浑，笔法精湛。",
+            "score": 98
+        }
+    },
+    {
+        "index": 53632,
+        "uuid": "6fd5b77d16e292f639b9383cdd9a76d6",
+        "title": "使至塞上",
+        "author": "王维",
+        "content": "衔命辞天阙，单车欲问边。\n征蓬出汉塞，归雁入胡天。\n大漠孤烟直，长河落日圆。\n萧关逢候吏，都护在燕然。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "使至塞上",
+            "author": "王維",
+            "content": "銜命辭天闕，單車欲問邊。\n征蓬出漢塞，歸雁入胡天。\n大漠孤煙直，長河落日圓。\n蕭關逢候吏，都護在燕然。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《使至塞上》叙事与写景融合精妙。诗人单车赴边，途中见征蓬、归雁，暗喻自身漂泊。‘大漠孤烟直，长河落日圆’堪称千古名句，以简洁笔墨勾勒出塞外雄浑壮阔之景。全诗意境雄浑，气象宏大，既展现了旅途风光，又流露出孤独之感。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57838,
+        "uuid": "3237e20a9038ee6ae40b80899218d0c3",
+        "title": "登岳阳楼",
+        "author": "杜甫",
+        "content": "昔闻洞庭水，今上岳阳楼。\n吴楚东南坼，干坤日夜浮。\n亲朋无一字，老病有孤舟。\n戎马关山北，凭轩涕泗流。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "登岳陽樓",
+            "author": "杜甫",
+            "content": "昔聞洞庭水，今上岳陽樓。\n吳楚東南坼，乾坤日夜浮。\n親朋無一字，老病有孤舟。\n戎馬關山北，憑軒涕泗流。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫的《登岳阳楼》气势磅礴，前两联描绘洞庭湖水的浩瀚壮阔，坼、浮二字尽显气象万千。后两联由景及情，写自身孤苦及对国家战乱的忧虑，将个人命运与国家命运紧密相连，沉郁顿挫，堪称千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57848,
+        "uuid": "f1daa866116ca1e56260c5767d391516",
+        "title": "望岳",
+        "author": "杜甫",
+        "content": "岱宗夫如何，齐鲁青未了。\n造化钟神秀，阴阳割昏晓。\n荡胷生曾云，决眦入归鸟。\n会当凌绝顶，一览众山小。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "望嶽",
+            "author": "杜甫",
+            "content": "岱宗夫如何，齊魯青未了。\n造化鍾神秀，陰陽割昏曉。\n盪胷生曾雲，決眥入歸鳥。\n會當凌絕頂，一覽衆山小。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《望岳》是杜甫的经典之作。开篇以设问起势，描绘泰山雄伟磅礴的气象。‘造化钟神秀，阴阳割昏晓’凸显其神奇秀丽与巍峨高大。诗人登山所见，云涌鸟飞，令人心胸激荡。尾联则展现出诗人的壮志豪情。此诗意境雄浑，气象宏大，语言精炼，情感深沉。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57742,
+        "uuid": "1e61dd3248b114a74e8f52bb52ab2967",
+        "title": "终南别业",
+        "author": "王维",
+        "content": "中岁颇好道，晚家南山陲。\n兴来每独往，胜事空自知。\n行到水穷处，坐看云起时。\n偶然值林叟，谈笑无还期。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "終南別業",
+            "author": "王維",
+            "content": "中歲頗好道，晚家南山陲。\n興來每獨往，勝事空自知。\n行到水窮處，坐看雲起時。\n偶然值林叟，談笑無還期。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王维的《终南别业》体现了其闲适超脱的心境。中年好道，晚年居南山，独往而自得其乐。‘行到水穷处，坐看云起时’更是神来之笔，展现出一种随性、自然的生活态度。与林叟谈笑无还期，尽显悠然。此诗意境高远，为传世之作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 5166,
+        "uuid": "0fc79384ee776592187de3e3774ea491",
+        "title": "使至塞上",
+        "author": "王维",
+        "content": "单车欲问边，属国过居延。\n征蓬出汉塞，归雁入胡天。\n大漠孤烟直，长河落日圆。\n萧关逢候吏，都护在燕然。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百二十六"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "使至塞上",
+            "author": "王維",
+            "content": "單車欲問邊，屬國過居延。\n征蓬出漢塞，歸雁入胡天。\n大漠孤煙直，長河落日圓。\n蕭關逢候吏，都護在燕然。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王维的《使至塞上》是经典之作。叙事简洁，‘征蓬’‘归雁’自比，流露出漂泊之感。‘大漠孤烟直，长河落日圆’描绘出塞外壮丽奇绝的风光，画面感强，对仗工整，成为千古名句。全诗融叙事、写景、抒情于一体。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57844,
+        "uuid": "71602ffb55364514c44fa883e9e5caf9",
+        "title": "杜少府之任蜀州",
+        "author": "王勃",
+        "content": "城阙辅三秦，风烟望五津。\n与君离别意，同是宦游人。\n海内存知己，天涯若比隣。\n无为在岐路，儿女共霑巾。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "杜少府之任蜀州",
+            "author": "王勃",
+            "content": "城闕輔三秦，風煙望五津。\n與君離別意，同是宦遊人。\n海內存知己，天涯若比隣。\n無爲在岐路，兒女共霑巾。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "王勃的《杜少府之任蜀州》意境开阔，情感真挚。首联点明送别之地与友人赴任之处，颔联道出离别的愁绪。颈联‘海内存知己，天涯若比邻’超越时空，成为千古名句，尽显豁达。尾联劝勉友人勿作儿女态。整体情感昂扬，语言流畅。",
+            "score": 98
+        }
+    },
+    {
+        "index": 7238,
+        "uuid": "bead603a4fe00428c1118e16ae0d1e28",
+        "title": "渡荆门送别",
+        "author": "李白",
+        "content": "流远荆门外，来从楚国游。\n山随平野尽，江入大荒流。\n月下飞天镜，云生结海楼。\n仍连故乡水，万里送行舟。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷一百七十四"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "渡荊門送別",
+            "author": "李白",
+            "content": "流遠荊門外，來從楚國遊。\n山隨平野盡，江入大荒流。\n月下飛天鏡，雲生結海樓。\n仍連故鄉水，萬里送行舟。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《渡荆门送别》意境开阔，山随平野尽、江入大荒流展现出宏大壮阔的画面。月下飞天镜等句想象奇妙。最后以故乡水送行舟，赋予江水深情。诗风豪迈飘逸，为千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 9843,
+        "uuid": "b1ea5638e6b76bd6fa4f2e37abc05d38",
+        "title": "不见",
+        "author": "杜甫",
+        "content": "不见李生久，佯狂真可哀。\n世人皆欲杀，吾意独怜才。\n敏捷诗千首，飘零酒一杯。\n匡山读书处，头白好归来。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百二十七"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "不見",
+            "author": "杜甫",
+            "content": "不見李生久，佯狂真可哀。\n世人皆欲殺，吾意獨憐才。\n敏捷詩千首，飄零酒一杯。\n匡山讀書處，頭白好歸來。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫此诗怀念李白，对其佯狂之举充满哀怜，表达对其才的怜惜。诗中生动刻画李白形象，既有对其才华的赞誉，又有对其飘零身世的同情。情感深沉，艺术感染力强，为传世佳作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57918,
+        "uuid": "883fedf3fe14b5251e9a4c16fa5e0929",
+        "title": "静夜思",
+        "author": "李白",
+        "content": "床前看月光，疑是地上霜。\n举头望山月，低头思故乡。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "靜夜思",
+            "author": "李白",
+            "content": "牀前看月光，疑是地上霜。\n舉頭望山月，低頭思故鄉。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《静夜思》语言简洁明快，生动地描绘出客居他乡之人深夜难眠的情景。诗人由床前月光疑为霜，巧妙地营造出清冷氛围。举头望山月，低头思故乡，将思乡之情表达得真挚而自然。短短四句，情景交融，以平实之语触动人心，堪称思乡怀人诗作的经典之作。",
+            "score": 98
+        }
+    },
+    {
+        "index": 11568,
+        "uuid": "ab30035051e9a094dfa3b71af6ad8cb8",
+        "title": "登鹳雀楼",
+        "author": "王之涣",
+        "content": "白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百五十三"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "登鸛雀樓",
+            "author": "王之渙",
+            "content": "白日依山盡，黃河入海流。\n欲窮千里目，更上一層樓。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《登鹳雀楼》乃千古名篇。前两句描绘山河壮丽之景，视野开阔；后两句则蕴含深刻哲理，借登高望远，启示人们要有更远大的志向与追求。意境雄浑，语言简洁有力，具有极高的艺术成就。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57811,
+        "uuid": "d73b38315f6c609b92588ce9e095e215",
+        "title": "江雪",
+        "author": "柳宗元",
+        "content": "千山鸟飞绝，万径人踪灭。\n孤舟蓑笠翁，独钓寒江雪。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "江雪",
+            "author": "柳宗元",
+            "content": "千山鳥飛絕，萬逕人蹤滅。\n孤舟蓑笠翁，獨釣寒江雪。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《江雪》描绘出一幅冰天雪地、万籁俱寂的寒江独钓图。千山万径皆绝，唯见孤舟蓑笠翁，意境孤高旷远，表达出诗人不屈的精神和高洁的品格，是千古名篇。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57619,
+        "uuid": "8ee752bd906df4bb1e517aeb006556a0",
+        "title": "乐游原",
+        "author": "李商隐",
+        "content": "向晚意不适，驱车登古原。\n夕阳无限好，只是近黄昏。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "樂遊原",
+            "author": "李商隱",
+            "content": "向晚意不適，驅車登古原。\n夕陽無限好，只是近黃昏。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《乐游原》开篇点明登原缘由，心境不佳时驱车前往古原。后两句堪称神来之笔，描绘出夕阳的壮美，却又透露出美好即将消逝的怅惘。意境开阔而又蕴含深沉的人生感慨，以景寓情，将诗人复杂的情感寄托于夕阳之中，引发读者共鸣。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57908,
+        "uuid": "169cddc55c0e6e9536c2b1e2d09ca500",
+        "title": "访羊尊师",
+        "author": "孙革",
+        "content": "松下问童子，言师采药去。\n只在此山中，云深不知处。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "訪羊尊師",
+            "author": "孫革",
+            "content": "松下問童子，言師採藥去。\n只在此山中，雲深不知處。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《访羊尊师》是经典之作。通过与童子的问答，营造出空灵、清幽的氛围，言简意赅却充满禅意，让人对羊尊师的神秘形象充满遐想，展现出一种超凡脱俗的境界，文学价值极高，流传广泛。",
+            "score": 98
+        }
+    },
+    {
+        "index": 57783,
+        "uuid": "208636e5d0799f3e0c0eb67af935c8f3",
+        "title": "清平调 三",
+        "author": "李白",
+        "content": "名花倾国两相欢，常得君王带笑看。\n解得春风无限恨，沈香亭北倚阑干。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "清平調 三",
+            "author": "李白",
+            "content": "名花傾國兩相歡，常得君王帶笑看。\n解得春風無限恨，沈香亭北倚闌干。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《清平调 三》将名花与美人相映衬，描绘出唐玄宗与杨贵妃赏花的欢乐场景。‘解得春风无限恨’寓意巧妙，生动展现出贵妃的风情万种。此诗语言优美，为传世佳作。",
+            "score": 97
+        }
+    },
+    {
+        "index": 3534,
+        "uuid": "4bb13b8251ede8d8c0047bfc0d265560",
+        "title": "在狱咏蝉",
+        "author": "骆宾王",
+        "content": "西陆蝉声唱，南冠客思侵。\n那堪玄鬓影，来对白头吟。\n露重飞难进，风多响易沉。\n无人信高洁，谁为表予心。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷七十八"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "在獄詠蟬",
+            "author": "駱賓王",
+            "content": "西陸蟬聲唱，南冠客思侵。\n那堪玄鬢影，來對白頭吟。\n露重飛難進，風多響易沉。\n無人信高潔，誰為表予心。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "骆宾王的《在狱咏蝉》是传世名篇，借蝉自喻，抒发含冤难辩的悲愤。‘露重飞难进，风多响易沉’将蝉的艰难与自己的处境巧妙融合，寓意深刻。整首诗情感充沛，托物言志手法运用娴熟，极具感染力。",
+            "score": 97
+        }
+    },
+    {
+        "index": 11427,
+        "uuid": "01d95832f3ec24378ed1eb0cfca1c3b6",
+        "title": "金陵五题 乌衣巷",
+        "author": "刘禹锡",
+        "content": "朱雀桥边野草花，乌衣巷口夕阳斜。\n旧时王谢堂前燕，飞入寻常百姓家。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "金陵五題 烏衣巷",
+            "author": "劉禹錫",
+            "content": "朱雀橋邊野草花，烏衣巷口夕陽斜。\n舊時王謝堂前燕，飛入尋常百姓家。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《金陵五题·乌衣巷》借景抒情，意味深长。朱雀桥边野草繁花，乌衣巷口夕阳残照，勾勒出一种沧桑感。‘旧时王谢堂前燕，飞入寻常百姓家’，通过燕子的变迁，巧妙暗示了世家大族的兴衰沉浮，以小见大，充满了历史的沧桑感和人生的感慨。",
+            "score": 96
+        }
+    },
+    {
+        "index": 9884,
+        "uuid": "4063bd8bee0905c0eaa8466a6cfc90ef",
+        "title": "登高",
+        "author": "杜甫",
+        "content": "风急天高猿啸哀，渚清沙白鸟飞回。\n无边落木萧萧下，艰难苦恨繁霜鬓，潦倒新停浊酒杯。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷二百二十七"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "登高",
+            "author": "杜甫",
+            "content": "風急天高猿嘯哀，渚清沙白鳥飛回。\n無邊落木蕭蕭下，艱難苦恨繁霜鬢，潦倒新停濁酒杯。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "《登高》意境雄浑壮阔，前两联描绘了萧瑟的秋景，营造出悲凉的氛围。后两联则抒发了诗人艰难苦恨的人生感慨。整首诗格律严谨，对仗工整，情感深沉，是杜甫的经典之作。",
+            "score": 95
+        }
+    },
+    {
+        "index": 3625,
+        "uuid": "0fac7825581d398f1c3846a3556bb143",
+        "title": "秋兴八首 二",
+        "author": "杜甫",
+        "content": "夔府孤城落日斜，每依南斗望京华。\n听猨实下三声泪，奉使虚随八月查。\n画省香炉违伏枕，山楼粉堞隐悲笳。\n请看石上藤萝月，已暎洲前芦荻花。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "秋興八首 二",
+            "author": "杜甫",
+            "content": "夔府孤城落日斜，每依南斗望京華。\n聽猨實下三聲淚，奉使虛隨八月查。\n畫省香爐違伏枕，山樓粉堞隱悲笳。\n請看石上藤蘿月，已暎洲前蘆荻花。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫的《秋兴八首·二》沉郁顿挫。诗中通过夔府孤城的落日景象，寄托对京华的思念。听猿落泪，虚实结合，渲染悲戚。画省与山楼对比，凸显处境。石上藤萝月映照芦荻花，意境幽远。此诗情感真挚深沉，格律严谨，展现出杜诗的典型风格。",
+            "score": 95
+        }
+    },
+    {
+        "index": 14874,
+        "uuid": "fe858bf6f8034007eb1d2f5bdab65cd5",
+        "title": "离思五首 四",
+        "author": "元稹",
+        "content": "曾经沧海难为水，除却巫山不是云。\n取次花丛懒迴顾，半缘修道半缘君。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "離思五首 四",
+            "author": "元稹",
+            "content": "曾經滄海難爲水，除却巫山不是雲。\n取次花叢嬾迴顧，半緣修道半緣君。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "元稹的《离思五首·其四》情感深沉真挚。以沧海、巫山之典，喻爱情的深沉与专一，花丛懒顾表明心有所属。诗句表意含蓄，意象经典，将对亡妻的思念与忠贞之情表达得淋漓尽致，是爱情诗中的佳作。",
+            "score": 95
+        }
+    },
+    {
+        "index": 11360,
+        "uuid": "04b922df760267296dd227b61981169d",
+        "title": "竹枝词二首 一",
+        "author": "刘禹锡",
+        "content": "杨柳青青江水平，闻郎江上唱歌声。\n东边日出西边雨，道是无晴却有晴。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "竹枝詞二首 一",
+            "author": "劉禹錫",
+            "content": "楊柳青青江水平，聞郎江上唱歌聲。\n東邊日出西邊雨，道是無晴却有晴。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "刘禹锡的这首《竹枝词》意境清新明快，杨柳、江水等意象勾勒出一幅江边美景。‘东边日出西边雨，道是无晴却有晴’巧妙地用天气变化暗喻少女的心思，堪称经典。",
+            "score": 95
+        }
+    },
+    {
+        "index": 30909,
+        "uuid": "0464e2386cc1a9070233b28b07776601",
+        "title": "诗品二十四则：含蓄",
+        "author": "司空图",
+        "content": "不着一字，尽得风流。\n语不涉难，已不堪忧。\n是有真宰，与之沈浮。\n如渌满酒，花时返秋。\n悠悠空尘，忽忽海沤。\n浅深聚散，万取一收。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷六百三十四"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "詩品二十四則：含蓄",
+            "author": "司空圖",
+            "content": "不著一字，盡得風流。\n語不涉難，已不堪憂。\n是有真宰，與之沈浮。\n如淥滿酒，花時返秋。\n悠悠空塵，忽忽海漚。\n淺深聚散，萬取一收。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "司空图此则论诗强调含蓄之美，主张不着一字而尽得风流，通过精妙意象阐述诗歌深层意味。语言凝练，意境深远，对诗歌创作的本质有深刻洞察，对后世诗论影响深远。",
+            "score": 95
+        }
+    },
+    {
+        "index": 56371,
+        "uuid": "bec402c3b072257279b42a5ba2606f6f",
+        "title": "拟古十二首 一",
+        "author": "李白",
+        "content": "青天何历历，明星如白石。\n黄姑与织女，相去不盈尺。\n银河无鹊桥，非时将安适。\n闺人理纨素，游子悲行役。\n瓶冰知冬寒，霜露欺远客。\n客似秋叶飞，飘飖不言归。\n别后罗带长，愁宽去时衣。\n乘月託宵梦，因之寄金徽。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "擬古十二首 一",
+            "author": "李白",
+            "content": "青天何歷歷，明星如白石。\n黃姑與織女，相去不盈尺。\n銀河無鵲橋，非時將安適。\n閨人理紈素，遊子悲行役。\n瓶冰知冬寒，霜露欺遠客。\n客似秋葉飛，飄颻不言歸。\n別後羅帶長，愁寬去時衣。\n乘月託宵夢，因之寄金徽。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "李白的《拟古十二首 一》，借神话传说和自然景象，抒发游子闺人之愁。想象丰富，如‘青天何历历，明星如白石’。情感真挚动人，艺术手法高超，具有典型的李白风格。",
+            "score": 95
+        }
+    },
+    {
+        "index": 19542,
+        "uuid": "227efdac68d1fc441a8759ea75b6f458",
+        "title": "赋得古原草送别",
+        "author": "白居易",
+        "content": "离离原上草，一岁一枯荣。\n野火烧不尽，春风吹又生。\n远芳侵古道，晴翠接荒城。\n又送王孙去，萋萋满别情。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": {
+            "collection": "御定全唐诗",
+            "volume": "卷四百三十六"
+        },
+        "raw_data": {
+            "has_traditional": true,
+            "title": "賦得古原草送別",
+            "author": "白居易",
+            "content": "離離原上草，一歲一枯榮。\n野火燒不盡，春風吹又生。\n遠芳侵古道，晴翠接荒城。\n又送王孫去，萋萋滿別情。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "白居易的《赋得古原草送别》堪称经典。前四句生动描绘了野草顽强的生命力，‘野火烧不尽，春风吹又生’更是千古名句。后四句借草写送别之情，情景交融，意境深远，流传广泛。",
+            "score": 95
+        }
+    },
+    {
+        "index": 3208,
+        "uuid": "497d18b9162f72cf40bf40da77f2d7f3",
+        "title": "岁暮",
+        "author": "杜甫",
+        "content": "岁暮远为客，边隅还用兵。\n烟尘犯雪岭，鼓角动江城。\n天地日流血，朝廷谁请缨。\n济时敢爱死，寂寞壮心惊。",
+        "form": "诗",
+        "rhythmic": null,
+        "dynasty": "唐",
+        "year": null,
+        "introduction": null,
+        "translation": null,
+        "notes": null,
+        "collection_info": null,
+        "raw_data": {
+            "has_traditional": true,
+            "title": "歲暮",
+            "author": "杜甫",
+            "content": "歲暮遠爲客，邊隅還用兵。\n煙塵犯雪嶺，鼓角動江城。\n天地日流血，朝廷誰請纓。\n濟時敢愛死，寂寞壯心驚。"
+        },
+        "metadata": {
+            "ai_score": null,
+            "human_score": null,
+            "popularity": null,
+            "words_count": null,
+            "sentence_count": null,
+            "vector": null
+        },
+        "appreciation": {
+            "summary": "杜甫此诗写岁暮之际的感慨，边关用兵、烟尘犯岭等展现局势动荡，‘朝廷谁请缨’表达对无人救国的忧虑，‘济时敢爱死’体现其报国壮志。情感深沉悲壮，艺术感染力强。",
+            "score": 95
+        }
+    }
+]
