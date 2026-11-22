@@ -50,7 +50,7 @@
 
 按主数据的 `dynasty` 字段统计，缺失值归入“朝代未知”。现有朝代标注尚未逐条核验，分布只反映本仓库的收录情况。
 
-作者统计按“朝代 + 作者署名”分组，未合并别名与异体写法；结果见[统计快照](docs/data-snapshot.json)中的 `top_authors` 和 `top_tang_authors`。
+作者统计如按“朝代 + 作者署名”分组，应保留别名与异体写法的分别计数；目前仓库没有可复现的作者统计快照。
 
 ### 已知数据问题
 
@@ -108,11 +108,7 @@ for poem in poems[:3]:
     print(poem["content"])
 ```
 
-本页统计由 [`processors/readme_stats.py`](processors/readme_stats.py) 生成。数据更新后可重新计算，结果同时写入本页和 [`docs/data-snapshot.json`](docs/data-snapshot.json)：
-
-```bash
-python3 processors/readme_stats.py
-```
+本页数据概况是截至 **2026-10-25** 的记录快照。当前仓库没有生成该统计的脚本；数据更新后应先核实统计口径，再更新数字。可复现的统计生成流程列入[三个月整理路线图](TODO.md)。
 
 ## 后续工作
 
